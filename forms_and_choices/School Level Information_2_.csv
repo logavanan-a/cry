@@ -1,0 +1,91 @@
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+2,School Level Information,44,Name of the School - 1001---(School Level Information),,
+2,School Level Information,45,School ID - 1002---(School Level Information),,
+2,School Level Information,46,Lowest class in School - 1003---(School Level Information),,
+2,School Level Information,47,Highest class in school - 1004---(School Level Information),,
+2,School Level Information,48,Category of School - 1005---(School Level Information),68,Government
+2,School Level Information,48,Category of School - 1005---(School Level Information),69,Private Unaided
+2,School Level Information,48,Category of School - 1005---(School Level Information),69,Private Unaided,70,Private aided
+2,School Level Information,49,Type of School - 1006---(School Level Information),71,Girls
+2,School Level Information,49,Type of School - 1006---(School Level Information),72,Boys
+2,School Level Information,49,Type of School - 1006---(School Level Information),72,Boys,73,Co Education
+2,School Level Information,50,Total number of room in School - 1007---(School Level Information),,
+2,School Level Information,51,Total number of class rooms - 1008---(School Level Information),,
+2,School Level Information,52,Official medium of instruction - 1009---(School Level Information),,
+2,School Level Information,53,If the official medium matches with local language - 1010---(School Level Information),74,Yes
+2,School Level Information,53,If the official medium matches with local language - 1010---(School Level Information),75,No 
+2,School Level Information,54,Total SC Boys - 2001---(School Level Information),,
+2,School Level Information,55,Total SC Girls - 2002---(School Level Information),,
+2,School Level Information,56,Total ST Boys - 2003---(School Level Information),,
+2,School Level Information,57,Total ST Girls - 2004---(School Level Information),,
+2,School Level Information,58,Total OBC Boys - 2005---(School Level Information),,
+2,School Level Information,59,Total OBC Girls - 2006---(School Level Information),,
+2,School Level Information,60,Total Other Boys - 2007---(School Level Information),,
+2,School Level Information,61,Total Other Girls - 2008---(School Level Information),,
+2,School Level Information,62,Total Hindu Boys - 2009---(School Level Information),,
+2,School Level Information,63,Total Hindu Girls - 2010---(School Level Information),,
+2,School Level Information,64,Total Muslim Boys - 2011---(School Level Information),,
+2,School Level Information,65,Total Muslim Girls - 2012---(School Level Information),,
+2,School Level Information,66,Total Christian Boys - 2013---(School Level Information),,
+2,School Level Information,67,Total Christian Girls - 2014---(School Level Information),,
+2,School Level Information,68,Total Sikh Boys - 2015---(School Level Information),,
+2,School Level Information,69,Total Sikh Girls - 2016---(School Level Information),,
+2,School Level Information,70,Total Buddhist Boys - 2017---(School Level Information),,
+2,School Level Information,71,Total Buddhist Girls - 2018---(School Level Information),,
+2,School Level Information,72,Total Jain Boys - 2019---(School Level Information),,
+2,School Level Information,73,Total Jain Girls - 2020---(School Level Information),,
+2,School Level Information,602,Total Other Boys - 2021---(School Level Information),,
+2,School Level Information,603,Total Other Girls - 2022---(School Level Information),,
+2,School Level Information,74,Total Boys - 2023---(School Level Information),,
+2,School Level Information,75,Total Girls - 2024---(School Level Information),,
+2,School Level Information,76,Total Children - 2025---(School Level Information),,
+2,School Level Information,84,Separate mathematics teachers - 2026---(School Level Information),,
+2,School Level Information,77,Total number of Boys with special needs - 2027---(School Level Information),,
+2,School Level Information,78,Total number of Girls with special needs - 2028---(School Level Information),,
+2,School Level Information,79,Number of permanent teachers - 3001---(School Level Information),,
+2,School Level Information,80,Number of contractual teachers - 3002---(School Level Information),,
+2,School Level Information,81,Total numbers of teachers - 3003---(School Level Information),,
+2,School Level Information,82,Total Male teachers - 3004---(School Level Information),,
+2,School Level Information,83,Total Female teachers - 3005---(School Level Information),,
+2,School Level Information,85,Separate Science teachers - 3007---(School Level Information),,
+2,School Level Information,86,Separate Language teachers - 3008---(School Level Information),,
+2,School Level Information,87,Separate teachers for SST - 3009---(School Level Information),,
+2,School Level Information,88,Atleast one Female teacher available - 3010---(School Level Information),76,Yes
+2,School Level Information,88,Atleast one Female teacher available - 3010---(School Level Information),77,No 
+2,School Level Information,92,Mid Day meal cooked by  - 4001---(School Level Information),82,School
+2,School Level Information,92,Mid Day meal cooked by  - 4001---(School Level Information),83,Inside by NGO/Pvt Agency/CBO
+2,School Level Information,92,Mid Day meal cooked by  - 4001---(School Level Information),83,Inside by NGO/Pvt Agency/CBO,84,Outside by NGO/Pvt Agency/CBO
+2,School Level Information,92,Mid Day meal cooked by  - 4001---(School Level Information),83,Inside by NGO/Pvt Agency/CBO,84,Outside by NGO/Pvt Agency/CBO,158,Outside School
+2,School Level Information,93,Mid Day meal cook available - 4002---(School Level Information),85,Yes
+2,School Level Information,93,Mid Day meal cook available - 4002---(School Level Information),86,No 
+2,School Level Information,94,Mid Day meal helper available - 4003---(School Level Information),87,Yes
+2,School Level Information,94,Mid Day meal helper available - 4003---(School Level Information),88,No
+2,School Level Information,95,Separate cleaning staff for MDM - 4004---(School Level Information),89,Yes
+2,School Level Information,95,Separate cleaning staff for MDM - 4004---(School Level Information),90,No
+2,School Level Information,96,School building available - 4005---(School Level Information),91,Yes
+2,School Level Information,96,School building available - 4005---(School Level Information),92,No
+2,School Level Information,97,Toilet for children - 4006---(School Level Information),93,Yes
+2,School Level Information,97,Toilet for children - 4006---(School Level Information),94,No
+2,School Level Information,98,Separate Toilet for Girls - 4007---(School Level Information),95,Yes
+2,School Level Information,98,Separate Toilet for Girls - 4007---(School Level Information),96,No
+2,School Level Information,99,Water available in Toilet - 4008---(School Level Information),97,Yes
+2,School Level Information,99,Water available in Toilet - 4008---(School Level Information),98,No
+2,School Level Information,100,Boundary wall available - 4009---(School Level Information),99,Yes
+2,School Level Information,100,Boundary wall available - 4009---(School Level Information),100,No
+2,School Level Information,102,Libraray available - 4011---(School Level Information),103,Yes
+2,School Level Information,102,Libraray available - 4011---(School Level Information),104,No
+2,School Level Information,103,Playground available - 4012---(School Level Information),105,Yes
+2,School Level Information,103,Playground available - 4012---(School Level Information),106,No
+2,School Level Information,104,Separate kitchen with shed - 4013---(School Level Information),107,Yes
+2,School Level Information,104,Separate kitchen with shed - 4013---(School Level Information),108,No
+2,School Level Information,105,Disable friendly with ramp - 4014---(School Level Information),109,Yes
+2,School Level Information,105,Disable friendly with ramp - 4014---(School Level Information),110,No
+2,School Level Information,106,Availablity of Drinking Water - 4015---(School Level Information),111,Yes
+2,School Level Information,106,Availablity of Drinking Water - 4015---(School Level Information),112,No
+2,School Level Information,107,Availability of Electricity - 4016---(School Level Information),113,Yes
+2,School Level Information,107,Availability of Electricity - 4016---(School Level Information),114,No
+2,School Level Information,109,Availability of Science lab - 4017---(School Level Information),115,Yes
+2,School Level Information,109,Availability of Science lab - 4017---(School Level Information),116,No
+2,School Level Information,110,School management commitee constituted - 4018---(School Level Information),118,No
+2,School Level Information,110,School management commitee constituted - 4018---(School Level Information),117,Yes
+2,School Level Information,112,Numbers of meeting conducted this year - 4019---(School Level Information),,

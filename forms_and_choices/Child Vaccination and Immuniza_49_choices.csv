@@ -1,0 +1,59 @@
+
+Question,Question Id,Question Type,choice Id,Choice
+MCP MCH card made,269,Radio List,522,Yes
+MCP MCH card made,269,Radio List,523,No
+
+MCP MCH card available,270,Radio List,579,Yes
+MCP MCH card available,270,Radio List,580,No
+
+BCG at birth,271,Radio List,526,Given
+BCG at birth,271,Radio List,527,Not Given
+
+Hepatitis B 0 (At Birth),273,Radio List,529,Given
+Hepatitis B 0 (At Birth),273,Radio List,530,Not Given
+
+"OPV - 0 ( for polio, At Birth)",275,Radio List,533,Given
+"OPV - 0 ( for polio, At Birth)",275,Radio List,534,Not Given
+
+OPV - 1 (at 1.5 months),277,Radio List,537,Given
+OPV - 1 (at 1.5 months),277,Radio List,538,Not Given
+
+DPT - 1 (at 1.5 months),279,Radio List,541,Given
+DPT - 1 (at 1.5 months),279,Radio List,542,Not Given
+
+Hepatitis B 1 (at 1.5 months),281,Radio List,544,Given
+Hepatitis B 1 (at 1.5 months),281,Radio List,545,Not Given
+
+OPV - 2 (At 2.5 months),283,Radio List,547,Given
+OPV - 2 (At 2.5 months),283,Radio List,548,Not Given
+
+DPT - 2 (At 2.5 months),285,Radio List,550,Given
+DPT - 2 (At 2.5 months),285,Radio List,551,Not Given
+
+Hepatitis B 2 (At 2.5 months),287,Radio List,553,Given
+Hepatitis B 2 (At 2.5 months),287,Radio List,554,Not Given
+
+OPV - 3 (At 3.5 months),289,Radio List,556,Given
+OPV - 3 (At 3.5 months),289,Radio List,557,Not Given
+
+DPT - 3 (At 3.5 months),291,Radio List,559,Given
+DPT - 3 (At 3.5 months),291,Radio List,560,Not Given
+
+Hepatitis B 3 (At 3.5 months),293,Radio List,562,Given
+Hepatitis B 3 (At 3.5 months),293,Radio List,563,Not Given
+
+Pentavalent - 1,295,Radio List,565,Given
+Pentavalent - 1,295,Radio List,566,Not Given
+
+Pentavalent - 3,297,Radio List,568,Given
+Pentavalent - 3,297,Radio List,569,Not Given
+
+Measles (At 9 months),299,Radio List,571,Given
+Measles (At 9 months),299,Radio List,572,Not Given
+
+Vitamin A (1st dose at 9 months),301,Radio List,574,Given
+Vitamin A (1st dose at 9 months),301,Radio List,575,Not Given
+
+Full immunization,303,Radio List,577,Yes
+Full immunization,303,Radio List,578,No
+

@@ -1,0 +1,4 @@
+Date : 16-01-2018
+Time : 14hrs:21min
+
+Error : Section : getChoicelist,Date : 16 Jan 2018 2:20:16 p.m.,Uid : ,Application : CRY,NetWorkType & NetwortStatus : WIFI: CONNECTED,Ip Address : localhost/127.0.0.1,Xiaomi,Redmi 3S,23,Error Message : Conflict on Option date,postparameters : 2018-01-05 09:39:05.257442

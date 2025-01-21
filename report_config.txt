@@ -1,0 +1,273 @@
+from ccd import manage_mutant as MM
+from reports import ReportManager as RM
+import mutant
+from mutant.contrib.text.models import CharFieldDefinition
+from mutant.contrib.numeric.models import BigIntegerFieldDefinition
+from mutant.contrib.temporal.models import DateTimeFieldDefinition , DateFieldDefinition
+from mutant.contrib.numeric.models import *
+from mutant.models import ModelDefinition
+
+1.
+app_label="MutantApp",name="Never Enrolled Dropped Out",verbose_name="never_enrolled_dropped_out"
+"MutantApp","Never Enrolled Dropped Out","never_enrolled_dropped_out"
+# for Never Enrolled and Dropped Out - Annual
+[
+{CharFieldDefinition:{'name':'district','verbose_name':'District'}},
+{CharFieldDefinition:{'name':'name','verbose_name':'Name'}},
+{CharFieldDefinition:{'name':'parent','verbose_name':'Name of head of HouseHold'}},
+{CharFieldDefinition:{'name':'gender','verbose_name':'Gender'}},
+{CharFieldDefinition:{'name':'partner','verbose_name':'Partner'}},
+{BigIntegerFieldDefinition:{'name':'partner_id','verbose_name':'Partner Id'}},
+{FloatFieldDefinition:{'name':'age','verbose_name':'Age'}},
+{CharFieldDefinition:{'name':'block','verbose_name':'Block'}},
+{BigIntegerFieldDefinition:{'name':'250','verbose_name':'HH Chores involvement'}},
+{BigIntegerFieldDefinition:{'name':'253','verbose_name':'Economic activities involvement'}},
+{BigIntegerFieldDefinition:{'name':'beneficiary_id','verbose_name':'Beneficiary Id'}},
+]
+
+2.
+app_label="MutantApp",name="Dropped Out",verbose_name="dropped_out"
+# for dropped out
+[
+{CharFieldDefinition:{'name':'district','verbose_name':'District'}},
+{CharFieldDefinition:{'name':'name','verbose_name':'Name'}},
+{CharFieldDefinition:{'name':'parent','verbose_name':'Name of head of HouseHold'}},
+{CharFieldDefinition:{'name':'gender','verbose_name':'Gender'}},
+{CharFieldDefinition:{'name':'partner','verbose_name':'Partner'}},
+{BigIntegerFieldDefinition:{'name':'partner_id','verbose_name':'Partner Id'}},
+{FloatFieldDefinition:{'name':'age','verbose_name':'Age'}},
+{CharFieldDefinition:{'name':'block','verbose_name':'Block'}},
+{BigIntegerFieldDefinition:{'name':'312','verbose_name':'If dropped out ,class of dropout'}},
+{BigIntegerFieldDefinition:{'name':'250','verbose_name':'HH Chores involvement'}},
+{BigIntegerFieldDefinition:{'name':'253','verbose_name':'Economic activities involvement'}},
+{BigIntegerFieldDefinition:{'name':'beneficiary_id','verbose_name':'Beneficiary Id'}},
+]
+
+3.
+app_label="MutantApp",name="Irregular Child in Quarter",verbose_name="irregular_child_quarter"
+#for Irregular Child in Quarter
+[
+{CharFieldDefinition:{'name':'district','verbose_name':'District'}},
+{CharFieldDefinition:{'name':'name','verbose_name':'Name'}},
+{CharFieldDefinition:{'name':'parent','verbose_name':'Name of head of HouseHold'}},
+{CharFieldDefinition:{'name':'gender','verbose_name':'Gender'}},
+{CharFieldDefinition:{'name':'partner','verbose_name':'Partner'}},
+{BigIntegerFieldDefinition:{'name':'partner_id','verbose_name':'Partner Id'}},
+{FloatFieldDefinition:{'name':'age','verbose_name':'Age'}},
+{CharFieldDefinition:{'name':'block','verbose_name':'Block'}},
+{BigIntegerFieldDefinition:{'name':'250','verbose_name':'HH Chores involvement'}},
+{BigIntegerFieldDefinition:{'name':'253','verbose_name':'Economic activities involvement'}},
+{BigIntegerFieldDefinition:{'name':'259','verbose_name':'Child Migrated'}},
+{BigIntegerFieldDefinition:{'name':'beneficiary_id','verbose_name':'Beneficiary Id'}},
+]
+
+
+4.
+app_label="MutantApp",name="ECE Non Enrollment",verbose_name="ece_non_enrollment"
+# for ECE Non enrollment - Annual
+[
+{CharFieldDefinition:{'name':'district','verbose_name':'District'}},
+{CharFieldDefinition:{'name':'name','verbose_name':'Name'}},
+{CharFieldDefinition:{'name':'parent','verbose_name':'Name of head of HouseHold'}},
+{CharFieldDefinition:{'name':'gender','verbose_name':'Gender'}},
+{CharFieldDefinition:{'name':'partner','verbose_name':'Partner'}},
+{BigIntegerFieldDefinition:{'name':'partner_id','verbose_name':'Partner Id'}},
+{FloatFieldDefinition:{'name':'age','verbose_name':'Age'}},
+{CharFieldDefinition:{'name':'block','verbose_name':'Block'}},
+{BigIntegerFieldDefinition:{'name':'177','verbose_name':'Whether enrolled in Anganwadi'}},
+{BigIntegerFieldDefinition:{'name':'beneficiary_id','verbose_name':'Beneficiary Id'}},
+]
+
+5.
+app_label="MutantApp",name="Transition of child from AWC to Class-1",verbose_name="child_from_awc_to_class1"
+# for Transition of child from AWC to Class-1
+[
+{CharFieldDefinition:{'name':'district','verbose_name':'District'}},
+{CharFieldDefinition:{'name':'name','verbose_name':'Name'}},
+{CharFieldDefinition:{'name':'parent','verbose_name':'Name of head of HouseHold'}},
+{CharFieldDefinition:{'name':'gender','verbose_name':'Gender'}},
+{CharFieldDefinition:{'name':'partner','verbose_name':'Partner'}},
+{BigIntegerFieldDefinition:{'name':'partner_id','verbose_name':'Partner Id'}},
+{FloatFieldDefinition:{'name':'age','verbose_name':'Age'}},
+{CharFieldDefinition:{'name':'block','verbose_name':'Block'}},
+{BigIntegerFieldDefinition:{'name':'beneficiary_id','verbose_name':'Beneficiary Id'}},
+]
+
+6.
+app_label="MutantApp",name="Re enrolled children who were dropout",verbose_name="re_enrolled_chld_dropout"
+# for Re Enrolled Children who were Dropout
+[
+{CharFieldDefinition:{'name':'district','verbose_name':'District'}},
+{CharFieldDefinition:{'name':'name','verbose_name':'Name'}},
+{CharFieldDefinition:{'name':'parent','verbose_name':'Name of head of HouseHold'}},
+{CharFieldDefinition:{'name':'gender','verbose_name':'Gender'}},
+{CharFieldDefinition:{'name':'partner','verbose_name':'Partner'}},
+{BigIntegerFieldDefinition:{'name':'partner_id','verbose_name':'Partner Id'}},
+{FloatFieldDefinition:{'name':'age','verbose_name':'Age'}},
+{CharFieldDefinition:{'name':'block','verbose_name':'Block'}},
+{BigIntegerFieldDefinition:{'name':'beneficiary_id','verbose_name':'Beneficiary Id'}},
+{BigIntegerFieldDefinition:{'name':'','verbose_name':'Class of re-enrollment'}},
+{BigIntegerFieldDefinition:{'name':'250','verbose_name':'Involved in HouseHold chore'}},
+{BigIntegerFieldDefinition:{'name':'253','verbose_name':'Involved in economic activities'}},
+]
+
+7.
+app_label="MutantApp",name="Children enrolled who are never enrolled",verbose_name="children_enrolled_never_enrolled"
+# for Children enrolled who are never enrolled 
+[
+{CharFieldDefinition:{'name':'district','verbose_name':'District'}},
+{CharFieldDefinition:{'name':'name','verbose_name':'Name'}},
+{CharFieldDefinition:{'name':'parent','verbose_name':'Name of head of HouseHold'}},
+{CharFieldDefinition:{'name':'gender','verbose_name':'Gender'}},
+{CharFieldDefinition:{'name':'partner','verbose_name':'Partner'}},
+{BigIntegerFieldDefinition:{'name':'partner_id','verbose_name':'Partner Id'}},
+{FloatFieldDefinition:{'name':'age','verbose_name':'Age'}},
+{CharFieldDefinition:{'name':'block','verbose_name':'Block'}},
+{BigIntegerFieldDefinition:{'name':'beneficiary_id','verbose_name':'Beneficiary Id'}},
+{BigIntegerFieldDefinition:{'name':'250','verbose_name':'Involved in HouseHold chore'}},
+{BigIntegerFieldDefinition:{'name':'253','verbose_name':'Involved in economic activities'}},
+]
+
+8.
+# to be discussed
+
+9.
+# to be discussed
+
+10.
+app_label="MutantApp",name="Child Involved in economic activities",verbose_name="child_involved_economic_activity"
+# for child involved in economic activities
+[
+{CharFieldDefinition:{'name':'district','verbose_name':'District'}},
+{CharFieldDefinition:{'name':'name','verbose_name':'Name'}},
+{CharFieldDefinition:{'name':'parent','verbose_name':'Name of head of HouseHold'}},
+{CharFieldDefinition:{'name':'gender','verbose_name':'Gender'}},
+{CharFieldDefinition:{'name':'partner','verbose_name':'Partner'}},
+{BigIntegerFieldDefinition:{'name':'partner_id','verbose_name':'Partner Id'}},
+{FloatFieldDefinition:{'name':'age','verbose_name':'Age'}},
+{CharFieldDefinition:{'name':'block','verbose_name':'Block'}},
+{BigIntegerFieldDefinition:{'name':'249','verbose_name':'Enrollment Status'}},
+{BigIntegerFieldDefinition:{'name':'254','verbose_name':'Number of hours of involvement'}},
+{BigIntegerFieldDefinition:{'name':'255','verbose_name':'Number of days of involvement'}},
+{BigIntegerFieldDefinition:{'name':'beneficiary_id','verbose_name':'Beneficiary Id'}},
+]
+
+11.
+app_label="MutantApp",name="birth_reg_yet_to_be_done",verbose_name="Birth Registrations yet to be done"
+# for child birth registrations yet to be done.
+[
+{CharFieldDefinition:{'name':'district','verbose_name':'District'}},
+{CharFieldDefinition:{'name':'name','verbose_name':'Name'}},
+{CharFieldDefinition:{'name':'parent','verbose_name':'Name of head of HouseHold'}},
+{CharFieldDefinition:{'name':'gender','verbose_name':'Gender'}},
+{CharFieldDefinition:{'name':'partner','verbose_name':'Partner'}},
+{BigIntegerFieldDefinition:{'name':'partner_id','verbose_name':'Partner Id'}},
+{FloatFieldDefinition:{'name':'age','verbose_name':'Age'}},
+{CharFieldDefinition:{'name':'block','verbose_name':'Block'}},
+{BigIntegerFieldDefinition:{'name':'168','verbose_name':'Birth Registered'},
+{BigIntegerFieldDefinition:{'name':'beneficiary_id','verbose_name':'Beneficiary Id'}},
+]
+
+
+12.
+app_label="MutantApp",name="child_engaged_or_married",verbose_name="Child Engaged or Married"
+# for child engaged or married
+[
+{CharFieldDefinition:{'name':'district','verbose_name':'District'}},
+{CharFieldDefinition:{'name':'name','verbose_name':'Name'}},
+{CharFieldDefinition:{'name':'parent','verbose_name':'Name of head of HouseHold'}},
+{CharFieldDefinition:{'name':'gender','verbose_name':'Gender'}},
+{CharFieldDefinition:{'name':'partner','verbose_name':'Partner'}},
+{BigIntegerFieldDefinition:{'name':'partner_id','verbose_name':'Partner Id'}},
+{FloatFieldDefinition:{'name':'age','verbose_name':'Age'}},
+{CharFieldDefinition:{'name':'block','verbose_name':'Block'}},
+{BigIntegerFieldDefinition:{'name':'249','verbose_name':'Enrollment status'}},
+{BigIntegerFieldDefinition:{'name':'beneficiary_id','verbose_name':'Beneficiary Id'}},
+]
+
+
+13.
+app_label="MutantApp",name="List of Missing Child",verbose_name="list_of_missing_child"
+# for list of missing child
+[
+{CharFieldDefinition:{'name':'district','verbose_name':'District'}},
+{CharFieldDefinition:{'name':'name','verbose_name':'Name'}},
+{CharFieldDefinition:{'name':'gender','verbose_name':'Gender'}},
+{CharFieldDefinition:{'name':'partner','verbose_name':'Partner'}},
+{BigIntegerFieldDefinition:{'name':'partner_id','verbose_name':'Partner Id'}},
+{FloatFieldDefinition:{'name':'age','verbose_name':'Age'}},
+{CharFieldDefinition:{'name':'block','verbose_name':'Block'}},
+{BigIntegerFieldDefinition:{'name':'447','verbose_name':'Is any child missing'}},
+{BigIntegerFieldDefinition:{'name':'beneficiary_id','verbose_name':'Beneficiary Id'}},
+]
+
+
+14.
+app_label="MutantApp",name="List of Migrated Child",verbose_name="list_of_migrated_child"
+# for list of migrated child
+[
+{CharFieldDefinition:{'name':'district','verbose_name':'District'}},
+{CharFieldDefinition:{'name':'name','verbose_name':'Name'}},
+{CharFieldDefinition:{'name':'parent','verbose_name':'Name of head of HouseHold'}},
+{CharFieldDefinition:{'name':'gender','verbose_name':'Gender'}},
+{CharFieldDefinition:{'name':'partner','verbose_name':'Partner'}},
+{BigIntegerFieldDefinition:{'name':'partner_id','verbose_name':'Partner Id'}},
+{FloatFieldDefinition:{'name':'age','verbose_name':'Age'}},
+{CharFieldDefinition:{'name':'block','verbose_name':'Block'}},
+{BigIntegerFieldDefinition:{'name':'249','verbose_name':'Enrollment Status'}},
+{BigIntegerFieldDefinition:{'name':'253','verbose_name':'Economic activities involvement'}},
+{BigIntegerFieldDefinition:{'name':'599','verbose_name':'Place of Migration'}},
+{BigIntegerFieldDefinition:{'name':'260','verbose_name':'Purpose of migration'}},
+{BigIntegerFieldDefinition:{'name':'beneficiary_id','verbose_name':'Beneficiary Id'}},
+]
+
+
+15.
+app_label="MutantApp",name="Health Pregnant Women",verbose_name="health_pregnant_women"
+# for list of health pregnant women
+[
+{CharFieldDefinition:{'name':'district','verbose_name':'District'}},
+{CharFieldDefinition:{'name':'name','verbose_name':'Name'}},
+{CharFieldDefinition:{'name':'parent','verbose_name':'Name of head of HouseHold'}},
+{CharFieldDefinition:{'name':'gender','verbose_name':'Gender'}},
+{CharFieldDefinition:{'name':'partner','verbose_name':'Partner'}},
+{BigIntegerFieldDefinition:{'name':'partner_id','verbose_name':'Partner Id'}},
+{FloatFieldDefinition:{'name':'age','verbose_name':'Age'}},
+{CharFieldDefinition:{'name':'block','verbose_name':'Block'}},
+{BigIntegerFieldDefinition:{'name':'479','verbose_name':'Enrollment Status'}},
+{BigIntegerFieldDefinition:{'name':'495','verbose_name':'Economic activities involvement'}},
+{BigIntegerFieldDefinition:{'name':'509','verbose_name':'Place of Migration'}},
+{BigIntegerFieldDefinition:{'name':'523','verbose_name':'Purpose of migration'}},
+{BigIntegerFieldDefinition:{'name':'beneficiary_id','verbose_name':'Beneficiary Id'}},
+]
+
+
+16.
+app_label="MutantApp",name="Delivery of Mother",verbose_name="delivery_of_mother"
+# for 
+[
+{CharFieldDefinition:{'name':'district','verbose_name':'District'}},
+{CharFieldDefinition:{'name':'name','verbose_name':'Name'}},
+{CharFieldDefinition:{'name':'parent','verbose_name':'Name of head of HouseHold'}},
+{CharFieldDefinition:{'name':'gender','verbose_name':'Gender'}},
+{CharFieldDefinition:{'name':'partner','verbose_name':'Partner'}},
+{BigIntegerFieldDefinition:{'name':'partner_id','verbose_name':'Partner Id'}},
+{FloatFieldDefinition:{'name':'age','verbose_name':'Age'}},
+{CharFieldDefinition:{'name':'block','verbose_name':'Block'}},
+{BigIntegerFieldDefinition:{'name':'beneficiary_id','verbose_name':'Beneficiary Id'}},
+
+]
+
+
+
+#survey config for Re enrolled children who were dropout
+{"cluster_type": "beneficiary", "survey_filter": {"50": {"exclusion_filter": {"response__contains": {}}, "question_filter": {"309": 588,"308":586},"year":"2017"}}, "survey_id": ["50","51"], "50": {"question_list": ["308"], "question_filter": {"309":589,"308":586}},"51":{"question_list": ["327"], "question_filter": {}}}
+
+#survey config for list of children enrolled who are never enrolled
+{"cluster_type": "beneficiary", "survey_filter": {"50": {"exclusion_filter": {"response__contains": {}}, "question_filter": {"308":587},"year":"2017"}}, "survey_id": ["50"], "50": {"question_list": ["308"], "question_filter": {"308":586}}}
+
+
+
+
+
+

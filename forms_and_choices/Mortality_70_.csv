@@ -1,0 +1,22 @@
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+70,Mortality,605,Beneficiary Type ,2227,Child
+70,Mortality,605,Beneficiary Type ,2228,Mother
+70,Mortality,606,Child ID,,
+70,Mortality,607,Time of Death for Neo-natal/ Child death,2230,0-7 days
+70,Mortality,607,Time of Death for Neo-natal/ Child death,2231,7 days < 28 days
+70,Mortality,607,Time of Death for Neo-natal/ Child death,2232,28 days < 1 year
+70,Mortality,607,Time of Death for Neo-natal/ Child death,2233,1 Year < 5 years
+70,Mortality,607,Time of Death for Neo-natal/ Child death,2234,Not applicable
+70,Mortality,608,Mother ID,,
+70,Mortality,609,Time of death for maternal death,2236,During pregnancy
+70,Mortality,609,Time of death for maternal death,2237,During delivery
+70,Mortality,609,Time of death for maternal death,2238,After delivery within 42 days
+70,Mortality,609,Time of death for maternal death,2239,Not applicable
+70,Mortality,610,Place of death,2240,At home
+70,Mortality,610,Place of death,2241,In Hospital
+70,Mortality,610,Place of death,2242,On the way to hospital
+70,Mortality,611,Whether death registered,2243,No
+70,Mortality,611,Whether death registered,2244,Yes
+70,Mortality,612,Date of death,,
+70,Mortality,613,Reasons for death - Government record,,
+70,Mortality,614,Reasons for death - Household,,

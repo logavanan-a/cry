@@ -1,0 +1,91 @@
+
+Question,Question Id,Question Type,choice Id,Choice
+Type of Health Centre,192,Select One Choice,234,Primary Health Centre
+Type of Health Centre,192,Select One Choice,236,Urban Health Unit
+Type of Health Centre,192,Select One Choice,237,Health units in Tea Estates
+Type of Health Centre,192,Select One Choice,233,Sub Health Centre
+Type of Health Centre,192,Select One Choice,235,Community Health Centre
+
+Incubator Available,194,Radio List,239,Yes
+Incubator Available,194,Radio List,240,No
+
+New Born Corner Centre available,195,Radio List,241,Yes
+New Born Corner Centre available,195,Radio List,242,No
+
+Sick Born Centre available,196,Radio List,243,Yes
+Sick Born Centre available,196,Radio List,244,No
+
+Functional NRC MTC available,197,Radio List,245,Yes
+Functional NRC MTC available,197,Radio List,246,No
+
+
+DataEntryOperator available,199,Radio List,307,Yes
+DataEntryOperator available,199,Radio List,308,No
+
+Pharmacist available,200,Radio List,251,Yes
+Pharmacist available,200,Radio List,252,No
+
+Staff Nurse available,201,Radio List,253,Yes
+Staff Nurse available,201,Radio List,254,No
+
+Ambulance Service available,202,Radio List,255,Yes
+Ambulance Service available,202,Radio List,256,No
+
+Blood Storage unit available,203,Radio List,257,Yes
+Blood Storage unit available,203,Radio List,258,No
+
+
+
+Paediatrician available,206,Radio List,309,Yes
+Paediatrician available,206,Radio List,310,No
+
+
+ANM available,208,Radio List,267,Yes
+ANM available,208,Radio List,268,No
+
+Female Health Worker available,209,Radio List,270,No
+Female Health Worker available,209,Radio List,269,Yes
+
+Building Own or Rented,210,Radio List,272,Rented
+Building Own or Rented,210,Radio List,271,Own
+
+Whether delivery conducted?,217,Radio List,281,No
+Whether delivery conducted?,217,Radio List,280,Yes
+
+Designated class for delivery and referal,218,Select One Choice,282,L1
+Designated class for delivery and referal,218,Select One Choice,283,L2
+Designated class for delivery and referal,218,Select One Choice,284,L3
+
+Whether list of medicines available at the centre is publicly displayed outside,219,Radio List,285,Yes
+Whether list of medicines available at the centre is publicly displayed outside,219,Radio List,286,No
+
+Examination table available,220,Radio List,287,Yes
+Examination table available,220,Radio List,288,No
+
+Screen/separate room/separate place for examination available,221,Radio List,311,Yes
+Screen/separate room/separate place for examination available,221,Radio List,312,No
+
+Delivery table,222,Radio List,291,Yes
+Delivery table,222,Radio List,292,No
+
+Weighing machine for children available,223,Radio List,293,Yes
+Weighing machine for children available,223,Radio List,294,No
+
+Weighing machine for adults available?,224,Radio List,295,Yes
+Weighing machine for adults available?,224,Radio List,296,No
+
+Container for waste disposal available?,225,Radio List,297,Yes
+Container for waste disposal available?,225,Radio List,298,No
+
+Sterilisation machine available for disinfecting equipments?,226,Radio List,299,Yes
+Sterilisation machine available for disinfecting equipments?,226,Radio List,300,No
+
+Urine testing facility available?,227,Radio List,301,Yes
+Urine testing facility available?,227,Radio List,302,No
+
+Functional BP testing apparatus available?,228,Radio List,303,Yes
+Functional BP testing apparatus available?,228,Radio List,304,No
+
+Vaccine storage facility available,229,Radio List,305,Yes
+Vaccine storage facility available,229,Radio List,306,No
+

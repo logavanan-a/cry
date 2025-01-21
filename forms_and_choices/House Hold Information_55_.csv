@@ -1,0 +1,156 @@
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+55,House Hold Information,405,Type of Family - 102---(House Hold Information),885,Joint family 
+55,House Hold Information,405,Type of Family - 102---(House Hold Information),886,Nuclear  family
+55,House Hold Information,409,Highest class passed (Head of the HH) - 106---(House Hold Information),891,Illiterate
+55,House Hold Information,409,Highest class passed (Head of the HH) - 106---(House Hold Information),892,class1
+55,House Hold Information,409,Highest class passed (Head of the HH) - 106---(House Hold Information),892,class1,893,class2
+55,House Hold Information,409,Highest class passed (Head of the HH) - 106---(House Hold Information),892,class1,893,class2,894,class3
+55,House Hold Information,409,Highest class passed (Head of the HH) - 106---(House Hold Information),892,class1,893,class2,894,class3,895,class4
+55,House Hold Information,409,Highest class passed (Head of the HH) - 106---(House Hold Information),892,class1,893,class2,894,class3,895,class4,896,class5
+55,House Hold Information,409,Highest class passed (Head of the HH) - 106---(House Hold Information),892,class1,893,class2,894,class3,895,class4,896,class5,897,class6
+55,House Hold Information,409,Highest class passed (Head of the HH) - 106---(House Hold Information),892,class1,893,class2,894,class3,895,class4,896,class5,897,class6,898,class7
+55,House Hold Information,409,Highest class passed (Head of the HH) - 106---(House Hold Information),892,class1,893,class2,894,class3,895,class4,896,class5,897,class6,898,class7,899,class8
+55,House Hold Information,409,Highest class passed (Head of the HH) - 106---(House Hold Information),892,class1,893,class2,894,class3,895,class4,896,class5,897,class6,898,class7,899,class8,900,class9
+55,House Hold Information,409,Highest class passed (Head of the HH) - 106---(House Hold Information),892,class1,893,class2,894,class3,895,class4,896,class5,897,class6,898,class7,899,class8,900,class9,901,class10
+55,House Hold Information,409,Highest class passed (Head of the HH) - 106---(House Hold Information),892,class1,893,class2,894,class3,895,class4,896,class5,897,class6,898,class7,899,class8,900,class9,901,class10,902,class11
+55,House Hold Information,409,Highest class passed (Head of the HH) - 106---(House Hold Information),892,class1,893,class2,894,class3,895,class4,896,class5,897,class6,898,class7,899,class8,900,class9,901,class10,902,class11,903,class12
+55,House Hold Information,409,Highest class passed (Head of the HH) - 106---(House Hold Information),892,class1,893,class2,894,class3,895,class4,896,class5,897,class6,898,class7,899,class8,900,class9,901,class10,902,class11,903,class12,904,Graduation
+55,House Hold Information,409,Highest class passed (Head of the HH) - 106---(House Hold Information),892,class1,893,class2,894,class3,895,class4,896,class5,897,class6,898,class7,899,class8,900,class9,901,class10,902,class11,903,class12,904,Graduation,905,Post Graduation
+55,House Hold Information,409,Highest class passed (Head of the HH) - 106---(House Hold Information),892,class1,893,class2,894,class3,895,class4,896,class5,897,class6,898,class7,899,class8,900,class9,901,class10,902,class11,903,class12,904,Graduation,905,Post Graduation,906,Technical or Professional Education
+55,House Hold Information,410,Caste - 107---(House Hold Information),907,SC
+55,House Hold Information,410,Caste - 107---(House Hold Information),908,ST
+55,House Hold Information,410,Caste - 107---(House Hold Information),908,ST,909,"OBC,BC"
+55,House Hold Information,410,Caste - 107---(House Hold Information),908,ST,909,"OBC,BC",910,"General,Others"
+55,House Hold Information,411,Do you have homestead land - 108---(House Hold Information),911,"Yes, but no legal/ official/ formal document "
+55,House Hold Information,411,Do you have homestead land - 108---(House Hold Information),912,"Yes, but have legal/ official/ formal document"
+55,House Hold Information,411,Do you have homestead land - 108---(House Hold Information),912,"Yes, but have legal/ official/ formal document",1501,No
+55,House Hold Information,412,Type of house - 109---(House Hold Information),913,Pucca 
+55,House Hold Information,412,Type of house - 109---(House Hold Information),914,Semi Pucca
+55,House Hold Information,412,Type of house - 109---(House Hold Information),914,Semi Pucca,915,Kutcha
+55,House Hold Information,413,Religion - 110---(House Hold Information),916,Hindu
+55,House Hold Information,413,Religion - 110---(House Hold Information),917,Muslim
+55,House Hold Information,413,Religion - 110---(House Hold Information),917,Muslim,918,Christian
+55,House Hold Information,413,Religion - 110---(House Hold Information),917,Muslim,918,Christian,919,Sikh
+55,House Hold Information,413,Religion - 110---(House Hold Information),917,Muslim,918,Christian,919,Sikh,920,Buddhist
+55,House Hold Information,413,Religion - 110---(House Hold Information),917,Muslim,918,Christian,919,Sikh,920,Buddhist,921,Jain
+55,House Hold Information,413,Religion - 110---(House Hold Information),917,Muslim,918,Christian,919,Sikh,920,Buddhist,921,Jain,922,Others
+55,House Hold Information,413,Religion - 110---(House Hold Information),917,Muslim,918,Christian,919,Sikh,920,Buddhist,921,Jain,922,Others,923,Dont know
+55,House Hold Information,414,Type of Ration card - 111---(House Hold Information),924,Above Poverty Line
+55,House Hold Information,414,Type of Ration card - 111---(House Hold Information),925,Below Poverty Line
+55,House Hold Information,414,Type of Ration card - 111---(House Hold Information),925,Below Poverty Line,926,Others
+55,House Hold Information,415,If others - 112---(House Hold Information),,
+55,House Hold Information,416,Ration from PDS - 113---(House Hold Information),928,Not at all in last one year
+55,House Hold Information,416,Ration from PDS - 113---(House Hold Information),929,Received all the 12 months and correct amount
+55,House Hold Information,416,Ration from PDS - 113---(House Hold Information),929,Received all the 12 months and correct amount,930, Received all the 12 months but amount was not correct
+55,House Hold Information,416,Ration from PDS - 113---(House Hold Information),929,Received all the 12 months and correct amount,930, Received all the 12 months but amount was not correct,931, Received less than 12 months but amount was correct 
+55,House Hold Information,416,Ration from PDS - 113---(House Hold Information),929,Received all the 12 months and correct amount,930, Received all the 12 months but amount was not correct,931, Received less than 12 months but amount was correct ,932,"Received less than 12 months, also lesser amount"
+55,House Hold Information,417,MGNREGA JOB CARD - 114---(House Hold Information),933,"No, never issued"
+55,House Hold Information,417,MGNREGA JOB CARD - 114---(House Hold Information),934,Issued and with me
+55,House Hold Information,417,MGNREGA JOB CARD - 114---(House Hold Information),934,Issued and with me,935,Issued not with me
+55,House Hold Information,418,Number of working days last year - 115---(House Hold Information),,
+55,House Hold Information,419,Amount of money received last year? - 116---(House Hold Information),,
+55,House Hold Information,420,Amount Received (MGNREGA) - 117---(House Hold Information),938,Received full amount
+55,House Hold Information,420,Amount Received (MGNREGA) - 117---(House Hold Information),1502,Didn't Received any Money
+55,House Hold Information,420,Amount Received (MGNREGA) - 117---(House Hold Information),1502,Didn't Received any Money,1503,Received less money against due
+55,House Hold Information,420,Amount Received (MGNREGA) - 117---(House Hold Information),1502,Didn't Received any Money,1503,Received less money against due,1504,Not applicable
+55,House Hold Information,421,Total family members - 118---(House Hold Information),,
+55,House Hold Information,422,Total family members 17 years or younger - 119---(House Hold Information),,
+55,House Hold Information,423,Primary occupation of the family - 120---(House Hold Information),941, Agricultural labour 
+55,House Hold Information,423,Primary occupation of the family - 120---(House Hold Information),942,Casual labour and other labour work
+55,House Hold Information,423,Primary occupation of the family - 120---(House Hold Information),942,Casual labour and other labour work,943,"Agriculture, dairy, fishery and other allied work"
+55,House Hold Information,423,Primary occupation of the family - 120---(House Hold Information),942,Casual labour and other labour work,943,"Agriculture, dairy, fishery and other allied work",944,Self employed or business or  vending or trading
+55,House Hold Information,423,Primary occupation of the family - 120---(House Hold Information),942,Casual labour and other labour work,943,"Agriculture, dairy, fishery and other allied work",944,Self employed or business or  vending or trading,945,Salaried 
+55,House Hold Information,423,Primary occupation of the family - 120---(House Hold Information),942,Casual labour and other labour work,943,"Agriculture, dairy, fishery and other allied work",944,Self employed or business or  vending or trading,945,Salaried ,946, Artisan
+55,House Hold Information,423,Primary occupation of the family - 120---(House Hold Information),942,Casual labour and other labour work,943,"Agriculture, dairy, fishery and other allied work",944,Self employed or business or  vending or trading,945,Salaried ,946, Artisan,947,Domestic work 
+55,House Hold Information,423,Primary occupation of the family - 120---(House Hold Information),942,Casual labour and other labour work,943,"Agriculture, dairy, fishery and other allied work",944,Self employed or business or  vending or trading,945,Salaried ,946, Artisan,947,Domestic work ,948,Salt Pan Working 
+55,House Hold Information,423,Primary occupation of the family - 120---(House Hold Information),942,Casual labour and other labour work,943,"Agriculture, dairy, fishery and other allied work",944,Self employed or business or  vending or trading,945,Salaried ,946, Artisan,947,Domestic work ,948,Salt Pan Working ,949,Non Timber Forest Produce
+55,House Hold Information,423,Primary occupation of the family - 120---(House Hold Information),942,Casual labour and other labour work,943,"Agriculture, dairy, fishery and other allied work",944,Self employed or business or  vending or trading,945,Salaried ,946, Artisan,947,Domestic work ,948,Salt Pan Working ,949,Non Timber Forest Produce,950,Rag Picking
+55,House Hold Information,423,Primary occupation of the family - 120---(House Hold Information),942,Casual labour and other labour work,943,"Agriculture, dairy, fishery and other allied work",944,Self employed or business or  vending or trading,945,Salaried ,946, Artisan,947,Domestic work ,948,Salt Pan Working ,949,Non Timber Forest Produce,950,Rag Picking,951,Others
+55,House Hold Information,424,Enter other type of occupation - 121---(House Hold Information),,
+55,House Hold Information,425,If Landless - 122---(House Hold Information),953,No
+55,House Hold Information,425,If Landless - 122---(House Hold Information),954,Yes
+55,House Hold Information,426,Primary source of energy for cooking - 123---(House Hold Information),955,"Firewood and chips, dung cake, kerosene, charcoal, coke or c"
+55,House Hold Information,426,Primary source of energy for cooking - 123---(House Hold Information),956,LPG or electricity
+55,House Hold Information,426,Primary source of energy for cooking - 123---(House Hold Information),956,LPG or electricity,957,No cooking arrangement
+55,House Hold Information,427,Is there a Casserole/ thermos/ thermoware? - 124---(House Hold Information),958,No
+55,House Hold Information,427,Is there a Casserole/ thermos/ thermoware? - 124---(House Hold Information),959,Yes
+55,House Hold Information,428,Is there a TV and VCR/ VCD/ DVD player? - 125---(House Hold Information),960,"No, neither"
+55,House Hold Information,428,Is there a TV and VCR/ VCD/ DVD player? - 125---(House Hold Information),961,"Yes, only one"
+55,House Hold Information,428,Is there a TV and VCR/ VCD/ DVD player? - 125---(House Hold Information),961,"Yes, only one",962,"yes , both"
+55,House Hold Information,429,Is there a mobile handset and a telephone (landline)? - 126---(House Hold Information),963,"No, neither"
+55,House Hold Information,429,Is there a mobile handset and a telephone (landline)? - 126---(House Hold Information),964,"Yes, only a mobile"
+55,House Hold Information,429,Is there a mobile handset and a telephone (landline)? - 126---(House Hold Information),964,"Yes, only a mobile",965,"yes, a landline regardless of moblie"
+55,House Hold Information,430,Is there a sewing machine? - 127---(House Hold Information),966,No
+55,House Hold Information,430,Is there a sewing machine? - 127---(House Hold Information),967,Yes
+55,House Hold Information,431,Is there an almeerah  or dressing table? - 128---(House Hold Information),968,No
+55,House Hold Information,431,Is there an almeerah  or dressing table? - 128---(House Hold Information),969,Yes
+55,House Hold Information,432,"Is there a bicycle, motorcycle/scooter, or motor car/jeep? - 129---(House Hold Information)",970,None
+55,House Hold Information,432,"Is there a bicycle, motorcycle/scooter, or motor car/jeep? - 129---(House Hold Information)",971,"Yes, bicycle only, no motorcycle or scooter, or car"
+55,House Hold Information,432,"Is there a bicycle, motorcycle/scooter, or motor car/jeep? - 129---(House Hold Information)",971,"Yes, bicycle only, no motorcycle or scooter, or car",972," Motorcycle or scooter, but no car "
+55,House Hold Information,432,"Is there a bicycle, motorcycle/scooter, or motor car/jeep? - 129---(House Hold Information)",971,"Yes, bicycle only, no motorcycle or scooter, or car",972," Motorcycle or scooter, but no car ",973,Motor car or jeep 
+55,House Hold Information,433,Whether the HH is headed by a single parent - 130---(House Hold Information),974,No
+55,House Hold Information,433,Whether the HH is headed by a single parent - 130---(House Hold Information),975,Yes
+55,House Hold Information,433,Whether the HH is headed by a single parent - 130---(House Hold Information),975,Yes,976,Not Applicable
+55,House Hold Information,434,Whether the HH is headed by grand parents - 131---(House Hold Information),977,No
+55,House Hold Information,434,Whether the HH is headed by grand parents - 131---(House Hold Information),978,Yes
+55,House Hold Information,434,Whether the HH is headed by grand parents - 131---(House Hold Information),978,Yes,979,Not Applicable
+55,House Hold Information,435,Whether headed by children (18 years and below) - 132---(House Hold Information),980,No
+55,House Hold Information,435,Whether headed by children (18 years and below) - 132---(House Hold Information),981,Yes
+55,House Hold Information,435,Whether headed by children (18 years and below) - 132---(House Hold Information),981,Yes,982,Not Applicable
+55,House Hold Information,436,Whether both mother and father work to earn a livelihood - 133---(House Hold Information),983,No
+55,House Hold Information,436,Whether both mother and father work to earn a livelihood - 133---(House Hold Information),984,Yes
+55,House Hold Information,436,Whether both mother and father work to earn a livelihood - 133---(House Hold Information),984,Yes,985,Not Applicable
+55,House Hold Information,437,Whether the primary bread-earner of the HH is terminally/ se - 134---(House Hold Information),986,No
+55,House Hold Information,437,Whether the primary bread-earner of the HH is terminally/ se - 134---(House Hold Information),987,Yes
+55,House Hold Information,437,Whether the primary bread-earner of the HH is terminally/ se - 134---(House Hold Information),987,Yes,988,Not Applicable
+55,House Hold Information,438,Residential Status - 135---(House Hold Information),989,From this village only and stays in the village 
+55,House Hold Information,438,Residential Status - 135---(House Hold Information),990,From other village and shifted this location
+55,House Hold Information,438,Residential Status - 135---(House Hold Information),990,From other village and shifted this location,991,Migrated out of the village to another place
+55,House Hold Information,438,Residential Status - 135---(House Hold Information),990,From other village and shifted this location,991,Migrated out of the village to another place,992,Migrated permanently out of the village to another place
+55,House Hold Information,439,Month of in migration or out migration - 136---(House Hold Information),993,January
+55,House Hold Information,439,Month of in migration or out migration - 136---(House Hold Information),994,February
+55,House Hold Information,439,Month of in migration or out migration - 136---(House Hold Information),994,February,995,March
+55,House Hold Information,439,Month of in migration or out migration - 136---(House Hold Information),994,February,995,March,996,April
+55,House Hold Information,439,Month of in migration or out migration - 136---(House Hold Information),994,February,995,March,996,April,997,May
+55,House Hold Information,439,Month of in migration or out migration - 136---(House Hold Information),994,February,995,March,996,April,997,May,998,June
+55,House Hold Information,439,Month of in migration or out migration - 136---(House Hold Information),994,February,995,March,996,April,997,May,998,June,999,July
+55,House Hold Information,439,Month of in migration or out migration - 136---(House Hold Information),994,February,995,March,996,April,997,May,998,June,999,July,1000,August
+55,House Hold Information,439,Month of in migration or out migration - 136---(House Hold Information),994,February,995,March,996,April,997,May,998,June,999,July,1000,August,1001,September
+55,House Hold Information,439,Month of in migration or out migration - 136---(House Hold Information),994,February,995,March,996,April,997,May,998,June,999,July,1000,August,1001,September,1002,October
+55,House Hold Information,439,Month of in migration or out migration - 136---(House Hold Information),994,February,995,March,996,April,997,May,998,June,999,July,1000,August,1001,September,1002,October,1003,November
+55,House Hold Information,439,Month of in migration or out migration - 136---(House Hold Information),994,February,995,March,996,April,997,May,998,June,999,July,1000,August,1001,September,1002,October,1003,November,1004,December
+55,House Hold Information,439,Month of in migration or out migration - 136---(House Hold Information),994,February,995,March,996,April,997,May,998,June,999,July,1000,August,1001,September,1002,October,1003,November,1004,December,1006,Dont know
+55,House Hold Information,439,Month of in migration or out migration - 136---(House Hold Information),994,February,995,March,996,April,997,May,998,June,999,July,1000,August,1001,September,1002,October,1003,November,1004,December,1006,Dont know,1005,Not Applicable
+55,House Hold Information,440,Whether HH migrates every year - 137---(House Hold Information),1007,No
+55,House Hold Information,440,Whether HH migrates every year - 137---(House Hold Information),1008,Yes
+55,House Hold Information,441,Duration of migration - 138---(House Hold Information),1009,Below  3 months
+55,House Hold Information,441,Duration of migration - 138---(House Hold Information),1010,3 to 6 months
+55,House Hold Information,441,Duration of migration - 138---(House Hold Information),1010,3 to 6 months,1011,Above 6 months
+55,House Hold Information,442,Whether one adult member of the HH has permanently migrated - 139---(House Hold Information),1012,No
+55,House Hold Information,442,Whether one adult member of the HH has permanently migrated - 139---(House Hold Information),1013,Yes
+55,House Hold Information,442,Whether one adult member of the HH has permanently migrated - 139---(House Hold Information),1013,Yes,1014,Not Applicable
+55,House Hold Information,443,Source of drinking water - 140---(House Hold Information),1015,Open well 
+55,House Hold Information,443,Source of drinking water - 140---(House Hold Information),1016,Tube well
+55,House Hold Information,443,Source of drinking water - 140---(House Hold Information),1016,Tube well,1017,Hand pump 
+55,House Hold Information,443,Source of drinking water - 140---(House Hold Information),1016,Tube well,1017,Hand pump ,1018,Tap Water
+55,House Hold Information,443,Source of drinking water - 140---(House Hold Information),1016,Tube well,1017,Hand pump ,1018,Tap Water,1019,River 
+55,House Hold Information,443,Source of drinking water - 140---(House Hold Information),1016,Tube well,1017,Hand pump ,1018,Tap Water,1019,River ,1020,Stream 
+55,House Hold Information,443,Source of drinking water - 140---(House Hold Information),1016,Tube well,1017,Hand pump ,1018,Tap Water,1019,River ,1020,Stream ,1021,Rainwater
+55,House Hold Information,443,Source of drinking water - 140---(House Hold Information),1016,Tube well,1017,Hand pump ,1018,Tap Water,1019,River ,1020,Stream ,1021,Rainwater,1022,Tanker
+55,House Hold Information,443,Source of drinking water - 140---(House Hold Information),1016,Tube well,1017,Hand pump ,1018,Tap Water,1019,River ,1020,Stream ,1021,Rainwater,1022,Tanker,1023,Bottled Water 
+55,House Hold Information,443,Source of drinking water - 140---(House Hold Information),1016,Tube well,1017,Hand pump ,1018,Tap Water,1019,River ,1020,Stream ,1021,Rainwater,1022,Tanker,1023,Bottled Water ,1024,Others
+55,House Hold Information,444,Enter other type of source of drinking water - 141---(House Hold Information),,
+55,House Hold Information,445,Access to toilet - 142---(House Hold Information),1026,Open defecation 
+55,House Hold Information,445,Access to toilet - 142---(House Hold Information),1027,Bucket
+55,House Hold Information,445,Access to toilet - 142---(House Hold Information),1027,Bucket,1028,Flush or pour flush to Open Drain
+55,House Hold Information,445,Access to toilet - 142---(House Hold Information),1027,Bucket,1028,Flush or pour flush to Open Drain,1029,Flush or pour flush to closed drain
+55,House Hold Information,445,Access to toilet - 142---(House Hold Information),1027,Bucket,1028,Flush or pour flush to Open Drain,1029,Flush or pour flush to closed drain,1030,Flush or Pour Flush to septic tank
+55,House Hold Information,445,Access to toilet - 142---(House Hold Information),1027,Bucket,1028,Flush or pour flush to Open Drain,1029,Flush or pour flush to closed drain,1030,Flush or Pour Flush to septic tank,1031,Community toilet or Sulabah Souchalaya
+55,House Hold Information,445,Access to toilet - 142---(House Hold Information),1027,Bucket,1028,Flush or pour flush to Open Drain,1029,Flush or pour flush to closed drain,1030,Flush or Pour Flush to septic tank,1031,Community toilet or Sulabah Souchalaya,1032,Sharing toilet 
+55,House Hold Information,445,Access to toilet - 142---(House Hold Information),1027,Bucket,1028,Flush or pour flush to Open Drain,1029,Flush or pour flush to closed drain,1030,Flush or Pour Flush to septic tank,1031,Community toilet or Sulabah Souchalaya,1032,Sharing toilet ,1033,Eco toilet or Bio Toilet
+55,House Hold Information,445,Access to toilet - 142---(House Hold Information),1027,Bucket,1028,Flush or pour flush to Open Drain,1029,Flush or pour flush to closed drain,1030,Flush or Pour Flush to septic tank,1031,Community toilet or Sulabah Souchalaya,1032,Sharing toilet ,1033,Eco toilet or Bio Toilet,1034,Others
+55,House Hold Information,446,Enter other type of toilet - 143---(House Hold Information),,
+55,House Hold Information,447,Is any child missing? - 144---(House Hold Information),1036,No
+55,House Hold Information,447,Is any child missing? - 144---(House Hold Information),1037,Yes
+55,House Hold Information,448,"If Yes, how many boys are missing - 145---(House Hold Information)",,
+55,House Hold Information,449,"If Yes, how many girls are missing - 146---(House Hold Information)",,

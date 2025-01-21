@@ -1,0 +1,69 @@
+Question ID,SN,வ.எண்
+,Unique Admin ID,தனித்தன்மையான அடையாள எண்
+,Village / Ward,கிராமம்/வார்டு
+,Hamlet/ Para/Mohalla,குக்கிராமம்
+44,Name of the School,பள்ளியின் பெயர் 
+45,School ID,பள்ளியின் அடையாள எண் 
+46,Lowest class in school,பள்ளியின் குறைந்த வகுப்பு 
+47,Highest class in school,பள்ளியில் இருக்கும் அதிகபட்ச வகுப்பு 
+48,Category of school,பள்ளியின் வகை 
+49,Type of school,பள்ளியின் தன்மை 
+50,Total number of rooms in school ,மொத்த அறைகளின் எண்ணிக்கை 
+51,Total Numbers of Class rooms,மொத்த வகுப்பறைகளின் எண்ணிக்கை 
+52,Official medium of instruction,பயிற்று மொழி
+53,If the official medium matches with local language,பாடம் நடத்தப்படும் மொழி அந்த பகுதியில் வழக்கத்திலுள்ள மொழியோடு ஒத்துப்போகிறதா?
+54,Total SC Boys,தாழ்த்தப்பட்ட வகுப்பை சார்ந்த ஆண் குழந்தைகளின் எண்ணிக்கை 
+55,Total SC Girls,தாழ்த்தப்பட்ட வகுப்பை சார்ந்த பெண் குழந்தைகளின் எண்ணிக்கை 
+56,Total ST Boys,பழங்குடி வகுப்பை சார்ந்த ஆண் குழந்தைகளின் எண்ணிக்கை 
+57,Total ST Girls,பழங்குடி  வகுப்பை சார்ந்த பெண் குழந்தைகளின் எண்ணிக்கை 
+58,Total OBC Boys,பிற பிற்படுத்தப்பட்ட வகுப்பை சார்ந்த ஆண் குழந்தைகளின் எண்ணிக்கை 
+59,Total OBC Girls,பிற பிற்படுத்தப்பட்ட வகுப்பை சார்ந்த பெண் குழந்தைகளின் எண்ணிக்கை 
+60,Total Other Boys,பிற ஆண் குழந்தைகளின் எண்ணிக்கை 
+61,Total Other Girls,பிற பெண் குழந்தைகளின் எண்ணிக்கை 
+62,Total Hindu Boys,இந்து ஆண் குழந்தைகளின் எண்ணிக்கை 
+63,Total Hindu Girls,இந்து பெண் குழந்தைகளின் எண்ணிக்கை 
+64,Total Muslim Boys,முஸ்லிம் ஆண் குழந்தைகளின் எண்ணிக்கை 
+65,Total Muslim Girls,முஸ்லிம் பெண் குழந்தைகளின் எண்ணிக்கை 
+66,Total Christian Boys,கிறிஸ்தவ ஆண் குழந்தைகளின் எண்ணிக்கை 
+67,Total Christian Girls,கிறிஸ்தவ பெண் குழந்தைகளின் எண்ணிக்கை 
+68,Total Sikh Boys,சீக்கிய ஆண் குழந்தைகளின் எண்ணிக்கை 
+69,Total Sikh Girls,சீக்கிய பெண் குழந்தைகளின் எண்ணிக்கை 
+70,Total Buddhist Boys, புத்த மதத்தை சேர்ந்த ஆண் குழந்தைகளின் எண்ணிக்கை 
+71,Total Buddhist Girls, புத்த மதத்தை சேர்ந்த பெண் குழந்தைகளின் எண்ணிக்கை 
+72,Total Jain Boys, ஜைன (சமண மதம்)மதத்தை  சேர்ந்த ஆண் குழந்தைகளின் எண்ணிக்கை 
+73,Total Jain Girls, ஜைன (சமண மதம்) மதத்தை  சேர்ந்த பெண் குழந்தைகளின் எண்ணிக்கை 
+,Total Other Boys,பிற ஆண் குழந்தைகளின் எண்ணிக்கை 
+,Total Other Girls,பிற பெண் குழந்தைகளின் எண்ணிக்கை 
+74,Total Boys,மொத்த ஆண் குழந்தைகளின் எண்ணிக்கை 
+75,Total Girls,மொத்த பெண் குழந்தைகளின் எண்ணிக்கை 
+76,Total Children,மொத்த குழந்தைகள்
+77,Total numbers of boys with special needs,மாற்றுதிறனாளி  ஆண் குழந்தைகளின் எண்ணிக்கை 
+78,Total numbers of girls with special needs,மாற்றுதிறனாளி  பெண் குழந்தைகளின் எண்ணிக்கை 
+79,Number of permanent teachers ,நிரந்தர ஆசிரியர்களின் எண்ணிக்கை  
+80,Number of contractual teachers,ஒப்பந்த ஆசிரியர்களின் எண்ணிக்கை  
+81,Total numbers of Teachers,மொத்த ஆசிரியர்கள் 
+82,Total male teachers,மொத்த ஆண் ஆசிரியர்கள் 
+83,Total female teachers,மொத்த பெண் ஆசிரியர்கள் 
+84,Separate Mathematics Teacher,கணித ஆசிரியர்கள் 
+85,Separate Science Teacher,அறிவியல் ஆசிரியர்கள் 
+86,Separate Language Teacher,மொழி ஆசிரியர்கள் 
+87,Separate Teacher for SST,SST ஆசிரியர்கள் 
+88,At least one female teacher available,குறைந்தபட்சம் ஒரு பெண் ஆசிரியர் 
+92,Mid-Day Meal cooked by,மதிய உணவு யாரால் சமைக்கபடுகிறது 
+93,Mid-Day Meal Cook available,மதிய உணவு சமையல்காரர் இருக்கிறாரா 
+94,Mid-Day Meal Helper available,மதிய உணவு சமையல் உதவியாளர் இருக்கிறாரா 
+95,Separate Cleaning Staff for MDM,சுத்தம் செய்வதற்கென்று தனி பணியாளர் இருக்கிறாரா 
+96,School building available,பள்ளி கட்டிடம் இருக்கிறதா 
+97,Toilet for Children,குழந்தைகளுக்கு கழிவறை இருக்கிறதா 
+98,Separate Toilet for Girls,பெண் குழந்தைகளுக்கு தனி கழிவறை இருக்கிறதா 
+99,Water available in Toilet,கழிவறையில் தண்ணீர் வசதி இருக்கிறதா 
+100,Boundary Wall Available,சுற்றுசுவர் இருக்கிறதா 
+102,Library Available,நூலகம் இருக்கிறதா 
+103,Playground available,விளையாட்டு மைதானம் இருக்கிறதா 
+104,Separate kitchen with shed,தனி சமையல் அறை இருக்கிறதா 
+105,Disable friendly ramp,மாற்றுதிறனாளி குழந்தைகளும் பயன்படுத்தும் வகையில் இருக்கிறதா 
+106,Availability of drinking water,குடிநீர் வசதி இருக்கிறதா 
+107,Availability of electricity,மின்சார வசதி இருக்கிறதா 
+109,Availability of Science lab ,அறிவியல் ஆய்வகம் இருக்கிறதா 
+110,School Management Committee Constituted,பள்ளி மேலாண்மை குழு இருக்கிறதா 
+112,Numbers of meetings conducted in the year,ஒரு  வருடத்தில் நடத்தப்பட்ட கூட்டங்களின் எண்ணிக்கை 

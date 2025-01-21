@@ -1,0 +1,54 @@
+Never Enrolled and Dropped out Annual(6 to 18 years) )
+ survey config {u'cluster_type': u'beneficiary', u'survey_filter': {u'50': {u'question_filter': {u'308': 586, u'309': 588}}}, u'survey_id': [u'48'], u'48': {u'question_list': [u'250', u'253']}}
+
+ECE non-enrolment (3-6 years) Annual
+ survey config {u'cluster_type': u'beneficiary', u'survey_filter': {u'37': {u'question_filter': {u'179': 212}}}, u'survey_id': [u'37'], u'37': {u'question_list': [u'177'], u'question_filter': {}}}
+
+Child Involved in economic activities
+ survey config {u'cluster_type': u'beneficiary', u'survey_filter': {u'48': {u'exclusion_filter': {u'response__contains': {u'253': 363}}, u'question_filter': {}}}, u'survey_id': [u'48'], u'48': {u'question_list': [u'249', u'254', u'255'], u'question_filter': {}}}
+
+Dropped Out Annual(6-18 years)
+
+ survey config {u'cluster_type': u'beneficiary', u'survey_filter': {u'50': {u'question_filter': {u'309': 588}}}, u'survey_id': [u'48', u'50'], u'50': {u'question_list': [u'312'], u'question_filter': {}}, u'48': {u'question_list': [u'250', u'253'], u'question_filter': {}}}
+
+{'district': u'Davangere', u'name': 'Surender', u'parent': 'Rameshwar Ram', u'gender': [u'male'], u'partner': "People's Voice for Child Rights (PVCR)thru SVK", u'age': [u'12'], u'partner_id': [u'2'], u'id': '50', 'block': u'Harapanahalli'} {u'312': 592}
+
+{'district': u'Korba', u'name': 'child', u'parent': 'Create dateHh', u'gender': [u'male'], u'partner': "People's Voice for Child Rights (PVCR)thru SVK", u'age': [u'10'], u'partner_id': [u'2'], u'id': '2318', 'block': u'Korba'} {u'312': 592}
+
+{'district': u'Korba', u'name': 'Vinash', u'parent': 'Guru rah', u'gender': [u'male'], u'partner': 'Vikramshila Education Resource Society', u'age': [u'10.0'], u'partner_id': [u'32'], u'id': '4858', 'block': u'Korba'} {u'312': 598}
+
+{'district': u'South Delhi', u'name': 'vasu', u'parent': 'Srinivasulu', u'gender': u'male', u'partner': "People's Voice for Child Rights (PVCR)thru SVK", u'age': u'6.0', u'partner_id': u'2', u'id': '382', 'block': u'New Delhi'} {u'312': 593}
+
+Child Engaged/Married
+ survey config {u'cluster_type': u'beneficiary', u'survey_filter': {u'37': {u'exclusion_filter': {u'response__contains': {u'183': 220}}, u'question_filter': {}}}, u'survey_id': [u'48'], u'48': {u'question_list': [u'249'], u'question_filter': {}}}
+
+Irregular Child in Quarter (6-18 years)
+ survey config {u'cluster_type': u'beneficiary', u'survey_filter': {u'51': {u'question_filter': {u'328': 662}}}, u'survey_id': [u'51', u'48'], u'51': {u'question_list': [u'328'], u'question_filter': {}}, u'48': {u'question_list': [u'250', u'253', u'259'], u'question_filter': {}}}
+{'district': u'Bangalore Urban', u'name': 'Pretest three', u'parent': 'PreTest', u'gender': u'male', u'partner': "People's Voice for Child Rights (PVCR)thru SVK", u'age': u'12', u'partner_id': u'2', u'id': '2283', 'block': u'Bangalore South'} {u'328': 662}
+{'district': u'Korba', u'name': 'Chandan', u'parent': 'Beneficiary test Guru', u'gender': [u'male'], u'partner': 'Vikramshila Education Resource Society', u'age': [u'16.0'], u'partner_id': [u'32'], u'id': '4828', 'block': u'Kartala'} {u'328': 662}
+
+List of migrated child
+ survey config {u'cluster_type': u'beneficiary', u'survey_filter': {u'48': {u'exclusion_filter': {u'response__contains': {u'259': 404}}, u'question_filter': {}}}, u'survey_id': [u'48'], u'48': {u'question_list': [u'249', u'253', u'599', u'260'], u'question_filter': {}}}
+
+Health Pregnant Women
+ survey config {u'cluster_type': u'beneficiary', u'57': {u'question_list': [u'479', u'495', u'509', u'523', u'468'], u'question_filter': {}}, u'survey_id': [u'57'], u'survey_filter': {}}
+{'district': u'Tirunelveli', u'name': 'mother twenty', u'parent': 'mother twenty', u'gender': u'female', u'partner': "People's Voice for Child Rights (PVCR)thru SVK", u'age': u'30', u'partner_id': u'2', u'id': '414', 'block': u'Manur'} {u'509': 1222, u'495': 1191, u'479': 1157, u'468': u'2018-07-12', u'523': 1255}
+{'district': u'Vizianagaram', u'name': 'alipallu', u'parent': 'Vemulapalli House', u'gender': u'female', u'partner': "People's Voice for Child Rights (PVCR)thru SVK", u'age': u'52', u'partner_id': u'2', u'id': '381', 'block': u'Pusapatirega'} {u'509': 1223, u'495': 1191, u'479': 1157, u'468': u'2018-07-01', u'523': 1254}
+{'district': u'Korba', u'name': 'Mother of Venu', u'parent': 'Venu', u'gender': u'female', u'partner': 'Vikramshila Education Resource Society', u'age': u'52', u'partner_id': u'32', u'id': '4673', 'block': u'Korba'} {u'509': 1226, u'495': 1194, u'479': 1161, u'468': u'2018-7-14', u'523': 1257}
+{'district': u'Korba', u'name': 'ganesh test mother', u'parent': 'ganesh head', u'gender': [u'female'], u'partner': "People's Voice for Child Rights (PVCR)thru SVK", u'age': [u'57.0'], u'partner_id': [u'2'], u'id': '4682', 'block': u'Korba'} {u'509': 1224, u'495': 1193, u'479': 1157, u'468': u'2018-2-7', u'523': 1254}
+{'district': u'Korba', u'name': 'Ajinkya mom one', u'parent': 'Ajinkya', u'gender': [u'female'], u'partner': 'Vikramshila Education Resource Society', u'age': [u'34.0'], u'partner_id': [u'32'], u'id': '4746', 'block': u'Korba'} {u'509': 1226, u'495': 1194, u'479': 1161, u'468': u'2018-6-28', u'523': 1257}
+{'district': u'Korba', u'name': 'Guru test mother', u'parent': 'Guru test', u'gender': [u'female'], u'partner': 'Vikramshila Education Resource Society', u'age': [u'18.1'], u'partner_id': [u'32'], u'id': '4743', 'block': u'Korba'} {u'509': 1225, u'495': 1193, u'479': 1160, u'468': u'2018-6-29', u'523': 1256}
+{'district': u'Korba', u'name': 'Sandy mom', u'parent': 'Sandeepa', u'gender': [u'female'], u'partner': 'Vikramshila Education Resource Society', u'age': [u'23.0'], u'partner_id': [u'32'], u'id': '4749', 'block': u'Korba'} {u'509': 1226, u'495': 1194, u'479': 1161, u'468': u'2018-6-28', u'523': 1257}
+{'district': u'Korba', u'name': 'Mom two', u'parent': 'Vemulapalli', u'gender': [u'female'], u'partner': 'Vikramshila Education Resource Society', u'age': [u'41.0'], u'partner_id': [u'32'], u'id': '4793', 'block': u'Korba'} {u'509': 1225, u'495': 1191, u'479': 1161, u'468': u'2018-7-14', u'523': 1256}
+{'district': u'Korba', u'name': 'Gururaj test Monday', u'parent': 'Vemulapalli', u'gender': [u'female'], u'partner': 'Vikramshila Education Resource Society', u'age': [u'44.0'], u'partner_id': [u'32'], u'id': '4792', 'block': u'Korba'} {u'509': 1226, u'495': 1194, u'479': 1161, u'468': u'2018-7-14', u'523': 1257}
+{'district': u'Korba', u'name': 'mim tedt gutu', u'parent': 'Beneficiary test Guru', u'gender': [u'female'], u'partner': 'Vikramshila Education Resource Society', u'age': [u'30.0'], u'partner_id': [u'32'], u'id': '4800', 'block': u'Korba'} {u'509': 1225, u'495': 1193, u'479': 1161, u'468': u'2018-7-2', u'523': 1257}
+{'district': u'Korba', u'name': 'Final test', u'parent': 'Beneficiary test Guru', u'gender': [u'female'], u'partner': 'Vikramshila Education Resource Society', u'age': [u'5.0'], u'partner_id': [u'32'], u'id': '4801', 'block': u'Korba'} {u'509': 1225, u'495': 1193, u'479': 1161, u'468': u'2018-7-2', u'523': 1257}
+{'district': u'Korba', u'name': 'Aarathi', u'parent': 'Avish edited Vic', u'gender': [u'female'], u'partner': 'Vikramshila Education Resource Society', u'age': [u'26.0'], u'partner_id': [u'32'], u'id': '4823', 'block': u'Kartala'} {u'509': 1226, u'495': 1194, u'479': 1161, u'468': u'2018-8-21', u'523': 1257}
+{'district': u'Korba', u'name': 'Mother five of Avish', u'parent': 'Avish edited Vic', u'gender': [u'female'], u'partner': 'Vikramshila Education Resource Society', u'age': [u'45.6'], u'partner_id': [u'32'], u'id': '4825', 'block': u'Korba'} {u'509': 1223, u'495': 1192, u'479': 1157, u'468': u'2018-7-17', u'523': 1254}
+
+List of missing child
+ survey config {u'55': {u'question_list': [], u'question_filter': {u'447': 1037}}, u'cluster_type': u'beneficiary', u'survey_filter': {u'55': {u'question_filter': {}}}, u'survey_id': [u'55']}
+
+Child Birth Registration yet to be done.
+ survey config {u'cluster_type': u'beneficiary', u'survey_filter': {u'37': {u'question_filter': {u'168': 199}}}, u'survey_id': [u'37'], u'37': {u'question_list': [], u'question_filter': {}}}
+

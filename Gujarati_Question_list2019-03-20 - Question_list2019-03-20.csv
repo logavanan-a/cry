@@ -1,0 +1,563 @@
+Form Id,Form Name,ID,Question Name,Question Type,Question Acitve Status,Hindi,Gujarthi
+2,School Level Information,44,Name of the School,T,0,Name of the School - स्कूल का नाम,Name of the School - શાળાનું નામ
+2,School Level Information,45,School Name,T,0,School ID - स्कूल यूनिक आई डी,School ID - શાળા આઈડી
+2,School Level Information,46,Lowest class in School,S,2,Lowest class in School - स्कूल की निम्नतम कक्षा,Lowest class in School - શાળામાં સૌથી નાનો વર્ગ
+2,School Level Information,47,Highest class in school,S,2,Highest class in school - स्कूल की उच्चतम कक्षा,Highest class in school - શાળામાં ઉચ્ચતમ વર્ગ
+2,School Level Information,48,Category of School,R,2,Category of School - स्कूल की श्रेणी,Category of School - શાળાની શ્રેણી
+2,School Level Information,49,Type of School,R,2,Type of School - स्कूल का प्रकार,Type of School - શાળાનો પ્રકાર
+2,School Level Information,50,Total number of room in School,T,2,Total number of room in School - स्कूल में कुल कमरों की संख्या,Total number of room in School - શાળામાં કુલ રૂમની સંખ્યા
+2,School Level Information,51,Total number of class rooms,T,2,Total number of class rooms - अध्ययन कक्षों की कुल संख्या,Total number of class rooms - વર્ગ રૂમની કુલ સંખ્યા
+2,School Level Information,52,Official medium of instruction,T,2,Official medium of instruction - शिक्षण का शासकीय माध्यम,Official medium of instruction - ભણાવવાનું સત્તાવાર માધ્યમ
+2,School Level Information,53,If the official medium matches with local language,R,2,If the official medium matches with local language - क्या शिक्षण का शासकीय माध्यम स्थानीय भाषा से मेल खाता है,If the official medium matches with local language - શું સ્થાનિક ભાષા અને શાળામાં ભણાવવાનું માધ્યમ સરખું છે
+2,School Level Information,54,Total SC Boys,T,2,Total SC Boys- कुल अ. जा. के लड़के,Total SC Boys - કુલ એસસી છોકરાઓ
+2,School Level Information,55,Total SC Girls,T,2,Total SC Girls - कुल अ. जा. की लड़कियाँ,Total SC Girls - કુલ એસસી છોકરીઓ 
+2,School Level Information,56,Total ST Boys,T,2,Total ST Boys - कुल अ. ज. जा. के लड़के,Total ST Boys - કુલ એસટી છોકરાઓ
+2,School Level Information,57,Total ST Girls,T,2,Total ST Girls - कुल अ.ज. जा. की लड़कियाँ,Total ST Girls - કુલ એસટી છોકરીઓ 
+2,School Level Information,58,Total OBC Boys,T,2,Total OBC Boys - कुल अ. पि. व. लड़के,Total OBC Boys - કુલ ઓબીસી છોકરાઓ
+2,School Level Information,59,Total OBC Girls,T,2,Total OBC Girls - कुल अ. पि. व. लड़कियाँ,Total OBC Girls - કુલ ઓબીસી છોકરીઓ
+2,School Level Information,60,Total Other Boys (Caste),T,2,Total Other Boys (Caste) - कुल अन्य लड़के,Total Other Boys (Caste) - કુલ અન્ય છોકરાઓ (જાતિ)
+2,School Level Information,61,Total Other Girls (Caste),T,2,Total Other Girls (Caste) - कुल अन्य लड़कियाँ,Total Other Girls (Caste) - કુલ અન્ય છોકરીઓ (જાતિ)
+2,School Level Information,62,Total Hindu Boys,T,2,Total Hindu Boys - कुल हिन्दू लड़के,Total Hindu Boys - કુલ હિન્દુ છોકરાઓ
+2,School Level Information,63,Total Hindu Girls,T,2,Total Hindu Girls - कुल हिन्दू लड़कियाँ,Total Hindu Girls - કુલ હિન્દુ છોકરીઓ
+2,School Level Information,64,Total Muslim Boys,T,2,Total Muslim Boys - कुल मुस्लिम लड़के,Total Muslim Boys - કુલ મુસ્લિમ છોકરાઓ
+2,School Level Information,65,Total Muslim Girls,T,2,Total Muslim Girls - कुल मुस्लिम लड़कियाँ,Total Muslim Girls -કુલ મુસ્લિમ છોકરીઓ
+2,School Level Information,66,Total Christian Boys,T,2,Total Christian Boys - कुल ईसाई लड़के,Total Christian Boys - કુલ ખ્રિસ્તી બોયઝ
+2,School Level Information,67,Total Christian Girls,T,2,Total Christian Girls - कुल ईसाई लड़कियाँ,Total Christian Girls - કુલ ખ્રિસ્તી છોકરીઓ
+2,School Level Information,68,Total Sikh Boys,T,2,Total Sikh Boys - कुल सिक्ख लड़के,Total Sikh Boys - કુલ શીખ છોકરાઓ
+2,School Level Information,69,Total Sikh Girls,T,2,Total Sikh Girls - कुल सिक्ख लड़कियाँ,Total Sikh Girls - કુલ શીખ છોકરીઓ
+2,School Level Information,70,Total Buddhist Boys,T,2,Total Buddhist Boys - कुल बौद्ध लड़के,Total Buddhist Boys - કુલ બૌદ્ધ છોકરાઓ
+2,School Level Information,71,Total Buddhist Girls,T,2,Total Buddhist Girls - कुल बौद्ध लड़कियाँ,Total Buddhist Girls - કુલ બૌદ્ધ છોકરીઓ
+2,School Level Information,72,Total Jain Boys,T,2,Total Jain Boys - कुल जैन लड़के,Total Jain Boys - કુલ જૈન છોકરાઓ
+2,School Level Information,73,Total Jain Girls,T,2,Total Jain Girls - कुल जैन लड़कियाँ,Total Jain Girls - કુલ જૈન છોકરીઓ
+2,School Level Information,74,Total Boys,T,2,Total Boys - कुल लड़के,Total Boys - કુલ છોકરાઓ
+2,School Level Information,75,Total Girls,T,2,Total Girls - कुल लड़कियाँ,Total Girls - કુલ છોકરીઓ
+2,School Level Information,76,Total Children,T,2,Total Children - कुल बच्चे,Total Children - કુલ બાળકો
+2,School Level Information,77,Total number of Boys with special needs,T,2,Total number of Boys with special needs - विशेष आवश्यकता वाले कुल लड़कों की संख्या,Total number of Boys with special needs - ખાસ જરૂરિયાતોવાળા છોકરાઓની કુલ સંખ્યા
+2,School Level Information,78,Total number of Girls with special needs,T,2,Total number of Girls with special needs - विशेष आवश्यकता वाली कुल लड़कियों की संख्या,Total number of Girls with special needs - ખાસ જરૂરિયાતોવાળી છોકરીઓની કુલ સંખ્યા
+2,School Level Information,79,Number of permanent teachers,T,2,Number of permanent teachers - स्थाई शिक्षकों की संख्या,Number of permanent teachers - કાયમી શિક્ષકોની સંખ્યા
+2,School Level Information,80,Number of contractual teachers,T,2,Number of contractual teachers - संविदा शिक्षकों की संख्या,Number of contractual teachers - કરાર(કોન્ટ્રાકટ) શિક્ષકોની સંખ્યા
+2,School Level Information,81,Total numbers of teachers,T,2,Total numbers of teachers - शिक्षकों की कुल संख्या,Total numbers of teachers - શિક્ષકોની કુલ સંખ્યા
+2,School Level Information,82,Total Male teachers,T,2,Total Male teachers - कुल पुरुष शिक्षक,Total Male teachers - કુલ પુરુષ શિક્ષકો
+2,School Level Information,83,Total Female teachers,T,2,Total Female teachers - कुल महिला शिक्षक,Total Female teachers - કુલ સ્ત્રી શિક્ષકો
+2,School Level Information,84,Separate mathematics teachers,S,2,Separate mathematics teachers - अलग गणित के शिक्षक,Separate mathematics teachers - ગણિત માટે અલગ શિક્ષકો
+2,School Level Information,85,Separate Science teachers,S,2,Separate Science teachers - विज्ञान  के  लिये नियत शिक्षक,Separate Science teachers - વિજ્ઞાન માટે અલગ શિક્ષકો 
+2,School Level Information,86,Separate Language teachers,S,2,Separate Language teachers - भाषा के  लिये नियत शिक्षक,Separate Language teachers - અલગ ભાષા શિક્ષકો
+2,School Level Information,87,Separate teachers for SST,S,2,Separate teachers for SST - एस. एस. टी. के  लिये नियत शिक्षक,Separate teachers for SST - સ્પેશિયલ ટ્રેનિંગ પ્રોગ્રામ માટે અલગ શિક્ષકો
+2,School Level Information,88,Atleast one Female teacher available,S,2,Atleast one Female teacher available - कम से कम एक महिला शिक्षक,Atleast one Female teacher available - ઓછા માં ઓછા એક મહિલા શિક્ષક ઉપલ્ભધ
+3,Anganwadi Centre Information,89,Type of Anganwadi,S,2,Type of Anganwadi - आँगनवाड़ी का प्रकार,Type of Anganwadi - આંગણવાડીનો પ્રકાર
+3,Anganwadi Centre Information,90,Location Type,R,0,,Location Type
+3,Anganwadi Centre Information,91,Location or Address of the AWC,T,0,,Location or Address of the AWC - આંગણવાડીનું સરનામું
+2,School Level Information,92,Mid Day meal cooked by,S,2,Mid Day meal cooked by - मध्यान्न भोजन कौन पकाता है,Mid Day meal cooked by  - મધ્યાહન ભોજન કોણ બનાવે છે
+2,School Level Information,93,Mid Day meal cook available,S,2,Mid Day meal cook available - मध्यान्न भोजन रसोईया उपलब्ध,Mid Day meal cook available -મધ્યાહન ભોજન માટે રસોઈયો ઉપલબ્ધ છે
+2,School Level Information,94,Mid Day meal helper available,S,2,Mid Day meal helper available - मध्यान्न भोजन सहायक उपलब्ध,Mid Day meal helper available - મધ્યાહન ભોજન માટે સહાયક ઉપલબ્ધ
+2,School Level Information,95,Separate cleaning staff for MDM,S,2,Separate cleaning staff for MDM - मध्यान्न भोजन में सफ़ाई के लिये नियत स्टाफ़ उपलब्ध,Separate cleaning staff for MDM - મધ્યાહન ભોજન માટે અલગ સફાઈ સ્ટાફ
+2,School Level Information,96,School building available,S,2,School building available - स्कूल भवन उपलब्ध,School building available - શાળાનુ મકાન ઉપલબ્ધ છે
+2,School Level Information,97,Toilet for children,R,2,Toilet for children - बच्चों के लिये शौचालय,Toilet for children - બાળકો માટે શૌચાલય
+2,School Level Information,98,Separate Toilet for Girls,R,2,Separate Toilet for Girls - लड़कियों के लिये अलग से शौचालय,Separate Toilet for Girls - છોકરીયો માટે અલગ શૌચાલય
+2,School Level Information,99,Water available in Toilet,S,2,Water available in Toilet - शौचालय में पानी उपलब्ध,Water available in Toilet - શૌચાલયમા પાણી ઉપલબ્ધ
+2,School Level Information,100,Boundary wall available,R,2,Boundary wall available - चहारदीवारी उपलब्ध,Boundary wall available - સીમા દિવાલ ઉપલબ્ધ
+2,School Level Information,101,Library available,R,0,,Libraray available - પુસ્તકાલય ઉપલબ્ધ
+2,School Level Information,102,Libraray available,R,2,Libraray available - पुस्तकालय उपलब्ध,Libraray available - પુસ્તકાલય ઉપલબ્ધ
+2,School Level Information,103,Playground available,R,2,Playground available - खेलकूद मैदान उपलब्ध,Playground available - રમતનું મેદાન ઉપલબ્ધ છે
+2,School Level Information,104,Separate kitchen with shed,R,2,Separate kitchen with shed - शेड सहित रसोईघर अलग से उपलब्ध,Separate kitchen with shed - શેડ સાથે અલગ રસોડું
+2,School Level Information,105,Disable friendly with ramp,R,2,Disable friendly with ramp - विकलांग-हितैशी रैंप उपलब्ध,Disable friendly with ramp - વિકલાંગોને સાનુકૂળ ઢળવાળો રસ્તો (રેમ્પ)
+2,School Level Information,106,Availablity of Drinking Water,R,2,Availablity of Drinking Water - पीने का पानी उपलब्ध,Availablity of Drinking Water - પીવાનું પાણી ઉપલબ્ધ
+2,School Level Information,107,Availability of Electricity,R,2,Availability of Electricity - बिजली उपलब्ध,Availability of Electricity - વીજળી ઉપલબ્ધ
+3,Anganwadi Centre Information,108,Year of Operation of AWC,D,2,Year of Operation of AWC - आँगनवाड़ी केन्द्र के परिचालन का वर्ष,Year of Operation of AWC - આંગણવાડી શરૂ થયાનું વર્ષ
+2,School Level Information,109,Availability of Science lab,R,2,Availability of Science lab - विज्ञान प्रयोगशाला उपलब्ध,Availability of Science lab - વિજ્ઞાન પ્રયોગશાળા ઉપલબ્ધ
+2,School Level Information,110,School management commitee constituted,R,2,School management commitee constituted - स्कल-प्रबंधन समिति गठित,School management commitee constituted - શાળા વ્યવસ્થાપન સમિતિ (SMC) રચના કરવામાં આવેલ છે
+3,Anganwadi Centre Information,111,Population catered to by AWC,T,2,Population catered to by AWC - आँगनवाड़ी केन्द्र द्वारा कवर की जा रह जनसंख्या,Population catered to by AWC - આંગણવાડી કેન્દ્રમાં આવતી વસ્તી
+2,School Level Information,112,Numbers of meeting conducted this year,T,2,Numbers of meeting conducted this year - वर्ष में संचालित बैठकों की संख्या,Numbers of meeting conducted this year - આ વર્ષે થયેલી મીટિંગની સંખ્યા
+3,Anganwadi Centre Information,113,Need for additional AWC,S,2,Need for additional AWC - अतिरिक्त आँगनवाड़ी केन्द्र की आवश्यकता,Need for additional AWC - વધારાના આંગણવાડી કેન્દ્રની જરૂર છે
+3,Anganwadi Centre Information,114,Anganwadi worker AWW available,R,2,Anganwadi worker AWW available - आँगनवाड़ी कार्यकर्ता की उपलब्धता,Anganwadi worker AWW available - આંગણવાડી કાર્યકર (AWW) ઉપલબ્ધ
+3,Anganwadi Centre Information,115,Month and year of joining in the area for AWW,D,2,Month and year of joining in the area for AWW - आँगनवाड़ी कार्यकर्ता द्वारा कार्यभार ग्रहण करने का माह एवं वर्ष,Month and year of joining in the area for AWW - આંગણવાડી કાર્યકર્તા તરીકે જોડાયાનો મહિનો અને વર્ષ
+3,Anganwadi Centre Information,116,Whether AWW is from the same Panchayat or Ward,R,2,Whether AWW is from the same Panchayat or Ward - क्या आँगनवाड़ी कार्यकर्ता उसी पंचायत या वार्ड से है.,Whether AWW is from the same Panchayat or Ward - શું એ જ પંચાયત/ વોર્ડના (વિસ્તારના) છે?
+3,Anganwadi Centre Information,117,Additional AWW cum Nutrition Counsellor available,R,2,Additional AWW cum Nutrition Counsellor available - अतिरिक्त आँगनवाड़ी कार्यकर्ता-सह-पोषण काउंसलर की उपलब्धता,Additional AWW cum Nutrition Counsellor available - વધારાના સહ પોષણ સલાહકાર ઉપલબ્ધ છે?
+3,Anganwadi Centre Information,118,AW Helper available,R,2,AW Helper available - आँगनवाड़ी सहायिका की उपलब्धता,AW Helper available - આંગણવાડી મદદનીશ સહાયક ઉપલબ્ધ છે?
+3,Anganwadi Centre Information,119,Boys (0-3 Years) enrolled,T,2,Boys (0-3 Years) enrolled - दर्ज लड़के (0-3 वर्ष),Boys (0-3 Years) enrolled - નોંધાયેલ છોકરાઓ (0-3 વર્ષ)  
+3,Anganwadi Centre Information,120,Girls (0-3 Years) enrolled,T,2,Girls (0-3 Years) enrolled - दर्ज लड़कियाँ (0-3 वर्ष),Girls (0-3 Years) enrolled - નોંધાયેલ છોકરીઓ (0-3 વર્ષ)  
+3,Anganwadi Centre Information,121,Total Children (0-3 years),T,2,Total Children (0-3 years) - 0-3 वर्ष आयु के कुल बच्चों की संख्या,Total Children (0-3 years) - કુલ બાળકો (0-3 વર્ષ)
+3,Anganwadi Centre Information,122,Boys (3-6 Years) enrolled,T,2,Boys (3-6 Years) enrolled - दर्ज लड़के (3-6 वर्ष),Boys (3-6 Years) enrolled - નોંધાયેલ છોકરાઓ (3-6 વર્ષ)  
+3,Anganwadi Centre Information,123,Girls (3-6 Years) enrolled,T,2,Girls (3-6 Years) enrolled - दर्ज लड़ियाँ (3-6 वर्ष),Girls (3-6 Years) enrolled - નોંધાયેલ છોકરીઓ (3-6 વર્ષ) 
+3,Anganwadi Centre Information,124,Total children (3-6 Years) enrolled,T,2,Total children (3-6 Years) enrolled - 3-6 वर्ष आयु के कुल दर्ज बच्चों की संख्या,Total children (3-6 Years) enrolled - નોંધાયેલા કુલ બાળકો (3-6 વર્ષ)
+3,Anganwadi Centre Information,125,Total adolescent girls (10-18 Years) enrolled,T,2,Total adolescent girls (11-18 Years) enrolled - कुल दर्ज किशोरी बालिकायें (11-18 वर्ष),Total adolescent girls (10-18 Years) enrolled - નોંધાયેલ કુલ કિશોરીઓ (10-18 વર્ષ)
+3,Anganwadi Centre Information,126,Total number of pregnant women enrolled,T,2,Total number of pregnant women enrolled - कुल दर्ज गर्भवती महिलायें,Total number of pregnant women enrolled -  નોંધાયેલ ગર્ભવતી સ્ત્રીઓની કુલ સંખ્યા
+3,Anganwadi Centre Information,127,Total number of lactating mothers enrolled,T,2,Total number of lactating mothers enrolled - कुल दर्ज धात्री मातायें,Total number of lactating mothers enrolled - નોંધાયેલ ધાત્રી માતાઓની કુલ સંખ્યા
+3,Anganwadi Centre Information,128,Own Building available,R,2,Own Building available - खुद के भवन की उपलब्धता,Own Building available - પોતાનું મકાન ઉપલબ્ધ
+3,Anganwadi Centre Information,129,Type of building,R,2,Type of building - भवन का प्रकार,Type of building - બિલ્ડિંગ નો પ્રકાર
+3,Anganwadi Centre Information,130,Shed for cooking available,R,2,Shade for cooking available - भोजन पकाने के लिये उपलब्ध छत,Shade for cooking available - રસોઈ માટે શેડ (રસોડું) ઉપલબ્ધ
+3,Anganwadi Centre Information,131,Whether drinking water available,R,2,Whether drinking water available - क्या पीने का पानी उपलब्ध है,Whether drinking water available - શું પીવાનું પાણી ઉપલબ્ધ છે?
+3,Anganwadi Centre Information,132,Functional toilet available,R,2,Functional toilet available - कार्यशील शौचालय उपलब्ध,Functional toilet available - કાર્યરત શૌચાલય ઉપલબ્ધ
+3,Anganwadi Centre Information,133,Water available in toilets,R,2,Water available in toilets - शौचालय में पानी की उपलब्धता,Water available in toilets - શૌચાલયમાં પાણી ઉપલબ્ધ
+3,Anganwadi Centre Information,134,Pre-school Education Kits/ material available,R,2,Pre-school Education Kits/ material available - स्कूल-पूर्व शिक्षा किट/सामग्री की उपलब्धता,Pre-school Education Kits/ material available - પૂર્વશાળા (પ્રિસ્કુલ) શિક્ષણ કિટ્સ/ સામગ્રી ઉપલબ્ધ
+3,Anganwadi Centre Information,135,Take Home Ration Available,R,2,Take Home Ration Available - टेक होम राशन की उपलब्धता,Take Home Ration Available - લાભાર્થીઓને વિતરણ કરવાનું અનાજ ઉપલબ્ધ
+3,Anganwadi Centre Information,136,Cooked Food Available,R,2,Cooked Food Available - पके भोजन की उपलब्धता,Cooked Food Available - રાંધેલો ખોરાક મળે છે
+3,Anganwadi Centre Information,137,Immunization service available,R,2,Immunization service available - टीकाकरण सेवाओं की उपलब्धता,Immunization service available - રસીકરણ સેવા ઉપલબ્ધ
+3,Anganwadi Centre Information,138,Health check up service available,R,2,Health check up service available - स्वास्थ्य जाँच सेवाओं की उपलब्धता,Health check up service available - આરોગ્ય તપાસ સેવા ઉપલબ્ધ
+3,Anganwadi Centre Information,139,Referral services available,R,2,Referral services available - रेफ़रल सेवाओं की उपलब्धता,Referral services available - રેફરલ સેવાઓ ઉપલબ્ધ
+3,Anganwadi Centre Information,140,Nutrition & Health education service available,R,2,Nutrition & Health education service available - पोषण एवं स्वास्थ्य शिक्षा सेवाओं की उपलब्धता,Nutrition & Health education service available - પોષણ અને આરોગ્ય શિક્ષણ સેવા ઉપલબ્ધ
+3,Anganwadi Centre Information,141,Counselling Services - Adolescent Girls available,R,2,Counselling Services - Adolescent Girls available - किशोरी बालिकाओं के लिये परामर्श सेवाओं की उपलब्धता,Counselling Services - Adolescent Girls available - પરામર્શ સેવાઓ - કિશોરીઓ માટે ઉપલબ્ધ
+37,Child Annual Information,154,Name of Head of HouseHold,T,0,,Name of Head of HouseHold -ઘરના વડાનું નામ
+37,Child Annual Information,155,Name of the Father,T,2,Name of the Father - पिता का नाम,Name of the Father - પિતાનું નામ
+37,Child Annual Information,156,Age of Father,T,2,Age of Father - पिता की उम्र,Age of Father - પિતાની ઉંમર
+37,Child Annual Information,157,Highest class passed - Father,S,2,Highest class passed - Father - पिता द्वारा उत्तीर्ण उच्चतम कक्षा,Highest class passed - Father - પિતાનો અભ્યાસ
+37,Child Annual Information,158,Occupation of the father,S,2,Occupation of the father - पिता का व्यवसाय,Occupation of the father - પિતાનો વ્યવસાય
+37,Child Annual Information,159,Name of Mother,T,2,Name of Mother - माता का नाम,Name of Mother - માતાનું નામ
+37,Child Annual Information,160,Age of Mother,T,2,Age of Mother - माता की उम्र,Age of Mother - માતાની ઉંમર
+37,Child Annual Information,161,Highest class passed - Mother,S,2,Highest class passed - Mother - माता द्वारा उत्तीर्ण उच्चतम कक्षा,Highest class passed - Mother - માતાનો અભ્યાસ
+37,Child Annual Information,162,Occupation of the Mother,S,2,Occupation of the Mother - माता का व्यवसाय,Occupation of the Mother - માતાનો વ્યવસાય
+37,Child Annual Information,163,Orphaned /Single parent,R,2,Orphaned /Single parent - अनाथ/एकल माता-पिता,Orphaned /Single parent - અનાથ / એકલા મા કે બાપ
+37,Child Annual Information,164,Name of Guardian,T,2,Name of Guardian - अभिभावक का नाम,Name of Guardian - પાલક વાલીનું નામ
+37,Child Annual Information,165,Caste of Child,S,2,Caste of Child - बच्चे की जाति,Caste of Child - બાળકની જ્ઞાતિ
+37,Child Annual Information,166,Religion of Child,S,2,Religion of Child - बच्चे का धर्म,Religion of Child - બાળકનો ધર્મ
+37,Child Annual Information,167,Sex of Child,R,0,,Sex of Child - બાળકની જાતિ (સેક્સ)
+37,Child Annual Information,168,Birth registration of child done?,R,2,Birth registration of child done? - बच्चे का जन्म पंजीयन,Birth registration of child done? - બાળકની જન્મ નોંધણી કરેલ છે
+37,Child Annual Information,169,Date of  birth of the child,D,0,Date of birth of the child - बच्चे की जन्म-तिथि,Date of  birth of the child - બાળકની જન્મ તારીખ
+37,Child Annual Information,170,Place of Delivery,S,2,Place of Delivery - प्रसव का स्थान,Place of Delivery - સુવાવડનું સ્થળ
+37,Child Annual Information,171,Weight at birth (in kgs),T,2,Weight at birth (in kgs) - जनम के समय वज़न,Weight at birth (in kgs) - જન્મ સમયે વજન (કિલોમાં)
+37,Child Annual Information,172,Weight of child communicated to the mother after delivery,R,2,Weight of child communicated to the mother after delivery - क्या प्रसव के बाद माता को बच्चे का वज़न बताया गया था,Weight of child communicated to the mother after delivery - પ્રસૂતિ પછી માતાને બાળકનું વજન જણાવ્યું હતું
+37,Child Annual Information,173,Age of child(in years),T,0,,Age of child(in years) - બાળકની ઉંમર (વર્ષોમાં)
+37,Child Annual Information,174,Age of child as of today(months),T,0,Age of child as of today(months) - बच्चे की आयु आज की तारीख में (माह में),Age of child as of today(months) - આજે બાળકની ઉંમર(મહિના)
+37,Child Annual Information,175,Residential status,S,2,Residential status - निवास की स्थिति,Residential status - નિવાસી સ્થિતિ
+37,Child Annual Information,176,Month of in-migration or out-migration,S,2,Month of in-migration or out-migration - माह जिसमें इस जगह प्रवासित हो कर आये या यहाँ से बाहर गये,Month of in-migration or out-migration - અહીં સ્થળાંતર અથવા બહાર સ્થળાંતર મહિનો
+37,Child Annual Information,177,Whether enrolled in Anganwadi,R,2,Whether enrolled in Anganwadi - क्या आँगनवाड़ी में नामांकित है,Whether enrolled in Anganwadi - શું આંગણવાડીમા  પ્રવેશ લીધેલ  છે
+37,Child Annual Information,178,Anganwadi Name,T,2,"Anganwadi ID (if available) - यदि हाँ, आँगनवाड़ी का आई डी",Anganwadi Name - આંગણવાડીનું નામ
+37,Child Annual Information,179,Whether child getting ECE?,R,2,Whether child getting ECE? - क्या बच्चे को प्रारंभिक बाल शिक्षा मिल रही है,Whether child getting ECE? - શું બાળક પ્રારંભિક બાળપણ શિક્ષણ મેળવે છે
+37,Child Annual Information,180,Is the child Challenged?,R,2,Is the child Challenged? - क्या बच्चा अशक्त है,Is the child Challenged? - શું બાળક ને કોઈ શારીરિક કે માનસિક કમજોરી છે?
+37,Child Annual Information,181,Is the child Chronically ill?,R,2,Is the child Chronically ill? - क्या बच्चा लम्बी बीमारी से ग्रस्त है,Is the child Chronically ill? - શું બાળક લાંબા સમયથી બીમાર છે?
+37,Child Annual Information,182,Is the child Terminally ill?,R,2,Is the child Terminally ill? - क्या बच्चा मरणासन्न है,Is the child Terminally ill? - શું બાળકને જીવલેણ રોગ છે?
+37,Child Annual Information,183,Is the child Engagged/Married?,R,2,Is the child Engagged/Married? - क्या बच्चे की सगाई/शादी हो चुकी है,Is the child Engagged/Married? - શું બાળકની સગાઇ કે લગન થયેલ છે?
+37,Child Annual Information,184,Current Location of child,S,2,Current Location of child - वर्तमान में बच्चा कहाँ है,Current Location of child - હાલમાં બાળક ક્યાં છે?
+37,Child Annual Information,185,Others Specify,T,2,Others Specify - स्पष्ट करें,Others Specify - અન્ય સ્પષ્ટ કરો
+1,Health Centre Survey,192,Type of Health Centre,S,2,Type of Health Center  - स्वास्थ्य केन्द्र का प्रकार,Type of Health Centre - આરોગ્ય કેન્દ્રનો પ્રકાર
+1,Health Centre Survey,193,Specify the Urban Health Unit,T,2,Specify the Urban Health Unit - शहरी स्वास्थ्य इकाई का स्पष्ट उल्लेख करें,Specify the Urban Health Unit - શહેરી આરોગ્ય એકમનો ઉલ્લેખ કરો
+1,Health Centre Survey,194,Incubator Available,R,2,Incubator Available - इन्क्यूबेटर (समय-पूर्व जन्मे शिशु की रक्षा का यंत्र) उपलब्ध,Incubator Available - ઇન્ક્યુબેટર ઉપલબ્ધ
+1,Health Centre Survey,195,New Born Corner Centre available,R,2,New Born Corner Centre available -  न्यू बॉर्न (नवजात) कॉर्नर सेन्टर उपलब्ध,New Born Corner Centre available - નવજાત કોર્નર સેંટર (NBCC) ઉપલબ્ધ
+1,Health Centre Survey,196,Sick Born Centre available,R,2,Sick Born Centre available -  सिक (बीमार) न्यू बॉर्न (नवजात) कॉर्नर सेन्टर (एस. एन. सी. यू.) उपलब्ध,Sick Born Centre available - બીમાર નવજાત કોર્નર સેંટર (SNCU) ઉપલબ્ધ
+1,Health Centre Survey,197,Functional NRC MTC available,R,2,Functional NRC MTC available - कार्यशील पोषण पुनर्वास केन्द्र (एन.आर.सी.)/एम.टी.सी. उपलब्ध,Functional NRC MTC available - કાર્યરત NRC/MTC ઉપલબ્ધ
+1,Health Centre Survey,198,Medical Officer available,R,2,Medical Officer available -  चिकित्सा अधिकारी उपलब्ध,Medical Officer available - તબીબી અધિકારી ઉપલબ્ધ
+1,Health Centre Survey,199,DataEntryOperator available,R,2,DataEntryOperator available - DataEntryOperator available -  डेटा एन्ट्री ऑपरेटर उपलब्ध,DataEntryOperator available - ડેટા એન્ટ્રી ઓપરેટર ઉપલબ્ધ
+1,Health Centre Survey,200,Pharmacist available,R,2,Pharmacist available - फ़ार्मासिस्ट उपलब्ध,Pharmacist available - ફાર્માસિસ્ટ ઉપલબ્ધ
+1,Health Centre Survey,201,Staff Nurse available,R,2,Staff Nurse available - स्टाफ़ नर्स उपलब्ध,Staff Nurse available - સ્ટાફ નર્સ ઉપલબ્ધ
+1,Health Centre Survey,202,Ambulance Service available,R,2,Ambulance Service available -  एम्बुलेन्स सेवा उपलब्ध,Ambulance Service available - એમ્બ્યુલન્સ સેવાઓ ઉપલબ્ધ
+1,Health Centre Survey,203,Blood Storage unit available,R,2,Blood Storage unit available - रक्त भंडार इकाई उपलब्ध,Blood Storage unit available - રક્ત સંગ્રહ એકમ ઉપલબ્ધ
+1,Health Centre Survey,204,Laboratory technician available,R,2,Laboratory technician available -  लैब टेक्नीशियन उपलब्ध,Laboratory technician available - લેબોરેટરી ટેકનિશિયન ઉપલબ્ધ
+1,Health Centre Survey,205,Gynaecologist available,R,2,Gynaecologist available -  स्त्रीरोग विशेषज्ञ उपलब्ध,Gynaecologist available - સ્ત્રીરોગ નિષ્ણાંત ઉપલબ્ધ
+1,Health Centre Survey,206,Paediatrician available,R,2,Paediatrician available -  शिशुरोग विशेषज्ञ उपलब्ध,Paediatrician available - બાળ રોગના નિષ્ણાંત ઉપલબ્ધ
+1,Health Centre Survey,207,Anaesthetic available,R,2,Anaesthetic available - निश्चेतना विशेषज्ञ उपलब्ध,Anaesthetic available - એનેસ્થેટિક(બેભાન) નિષ્ણાંત  ઉપલબ્ધ
+1,Health Centre Survey,208,ANM available,R,2,ANM available - ए.एन.एम. उपलब्ध,ANM available - ANM નર્સ ઉપલબ્ધ
+1,Health Centre Survey,209,Female Health Worker available,R,2,Female Health Worker available -  महिला स्वास्थ्य कार्यकर्ता उपलब्ध,Female Health Worker available - સ્ત્રી આરોગ્ય કાર્યકર ઉપલબ્ધ
+1,Health Centre Survey,210,Building Own or Rented,R,2,Building Own or Rented - भवन स्वयं का या किराये का,Building Own or Rented - મકાન પોતાનું કે ભાડાનું
+1,Health Centre Survey,211,Operating since,D,2,Operating since - कब से क्रियाशील,Operating since ક્યારથી કાર્યરત
+1,Health Centre Survey,212,Location,T,0,,Location - સ્થાન(જગ્યા)
+1,Health Centre Survey,213,Village / Ward,T,0,,Village / Ward - ગામ / વોર્ડ
+1,Health Centre Survey,214,Hamlet/Para/Mohalla,T,0,,Hamlet/Para/Mohalla વાસ / વાંઢ / ચાલી / ફળિયું /  મોહલ્લા
+1,Health Centre Survey,215,Rural/Urban,R,0,,Rural/Urban ગ્રામીણ / શહેરી
+1,Health Centre Survey,216,Coverage Population,T,2,Coverage Population - जनसंख्या का दायरा,Coverage Population આવરી લેવાયેલ વસતી
+1,Health Centre Survey,217,Whether delivery conducted?,S,2,Whether delivery conducted? - क्या प्रसव किये जाते हैं?,Whether delivery conducted? - શું પ્રસવ કરવામાં આવે છે
+1,Health Centre Survey,218,Designated class for delivery and referal,S,2,Designated class for delivery and referal - प्रसव एवं रेफ़रल के लिये स्वास्थ्य केन्द्र की नामित श्रेणी,Designated class for delivery and referal - પ્રસવ  અને રેફરલ માટે આરોગ્ય સુવિધાનું નિયુક્ત વર્ગ
+1,Health Centre Survey,219,Whether list of medicines available at the centre is publicly displayed outside,S,2,Whether list of medicines available at the centre is publicly displayed outside - क्या उपलब्ध दवाईयों की सूची केन्द्र के बाहर सार्वजनिक रूप से प्रदर्शित की जाती है,Whether list of medicines available at the centre is publicly displayed outside - શું ઉપલબ્ધ દવાઓની યાદી કેન્દ્ર ખાતે જાહેરમાં બહાર પ્રદર્શિત થાય છે કે કેમ?
+1,Health Centre Survey,220,Examination table available,R,2,Examination table available - परीक्षण टेबल उपलब्ध,Examination table available - દર્દીને તપાસવાનું  ટેબલ ઉપલબ્ધ છે?
+1,Health Centre Survey,221,Screen/separate room/separate place for examination available,R,2,Screen/separate room/separate place for examination available - परीक्षण के लिये पर्दा/ अलग कमरा/अलग स्थान उपलब्ध,Screen/separate room/separate place for examination available - દર્દીને તપાસવા માટે સ્ક્રીન/અલગ ઓરડો/ અલગ સ્થળ ઉપલબ્ધ?
+1,Health Centre Survey,222,Delivery table,R,2,Delivery table - प्रसव टेबल उपलब्ध,Delivery table - પ્રસવ ટેબલ ઉપલબ્ધ છે?
+1,Health Centre Survey,223,Weighing machine for children available,R,2,Weighing machine for children available - बच्चों के लिये वज़न मशीन उपलब्ध,Weighing machine for children available - બાળકો માટે વજન કાંટો ઉપલબ્ધ છે?
+1,Health Centre Survey,224,Weighing machine for adults available?,R,2,Weighing machine for adults available? - वयस्कों के लिये वज़न मशीन उपलब्ध,Weighing machine for adults available? - પુખ્ત વયના લોકો માટે વજન કાંટો ઉપલબ્ધ છે?
+1,Health Centre Survey,225,Container for waste disposal available?,R,2,Container for waste disposal available? - कचरा निपटाने के लिये डिब्बा उपलब्ध,Container for waste disposal available? - કચરાના નિકાલ માટે કન્ટેનર/ ડબ્બો ઉપલબ્ધ છે?
+1,Health Centre Survey,226,Sterilisation machine available for disinfecting equipments?,R,2,Sterilisation machine available for disinfecting equipments? - उपकरणों को कीटाणुओं से मुक्त करने के लिये रोगाणुनाशन मशीन उपलब्ध,Sterilisation machine available for disinfecting equipments? - સાધનોને જંતુરહિત કરવા માટે જંતુરહિત મશીન ઉપલબ્ધ છે?
+1,Health Centre Survey,227,Urine testing facility available?,R,2,Urine testing facility available? - मूत्र जाँच सुविधा उपलब्ध,Urine testing facility available? - પેશાબ પરીક્ષણ સુવિધા ઉપલબ્ધ છે?
+1,Health Centre Survey,228,Functional BP testing apparatus available?,R,2,Functional BP testing apparatus available? - कार्यशील रक्तचाप जाँच उपकरण उपलब्ध,Functional BP testing apparatus available? - કાર્યરત બીપી પરીક્ષણ ઉપકરણ ઉપલબ્ધ છે?
+1,Health Centre Survey,229,Vaccine storage facility available,R,2,Vaccine storage facility available - टीकों के भंडारण की सुविधा,Vaccine storage facility available - રસી સંગ્રહની સુવિધા ઉપલબ્ધ  છે?
+47,Growth Monitoring,230,Name of head of HouseHold,T,0,,Name of Head of HouseHold - ઘરના વડાનું નામ
+47,Growth Monitoring,231,Name of Father,T,0,Name of Father - पिता का नाम,Name of Father  પિતાનું નામ
+47,Growth Monitoring,232,Name of Mother,T,0,Name of Mother - माता -का नाम,Name of Mother - માતાનું નામ
+47,Growth Monitoring,233,Data Collection Date,D,2,Data Collection Date - डेटा संग्रह दिनांक,Data Collection Date - ડેટા સંગ્રહ તારીખ
+47,Growth Monitoring,234,Date of Birth,D,0,Date of Birth - बच्चे की जन्म-तिथि,Date of Birth - જન્મ તારીખ
+47,Growth Monitoring,235,Sex Of Child,R,0,,Sex of Child - બાળકની જાતિ (સેક્સ)
+47,Growth Monitoring,236,Weight (in kgs),T,2,Weight (in kgs) - वज़न,Weight (in kgs) - વજન (કિલોમાં)
+47,Growth Monitoring,237,Height (in cms),T,2,Height (in cms) - ऊँचाई,Height (in cms) - ઊંચાઈ (સેમીમાં)
+47,Growth Monitoring,238,Nutrition status,S,2,Nutrition status - पोषण स्तर,Nutrition status - પોષણ સ્થિતિ
+47,Growth Monitoring,239,Growth monitoring chart updated,S,2,Growth monitoring chart updated - क्या वृद्धि निगरानी चार्ट अपडेट किया गया है,Growth monitoring chart updated - શું ગ્રોથ મોનીટરીંગ ચાર્ટ અપડેટ કરવામાં આવે છે?
+47,Growth Monitoring,240,Referal,S,2,Referal  - रेफ़रल,Referal - રેફેરલ
+47,Growth Monitoring,241,If Yes,R,0,,If Yes - જો હા
+47,Growth Monitoring,242,Whether referal service availed,S,2,Whether referal service availed - क्या रेफ़रल सेवाओं का उपयोग किया गया,Whether referal service availed - શું રેફેરલ સેવા મેળવી છે?
+47,Growth Monitoring,243,"If No,Reason for not availing",S,2,"If No,Reason for not availing - यदि नहीं, तो उपयोग न करने के कारण","If No,Reason for not availing - જો ના તો કેમ નથી મેળવી?"
+47,Growth Monitoring,244,Supl Nutrition,R,2,Supl Nutrition - पूरक पोषण आहार,Supl Nutrition - પૂરક પોષણ
+48,Labour and Migration,245,Name of Father,T,0,Name of Father -  पिता का नाम,Name of Father  - પિતાનું નામ
+48,Labour and Migration,246,Name of Mother,T,0,Name of Mother -   मां का नाम,Name of Mother - માતાનું નામ
+48,Labour and Migration,247,Date of birth of child,D,0,Date of birth of child -  बच्चे के जन्म की तारीख,Date of birth of child  બાળકની જન્મની તારીખ
+48,Labour and Migration,248,Date of collection,D,2,Date of collection -   संग्रह की तारीख,Date of collection સંગ્રહની તારીખ
+48,Labour and Migration,249,Enrollment status,S,2,Enrollment status -  नामांकन की स्थिति,Enrollment status - નોંધણીની સ્થિતિ
+48,Labour and Migration,250,HH Chores involvement,S,2,HH Chores involvement -  घरेलू कामकाज में लगाया जाना,HH Chores involvement - ઘરના કામોમાં મદદ
+48,Labour and Migration,251,HH Chores involvement - Before going to school,S,2,HH Chores involvement - Before going to school -  स्कूल जाने के पहले घरेलू कामकाज में लगाया जाना,HH Chores involvement -Before school - ઘરના કામોમાં મદદ- શાળા પેહલા
+48,Labour and Migration,252,HH Chores involvement - After coming from school,S,2,HH Chores involvement - After coming from school -  स्कूल से आने के बाद घरेलू कामकाज में लगाया जाना,HH Chores involvement - After coming from school - ઘરના કામોમાં મદદ- શાળા પછી
+48,Labour and Migration,253,Economic activities involvement,S,2,Economic activities involvement -  आर्थिक गतिविधियों में लगाया जाना,Economic activities involvement - આર્થિક પ્રવૃત્તિઓમા જોડાણ 
+48,Labour and Migration,254,Number of hours of involvement,S,2,Number of hours of involvement -  काम में लगने वाले घंटे,Number of hours of involvement - કામના કલાકો
+48,Labour and Migration,255,Number of days of involvement,S,2,Number of days of involvement -  भागीदारी के दिनों की संख्या,Number of days of involvement - કામના દિવસો
+48,Labour and Migration,256,Sector of work,S,2,Sector of work - कार्य के क्षेत्र (आर्थिक गतिविधियाँ),Sector of work - કામનું ક્ષેત્ર
+48,Labour and Migration,257,Specify the other sector of work,T,2,Specify the other sector of work -   काम के दूसरे क्षेत्र को निर्दिष्ट करें,Specify the other sector of work - કામના અન્ય ક્ષેત્રનો ઉલ્લેખ કરો
+48,Labour and Migration,258,Bonded labour involvement,S,2,Bonded labour involvement -   बंधुआ श्रम भागीदारी,Bonded labour involvement - બંધુઆ મજૂર (બોન્ડેડ લેબર) તરીકે જોડાણ બાળકનું  સ્થળાંતર
+48,Labour and Migration,259,Child Migrated,S,2,Child Migrated - बाल माइग्रेटेड,Child Migrated - બાળકનું  સ્થળાંતર
+48,Labour and Migration,260,Purpose of migration,S,2,Purpose of migration -   माइग्रेशन का उद्देश्य,Purpose of migration - સ્થળાંતરનો ઉદ્દેશ્ય
+49,Child Vaccination and Immuniza,261,Name of head of HouseHold,T,0,,Name of Head of HouseHold -ઘરના વડાનું નામ
+49,Child Vaccination and Immuniza,264,Name of the Father,T,0,Name of the Father - पिता का नाम,Name of the Father - પિતાનું નામ
+49,Child Vaccination and Immuniza,265,Name of Mother,T,0,Name of Mother - माता का नाम,Name of Mother - માતાનું નામ
+49,Child Vaccination and Immuniza,266,Sex  of child,R,0,,Sex  of child - બાળકની જાતિ (સેક્સ)
+49,Child Vaccination and Immuniza,267,Date of Birth,D,0,,Date of Birth  - જન્મ તારીખ
+49,Child Vaccination and Immuniza,268,Date of birth of Child,D,0,Date of birth of Child - बच्चे की जन्म-तिथि,Date of birth of child  બાળકના જન્મની તારીખ
+49,Child Vaccination and Immuniza,269,MCP MCH card made,R,0,MCP MCH card made - मातृ बाल सुरक्षा/मातृ बाल स्वास्थ्य कार्ड बना है,MCP MCH card made - MCP/MCH માતા બાળ સુરક્ષા / માતા બાળ સ્વાસ્થ્ય કાર્ડ બનાવવામાં આવેલ છે
+49,Child Vaccination and Immuniza,270,MCP MCH card available,R,0,MCP MCH card available - मातृ बाल सुरक्षा/मातृ बाल स्वास्थ्य कार्ड उपलब्ध है,MCP MCH card available - MCP/MCH માતા બાળ સુરક્ષા / માતા બાળ સ્વાસ્થ્ય કાર્ડ ઉપલબ્ધ
+49,Child Vaccination and Immuniza,271,BCG at birth,R,2,BCG at birth- बी सी जी (जन्म के समय),BCG at birth - બીસીજી (જન્મ સમયે)
+49,Child Vaccination and Immuniza,272,BCG Date,D,2,BCG Date - बी सी जी - तिथि,BCG Date - બીસીજી તારીખ
+49,Child Vaccination and Immuniza,273,Hepatitis B 0 (At Birth),R,2,Hepatitis B 0 (At Birth) - हेपेटाइटिस बी 0 (जन्म के समय),Hepatitis B 0 (At Birth) - હિપેટાઇટિસ બી 0 (જન્મ સમયે)
+49,Child Vaccination and Immuniza,274,Hepatitis B 0 Date,D,2,Hepatitis B 0 Date - हेपेटाइटिस बी 0 तिथि,Hepatitis B 0 Date - હિપેટાઇટીસ બી 0 તારીખ
+49,Child Vaccination and Immuniza,275,"OPV - 0 ( for polio, At Birth)",R,2,"OPV - 0 ( for polio, At Birth) - ओ पी वी - 0 (पोलियो के लिये, जन्म के समय)","OPV - 0 ( for polio, At Birth) - OPV - 0 (પોલિયો, જન્મ સમયે)"
+49,Child Vaccination and Immuniza,276,OPV - 0 - Date,D,2,OPV - 0 - Date - ओ पी वी - 0 - तिथि,OPV - 0 - Date - ઓપીવી - 0 - પોલિયો તારીખ
+49,Child Vaccination and Immuniza,277,OPV - 1 (at 1.5 months),R,2,OPV - 1 (at 1.5 months) - ओ पी वी - 1 (1.5 माह पर),OPV - 1 (at 1.5 months) - પોલિયો - 1 (દોઢ મહિના)
+49,Child Vaccination and Immuniza,278,Opv - 1- Date,D,2,Opv - 1- Date - ओ पी वी - 1 - तिथि,Opv - 1- Date - પોલિયો - 1 - તારીખ
+49,Child Vaccination and Immuniza,279,DPT - 1 (at 1.5 months),R,2,DPT - 1 (at 1.5 months) - डी पी टी - 1 (1.5 माह पर),DPT - 1 (at 1.5 months) - ડીપીટી - 1 (દોઢ મહિના)
+49,Child Vaccination and Immuniza,280,DPT - 1 - Date,D,2,DPT - 1 - Date - डी पी टी - 1 - तिथि,DPT - 1 - Date - ડીપીટી -1 - તારીખ
+49,Child Vaccination and Immuniza,281,Hepatitis B 1 (at 1.5 months),R,2,Hepatitis B 1 (at 1.5 months) - हेपाटाईटिस बी 1 (1.5 माह पर),Hepatitis B 1 (at 1.5 months) - હિપેટાઇટિસ બી 1 (દોઢ મહિના)
+49,Child Vaccination and Immuniza,282,Hepatitis B 1 - Date,D,2,Hepatitis B 1 - Date - हेपाटाईटिस बी - 1 तिथि,Hepatitis B 1 - Date - હિપેટાઇટિસ બી 1 - તારીખ
+49,Child Vaccination and Immuniza,283,OPV - 2 (At 2.5 months),R,2,OPV - 2 (At 2.5 months) - ओ पी वी - 2 (2.5 माह पर),OPV - 2 (At 2.5 months) - પોલિયો - 2 (અઢી મહિના પર)
+49,Child Vaccination and Immuniza,284,OPV - 2 Date,D,2,OPV - 2 Date - ओ पी वी - 2           तिथि,OPV - 2 Date - પોલિયો - 2 તારીખ
+49,Child Vaccination and Immuniza,285,DPT - 2 (At 2.5 months),R,2,DPT - 2 (At 2.5 months) - डी पी टी - 2 (2.5 माह पर),DPT - 2 (At 2.5 months) - ડીપીટી - 2 (અઢી મહિના પર)
+49,Child Vaccination and Immuniza,286,DPT - 2 Date,D,2,DPT - 2 Date - डी पी टी - 2 तिथि,DPT - 2 Date - ડીપીટી - 2 તારીખ
+49,Child Vaccination and Immuniza,287,Hepatitis B 2 (At 2.5 months),R,2,Hepatitis B 2 (At 2.5 months) - हेपाटाईटिस बी - 2 (2.5 माह पर),Hepatitis B 2 (At 2.5 months) - હિપેટાઇટિસ બી - 2 (અઢી મહિના પર)
+49,Child Vaccination and Immuniza,288,Hepatitis B 2 Date,D,2,Hepatitis B 2 Date  - हेपाटाईटिस बी - 2 तिथि,Hepatitis B 2 Date - હિપેટાઇટિસ બી 2 તારીખ
+49,Child Vaccination and Immuniza,289,OPV - 3 (At 3.5 months),R,2,OPV - 3 (At 3.5 months) - ओ पी वी - 3 (3.5 माह पर),OPV - 3 (At 3.5 months) - પોલિયો - 3 (3.5 મહિના પર)
+49,Child Vaccination and Immuniza,290,OPV - 3 Date,D,2,OPV - 3 Date - ओ पी वी - 3 तिथि,OPV - 3 Date - પોલિયો - 3 તારીખ
+49,Child Vaccination and Immuniza,291,DPT - 3 (At 3.5 months),R,2,DPT - 3 (At 3.5 months) - डी पी टी - 3 (3.5 माह पर),DPT - 3 (At 3.5 months) -  ડીપીટી -  3 (3.5 મહિના પર)
+49,Child Vaccination and Immuniza,292,DPT - 3 Date,D,2,DPT - 3 Date - DPT - 3 तिथि,DPT - 3 Date - ડીપીટી - 3 તારીખ
+49,Child Vaccination and Immuniza,293,Hepatitis B 3 (At 3.5 months),R,2,Hepatitis B 3 (At 3.5 months) - हेपाटाईटिस बी - 3 (3.5 माह पर),Hepatitis B 3 (At 3.5 months) - હિપેટાઇટિસ બી -  3 (3.5 મહિના પર)
+49,Child Vaccination and Immuniza,294,Hepatitis B 3 Date,D,2,Hepatitis B 3 Date - हेपाटाईटिस बी - 3 तिथि,Hepatitis B 3 Date - હિપેટાઇટિસ બી 3 તારીખ
+49,Child Vaccination and Immuniza,295,Pentavalent - 1,S,2,Pentavalent - 1 - पेन्टावेलेन्ट - 1,Pentavalent - 1 - પેન્ટાવાલેંટ - 1
+49,Child Vaccination and Immuniza,296,Pentavalent - 1 Date,D,2,Pentavalent - 1 Date - पेन्टावेलेन्ट - 1 -तिथि,Pentavalent - 1 Date - પેન્ટાવાલેંટ - 1 તારીખ
+49,Child Vaccination and Immuniza,297,Pentavalent - 3,S,2,Pentavalent - 3 - पेन्टावेलेन्ट - 3,Pentavalent - 3 - પેન્ટાવાલેંટ - 3
+49,Child Vaccination and Immuniza,298,Pentavalent - 3 Date,D,2,Pentavalent - 3 Date - पेन्टावेलेन्ट - 3 -तिथि,Pentavalent - 3 Date - પેન્ટાવાલેંટ - 3 તારીખ
+49,Child Vaccination and Immuniza,299,Measles (At 9 months),R,2,Measles (At 9 months) - मीज़ल्स (9वें माह में),Measles (At 9 months) - ઓરી (9 મહિના પર)
+49,Child Vaccination and Immuniza,300,Measles - Date,D,2,Measles - Date - मीज़ल्स - तिथि,Measles Date - ઓરી તારીખ
+49,Child Vaccination and Immuniza,301,Vitamin A (1st dose at 9 months),R,2,Vitamin A (1st dose at 9 months) - विटामिन ए (पहली डोज़ 9वें माह में),Vitamin A (1st dose at 9 months) - વિટામિન એ (9 મહિના 1 લો ડોઝ)
+49,Child Vaccination and Immuniza,302,Vitamin A Date,D,2,Vitamin A Date - विटामिन ए - तिथि,Vitamin A Date - વિટામિન એ તારીખ
+49,Child Vaccination and Immuniza,303,Full immunization,R,0,Full immunization - पूर्ण टीकाकरण,Full immunization - પૂર્ણ રસીકરણ
+50,Child Education,304,Name of Father,T,0,Name of Father - पिता का नाम,Name of Father  - પિતાનું નામ
+50,Child Education,305,Name of Mother,T,0,Name of Mother - माता का नाम,Name of Mother - માતાનું નામ
+50,Child Education,306,Sex of Child,R,0,,Sex of Child - બાળકની જાતિ (સેક્સ)
+50,Child Education,307,Date of birth,D,0,Date of birth - बच्चे की जन्म-तिथि,Date of Birth  - જન્મ તારીખ
+50,Child Education,308,Ever Enrolled,R,2,Ever Enrolled - क्या बच्चा पहले कभी दर्ज हुआ,Ever Enrolled - ક્યારેય દાખલો લીધેલ છે?
+50,Child Education,309,"If enrolled, enrollment status",R,2,"If enrolled, enrollment status - यदि दर्ज है, नामांकन की स्थिति","If enrolled, enrollment status - જો દાખલો લિધેલ છે તો નોંધણી ની સ્થિતિ "
+50,Child Education,311,School Name,T,2,School Id - स्कूल आई डी,School ID - શાળા આઈડી
+50,Child Education,312,"If dropped out ,class of dropout",S,2,"If dropped out ,class of dropout - यदि स्कूल छोड़ दिया, तो किस कक्षा में छोड़ा","If dropped out ,class of dropout - જો શિક્ષણ છોડી દીધું હોય તો કાયા ધોરણમાં છોડ્યું"
+50,Child Education,313,If dropout primary reason,S,2,"If dropout primary reason - यदि स्कूल छोड़ दिया, तो प्राथमिक कारण",If dropout primary reason - શિક્ષણ છોડવાનું પ્રાથમિક કારણ
+50,Child Education,314,If dropout secondary reason,S,2,"If dropout secondary reason - यदि स्कूल छोड़ दिया, तो द्वितीयक कारण",If dropout secondary reason - શિક્ષણ છોડવાનું બીજું કારણ 
+50,Child Education,315,"If dropout, tertiary reason",S,2,"If dropout, tertiary reason - यदि स्कूल छोड़ दिया, तो तृतीयक कारण","If dropout, tertiary reason - શિક્ષણ છોડવાનું ત્રીજું કારણ "
+50,Child Education,316,"If never enrolled, primary  reason",S,2,"If never enrolled, primary reason -  अगर कभी नामांकित नहीं किया गया, प्राथमिक कारण","If never enrolled, primary  reason - જો ક્યારેય પ્રવેશ નથી લીધો તો પ્રાથમિક કારણ"
+50,Child Education,317,"If never enrolled, secondary reason",S,2,"If never enrolled, secondary reason - यदि पहले कभी दर्ज नहीं हुआ, कारण- दूसरा","If never enrolled, secondary reason - જો ક્યારેય પ્રવેશ લીધો તો, બીજું કારણ"
+50,Child Education,318,"If never enrolled, tertiary reason",S,2,"If never enrolled, tertiary reason - यदि पहले कभी दर्ज नहीं हुआ, कारण- तीसरा","If never enrolled, tertiary reason - જો ક્યારેય પ્રવેશ લીધો તો, ત્રીજું કારણ"
+50,Child Education,319,Type of School,R,2,Type of School - स्कूल का प्रकार,Type of School - શાળાનો પ્રકાર
+50,Child Education,320,Free text books received,R,2,Free text books available - निःशुल्क पाठ्यपुस्तकें उपलब्ध,Free text books available - મફત પુસ્તકો ઉપલબ્ધ
+50,Child Education,321,Free uniform received,R,2,Free uniform available  -निःशुल्क गणवेश उपलब्ध,Free uniform available - મફત યુનિફોર્મ/ગણવેશ ઉપલબ્ધ
+50,Child Education,322,HH Chores involvement,R,2,HH Chores involvement - घरेलू कामकाज में लगाया जाना,HH Chores involvement - ઘરના કામોમાં મદદ
+50,Child Education,323,HH Chores involvement -Before school,R,2,HH Chores involvement -Before school - स्कूल जाने के पहले घरेलू कामकाज में लगाया जाना,HH Chores involvement -Before school - ઘરના કામોમાં મદદ- શાળા પેહલા
+50,Child Education,324,HH Chores involvement - After coming from school,R,2,HH Chores involvement - After coming from school - स्कूल से आने के बाद घरेलू कामकाज में लगाया जाना,HH Chores involvement - After coming from school - ઘરના કામોમાં મદદ- શાળા પછી
+51,School Education Retention,325,Name of Father,T,0,Name of Father -   पिता का नाम,Name of Father  - પિતાનું નામ
+51,School Education Retention,326,Date of Collection,D,2,Date of Collection -  संग्रह की तारीख,Date of collection સંગ્રહની તારીખ
+51,School Education Retention,327,Current Class,S,2,Current Class -  वर्तमान कक्षा,Current Class - હાલનું ધોરણ
+51,School Education Retention,328,Regular or Irregular,R,2,Regular or Irregular -  नियमित या अनियमित,Regular or Irregular - નિયમિત/અનિયમિત
+51,School Education Retention,329,Reason for not in school - primary reason,S,2,Reason for not in school - primary reason -   स्कूल में नहीं - प्राथमिक कारण,Reason for not in school - primary reason - શાળામાં નો હોવાનું પ્રાથમિક કારણ
+51,School Education Retention,330,Secondary reason for not in school,S,2,Secondary reason for not in school -   स्कूल में नहीं के लिए माध्यमिक कारण,Secondary reason for not in school- શાળામાં ના હોવાનું બીજું કારણ
+51,School Education Retention,331,Tertiary reason for not in school,S,2,Tertiary reason for not in school -   स्कूल में नहीं होने के लिए तृतीयक कारण,Tertiary reason for not in school - શાળામાં ના હોવાનું ત્રીજું કારણ
+50,Child Education,334,Other information,T,0,Other information -  अन्य सूचना,Other information - અન્ય માહિતી
+54,Village Information,340,Rural or Urban,R,0,Rural or Urban - ग्रामीण/शहरी,Rural or Urban - ગ્રામ્ય/શહેરી
+54,Village Information,341,Primary school available,R,2,Primary school available - प्राथमिक स्कूल उपलब्ध,Primary school available - પ્રાથમિક શાળા ઉપલબ્ધ
+54,Village Information,342,Primary School Name,T,2,Primary School ID - प्राथमिक स्कूल आई डी,Primary School Name - પ્રાથમિક શાળા નામ
+54,Village Information,343,Lowest class in Primary School,S,2,Lowest class in Primary School -प्राथमिक स्कूल की निम्नतम कक्षा,Lowest class in Primary School - પ્રાથમિક શાળામાં સૌથી નીચલો વર્ગ
+54,Village Information,344,Highest class in Primary School,S,2,Highest class in Primary School - प्राथमिक स्कूल की उच्चतम कक्षा,Highest class in Primary School - પ્રાથમિક શાળાનો સૌથી ઉચ્ચત્તમ વર્ગ
+54,Village Information,345,Category of Primary School,S,2,Category of Primary School - प्राथमिक स्कूल की श्रेणी,Category of Primary School - પ્રાથમિક શાળાની શ્રેણી
+54,Village Information,346,Distance of the Primary School(in kms),T,2,Distance of the Primary School - प्राथमिक स्कूल की गांव से दूरी,Distance of the Primary School(in kms) - પ્રાથમિક શાળાનું અંતર (કિ.મી.માં)
+54,Village Information,347,Barriers for accessing Primary School,S,2,Barriers for accessing Primary School - प्राथमिक स्कूल की पहुँच में बाधायें,Barriers for accessing Primary School - પ્રાથમિક શાળા પહોંચવા માટેની મુશ્કેલીઓ
+54,Village Information,348," If other (primary school), specify",T,2,"If other (primary school), specify - यदि अन्य (स्कूल) है, स्पष्ट करें"," If other (primary school), specify -   જો અન્ય હોય તો (પ્રાથમિક શાળા), સ્પષ્ટ કરો"
+54,Village Information,349,Upper Primary school available,R,2,Upper Primary school available - उच्च प्राथमिक स्कूल उपलब्ध,Upper Primary school available - ઉચ્ચતર પ્રાથમિક શાળા ઉપલબ્ધ
+54,Village Information,350,Upper Primary school Name,T,2,Upper Primary school ID - उच्च प्राथमिक स्कूल आई डी,Upper Primary school Name - ઉચ્ચ પ્રાથમિક શાળા નામ
+54,Village Information,351,Lowest class in upper primary school,S,2,Lowest class in upper primary school - उच्च प्राथमिक स्कूल की न्यूनतम कक्षा,Lowest class in upper primary school - ઉચ્ચતર પ્રાથમિક શાળાનો સહુથી નીચલો વર્ગ
+54,Village Information,352,Highest class in upper primary school,S,2,Highest class in upper primary school - उच्च प्राथमिक स्कूल की उच्चतम कक्षा,Highest class in upper primary school - ઉચ્ચતર પ્રાથમિક શાળાનો સહુથી  ઉચ્ચતમ વર્ગ
+54,Village Information,353,Category of upper primary school,S,2,Category of upper primary school - उच्च प्राथमिक स्कूल की श्रेणी,Category of upper primary school - ઉચ્ચતર પ્રાથમિક શાળાની શ્રેણી
+54,Village Information,354,Distance of the upper primary school from village(in kms),T,2,Distance of the upper primary school from village - उच्च प्राथमिक स्कूल की गांव से दूरी,Distance of the upper primary school from village(in kms) - ગામથી (ઉચ્ચ કિ.મી.) ઉચ્ચતર પ્રાથમિક શાળાનું અંતર
+54,Village Information,355,Barriers for accessing upper primary school,S,2,Barriers for accessing upper primary school - उच्च प्राथमिक स्कूल की पहुँच में बाधायें,Barriers for accessing upper primary school - ઉચ્ચતર પ્રાથમિક શાળા પહોંચવા માટે ની મુશ્કેલીઓ
+54,Village Information,356,If other,T,2,"If other  - यदि अन्य, स्पष्ट करें",If other - જો અન્ય
+54,Village Information,357,Secondary school available,R,2,Secondary school available - माध्यमिक स्कूल उपलब्ध,Secondary school available - માધ્યમિક શાળા ઉપલબ્ધ
+54,Village Information,358,Secondary school Name,T,2,Secondary school ID - माध्यमिक स्कूल आई डी,Secondary school Name - માધ્યમિક શાળા નામ
+54,Village Information,359,Lowest class in secondary school,S,2,Lowest class in secondary school - माध्यमिक स्कूल की न्यूनतम कक्षा,Lowest class in secondary school - માધ્યમિક શાળાનો સહુથી નીચલો વર્ગ
+54,Village Information,360,Highest class in secondary school,S,2,Highest class in secondary school - माध्यमिक स्कूल की उच्चतम कक्षा,Highest class in secondary school - માધ્યમિક શાળાનો સહુથી ઉચ્ચતમ વર્ગ
+54,Village Information,361,Category of secondary school,S,2,Category of secondary school - माध्यमिक स्कूल की श्रेणी,Category of secondary school - માધ્યમિક શાળાની શ્રેણી
+54,Village Information,362,Distance of the secondary school(in kms),T,2,Distance of the secondary school - माध्यमिक स्कूल की गांव से दूरी,Distance of the secondary school(in kms) - માધ્યમિક શાળા (કિ.મી. માં) નું અંતર
+54,Village Information,363,Barriers for accessing secondary school,S,2,Barriers for accessing secondary school - माध्यमिक स्कूल की पहुँच में बाधायें,Barriers for accessing secondary school - માધ્યમિક શાળા પહોંચવા માટે ની મુશ્કેલીઓ
+54,Village Information,364,if other,T,2,"if other - यदि अन्य, स्पष्ट करें",if other- જો અન્ય
+54,Village Information,365,Higher Secondary school available,R,2,Higher Secondary school available - उच्चतर माध्यमिक स्कूल उपलब्ध,Higher Secondary school available - ઉચ્ચતર માધ્યમિક શાળા ઉપલબ્ધ
+54,Village Information,366,Higher Secondary school Name,T,2,Higher Secondary school ID - उच्चतर माध्यमिक स्कूल आई डी,Higher Secondary school Name -  ઉચ્ચતર  માધ્યમિક શાળા નામ
+54,Village Information,367,Lowest class in higher secondary school,S,2,Lowest class in higher secondary school - उच्चतर माध्यमिक स्कूल की न्यूनतम कक्षा,Lowest class in higher secondary school - ઉચ્ચતર  માધ્યમિક શાળાનો સહુથી નીચલો વર્ગ
+54,Village Information,368,Highest class in higher secondary school,S,2,Highest class in higher secondary school - उच्चतर माध्यमिक स्कूल की उच्चतम कक्षा,Highest class in higher secondary school - ઉચ્ચતર  માધ્યમિક શાળાનો સહુથી ઉચ્ચતમ  વર્ગ
+54,Village Information,369,Category of higher secondary school,S,2,Category of higher secondary school - उच्चतर माध्यमिक स्कूल की श्रेणी,Category of higher secondary school - ઉચ્ચતર માધ્યમિક શાળાની શ્રેણી
+54,Village Information,370,Distance of the higher secondary school(in kms),T,2,Distance of the higher secondary school - उच्चतर माध्यमिक स्कूल की गांव से दूरी,Distance of the higher secondary school(in kms) - ઉચ્ચ માધ્યમિક શાળા (કિ.મી. માં) નું અંતર
+54,Village Information,371,Barriers for accessing higher secondary school,S,2,Barriers for accessing higher secondary school - उच्चतर माध्यमिक स्कूल की पहुँच में बाधायें,Barriers for accessing higher secondary school - ઉચ્ચતર માધ્યમિક શાળા પહોંચવા માટે ની મુશ્કેલીઓ
+54,Village Information,372,If other,T,2,"If other - यदि अन्य, स्पष्ट करें",If other - જો અન્ય
+54,Village Information,373,AWC available,R,2,AWC available - आँगनवाड़ी केन्द्र उपलब्ध,AWC available -આંગણવાડી કેન્દ્ર ઉપલબ્ધ છે
+54,Village Information,374,Distance of the AWC from the village(in kms),T,2,Distance of the AWC from the village - गांव से आँगनवाड़ी केन्द्र की दूरी,Distance of the AWC from the village(in kms) - ગામથી આંગણવાડીનું અંતર (કિ.મી.માં)
+54,Village Information,375,Primary barriers for accessing AWC,S,2,Primary barriers for accessing AWC - आँगनवाड़ी केन्द्र की पहुंच में बाधायें,Primary barriers for accessing AWC - આંગણવાડી પહોંચવા માટેની મુશ્કેલીઓ
+54,Village Information,376,Others,T,2,"Others - यदि अन्य, स्पष्ट करें",Others અન્ય
+54,Village Information,377,Need for additional AWC,R,2,Need for additional AWC - अतिरिक्त आँगनवाड़ी केन्द्र की आवश्यकता,Need for additional AWC - વધારના આંગણવાડી કેન્દ્ર  માટેની જરૂરિયાત
+54,Village Information,378,SHC available,R,2,SHC available - उप स्वास्थ्य केन्द्र उपलब्ध,SHC available - સબ હેલ્થ સેન્ટર ઉપલબ્ધ છે
+54,Village Information,379,SHC Name,T,2,SHC ID - उप स्वास्थ्य केन्द्र का आई डी,SHC Name - સબ હેલ્થ સેન્ટરની આઈડી
+54,Village Information,380,Distance of the SHC from the village(in kms),T,2,Distance of the SHC from the village - उप स्वास्थ्य केन्द्र की गांव से दूरी,Distance of the SHC from the village(in kms) - ગામથી SHC ની અંતર (કિ.મી.માં)
+54,Village Information,381,Primary barrier in accessing SHC,S,2,Primary barrier in accessing SHC - उप स्वास्थ्य केन्द्र की पहुंच में मुख्य बाधायें,Primary barrier in accessing SHC - સબ હેલ્થ સેન્ટર પહોંચવા માટેની મુશ્કેલીઓ
+54,Village Information,382,If Other,T,2,"If Other - यदि अन्य, स्पष्ट करें",If other - જો અન્ય
+54,Village Information,383,PHC available,R,2,PHC available - प्राथमिक स्वास्थ्य केन्द्र उपलब्ध,PHC available - PHC ઉપલબ્ધ
+54,Village Information,384,PHC Name,T,2,PHC ID - प्राथमिक स्वास्थ्य केन्द्र का आई डी,PHC Name - પ્રાથમિક આરોગ્ય કેન્દ્ર નામ
+54,Village Information,385,Distance of the PHC from the village(in kms),T,2,Distance of the PHC from the village - प्राथमिक स्वास्थ्य केन्द्र की गांव से दूरी,Distance of the PHC from the village(in kms) - ગામથી પ્રાથમિક આરોગ્ય કેન્દ્રનું અંતર
+54,Village Information,386,Primary barrier in accessing PHC,S,2,Primary barrier in accessing PHC - प्राथमिक स्वास्थ्य केन्द्र की पहुंच में मुख्य बाधायें,Primary barrier in accessing PHC - પ્રાથમિક આરોગ્ય કેન્દ્ર પહોંચવા માટેની મુશ્કેલીઓ
+54,Village Information,387,If Other,T,2,"If Other - यदि अन्य, स्पष्ट करें",If other - જો અન્ય
+54,Village Information,388,CHC available,R,2,CHC available - सामुदायिक स्वास्थ्य केन्द्र उपलब्ध,CHC available - કોમ્યુનિટી હેલ્થ સેન્ટર ઉપલબ્ધ
+54,Village Information,389,CHC Name,T,2,CHC ID - सामुदायिक स्वास्थ्य केन्द्र का आई डी,CHC Name - કોમ્યુનિટી હેલ્થ સેન્ટરનું નામ
+54,Village Information,390,Distance of the CHC from the village(in kms),T,2,Distance of the CHC from the village - सामुदायिक स्वास्थ्य केन्द्र की गांव से दूरी,Distance of the CHC from the village(in kms) - ગામથી સીએચસીનું અંતર(કિ.મી.)
+54,Village Information,391,Primary barrier in accessing CHC,S,2,Primary barrier in accessing CHC - सामुदायिक स्वास्थ्य केन्द्र की पहुंच में मुख्य बाधायें,Primary barrier in accessing CHC - સીએચસી પહોંચવા માટેની મુશ્કેલીઓ
+54,Village Information,392,If other,T,2,"If other - यदि अन्य, स्पष्ट करें",If other - જો અન્ય
+54,Village Information,393,ASHA available,R,2,ASHA available - आशा उपलब्ध,ASHA available - આશા વર્કર ઉપલબ્ધ
+54,Village Information,394,VHSNC existing,R,2,VHSNC existing - ग्राम स्वास्थ्य स्वच्छता पोषण समिति अस्तित्व में,VHSNC existing - ગ્રામ સ્વાસ્થ્ય સ્વચ્છતા પોષણ સમિતિ(VHSNC) હયાત છે
+54,Village Information,395,VHSNC operational,S,2,VHSNC operational - ग्राम स्वास्थ्य स्वच्छता पोषण समिति क्रियाशील,VHSNC operational - ગ્રામ સ્વાસ્થ્ય સ્વચ્છતા પોષણ સમિતિ કાર્યરત છે
+54,Village Information,396,VCPC existing,R,2,VCPC existing - ग्राम बाल संरक्षण समिति अस्तित्व में,VCPC existing - ગ્રામ બાળ સંરક્ષણ સમિતિ(VCPC) હયાત છે
+54,Village Information,397,VCPC Operational,S,2,VCPC Operational - ग्राम बाल संरक्षण समिति क्रियाशील,VCPC Operational - ગ્રામ બાળ સંરક્ષણ સમિતિ કાર્યરત છે
+54,Village Information,398,Number of Self Help Groups/ CBOs,T,2,Number of Self Help Groups/ CBOs - स्व-सहायता समूहों की संख्या,Number of Self Help Groups/ CBOs - સ્વ સહાય જૂથો / સી.બી.ઓ.ની સંખ્યા
+54,Village Information,399,Number of Child Collective,T,2,Number of Child Collective - बच्चों को लाने-ले जाने वालों की संख्या,Number of Child Collective - બાળ સમૂહ(સંગઠનો)ની સંખ્યા
+54,Village Information,400,Electricity,R,2,Electricity - बिजली,Electricity - વીજળી
+54,Village Information,401,Road,R,2,Road - सड़क (डामर),Road - રોડ (ડામર)
+54,Village Information,402,Public Transport,R,2,Public Transport - सार्वजनिक परिवहन,Public Transport - જાહેર પરિવહન
+54,Village Information,403,Water Supply,R,2,Water Supply -पानी की आपूर्ति,Water Supply - પાણી પુરવઠા
+55,House Hold Information,404,Rural or Urban,R,0,,Rural or Urban - ગ્રામ્ય/શહેરી
+55,House Hold Information,405,Type of Family,R,2,Type of Family - परिवार का प्रकार,Type of Family - કુટુંબનો પ્રકાર
+55,House Hold Information,406,Name of the Head of the HH,T,0,,Name of the Head of the HH - ઘરના વડાનું નામ
+55,House Hold Information,407,Age of the Head of the HH,T,0,,Age of the Head of the HH - ઘરના વડાની ઉંમર
+55,House Hold Information,408,Sex of the Head of the HH,R,0,,Sex of the Head of the HH - ઘરના વડાની જાતિ (સેક્સ)
+55,House Hold Information,409,Highest class passed (Head of the HH),S,2,Highest class passed (Head of the HH) -  उच्चतम उत्तीर्ण कक्षा (परिवार के मुखिया),Highest class passed (Head of the HH) -  ઘરના વડાનો અભ્યાસ
+55,House Hold Information,410,Caste,S,2,Caste -जाति,Caste - જ્ઞાતિ
+55,House Hold Information,411,Do you have homestead land,S,2,Do you have homestead land - क्या आपके पास वासभूमि है,Do you have homestead land -તમારા ઘરની જમીન પોતાની છે?
+55,House Hold Information,412,Type of house,S,2,Type of house - घर का प्रकार,Type of house - ઘરનો પ્રકાર
+55,House Hold Information,413,Religion,S,2,Religion - धर्म,Religion - ધર્મ
+55,House Hold Information,414,Type of Ration card,S,2,Type of Ration card - राशन कार्ड का प्रकार,Type of Ration card - રાશન કાર્ડનો પ્રકાર
+55,House Hold Information,415,If others,T,2,"If others - यदि अन्य, स्पष्ट करें",If other - જો અન્ય
+55,House Hold Information,416,Ration from PDS,S,2,Ration from PDS - सार्वजनिक वितरण प्रणाली से राशन,Ration from PDS - પીડીએસથી રાશન
+55,House Hold Information,417,MGNREGA JOB CARD,S,2,MGNREGA JOB CARD - मनरेगा जॉब कार्ड,MGNREGA JOB CARD - મનરેગા જોબ કાર્ડ
+55,House Hold Information,418,Number of working days last year,T,2,Number of working days last year - पिछले वर्ष के कार्य दिवस,Number of working days last year - ગયા વર્ષે કામ કરેલ દિવસોની સંખ્યા
+55,House Hold Information,419,Amount of money received last year?,T,2,Amount of money received last year? - पिछले वर्ष कितनी राशि प्राप्त की,Amount of money received last year? - ગયા વર્ષે મળેલા પૈસાની રકમ?
+55,House Hold Information,420,Amount Received (MGNREGA),R,2,Amount Received (MGNREGA) - प्राप्त राशि (मनरेगा),Amount Received (MGNREGA) - મળેલ રકમ  (MGNREGA)
+55,House Hold Information,421,Total family members,T,2,Total family members - परिवार में कुल सदस्य,Total family members - કુલ કુટુંબના સભ્યો
+55,House Hold Information,422,Total family members 17 years or younger,T,2,Total family members 17 years or younger - परिवार में 17 वर्ष से कम आयु के कुल सदस्य,Total family members 17 years or younger - 17 વર્ષ કે તેથી નાના કુલ કુટુંબના સભ્યો
+55,House Hold Information,423,Primary occupation of the family,S,2,Primary occupation of the family - परिवार का प्रमुख व्यवसाय,Primary occupation of the family - કુટુંબનો પ્રાથમિક વ્યવસાય
+55,House Hold Information,424,Enter other type of occupation,T,2,"Enter other type of occupation - यदि अन्य, स्पष्ट करें",Enter other type of occupation - અન્ય પ્રકારનો વ્યવસાય દાખલ કરો
+55,House Hold Information,425,If Landless,R,2,If Landless - क्या भूमिहीन है,If Landless - શું જમીન વગરના છો
+55,House Hold Information,426,Primary source of energy for cooking,S,2,Primary source of energy for cooking - खाना पकाने के लिये ईंधन का मुख्स स्रोत,Primary source of energy for cooking - રસોઈ બનાવવા માટે ઉર્જાનો પ્રાથમિક સ્ત્રોત
+55,House Hold Information,427,Is there a Casserole/ thermos/ thermoware?,S,2,Is there a Casserole/ thermos/ thermoware? - क्या घर में केसेरॉल/थर्मस/थर्मोवेयर है,Is there a Casserole/ thermos/ thermoware? - ત્યાં શું કેસેરોલ /થેરમોસ કે થર્મોવેર  છે?
+55,House Hold Information,428,Is there a TV and VCR/ VCD/ DVD player?,S,2,Is there a TV and VCR/ VCD/ DVD player? - क्या घर में टीवी/वीसीआर/वीसीडी/डीवीडी प्लेयर है,Is there a TV and VCR/ VCD/ DVD player? - શું તમારી પાસે TV કે VCR/VCD/DVD પ્લેયર છે?
+55,House Hold Information,429,Is there a mobile handset and a telephone (landline)?,S,2,Is there a mobile handset and a telephone (landline)? - क्या घर में मोबाईल फोन और लैंडलाईन टेलीफ़ोन है,Is there a mobile handset and a telephone (landline)? - શું તમારી પાસે મોબાઈલ અને ટેલિફોન (લેન્ડલાઈન) છે?
+55,House Hold Information,430,Is there a sewing machine?,R,2,Is there a sewing machine? - क्या घर में सिलाई मशीन है,Is there a sewing machine? - તમારી પાસે સીવણ મશીન છે?
+55,House Hold Information,431,Is there an almeerah  or dressing table?,R,2,Is there an almeerah or dressing table? - क्या घर में अल्मारी/ड्रेसिंग टेबल है,Is there an almeerah  or dressing table? - તમારી પાસે એક કબાટ/ ડ્રેસિંગ ટેબલ છે?
+55,House Hold Information,432,"Is there a bicycle, motorcycle/scooter, or motor car/jeep?",S,2,"Is there a bicycle, motorcycle/scooter, or motor car/jeep? - क्या घर में साईकल/मोटरसाईकल/स्कूटर/कार/जीप है","Is there a bicycle, motorcycle/scooter, or motor car/jeep? - તમારી પાસે સાયકલ, મોટર સાયકલ / સ્કૂટર કે કાર/જીપ છે? "
+55,House Hold Information,433,Whether the HH is headed by a single parent,S,2,Whether the HH is headed by a single parent - क्या एकल माता या पिता परिवार का मुखिया हैं,Whether the HH is headed by a single parent - એકલા માતા કે એકલા પિતાવાળું ઘર છે ?
+55,House Hold Information,434,Whether the HH is headed by grand parents,S,2,Whether the HH is headed by grand parents - क्या दादा-दादी/नाना-नानी परिवार का मुखिया हैं,Whether the HH is headed by grand parents - શું કુટુંબના વડા દાદા-દાદી છે?
+55,House Hold Information,435,Whether headed by children (18 years and below),S,2,Whether headed by children (18 years and below) - क्या बच्चे (18 वर्ष से कम) परिवार का मुखिया हैं,Whether headed by children (18 years and below) - શું કુટુંબના વડા બાળકો છે? (18 વર્ષ અને તેનાથી ઓછા)
+55,House Hold Information,436,Whether both mother and father work to earn a livelihood,S,2,Whether both mother and father work to earn a livelihood - क्या जीविकोपार्जन के लिये मातापिता दोनों काम करते हैं,Whether both mother and father work to earn a livelihood - શું બંને માતા -પિતા રોજગારી મેળવે છે?
+55,House Hold Information,437,Whether the primary bread-earner of the HH is terminally/seriously ill,S,2,Whether the primary bread-earner of the HH is terminally/seriously ill - क्या परिवार का मुख्य कमाने वाला व्यक्ति मरणासन्न/गंभीर रूप से बीमार है,Whether the primary bread-earner of the HH is terminally/seriously ill - શું પરિવારના મુખ્ય કમાનાર વ્યક્તિને કોઈ જીવલેણ કે ગંભીર બીમારી છે?
+55,House Hold Information,438,Residential Status,S,2,Residential Status - निवास स्थिति,Residential Status - રેહઠાણની  સ્થિતિ
+55,House Hold Information,439,Month of in migration or out migration,S,2,Month of in migration or out migration - प्रवासित हो कर आने या जाने का माह,Month of in migration or out migration - અહીં સ્થળાંતર અથવા બહાર સ્થળાંતર મહિનો
+55,House Hold Information,440,Whether Household migrates every year,S,2,Whether Household migrates every year - क्या परिवार हर वर्ष प्रवासित होता है,Whether Household migrates every year - શું પરિવારના વડા દર વર્ષે સ્થળાંતર કરે છે?
+55,House Hold Information,441,Duration of migration,S,2,Duration of migration - प्रवासन की अवधि,Duration of migration - સ્થળાંતરનો સમયગાળો
+55,House Hold Information,442,Whether one adult member of the Household has permanently migrated,S,2,Whether one adult member of the Household has permanently migrated - क्या परिवार का एक वयस्क सदस्य स्थायी रूप से प्रवासित हो चुका है,Whether one adult member of the Household has permanently migrated - શું પરિવારની એક પુખ્ત વયની વ્યક્તિએ કાયમી સ્થળાંતર કર્યું છે?
+55,House Hold Information,443,Source of drinking water,S,2,Source of drinking water - पीने के पानी का स्रोत,Source of drinking water - પીવાના પાણીનો સ્ત્રોત
+55,House Hold Information,444,Enter other type of source of drinking water,T,2,"Enter other type of source of drinking water - If others, specify","Enter other type of source of drinking water - પીવાના પાણીનો અન્ય પ્રકારનો સ્ત્રોત હોય તો, સ્પષ્ટ કરો"
+55,House Hold Information,445,Access to toilet,S,2,Access to toilet - शौचालय तक पहुंच,Access to toilet - શૌચાલય ઉપલબ્ધ
+55,House Hold Information,446,Enter other type of toilet,T,2,"Enter other type of toilet - यदि अन्य, स्पष्ट करें","Enter other type of toilet - અન્ય પ્રકારનાં ટોઇલેટ હોય તો, સ્પષ્ટ કરો"
+55,House Hold Information,447,Is any child missing?,R,2,Is any child missing? - क्या कोई बच्चा गुम है?,Is any child missing? - કોઈ બાળક ગુમ થયેલ છે?
+55,House Hold Information,448,"If Yes, how many boys are missing",T,2,"If Yes, how many boys are missing - यदि हाँ, तो कितने लड़के","If Yes, how many boys are missing - જો હા, તો કેટલા છોકરાઓ ગુમ છે"
+55,House Hold Information,449,"If Yes, how many girls are missing",T,2,"If Yes, how many girls are missing - यदि हाँ, तो कितनी लड़कियाँ","If Yes, how many girls are missing - જો હા, કેટલી છોકરીઓ ગુમ છે"
+57,Pregnant Women,454,Name of the Husband,T,2,Name of the Husband -  पति का नाम,Name of the Husband  - પતિનું નામ
+57,Pregnant Women,455,Age of the Husband,T,2,Age of the Husband - पति की आयु,Age of the Husband - પતિની ઉંમર
+57,Pregnant Women,456,Highest Class passed Husband,S,2,Highest Class passed Husband - उच्चतम उत्तीर्ण  कक्षा - पति,Highest Class passed Husband - પતિનો અભ્યાસ
+57,Pregnant Women,457,Occupation of Husband,S,2,Occupation of Husband - पति का व्यवसाय,Occupation of Husband - પતિનો વ્વસાય
+57,Pregnant Women,458,Age of mother,T,2,Age of mother - माता की आयु,Age of mother - માતાની ઉંમર
+57,Pregnant Women,459,Highest class passed - Mother,S,2,Highest class passed - Mother - उच्चतम उत्तीर्ण  कक्षा - माता,Highest class passed - Mother - માતાનો અભ્યાસ
+57,Pregnant Women,460,Occupation of the mother,S,2,Occupation of the mother - माता का व्यवसाय,Occupation of the mother - માતાનો વ્વસાય
+57,Pregnant Women,461,Residential Status,S,2,Residential Status - निवास स्थिति,Residential Status - રહેઠાણની સ્થિતિ
+57,Pregnant Women,462,Month of in migration or out migration,S,2,Month of in migration or out migration - प्रवासित हो कर आने या जाने का माह,Month of in migration or out migration - અહીં સ્થળાંતર અથવા બહાર સ્થળાંતર મહિનો
+57,Pregnant Women,463,MCP/MCH Card made?,R,2,MCP/MCH Card made? - एमसीपी / एमसीएच कार्ड बनाया?,MCP/MCH Card made? - MCP/MCH માતૃ શિશુ સુરક્ષા માતૃ / શિશુ સ્વાસ્થ્ય કાર્ડ બનાવવામાં આવેલ છે
+57,Pregnant Women,464,Date of issue of MCP/MCH card,D,2,Date of issue of MCP/MCH card - एमसीपी / एमसीएच कार्ड जारी करने की तिथि,Date of issue of MCP/MCH card - માતૃ શિશુ સુરક્ષા માતૃ / શિશુ સ્વાસ્થ્ય કાર્ડ બન્યાની તારીખ
+57,Pregnant Women,465,MCP/MCH card available,S,2,MCP/MCH card available - मातृ शिशु सुरक्षा/ मातृ शिशु स्वास्थ्य (एमसीपी/एमसीएच) कार्ड उपलब्ध,MCP/MCH card available - માતૃ શિશુ સુરક્ષા માતૃ / શિશુ સ્વાસ્થ્ય કાર્ડ ઉપલબ્ધ
+57,Pregnant Women,466,"Reasons, if not available",S,2,"Reasons, if not available - कारण, अगर उपलब्ध नहीं है","Reasons, if not available - જો ઉપલબ્ધ ન હોય તો કારણો"
+57,Pregnant Women,467,Date of ANC registration,D,2,Date of ANC registration - एएनसी पंजीकरण की तारीख,Date of ANC registration - એએનસી નોંધણીની તારીખ
+57,Pregnant Women,468,Last Menstrual Period,D,2,Last Menstrual Period - अंतिम माहवारी,Last Menstrual Period - છેલ્લા માસિકનો મહિનો
+57,Pregnant Women,469,Whether registered in 3 months of preganancy,R,2,WhetherWhether registered in 3 months of preganancy registered in 3 months of preganancy - क्या गर्भावस्था के 3 महीनों के भीतर पंजीयन हुआ,Whether registered in 3 months of preganancy - શું ગર્ભવસ્થાના 3 મહિનાની અંદર રજીસ્ટર/ નોંધણી કરી
+57,Pregnant Women,470,Health center Name,T,2,Health center ID - स्वास्थ्य केंद्र आईडी,Health center Name - આરોગ્ય કેન્દ્ર નામ
+57,Pregnant Women,471,"If no,Reason for not registering in 3 months",S,2,"If no,Reason for not registering in 3 months - यदि नहीं, तो 3 महीनों के भीतर पंजीयन न कराने के कारण","If no,Reason for not registering in 3 months - જો ના, તો ત્રણ મહિનાની અંદર નોંધણી ના કરવાનું કારણ જણાવો"
+57,Pregnant Women,472,"Others,Specify",T,2,"Others,Specify - अन्य, निर्दिष्ट करें","Others,Specify - અન્ય, સ્પષ્ટ કરો"
+57,Pregnant Women,473,No of Previous Pregnancies,T,2,No of Previous Pregnancies - पिछली गर्भावस्था का नहीं,No of Previous Pregnancies - અગાઉની સગર્ભાવસ્થાની સંખ્યા
+57,Pregnant Women,474,No of live births,T,2,No of live births - जन्म के जन्म नहीं,No. of live births - સફળ પ્રસૂતિની સંખ્યા જણાવો
+57,Pregnant Women,475,Total Numbers of Months the termination of last pregnancy/Delivery,T,2,Last Pregnancy before - पहले अंतिम गर्भावस्था,Total Numbers of Months the termination of last pregnancy/Delivery - છેલ્લા ગર્ભાવસ્થા / ડિલિવરી સમાપ્ત થતાં મહિનાઓની કુલ સંખ્યા
+57,Pregnant Women,476,TT1 (Tetanus Toxoid) actual date,D,2,TT1 (Tetanus Toxoid) actual date - टीटी 1 (टेटनस टोक्सॉयड) वास्तविक तिथि,TT1 (Tetanus Toxoid) actual date - ટીટી 1 (ટેટાનુસ ટોક્સાઈડ) સાચી તારીખ
+57,Pregnant Women,477,TT2 Actual date,D,2,TT2 Actual date - टीटी 2 वास्तविक तिथि,TT2 Actual date - ટીટી 2 સાચી તારીખ
+57,Pregnant Women,478,TT Booster Actual Date,D,2,TT Booster Actual Date - टीटी बूस्टर वास्तविक तिथि,TT Booster Actual Date - ટીટી બુસ્ટર સાચી તારીખ
+57,Pregnant Women,479,1st ANC,S,2,1st ANC - पहली प्रसव-पूर्व देखभाल,1st ANC  - 1 લી એએનસી
+57,Pregnant Women,480,1st ANC Date,D,2,1st ANC Date - पहली एएनसी तिथि,1st ANC Date - પહેલી એએનસીની તારીખ
+57,Pregnant Women,481,1st ANC weight,T,2,1st ANC weight - पहला और वजन,1st ANC weight - 1 લી એએનસીનું વજન
+57,Pregnant Women,484,1st ANC BP,T,2,1st ANC BP - पहला एएनसी बीपी,1st ANC BP - 1 લી એએનસીનું બી.પી.
+57,Pregnant Women,485,1st ANC HB,T,2,1st ANC HB - पहला एएनसी एचबी,1st ANC HB - 1 લી એએનસીનું એચબી
+57,Pregnant Women,486,1st ANC Urine Albumin,R,2,1st ANC Urine Albumin - पहली प्रसव-पूर्व देखभाल में मूत्र की जाँच-एल्बुमिन,1st ANC Urine Albumin - 1 લી એએનસી પેશાબની તપાસ
+57,Pregnant Women,487,1st ANC Urine Sugar,R,2,1st ANC Urine Sugar - पहली प्रसव-पूर्व देखभाल में मूत्र की जाँच-शूगर,1st ANC Urine Sugar - 1 લી એએનસી પેશાબ શુગર
+57,Pregnant Women,488,1st ANC IFA Tablets received,T,2,1st ANC IFA Tablets received - पहली प्रसव-पूर्व देखभाल- आयएफ़ए (आयरन) गोली प्राप्त की,1st ANC IFA Tablets received - 1 લી એએનસી  - આઈએફએ ગોળીઓ પ્રાપ્ત
+57,Pregnant Women,489,1st ANC IFA tablets consumed,T,2,1st ANC IFA tablets consumed - पहली प्रसव-पूर्व देखभाल- आयएफ़ए (आयरन) की गोली खाई,1st ANC IFA tablets consumed - 1 લી એએનસી  - આઈએફએ ગોળીઓ લીધી
+57,Pregnant Women,490,1st ANC Abdominal examination,R,2,1st ANC Abdominal examination - पहली प्रसव-पूर्व देखभाल-  पेट की जाँच,1st ANC Abdominal examination - 1 લી એએનસી  - પેટનું પરીક્ષણ
+57,Pregnant Women,491,1st ANC Identified as High Risk,S,2,1st ANC Identified as High Risk - पहली प्रसव-पूर्व देखभाल-  अधिक जोखिम चिन्हित,1st ANC Identified as High Risk - 1 લી એએનસી વખતે જોખમ ઓળખાયું    
+57,Pregnant Women,492,1st ANC High Risk Referred,R,2,1st ANC High Risk Referred - पहली प्रसव-पूर्व देखभाल-  अधिक जोखिम रेफ़र किया गया,1st ANC High Risk Referred - 1 લી એએનસી વખતે  જોખમ દેખાતા રીફર કરવામાં આવ્યા
+57,Pregnant Women,493,1st ANC supplementary nutrition available,S,2,1st ANC supplementary nutrition available - पहली प्रसव-पूर्व देखभाल-  पूरक पोषण आहार उपलब्ध,1st ANC supplementary nutrition available - 1 લી એએનસી  - પૂરક પોષણ ઉપલબ્ધ
+57,Pregnant Women,494,MCP/MCH card updated 1st trimester,S,2,MCP/MCH card updated 1st trimester - मातृ शिशु सुरक्षा/ मातृ शिशु स्वास्थ्य (एमसीपी/एमसीएच) कार्ड अपडेट किया गया - पहली तिमाही,MCP/MCH card updated 1st trimester - MCP/MCH કાર્ડ પર સુધારો - 1 લું ત્રિમાસિક
+57,Pregnant Women,495,2nd ANC,S,2,2nd ANC - दूसरी प्रसव-पूर्व देखभाल,2nd ANC - 2 જી એએનસી
+57,Pregnant Women,496,2nd ANC Date,D,2,2nd ANC Date - दूसरी एएनसी तिथि,2nd ANC Date - બીજી એએનસીની તારીખ
+57,Pregnant Women,497,2nd ANC Weight,T,2,2nd ANC Weight - दूसरा और वजन,2nd ANC Weight - બીજો એએનસીનું વજન
+57,Pregnant Women,498,2nd ANC BP,T,2,2nd ANC BP - दूसरा एएनसी बीपी,2nd ANC BP - બીજો એએનસીનું બી.પી.
+57,Pregnant Women,499,2nd ANC HB,T,2,2nd ANC HB - दूसरा एएनसी एचबी,2nd ANC HB - બીજો એએનસીનું એચબી
+57,Pregnant Women,500,2nd ANC Urine Albumin,S,2,2nd ANC Urine Albumin - दूसरी प्रसव-पूर्व देखभाल में मूत्र की जाँच-एल्बुमिन,2nd ANC Urine Albumin - 2 જી એએનસી પેશાબની તપાસ
+57,Pregnant Women,501,2nd ANC Urine sugar,S,2,2nd ANC Urine sugar - दूसरी प्रसव-पूर्व देखभाल में मूत्र की जाँच-शूगर,2nd ANC Urine sugar - 2 જી એએનસી પેશાબ શુગર
+57,Pregnant Women,502,2nd ANC IFA Tablets received,T,2,2nd ANC IFA Tablets received - दूसरी प्रसव-पूर्व देखभाल- आयएफ़ए (आयरन) गोली प्राप्त की,2nd ANC IFA Tablets received - 2 જી એએનસી- આઈએફએગોળીઓ પ્રાપ્ત
+57,Pregnant Women,503,2nd ANC IFA tablets consumed,T,2,2nd ANC IFA tablets consumed - दूसरी प्रसव-पूर्व देखभाल- आयएफ़ए (आयरन) की गोली खाई,2nd ANC IFA tablets consumed - 2 જી એએનસી - આઈએફએ ગોળીઓ લીધી
+57,Pregnant Women,504,2nd ANC abdominal Examination,S,2,2nd ANC abdominal Examination - दूसरी प्रसव-पूर्व देखभाल-  पेट की जाँच,2nd ANC abdominal Examination - 2 જી એએનસી  - પેટનું પરીક્ષણ
+57,Pregnant Women,505,2nd ANC - Identified as High Risk,R,2,2nd ANC - Identified as High Risk - दूसरी प्रसव-पूर्व देखभाल-  अधिक जोखिम चिन्हित,2nd ANC - Identified as High Risk - 2 જી એએનસી વખતે જોખમ ઓળખાયું    
+57,Pregnant Women,506,2nd ANC - High Risk Referred,S,2,2nd ANC - High Risk Referred - दूसरी प्रसव-पूर्व देखभाल-  अधिक जोखिम रेफ़र किया गया,2nd ANC - High Risk Referred - 2 જી એએનસી વખતે  જોખમ દેખાતા રીફર કરવામાં આવ્યા
+57,Pregnant Women,507,2nd ANC - Supplementary Nutrition Available,S,2,2nd ANC - Supplementary Nutrition Available - दूसरी प्रसव-पूर्व देखभाल-  पूरक पोषण आहार उपलब्ध,2nd ANC - Supplementary Nutrition Available - 2 જી એએનસી  - પૂરક પોષણ ઉપલબ્ધ
+57,Pregnant Women,508,MCP/ MCH Card updated - 2nd Trimester,R,2,MCP/ MCH Card updated - 2nd Trimester - मातृ शिशु सुरक्षा/ मातृ शिशु स्वास्थ्य (एमसीपी/एमसीएच) कार्ड अपडेट किया गया - दूसरी तिमाही,MCP/ MCH Card updated - 2nd Trimester - MCP/MCH કાર્ડ પર સુધારો - બીજો ત્રિમાસિક
+57,Pregnant Women,509,3rd ANC,S,2,3rd ANC -  तीसरी प्रसव-पूर्व देखभाल,3rd ANC - 3 જી એએનસી
+57,Pregnant Women,510,3rd ANC date,D,2,3rd ANC date - तीसरी एएनसी तिथि,3rd ANC date - 3 જી એએનસી તારીખ
+57,Pregnant Women,511,3rd ANC Weight,T,2,3rd ANC Weight - तीसरा और वजन,3rd ANC Weight - 3 જી એએનસીનું વજન
+57,Pregnant Women,512,3rd ANC BP,T,2,3rd ANC BP - तीसरा एएनसी बीपी,3rd ANC BP - 3 જી એએનસીનું બી.પી.
+57,Pregnant Women,513,3rd ANC Hb,T,2,3rd ANC Hb - तीसरा एएनसी एचबी,3rd ANC Hb - 3 જી એ.એન.સી.નું એચ.બી.
+57,Pregnant Women,514,3rd ANC Urine Albumin,S,2,3rd ANC Urine Albumin - तीसरी प्रसव-पूर्व देखभाल में मूत्र की जाँच-एल्बुमिन,3rd ANC Urine Albumin - 3 જી એએનસી પેશાબની તપાસ
+57,Pregnant Women,515,3rd ANC Urine Sugar,R,2,3rd ANC Urine Sugar - तीसरी प्रसव-पूर्व देखभाल में मूत्र की जाँच-शूगर,3rd ANC Urine Sugar - 3 જી એએનસી પેશાબ શુગર
+57,Pregnant Women,516,3rd ANC - IFA tablets received,T,2,3rd ANC - IFA tablets received - तीसरी प्रसव-पूर्व देखभाल- आयएफ़ए  (आयरन) गोली प्राप्त की,3rd ANC - IFA tablets received - 3 જી એએનસી - આઈએફએ ગોળીઓ પ્રાપ્ત
+57,Pregnant Women,517,3rd ANC - IFA tablets consumed,T,2,3rd ANC - IFA tablets consumed - तीसरी प्रसव-पूर्व देखभाल- आयएफ़ए (आयरन) की गोली खाई,3rd ANC - IFA tablets consumed - 3 જી એએનસી - આઈએફએ ગોળીઓ લીધી
+57,Pregnant Women,518,3rd ANC-Abdominal Examination,S,2,3rd ANC-Abdominal Examination - तीसरी प्रसव-पूर्व देखभाल-  पेट की जाँच,3rd ANC-Abdominal Examination - 3 જી એએનસી  - પેટનું પરીક્ષણ
+57,Pregnant Women,519,3rd ANC - Identified as High Risk,S,2,3rd ANC - Identified as High Risk - तीसरी प्रसव-पूर्व देखभाल-  अधिक जोखिम चिन्हित,3rd ANC - Identified as High Risk - 3 જી એએનસી વખતે જોખમ ઓળખાયું    
+57,Pregnant Women,520,3rd ANC - High Risk Referred,S,2,3rd ANC - High Risk Referred - तीसरी प्रसव-पूर्व देखभाल-  अधिक जोखिम रेफ़र किया गया,3rd ANC - High Risk Referred - 3 જી એએનસી વખતે  જોખમ દેખાતા રીફર કરવામાં આવ્યા
+57,Pregnant Women,521,3rd ANC - Supplementary Nutrition Available,S,2,3rd ANC - Supplementary Nutrition Available - तीसरी प्रसव-पूर्व देखभाल-  पूरक पोषण आहार उपलब्ध,3rd ANC - Supplementary Nutrition Available - 3 જી એએનસી  - પૂરક પોષણ ઉપલબ્ધ
+57,Pregnant Women,522,MCP/ MCH Card updated - 3rd Trimester,S,2,MCP/ MCH Card updated - 3rd Trimester - मातृ शिशु सुरक्षा/ मातृ शिशु स्वास्थ्य (एमसीपी/एमसीएच) कार्ड अपडेट किया गया - तीसरी तिमाही,MCP/ MCH Card updated - 3rd Trimester - MCP/MCH કાર્ડ પર સુધારો - ત્રીજો  ત્રિમાસિક
+57,Pregnant Women,523,4th ANC,S,2,4th ANC - चौथी प्रसव-पूर्व देखभाल,4th ANC - 4 થી એએનસી
+57,Pregnant Women,524,4th ANC Date,D,2,4th ANC Date - चौथी एएनसी तिथि,4th ANC Date - ચોથી એએનસી તારીખ
+57,Pregnant Women,525,4th ANC Weight,T,2,4th ANC Weight - चौथा और वजन,4th ANC Weight - ચોથા એએનસીનું વજન
+57,Pregnant Women,526,4th ANC BP,T,2,4th ANC BP - चौथा और बीपी,4th ANC BP - ચોથી એએનસીનું બી.પી.
+57,Pregnant Women,527,4th ANC HB,T,2,4th ANC HB - चौथा एएनसी एचबी,4th ANC HB - ચોથા એએનસીનું એચબી
+57,Pregnant Women,528,4th ANC Urine Albumin,S,2,4th ANC Urine Albumin - चौथी प्रसव-पूर्व देखभाल में मूत्र की जाँच-एल्बुमिन,4th ANC Urine Albumin - 4 થી એએનસી પેશાબની તપાસ
+57,Pregnant Women,529,4th ANC Urine Sugar,S,2,4th ANC Urine Sugar - चौथी प्रसव-पूर्व देखभाल में मूत्र की जाँच-शूगर,4th ANC Urine Sugar - 4 થી એએનસી પેશાબ શુગર
+57,Pregnant Women,530,4th ANC - IFA tablets received,T,2,4th ANC - IFA tablets received - चौथी प्रसव-पूर्व देखभाल- आयएफ़ए (आयरन) गोली प्राप्त की,4th ANC - IFA tablets received - 4 થી એએનસી - આઈએફએ ગોળીઓ પ્રાપ્ત
+57,Pregnant Women,531,4th ANC - IFA tablets consumed,T,2,4th ANC - IFA tablets consumed - चौथी प्रसव-पूर्व देखभाल- आयएफ़ए (आयरन) की गोली खाई,4th ANC - IFA tablets consumed - 4 થી એએનસી - આઈએફએ ગોળીઓ લીધી
+57,Pregnant Women,532,4th ANC-Abdominal Examination,S,2,4th ANC-Abdominal Examination - चौथी प्रसव-पूर्व देखभाल-  पेट की जाँच,4th ANC-Abdominal Examination - 4 થી એએનસી  - જોખમી તરીકે ઓળખાયું
+57,Pregnant Women,533,4th ANC - Identified as High Risk,S,2,4th ANC - Identified as High Risk - चौथी प्रसव-पूर्व देखभाल-  अधिक जोखिम चिन्हित,4th ANC - Identified as High Risk - 4 થી એએનસી વખતે જોખમ ઓળખાયું    
+57,Pregnant Women,534,4th ANC - High Risk Referred,S,2,4th ANC - High Risk Referred - चौथी प्रसव-पूर्व देखभाल-  अधिक जोखिम रेफ़र किया गया,4th ANC - High Risk Referred - 4 થી એએનસી વખતે  જોખમ દેખાતા રીફર કરવામાં આવ્યા
+57,Pregnant Women,535,4th ANC - Supplementary Nutrition Available,S,2,4th ANC - Supplementary Nutrition Available - चौथी प्रसव-पूर्व देखभाल-  पूरक पोषण आहार उपलब्ध,4th ANC - Supplementary Nutrition Available - 4 થી એએનસી -  પૂરક પોષણ ઉપલબ્ધ
+57,Pregnant Women,536,Miscarriage or Abortion,S,2,Miscarriage or Abortion - गर्भपात या गर्भपात,Miscarriage or Abortion -  ગર્ભપાત થઇ જવો અથવા ગર્ભપાત કરાવ્યો
+57,Pregnant Women,537,Status of Birth,R,2,Status of Birth - जन्म की स्थिति,"Status of Birth - જન્મની સ્થિતિ
+"
+57,Pregnant Women,538,Time of birth(Month),T,2,Time of birth - जन्म का समय,Time of birth(Month) - જન્મનો સમય (મહિનો)
+57,Pregnant Women,539,Place of Delivery,S,2,Place of Delivery - प्रसव का स्थान,Place of Delivery - સુવાવડની જગ્યા
+57,Pregnant Women,540,Type of delivery,S,2,Type of delivery - प्रसव का प्रकार,Type of delivery - સુવાવડનો પ્રકાર
+57,Pregnant Women,541,Received free transportation from Government,S,2,Received free transportation from Government - शासन से निःशुल्क परिवहन प्राप्त किया,Received free transportation from Government - સરકાર પાસેથી મફત પરિવહનની સેવા મળી
+57,Pregnant Women,542,Received financial assistance from Government,S,2,Received financial assistance from Government - शासन से वित्तीय सहायता प्राप्त की,Received financial assistance from Government - સરકાર પાસેથી નાણાંકીય મદદ મળી
+57,Pregnant Women,543,Amount Received,T,2,Amount Received - रकम प्राप्त,Amount Received - રકમ પ્રાપ્ત થઈ
+57,Pregnant Women,544,Home delivery assisted by,S,2,Home delivery assisted by - घर में प्रसव में मदद,Home delivery assisted by - ઘરે સુવાવડમા કોના દ્વારા મદદ મળી
+57,Pregnant Women,545,"If other, specify",T,2,"If other, specify - यदि अन्य, निर्दिष्ट करें","If other, specify - જો અન્ય, સ્પષ્ટ કરો"
+57,Pregnant Women,546,Time of miscarriage/abortion(In weeks),T,2,Time of miscarriage/abortion(In weeks) - गर्भपात / गर्भपात का समय (सप्ताहों में),Time of miscarriage/abortion(In weeks) - ગર્ભપાત / ગર્ભપાતનો સમય (અઠવાડિયામાં)
+57,Pregnant Women,547,Other information,T,2,Other information - अन्य सूचना,Other information - અન્ય માહિતી
+60,Lactating Mothers,557,Name of the Husband,T,2,Name of the Husband - पति का नाम,Name of the Husband - પતિનું નામ
+60,Lactating Mothers,558,Age of Husband,T,2,Age of Husband - पति की आयु,Age of Husband - પતિની ઉંમર
+60,Lactating Mothers,559,Highest class husband passed,S,2,Highest class husband passed - उच्चतम उत्तीर्ण  कक्षा - पति,Highest class husband passed - ઉચ્ચતમ વર્ગ પાસ - પતિ
+60,Lactating Mothers,560,Occupation of the Husband,S,2,Occupation of the Husband - पति का व्यवसाय,Occupation of the Husband - પતિનો વ્વસાય
+60,Lactating Mothers,561,Highest class passed - mother,S,2,Highest class passed - mother - उच्चतम उत्तीर्ण  कक्षा - माता,Highest class passed - mother - ઉચ્ચતમ વર્ગ પાસ - માતા
+60,Lactating Mothers,562,Residential Status,S,2,Residential Status - निवास स्थिति,Residential Status - રહેઠાણની સ્થિતિ
+60,Lactating Mothers,563,Month of in migration or out migration,S,2,Month of in migration or out migration - प्रवासित हो कर आने या जाने का माह,Month of in migration or out migration - અહીં સ્થળાંતર અથવા બહાર સ્થળાંતર મહિનો
+60,Lactating Mothers,567,Received post natal care within 24 hours,S,2,Received post natal care within 24 hours - 24 घंटों के भीतर पोस्टनेटल देखभाल मिली,Received post natal care within 24 hours - 25 કલાકની અંદર પ્રસૂતિ બાદની સંભાળ મળી
+60,Lactating Mothers,568,Colostrum feeding,S,2,Colostrum feeding - खीस (कोलॉस्ट्रम) दिया,Colostrum feeding - કોલોસ્ટ્રમ પહેલું ધાવણ આપ્યું
+60,Lactating Mothers,569,2nd visit by ANM/ AWW/ASHA,S,2,2nd visit by ANM/ AWW/ASHA - एएनएम / एडब्ल्यूडब्ल्यू / आशा द्वारा दूसरी पीएनसी यात्रा,2nd visit by ANM/ AWW/ASHA - ANM/ AWW/ASHA દ્વારા 2 જી PNC મુલાકાત થઇ
+60,Lactating Mothers,570,3rd visit by ANM/ AWW/ASHA,S,2,3rd visit by ANM/ AWW/ASHA - एएनएम / एडब्ल्यूडब्ल्यू / आशा द्वारा तीसरी पीएनसी यात्रा,3rd visit by ANM/ AWW/ASHA - ANM/ AWW/ASHA દ્વારા 3 જી PNC મુલાકાત થઇ
+60,Lactating Mothers,571,4th visit by ANM/ AWW/ASHA,S,2,4th visit by ANM/ AWW/ASHA - एएनएम / एडब्ल्यूडब्ल्यू / आशा (4 सप्ताह के बाद डिलीवरी के बाद) द्वारा चौथी पीएनसी यात्रा,4th visit by ANM/ AWW/ASHA - ANM/ AWW/ASHA દ્વારા 4 જી PNC મુલાકાત થઇ
+60,Lactating Mothers,572,Received complete post natal care and advice,S,2,Received complete post natal care and advice - पूरी पोस्टनेटल देखभाल और सलाह मिली,Received complete post natal care and advice - જન્મ પછીનું સંપૂર્ણ સંભાળ અને સલાહ પ્રાપ્ત થઇ
+60,Lactating Mothers,573,Additional visit - 14th Day,S,2,Additional visit - 14th Day - अतिरिक्त भेंट-14वें दिन,Additional visit - 14th Day - વધારાની મુલાકાત - 14 મોં દિવસ
+60,Lactating Mothers,574,Additional visit - 21st Day,S,2,Additional visit - 21st Day - अतिरिक्त भेंट-21वें दिन,Additional visit - 21st Day - વધારાની મુલાકાત - 21 મોં દિવસ
+60,Lactating Mothers,575,Additional visit - 28th Day,S,2,Additional visit - 28th Day - अतिरिक्त भेंट-28वें दिन,Additional visit - 28th Day - વધારાની મુલાકાત - 28 મોં દિવસ
+60,Lactating Mothers,576,Supplementary nutrition - Post Natal: 1- 3 months,S,2,Supplementary nutrition - Post Natal: 1- 3 months - पूरक पोषण आहार- पोस्टनेटलः 1-3 महीने,Supplementary nutrition - Post Natal: 1- 3 months - પૂરક પોષણ - જન્મ પછીનું: 1- 3 મહિના
+60,Lactating Mothers,577,Exclusive Breast Feeding: 0 - 3 months,S,2,Exclusive Breast Feeding: 0 - 3 months - केवल स्तनपान-0-3 महीने,Exclusive Breast Feeding: 0 - 3 months - ફક્ત સ્તનપાન: 0 - 3 મહિના
+60,Lactating Mothers,578,Supplementary nutrition - Post Natal: 4 - 6 months,S,2,Supplementary nutrition - Post Natal: 4 - 6 months - पूरक पोषण आहार- पोस्टनेटलः 4-6 महीने,Supplementary nutrition - Post Natal: 4 - 6 months - પૂરક પોષણ - જન્મ પછીનું: 4 - 6 મહિના
+60,Lactating Mothers,579,Exclusive Breast Feeding: 4 - 6 months,S,2,Exclusive Breast Feeding: 4 - 6 months - केवल स्तनपान-4-6 महीने,Exclusive Breast Feeding: 4 - 6 months - ફક્ત સ્તનપાન: 4 - 6 મહિના
+60,Lactating Mothers,580,Complementary feeding,S,2,Month Complementary feeding Started - ऊपरी आहार,Month Complementary feeding Started - ઉપરનો ખોરાક શરૂ કર્યાનો મહિનો
+60,Lactating Mothers,581,Enrolled in AWC,S,2,Enrolled in AWC - आँगनवाड़ी केन्द्र में दर्ज,Enrolled in AWC - AWC માં નોંધણી
+60,Lactating Mothers,582,Anganwaadi Centre Name,T,2,Anganwaadi Centre ID - आंगनवाड़ी केंद्र आईडी,Anganwaadi Centre Name - આંગણવાડી કેન્દ્ર નામ
+3,Anganwadi Centre Information,596,Boys referred to referal,T,2,Boys referred to referal - रेफ़र किये गये लड़के,Boys referred to referal - રીફર કરવામાં આવેલા છોકરાઓ
+3,Anganwadi Centre Information,597,Girls referred to referal,T,2,Girls referred to referal - रेफ़र की गईं लड़कियाँ,Girls referred to referal - રીફર કરવામાં આવેલી છોકરીઓ 
+48,Labour and Migration,599,Place of Migration,S,2,Place of Migration -  माइग्रेशन का स्थान,Place of Migration - સ્થળાંતર સ્થળ
+48,Labour and Migration,600,Sector of work,S,2,Sector of work -  काम का क्षेत्र,Sector of work - કામ ક્ષેત્ર
+48,Labour and Migration,601,If others specify,T,2,If others specify -  अगर अन्य निर्दिष्ट करते हैं,If others specify - જો અન્ય સ્પષ્ટ કરો
+2,School Level Information,602,Total Other Boys (Religion),T,2,Total Other Boys (Religion) - कुल अन्य लड़के,Total Other Boys (Religion) - કુલ અન્ય છોકરાઓ (ધર્મ)
+2,School Level Information,603,Total Other Girls (Religion),T,2,Total Other Girls (Religion) - कुल अन्य लड़कियाँ,Total Other Girls (Religion) - કુલ અન્ય છોકરીઓ (ધર્મ)
+69,Testing Form,604,Name,T,2,,Name નામ
+49,Child Vaccination and Immuniza,605,Pentavalent - 2,S,2,Pentavalent - 2 -  पेंटावालेन्ट - 2,Pentavalent - 2
+49,Child Vaccination and Immuniza,606,Pentavalent - 2 Date,D,2,Pentavalent - 2 Date -  पेंटावालेन्ट - 2 तारीख,Pentavalent - 2 Date - પેન્ટાવલેન્ટ - 2 તારીખ
+2,School Level Information,607,Total No of Children with special need,T,2,Total No of Children with special need -  विशेष आवश्यकता वाले बच्चों की कुल संख्या,Total No of Children with special need - ખાસ જરૂરિયાતવાળા બાળકોની કુલ સંખ્યા
+70,Mortality,608,Select Mortality,R,2,Beneficiary Type - लाभार्थी प्रकार,Select Mortality - જન્મ સમયે મૃત્યુદર 
+70,Mortality,609,Child Name,T,2,Child Id - बाल आईडी,Child Name - બાળકનું નામ
+70,Mortality,610,Time of Death for Neo-Natal/Child Death,S,2,Time of Death for Neo-Natal/Child Death - नवजात / बाल मृत्यु के लिए मृत्यु का समय,Time of Death for Neo-Natal/Child Death - નવજાત શિશુ / બાળ મરણ સમય
+70,Mortality,611,Mother Name,T,2,Mother Id - मदर आईडी,Mother Name - માતાનું નામ
+70,Mortality,612,Time of death for maternal death,S,2,Time of death for maternal death - मातृ मृत्यु के लिए मृत्यु का समय,Time of death for maternal death - પ્રસુતિ વખતે માતાનું મરણ સમય
+70,Mortality,613,Place of Neo-Natal/Child Death,S,2,Place of Death - मौत की जगह,Place of Neo-Natal/Child Death -  નવજાત શિશુ / બાળ મૃત્યુની જગ્યા
+70,Mortality,614,Whether Neo-Natal/Child death registered,R,2,Whether death registered - क्या मौत पंजीकृत है,Whether Neo-Natal/Child death registered -  નવજાત શિશુ / બાળ મૃત્યુ નોંધાયેલ છે
+70,Mortality,615,Date of Neo-Natal/Child Death,D,2,Date of Death - मृत्यु तिथि,Date of Neo-Natal/Child Death -  નવજાત શિશુ / બાળ મૃત્યુની તારીખ
+70,Mortality,616,Reason for Neo-Natal/Child death - government record,T,2,Reason for death - government record - मौत का कारण - सरकारी रिकॉर्ड,Reason for Neo-Natal/Child death - government record -  નવજાત શિશુ / બાળ મૃત્યુનું કારણ - સરકારી રેકોર્ડ
+70,Mortality,617,Reason for Neo-Natal/Child death - household,T,2,Reason for death - household - मौत का कारण - घर,Reason for Neo-Natal/Child death - household -  નવજાત શિશુ / બાળ મૃત્યુનું કારણ - ઘર
+3,Anganwadi Centre Information,618,Is Referral Data Available,S,2,Is Referral Data Available -  रेफरल डेटा उपलब्ध है,Is Referral Data Available - રેફરલ ડેટા ઉપલબ્ધ છે
+69,Testing Form,619,drop down list,S,2,,drop down list - યાદી નીચે પ્રમાણે છે
+69,Testing Form,620,radio,R,2,,radio - રેડિયો
+37,Child Annual Information,621,Is Child less than 1 Year Old,S,2,Is Child less than 1 Year Old -   क्या बच्चा 1 साल से भी कम पुराना है,Is Child less than 1 Year Old - 1 વર્ષથી ઓછું બાળક છે'
+48,Labour and Migration,622,Remarks,T,2,Remarks -  टिप्पणियों,Remarks - ખાસ નોંધ
+73,Child camp welfare,628,Child Details,S,2,,Child Details - બાળ વિગતો
+73,Child camp welfare,629,Child Information,C,2,,Child Information - બાળ માહિતી
+73,Child camp welfare,630,Any Date,D,2,,
+73,Child camp welfare,631,Past Date,D,2,,"Past Date - ભૂતકાળની તારીખ, પાછળની તારીખ     "
+73,Child camp welfare,632,Current Date,D,2,,
+73,Child camp welfare,633,Future Date,D,2,,"Future Date - ભવિષ્યની તારીખ, આગળની તારીખ"
+73,Child camp welfare,634,Child Who attended the welfare program,T,2,,
+73,Child camp welfare,635,Child Who are yet to attend the program,T,2,,
+73,Child camp welfare,636,Total children,T,0,,Total children - કુલ બાળકો
+73,Child camp welfare,637,total child,T,0,,total child - કુલ બાળક
+74,Women Health organization,638,No of womens from south region,T,2,,No of womens from south region - દક્ષિણ પ્રદેશમાંથી મહિલાઓની સંખ્યા 
+74,Women Health organization,639,No of womens from north regoin,T,2,,No of womens from north regoin - ઉત્તર પ્રદેશથી મહિલાઓની સંખ્યા
+74,Women Health organization,640,total strength of women,T,2,,total strength of women - સ્ત્રીઓની કુલ સંખ્યા 
+74,Women Health organization,641,Child,S,2,,
+74,Women Health organization,642,Current women health organization,D,2,,Current women health organization - હાલમાં મહિલા આરોગ્ય સંસ્થા
+74,Women Health organization,643,Past Women Health organization,D,2,,
+74,Women Health organization,644,Future Women Health organization,D,2,,
+74,Women Health organization,645,All Women Health organization,D,2,,
+74,Women Health organization,646,test auto,T,2,,
+73,Child camp welfare,647,Total Children count,T,0,,
+69,Testing Form,648,single text for api type,T,0,,
+69,Testing Form,649,Dropdown api type question,S,2,,
+69,Testing Form,650,api type text,T,2,,
+50,Child Education,651,Associated school under our intervention area,S,2,,Associated school under our intervention area - અમારા કાર્ય વિસ્તારમાં આવેલી શાળા
+51,School Education Retention,652,No of days absent in last quarter,T,2,,No of days absent in last quarter - છેલ્લા ક્વાર્ટરમાં ગેરહાજર દિવસોની સંખ્યા
+37,Child Annual Information,653,Child Enrolled in Anganwadi under our Intervention Area,S,2,,Child Enrolled in Anganwadi under our Intervention Area - અમારા કાર્ય વિસ્તારમાં આવેલી આંગણવાડીમાં નોંધાયેલ બાળકો
+60,Lactating Mothers,654,Child enrolled in Anganwadi Under our Intervention Area,S,2,,Child Enrolled in Anganwadi under our Intervention Area - અમારા કાર્ય વિસ્તારમાં આવેલી આંગણવાડીમાં નોંધાયેલ બાળકો
+49,Child Vaccination and Immuniza,655,Is Pentavalent Given,R,0,,Is Pentavalent Given - પેન્ટાવેલેન્ટ આપવામાં આવે છે
+54,Village Information,656,Is Primary School under our intervention area,S,2,,Is Primary School under our intervention area - શું  પ્રાથમિક શાળા આપણા કાર્યક્ષેત્રમાં આવેલી છે
+54,Village Information,657,Is Upper Primary School under our intervention area,S,2,,Is Upper Primary School under our intervention area -  શું આપણા કાર્યક્ષેત્રમાં  ઉચ્ચ પ્રાથમિક શાળા છે
+54,Village Information,658,Is Secondary School under our intervention area,S,2,,Is Secondary School under our intervention area - શું આપણા કાર્યક્ષેત્રમાં માધ્યમિક શાળા છે
+54,Village Information,659,Is Higher Secondary School under our intervention area,S,2,,Is Higher Secondary School under our intervention area - શું કાર્યક્ષેત્રમાં ઉચ્ચતર માધ્યમિક શાળા છે
+54,Village Information,660,Is Anganawadi under our intervention area,S,2,,Is Anganawadi under our intervention area - શું આપણા કાર્યક્ષેત્રમાં આંગણવાડી છે
+54,Village Information,661,Aganwadi Name,T,2,,Aganwadi Name  - આંગણવાડી નામ
+54,Village Information,662,Is SHC under our intervention area,S,2,,Is SHC under our intervention area - શું આપણા કાર્યક્ષેત્રમાં એસએચસી છે
+54,Village Information,663,Is PHC under our intervention area,S,2,,Is PHC under our intervention area - શું આપણા કાર્યક્ષેત્રમાં PHC છે
+54,Village Information,664,Is CHC under our intervention area,S,2,,Is CHC under our intervention area - શું સી.એચ.સી. આપણા કાર્યક્ષેત્રમાં છે
+70,Mortality,665,Place of Maternal Death,S,2,,Place of Maternal Death- પ્રસુતિ સમયે માતાના મૃત્યુનું સ્થળ
+70,Mortality,666,Whether Maternal death registered,R,2,,
+70,Mortality,667,Date of Maternal Death,D,2,,Date of Maternal Death - પ્રસુતિ સમયે માતાના  મૃત્યુની તારીખ
+70,Mortality,668,Reason for maternal death - government record,T,2,,Reason for maternal death - government record - પ્રસુતિ સમયે માતાના મૃત્યુનું કારણ - સરકારી રેકોર્ડ
+70,Mortality,669,Reason for maternal death - household,T,2,,Reason for maternal death - household - માતૃત્વના મૃત્યુનું કારણ - ઘર

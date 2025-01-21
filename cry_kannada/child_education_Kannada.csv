@@ -1,0 +1,25 @@
+,Unique Admin ID,ವಿಶಿಷ್ಟ ನಿರ್ವಹಣಾ (ಆಡಳಿತ) ಐ.ಡಿ.
+,Village / Ward,ಗ್ರಾಮ/ವಾರ್ಡ್
+,Hamlet/ Para/Mohalla,ತಾಂಡಾ/ಪಾರಾ/ಮೊಹಲ್ಲಾ
+,Child ID,ಮಗುವಿನ ಐಡಿ
+,Name of child,ಮಗುವಿನ ಹೆಸರು
+304,Name of the father,ತಂದೆಯ ಹೆಸರು
+305,Name of mother,ತಾಯಿಯ ಹೆಸರು
+,Sex of the child,ಮಗುವಿನ ಲಿಂಗ
+307,Date of birth of child,ಮಗುವಿನ ಹುಟ್ಟಿದ ದಿನಾಂಕ
+308,Ever enrolled,ಯಾವಾಗಲಾದರೂ ದಾಖಲಾಗಿದೆಯೇ
+316,"If never enrolled, reason - primary","ಯಾವಾಗಲಾದರೂ ದಾಖಲಾಗದಿದ್ದಲ್ಲಿ,ಕಾರಣ-ಪ್ರಾಥಮಿಕ"
+317,"If never enrolled, reason - secondary","ಯಾವಾಗಲೂ ದಾಖಲಾಗದಿದ್ದಲ್ಲಿ, ಕಾರಣ- ಎರಡನೇ "
+318,"If never enrolled, reason - tertiary","ಯಾವಾಗಲೂ ದಾಖಲಾಗದಿದ್ದಲ್ಲಿ, ಕಾರಣ- ತೃತೀಯ"
+309,"If enrolled, enrollment status","ದಾಖಲಾಗಿದ್ದಲ್ಲಿ,ದಾಖಲಾತಿಯ ಸ್ಥಿತಿ"
+311,School ID,ಶಾಲೆಯ ಐಡಿ
+312,"If dropped out, class of drop out","ಶಾಲೆ ಬಿಟ್ಟಲ್ಲಿ,ಬಿಟ್ಟ ತರಗತಿ"
+313,If dropped out primary reason,"ಶಾಲೆ ಬಿಟ್ಟಲ್ಲಿ,ಬಿಟ್ಟ ಪ್ರಾಥಮಿಕ ಕಾರಣ"
+314,"If dropped out, secondary reason","ಶಾಲೆ ಬಿಟ್ಟಲ್ಲಿ, ಎರಡನೇ ಕಾರಣ"
+315,"If dropped out, tertiary reason","ಶಾಲೆ ಬಿಟ್ಟಲ್ಲಿ,ತೃತೀಯ ಕಾರಣ"
+319,Type of school,ಶಾಲೆಯ ವಿಧ
+320,Free text books available,ಉಚಿತ ಪಠ್ಯಪುಸ್ತಕ ಲಭ್ಯ
+321,Free uniform available,ಉಚಿತ ಸಮವಸ್ತ್ರ ಲಭ್ಯತೆ
+322,HH Chores involvement,ಹೆಚ್ ಹೆಚ್ ಕೆಲಸಗಳಲ್ಲಿ ಭಾಗಿ
+323,HH Chores involvement - Before school,ಹೆಚ್ ಹೆಚ್ ಕೆಲಸಗಳಲ್ಲಿ ಭಾಗಿ-ಶಾಲೆಗೂ ಮುನ್ನ
+324,HH Chores involvement - After coming from school,ಹೆಚ್ ಹೆಚ್ ಕೆಲಸಗಳಲ್ಲಿ ಭಾಗಿ-ಶಾಲೆಯಿಂದ ಬಂದ ನಂತರ

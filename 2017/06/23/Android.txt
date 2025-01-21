@@ -1,0 +1,26 @@
+Device Name: 0123456789ABCDEF
+
+CLT (visit Appinfo apk to get details)
+---------------------------------------------
+Package Name: org.mahiti.clt
+
+Activity Name: org.mahiti.clt.view.common.SplashScreen
+
+1BRIDGE
+--------------------------------------------
+Packgae Name: org.mahiti.rubanbridge
+
+Activity Name: org.mahiti.rubanbridge.SurveyLoginActivity
+
+SST
+--------------------------------------------
+Package Name: org.mahiti.sst
+
+Activity Name: org.mahiti.sst.SurveyLoginActivity
+
+CONVENE
+--------------------------------------------
+Package Name: org.mahiti.convene			
+
+Activity Namwe: org.mahiti.convene.
+

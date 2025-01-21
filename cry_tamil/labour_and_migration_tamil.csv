@@ -1,0 +1,82 @@
+Question ID,SN,வ. எண்
+,Unique Admin ID,தனித்தன்மையான அடையாள எண்
+,Village / Ward,கிராமம்/வார்டு
+,Hamlet/ Para/Mohalla / Keri / Thora,குக்கிராமம்
+,Child ID,குழந்தையின் அடையாள எண்
+,Name of child,குழந்தையின் பெயர் 
+245,Name of the father,வீட்டு தலைவர்/தலைவியின் பெயர் 
+246,Name of the mother,தந்தையின் பெயர் 
+,Sex of the child,தாயின் பெயர்
+247,Date of birth of the child,குழந்தையின் பிறந்த தேதி 
+,Date of collection (Quarter-1),தகவல் சேகரிக்கும் நாள் (Q 1)
+249,Enrollment status-Q1,பள்ளி சேர்க்கை நிலை 
+250,HH Chores involvement-Q1,வீட்டு வேலைகளில் ஈடுபாடு 
+251,HH Chores involvement - Before going to school-Q1,வீட்டு வேலைகளில் ஈடுபாடு- பள்ளிக்கு போகும் முன்
+252,HH Chores involvement - After coming from school-Q1,வீட்டு வேலைகளில் ஈடுபாடு- பள்ளியிலிருந்து வந்த பின்பு 
+253,Economic activities involvement-Q1,பொருள் / பணம் ஈட்டும் செயல்பாடுகளில் ஈடுபாடு
+254,Numbers of hours of involvement-Q1,எத்தனை மணி நேரம் வேலையில் ஈடுபடுகிறார்கள் 
+255,Numbers of days of involvement in a month-Q1,ஒரு மாதத்தில்  எத்தனை நாள் வேலையில் ஈடுபடுகிறார்கள் 
+256,Sector of work (Economic Activities)-Q1,"தொழில் வகை 
+பொருளீட்டும் செயல்பாடுகளில் ஈடுபாடு"
+257,"If others Q1, specify","வேறு எதாவது, குறிப்பிடவும்"
+258,Bonded labour involvement-Q1,கொத்தடிமையாக வேலை செய்கிறார்களா 
+259,Child migrated-Q1,இடம் பெயர்ந்த குழந்தை
+260,Purpose of migration-Q1,இடம்பெயர்ந்ததின் நோக்கம் 
+,Place of migration-Q1,இடம்பெயர்ந்து சென்ற இடம் 
+,Sector of work (Migration) -Q1,"தொழில் வகை 
+(இடம்பெயர்தல்)"
+,"If others, specify","வேறு எதாவது, குறிப்பிடவும்"
+,Date of collection (Quarter-2),தகவல் சேகரிக்கும் நாள் (Q II)
+,Enrollment status-Q2,பள்ளி சேர்க்கை நிலை 
+,HH Chores involvement-Q2,வீட்டு வேலைகளில் ஈடுபாடு 
+,HH Chores involvement - Before school-Q2,வீட்டு வேலைகளில் ஈடுபாடு- பள்ளிக்கு போகும் முன்
+,HH Chores involvement - After school - Q2,வீட்டு வேலைகளில் ஈடுபாடு- பள்ளியிலிருந்து வந்த பின்பு 
+,Economic activities involvement-Q2,பொருளீட்டும் செயல்பாடுகளில் ஈடுபாடு
+,Numbers of hours of involvement-Q2,எத்தனை மணி நேரம் வேலையில் ஈடுபடுகிறார்கள் 
+,Numbers of days of involvement in a month-Q2,ஒரு மாதத்தில்  எத்தனை நாள் வேலையில் ஈடுபடுகிறார்கள் 
+,Sector of work (Economic Activities)-Q2,"தொழில் வகை 
+பொருளீட்டும் செயல்பாடுகளில் ஈடுபாடு"
+,"If others Q2, specify","வேறு எதாவது, குறிப்பிடவும்"
+,Bonded labour involvement-Q2,கொத்தடிமையாக வேலை செய்கிறார்களா 
+,Child migrated-Q2,இடம் பெயர்ந்த குழந்தை
+,Purpose of migration-Q2,இடம்பெயர்ந்ததின் நோக்கம் 
+,Place of migration-Q2,இடம்பெயர்ந்து சென்ற இடம் 
+,Sector of work (Migration)-Q2,"தொழில் வகை 
+(இடம்பெயர்தல்)"
+,"If othersQ2, specify","வேறு எதாவது, குறிப்பிடவும்"
+,Date of collection (Quarter-3),தகவல் சேகரிக்கும் நாள்
+,Enrollment status-Q3,பள்ளி சேர்க்கை நிலை 
+,HH Chores involvement-Q3,வீட்டு வேலைகளில் ஈடுபாடு 
+,HH Chores involvement - Before school-Q3,வீட்டு வேலைகளில் ஈடுபாடு- பள்ளிக்கு போகும் முன்
+,HH Chores involvement - After school - Q3,வீட்டு வேலைகளில் ஈடுபாடு- பள்ளியிலிருந்து வந்த பின்பு 
+,Economic activities involvement-Q3,பொருளீட்டும் செயல்பாடுகளில் ஈடுபாடு
+,Numbers of hours of involvement-Q3,எத்தனை மணி நேரம் வேலையில் ஈடுபடுகிறார்கள் 
+,Numbers of days of involvement in a month-Q3,ஒரு மாதத்தில்  எத்தனை நாள் வேலையில் ஈடுபடுகிறார்கள் 
+,Sector of work (Economic Activities)-Q3,"தொழில் வகை 
+பொருளீட்டும் செயல்பாடுகளில் ஈடுபாடு"
+,"If others Q3, specify","வேறு எதாவது, குறிப்பிடவும்"
+,Bonded labour involvement-Q3,கொத்தடிமையாக வேலை செய்கிறார்களா 
+,Child migrated-Q3,இடம் பெயர்ந்த குழந்தை
+,Purpose of migration-Q3,இடம்பெயர்ந்ததின் நோக்கம் 
+,Place of migration-Q3,இடம்பெயர்ந்து சென்ற இடம் 
+,Sector of work (Migration)-Q3,"தொழில் வகை 
+(இடம்பெயர்தல்)"
+,"If othersQ3, specify","வேறு எதாவது, குறிப்பிடவும்"
+,Date of collection (Quarter-4),தகவல் சேகரிக்கும் நாள்
+,Enrollment status-Q4,பள்ளி சேர்க்கை நிலை 
+,HH Chores involvement-Q4,வீட்டு வேலைகளில் ஈடுபாடு 
+,HH Chores involvement - Before school-Q4,வீட்டு வேலைகளில் ஈடுபாடு- பள்ளிக்கு போகும் முன்
+,HH Chores involvement - After school - Q4,வீட்டு வேலைகளில் ஈடுபாடு- பள்ளியிலிருந்து வந்த பின்பு 
+,Economic activities involvement-Q4,பொருளீட்டும் செயல்பாடுகளில் ஈடுபாடு
+,Numbers of hours of involvement-Q4,எத்தனை மணி நேரம் வேலையில் ஈடுபடுகிறார்கள் 
+,Numbers of days of involvement in a month-Q4,ஒரு மாதத்தில்  எத்தனை நாள் வேலையில் ஈடுபடுகிறார்கள் 
+,Sector of work (Economic Activities)-Q4,"தொழில் வகை 
+பொருளீட்டும் செயல்பாடுகளில் ஈடுபாடு"
+,"If others Q4, specify","வேறு எதாவது, குறிப்பிடவும்"
+,Bonded labour involvement-Q4,கொத்தடிமையாக வேலை செய்கிறார்களா 
+,Child migrated-Q4,இடம் பெயர்ந்த குழந்தை
+,Purpose of migration-Q4,இடம்பெயர்ந்ததின் நோக்கம் 
+,Place of migration-Q4,இடம்பெயர்ந்து சென்ற இடம் 
+,Sector of work (Migration)-Q4,"தொழில் வகை 
+(இடம்பெயர்தல்)"
+,"If othersQ4, specify","வேறு எதாவது, குறிப்பிடவும்"

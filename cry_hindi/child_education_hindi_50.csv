@@ -1,0 +1,25 @@
+,Unique Admin ID,विशेष एडमिन आई डी
+,Village / Ward,गांव/वार्ड
+,Hamlet/ Para/Mohalla,बसाहट/पारा/मोहल्ला
+,Child ID,बच्चे का आई डी
+,Name of child,बच्चे का नाम
+304,Name of the father,पिता का नाम
+305,Name of mother,माता का नाम
+306,Sex of the child,बच्चे का लिंग
+307,Date of birth of child,बच्चे की जन्म-तिथि
+308,Ever enrolled,क्या बच्चा पहले कभी दर्ज हुआ
+315,"If never enrolled, reason - primary","यदि पहले कभी दर्ज नहीं हुआ, कारण- प्राथमिक"
+317,"If never enrolled, reason - secondary","यदि पहले कभी दर्ज नहीं हुआ, कारण- दूसरा"
+318,"If never enrolled, reason - tertiary","यदि पहले कभी दर्ज नहीं हुआ, कारण- तीसरा"
+309,"If enrolled, enrollment status","यदि दर्ज है, नामांकन की स्थिति"
+311,School ID,स्कूल आई डी
+312,"If dropped out, class of drop out","यदि स्कूल छोड़ दिया, तो किस कक्षा में छोड़ा"
+313,If dropped out primary reason,"यदि स्कूल छोड़ दिया, तो प्राथमिक कारण"
+314,"If dropped out, secondary reason","यदि स्कूल छोड़ दिया, तो द्वितीयक कारण"
+315,"If dropped out, tertiary reason","यदि स्कूल छोड़ दिया, तो तृतीयक कारण"
+319,Type of school,स्कूल का प्रकार 
+320,Free text books available,निःशुल्क पाठ्यपुस्तकें उपलब्ध
+321,Free uniform available,निःशुल्क गणवेश उपलब्ध
+322,HH Chores involvement,घरेलू कामकाज में लगाया जाना
+323,HH Chores involvement - Before school,स्कूल जाने के पहले घरेलू कामकाज में लगाया जाना
+324,HH Chores involvement - After coming from school,स्कूल से आने के बाद घरेलू कामकाज में लगाया जाना

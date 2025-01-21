@@ -1,0 +1,214 @@
+
+Question,Question Id,Question Type,choice Id,Choice
+Rural or Urban,340,Radio List,1042,Urban
+Rural or Urban,340,Radio List,1043,Rural
+
+Primary school available,341,Radio List,715,"No, Not in the hamlet"
+Primary school available,341,Radio List,1041,"Yes , in the Village"
+
+Lowest class in Primary School,343,Radio List,1044,Class 1
+Lowest class in Primary School,343,Radio List,1045,Class 2
+Lowest class in Primary School,343,Radio List,1046,Class 3
+Lowest class in Primary School,343,Radio List,1047,Class 4
+Lowest class in Primary School,343,Radio List,1048,Class 5
+
+Highest class in Primary School,344,Radio List,1049,Class 6
+Highest class in Primary School,344,Radio List,1050,Class 7
+Highest class in Primary School,344,Radio List,1051,Class 8
+
+Category of Primary School,345,Select One Choice,1052,Government / Local bodies
+Category of Primary School,345,Select One Choice,1053,Private
+
+Barriers for accessing Primary School,347,Select One Choice,701,No barrier
+Barriers for accessing Primary School,347,Select One Choice,702,Near to the upper class hamlet
+Barriers for accessing Primary School,347,Select One Choice,703,Far from the Village
+Barriers for accessing Primary School,347,Select One Choice,704,On the main road
+Barriers for accessing Primary School,347,Select One Choice,705,Across the road or Traffic
+Barriers for accessing Primary School,347,Select One Choice,706,In or Near to market
+Barriers for accessing Primary School,347,Select One Choice,707,Across the forest or hill
+Barriers for accessing Primary School,347,Select One Choice,708,Across the stream or river
+Barriers for accessing Primary School,347,Select One Choice,709,Near the graveyard
+Barriers for accessing Primary School,347,Select One Choice,710,Classes in open
+Barriers for accessing Primary School,347,Select One Choice,711,Across the railway track
+Barriers for accessing Primary School,347,Select One Choice,712,Near Bar and Restaurant
+Barriers for accessing Primary School,347,Select One Choice,713,Near Religious structure
+Barriers for accessing Primary School,347,Select One Choice,714,Others
+
+Upper Primary school available,349,Radio List,717,"NO, not in the village or Hamlet"
+Upper Primary school available,349,Radio List,718,"Yes, in the village/hamlet"
+
+Lowest class in upper primary school,351,Select One Choice,1054,Class 6
+Lowest class in upper primary school,351,Select One Choice,1055,Class 7
+Lowest class in upper primary school,351,Select One Choice,1056,Class 8
+
+Highest class in upper primary school,352,Select One Choice,723,class 6
+Highest class in upper primary school,352,Select One Choice,724,class 7
+Highest class in upper primary school,352,Select One Choice,725,class 8
+
+Category of upper primary school,353,Select One Choice,726,Government or Loacl Bodies
+Category of upper primary school,353,Select One Choice,727,Private
+
+Barriers for accessing upper primary school,355,Select One Choice,729,No barrier
+Barriers for accessing upper primary school,355,Select One Choice,730,Near upper class hamle
+Barriers for accessing upper primary school,355,Select One Choice,731,Far off from the village
+Barriers for accessing upper primary school,355,Select One Choice,732,On the main road
+Barriers for accessing upper primary school,355,Select One Choice,733,Across the road  or Traffic
+Barriers for accessing upper primary school,355,Select One Choice,734,In or near to market
+Barriers for accessing upper primary school,355,Select One Choice,735,Across the forest or  hill
+Barriers for accessing upper primary school,355,Select One Choice,736,Across the stream or  river
+Barriers for accessing upper primary school,355,Select One Choice,737,Near the graveyard
+Barriers for accessing upper primary school,355,Select One Choice,738,Classes in open
+Barriers for accessing upper primary school,355,Select One Choice,739,across the Railway track
+Barriers for accessing upper primary school,355,Select One Choice,740,Near Bar and Restaurant
+Barriers for accessing upper primary school,355,Select One Choice,741,Near Religious Structure
+Barriers for accessing upper primary school,355,Select One Choice,742,Others
+
+Secondary school available,357,Radio List,744,"No, not in the vilaage or Hamlet"
+Secondary school available,357,Radio List,745,"Yes, in the village or Hamlet"
+
+Lowest class in secondary school,359,Select One Choice,747,class 9
+Lowest class in secondary school,359,Select One Choice,748,class 10
+
+Highest class in secondary school,360,Select One Choice,749,class 9
+Highest class in secondary school,360,Select One Choice,750,class 10
+
+Category of secondary school,361,Select One Choice,751,Government or Local Bodies
+Category of secondary school,361,Select One Choice,752,Private
+
+Barriers for accessing secondary school,363,Select One Choice,754,No barrier
+Barriers for accessing secondary school,363,Select One Choice,755,Near upper class hamlet
+Barriers for accessing secondary school,363,Select One Choice,756,Far off from the village
+Barriers for accessing secondary school,363,Select One Choice,757,On the main road
+Barriers for accessing secondary school,363,Select One Choice,758,Across the road or Traffic
+Barriers for accessing secondary school,363,Select One Choice,759,In or  near to market
+Barriers for accessing secondary school,363,Select One Choice,760,Across the forest or  hill
+Barriers for accessing secondary school,363,Select One Choice,761,Across the stream or river
+Barriers for accessing secondary school,363,Select One Choice,762,Near the graveyard
+Barriers for accessing secondary school,363,Select One Choice,763,Classes in open
+Barriers for accessing secondary school,363,Select One Choice,764,Across the Railway track
+Barriers for accessing secondary school,363,Select One Choice,765,Near Bar and Restaurant
+Barriers for accessing secondary school,363,Select One Choice,766,Near Religious Structure
+Barriers for accessing secondary school,363,Select One Choice,767,Others
+
+Higher Secondary school available,365,Radio List,769,"No, not in the village or Hamlet"
+Higher Secondary school available,365,Radio List,770,"Yes, in the village or Hamlet"
+
+Lowest class in higher secondary school,367,Select One Choice,772,class 11
+Lowest class in higher secondary school,367,Select One Choice,773,class 12
+
+Highest class in higher secondary school,368,Select One Choice,774,class 11
+Highest class in higher secondary school,368,Select One Choice,775,class 12
+
+Category of higher secondary school,369,Select One Choice,776,Government or Local Bodies
+Category of higher secondary school,369,Select One Choice,777,Private
+
+Barriers for accessing higher secondary school,371,Select One Choice,779,No barrier
+Barriers for accessing higher secondary school,371,Select One Choice,780,Near upper class hamlet
+Barriers for accessing higher secondary school,371,Select One Choice,781, Far off from the village
+Barriers for accessing higher secondary school,371,Select One Choice,782,On the main road
+Barriers for accessing higher secondary school,371,Select One Choice,783,Across the road  or Traffic
+Barriers for accessing higher secondary school,371,Select One Choice,784,In or near to market
+Barriers for accessing higher secondary school,371,Select One Choice,785,Across the forest or hill
+Barriers for accessing higher secondary school,371,Select One Choice,786,Across the stream or  river
+Barriers for accessing higher secondary school,371,Select One Choice,787,Near the graveyard
+Barriers for accessing higher secondary school,371,Select One Choice,788,Classes in open
+Barriers for accessing higher secondary school,371,Select One Choice,789, Across the Railway track
+Barriers for accessing higher secondary school,371,Select One Choice,790,Near Bar and Restaurant
+Barriers for accessing higher secondary school,371,Select One Choice,791,Near Religious Structure
+Barriers for accessing higher secondary school,371,Select One Choice,792,Others
+
+AWC available,373,Radio List,794,"No, not in the village or Hamlet"
+AWC available,373,Radio List,795,"yes, in the village or Hamlet"
+
+Primary barriers for accessing AWC,375,Select One Choice,797,for No barrier
+Primary barriers for accessing AWC,375,Select One Choice,798,Near upper class hamlet
+Primary barriers for accessing AWC,375,Select One Choice,799,Far off from some of the catchment villages
+Primary barriers for accessing AWC,375,Select One Choice,800,On the main road
+Primary barriers for accessing AWC,375,Select One Choice,801,Across the road or  traffic
+Primary barriers for accessing AWC,375,Select One Choice,802,In or near to market
+Primary barriers for accessing AWC,375,Select One Choice,803,Across the forest or  hill
+Primary barriers for accessing AWC,375,Select One Choice,804,Across the stream or river
+Primary barriers for accessing AWC,375,Select One Choice,805,Near the graveyard
+Primary barriers for accessing AWC,375,Select One Choice,806,AWC in open
+Primary barriers for accessing AWC,375,Select One Choice,807,Across the Railway track
+Primary barriers for accessing AWC,375,Select One Choice,808,Near Bar and Restaurant
+Primary barriers for accessing AWC,375,Select One Choice,809,Near Religious Structure
+Primary barriers for accessing AWC,375,Select One Choice,810,Others
+
+Need for additional AWC,377,Radio List,812,No
+Need for additional AWC,377,Radio List,813,Yes
+
+SHC available,378,Radio List,814,No
+SHC available,378,Radio List,815,Yes
+
+Primary barrier in accessing SHC,381,Select One Choice,819,No barrier
+Primary barrier in accessing SHC,381,Select One Choice,820,Near upper class hamlet
+Primary barrier in accessing SHC,381,Select One Choice,821,Far off from some of the catchment villages
+Primary barrier in accessing SHC,381,Select One Choice,822,On the main road
+Primary barrier in accessing SHC,381,Select One Choice,823,Across the road or  traffic
+Primary barrier in accessing SHC,381,Select One Choice,824,In or near to market
+Primary barrier in accessing SHC,381,Select One Choice,825,Across the forest or hill
+Primary barrier in accessing SHC,381,Select One Choice,826,Across the stream or river
+Primary barrier in accessing SHC,381,Select One Choice,827,Near the graveyard
+Primary barrier in accessing SHC,381,Select One Choice,828,Others
+Primary barrier in accessing SHC,381,Select One Choice,818,Not Applicable Write
+
+PHC available,383,Radio List,830,NO
+PHC available,383,Radio List,831,YES
+
+Primary barrier in accessing PHC,386,Select One Choice,835,No barrier
+Primary barrier in accessing PHC,386,Select One Choice,836,Near upper class hamlet
+Primary barrier in accessing PHC,386,Select One Choice,837,Far off from some of the catchment villages
+Primary barrier in accessing PHC,386,Select One Choice,838,On the main road
+Primary barrier in accessing PHC,386,Select One Choice,839,Across the road or traffic
+Primary barrier in accessing PHC,386,Select One Choice,840,In or  near to market
+Primary barrier in accessing PHC,386,Select One Choice,841,Across the forest or hill
+Primary barrier in accessing PHC,386,Select One Choice,842,Across the stream or river
+Primary barrier in accessing PHC,386,Select One Choice,843,Near the graveyard
+Primary barrier in accessing PHC,386,Select One Choice,844,Others
+Primary barrier in accessing PHC,386,Select One Choice,834,Not Applicable Write
+
+CHC available,388,Radio List,846,NO
+CHC available,388,Radio List,847,YES
+
+Primary barrier in accessing CHC,391,Select One Choice,851,No barrier
+Primary barrier in accessing CHC,391,Select One Choice,852,Near upper class hamlet
+Primary barrier in accessing CHC,391,Select One Choice,853,Far off from some of the catchment villages
+Primary barrier in accessing CHC,391,Select One Choice,854,On the main road
+Primary barrier in accessing CHC,391,Select One Choice,855,Across the road or traffic
+Primary barrier in accessing CHC,391,Select One Choice,856,In or near to market
+Primary barrier in accessing CHC,391,Select One Choice,857,Across the forest or hill
+Primary barrier in accessing CHC,391,Select One Choice,858,Across the stream or river
+Primary barrier in accessing CHC,391,Select One Choice,859,Near the graveyard
+Primary barrier in accessing CHC,391,Select One Choice,860,Others
+Primary barrier in accessing CHC,391,Select One Choice,850,Not Applicable Write
+
+ASHA available,393,Radio List,862,NO
+ASHA available,393,Radio List,863,Yes
+
+VHSNC existing,394,Radio List,864,No
+VHSNC existing,394,Radio List,865,Yes
+
+VHSNC operational,395,Select One Choice,866,No
+VHSNC operational,395,Select One Choice,867,"Yes, irregular"
+VHSNC operational,395,Select One Choice,868,"Yes, regular"
+
+VCPC existing,396,Radio List,869,No
+VCPC existing,396,Radio List,870,Yes
+
+VCPC Operational,397,Select One Choice,871,No
+VCPC Operational,397,Select One Choice,872,"Yes, irregular"
+VCPC Operational,397,Select One Choice,873,"Yes, regular"
+
+Electricity,400,Radio List,876,No
+Electricity,400,Radio List,877,Yes
+
+Road,401,Radio List,878,No
+Road,401,Radio List,879,Yes
+
+Public Transport,402,Radio List,880,No
+Public Transport,402,Radio List,881,Yes
+
+Water Supply,403,Radio List,882,No
+Water Supply,403,Radio List,883,Yes
+

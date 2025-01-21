@@ -1,0 +1,75 @@
+
+Question,Question Id,Question Type,choice Id,Choice
+Enrollment status,249,Radio List,352,Yes
+Enrollment status,249,Radio List,353,No
+
+HH Chores involvement,250,Select One Choice,421,Yes somtimes
+HH Chores involvement,250,Select One Choice,422,Yes most of the time
+HH Chores involvement,250,Select One Choice,420,No
+
+HH Chores involvement - Before going to school,251,Select One Choice,508,No
+HH Chores involvement - Before going to school,251,Select One Choice,509,Yes sometimes
+HH Chores involvement - Before going to school,251,Select One Choice,510,Yes most of the time
+
+HH Chores involvement - After coming from school,252,Select One Choice,361,Yes Sometimes
+HH Chores involvement - After coming from school,252,Select One Choice,360,No
+HH Chores involvement - After coming from school,252,Select One Choice,362,Yes Most of the time
+
+Economic activities involvement,253,Select One Choice,363,No
+Economic activities involvement,253,Select One Choice,364,Yes at home
+Economic activities involvement,253,Select One Choice,365,Yes outside with family
+Economic activities involvement,253,Select One Choice,366,Yes outside home alone
+
+Number of hours of involvement,254,Select One Choice,423,Below 3 hours
+Number of hours of involvement,254,Select One Choice,424,3 to 6 hours
+Number of hours of involvement,254,Select One Choice,425,6 to 8 hours
+Number of hours of involvement,254,Select One Choice,426,Above 8 hours
+
+Number of days of involvement,255,Select One Choice,427,Below 7 days
+Number of days of involvement,255,Select One Choice,428,7 to 15 days
+Number of days of involvement,255,Select One Choice,429,16 to 21 days
+Number of days of involvement,255,Select One Choice,430,Above 21 days
+
+Sector of work,256,Select One Choice,431,Agriculture
+Sector of work,256,Select One Choice,432,Domestic Work
+Sector of work,256,Select One Choice,433,Beeding rolling
+Sector of work,256,Select One Choice,434,Brick Klink
+Sector of work,256,Select One Choice,435,Carpet weaving
+Sector of work,256,Select One Choice,436,Constructions
+Sector of work,256,Select One Choice,438,Hotels or Restaurants
+Sector of work,256,Select One Choice,439,Minning Quarries
+Sector of work,256,Select One Choice,440,Diamond and gems industry
+Sector of work,256,Select One Choice,441,Grazing
+Sector of work,256,Select One Choice,442,Zari Work
+Sector of work,256,Select One Choice,444,Flower Picking
+Sector of work,256,Select One Choice,445,Street Vending
+Sector of work,256,Select One Choice,446,Garage Work
+Sector of work,256,Select One Choice,447,Pollination
+Sector of work,256,Select One Choice,448,Other industry
+Sector of work,256,Select One Choice,449,Paper and milk distribution
+Sector of work,256,Select One Choice,450,NTFP
+Sector of work,256,Select One Choice,451,Fishing
+Sector of work,256,Select One Choice,452,Rag Picking
+Sector of work,256,Select One Choice,453,Begging
+Sector of work,256,Select One Choice,454,Others
+Sector of work,256,Select One Choice,455,Dont know
+Sector of work,256,Select One Choice,456,Not Applicable
+Sector of work,256,Select One Choice,443,Piece meal work
+Sector of work,256,Select One Choice,437,Fireworks and matches factory
+
+Bonded labour involvement,258,Select One Choice,402,No
+Bonded labour involvement,258,Select One Choice,403,Yes
+
+Child Migrated,259,Select One Choice,404,Not migrated
+Child Migrated,259,Select One Choice,405,Yes with family
+Child Migrated,259,Select One Choice,406,Yes with guardian
+Child Migrated,259,Select One Choice,407,Yes with person from agent
+Child Migrated,259,Select One Choice,408,Yes alone
+
+Purpose of migration,260,Select One Choice,409,Work
+Purpose of migration,260,Select One Choice,410,Education
+Purpose of migration,260,Select One Choice,411,Social ceremonies
+Purpose of migration,260,Select One Choice,412,Accompanied parents
+Purpose of migration,260,Select One Choice,413,Dont know
+Purpose of migration,260,Select One Choice,414,Not applicable
+

@@ -1,0 +1,4 @@
+Date : 09-02-2018
+Time : 10hrs:03min
+
+Error : Section : getChoicelist,Date : Feb 9, 2018 10:02:29 AM,Uid : ,Application : CRY,NetWorkType & NetwortStatus : MOBILE: CONNECTED,Ip Address : localhost/127.0.0.1,unknown,Android SDK built for x86,23,Error Message : Conflict on Option date,postparameters : 2018-02-05 09:19:30.747738

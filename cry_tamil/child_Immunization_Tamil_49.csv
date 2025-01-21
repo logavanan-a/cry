@@ -1,0 +1,48 @@
+Question ID,SN,வ. எண்
+,Unique Admin ID,தனித்தன்மையான அடையாள எண்
+,Village / Ward,கிராமம்/வார்டு
+,Hamlet/ Para/Mohalla,குக்கிராமம்
+,Child ID,குழந்தையின் அடையாள எண்
+,Name of child,குழந்தையின் பெயர் 
+,Name of head of household,வீட்டு தலைவர்/தலைவியின் பெயர் 
+264,Name of the father,தந்தையின் பெயர் 
+265,Name of mother,தாயின் பெயர்
+,Sex of the child,குழந்தையின் பாலினம் 
+268,Date of birth of child,குழந்தையின் பிறந்த தேதி 
+269,MCP/ MCH Card Made,MCP/MCH அட்டை உருவாக்கப்பட்டதா  
+270,MCP/ MCH Card available,MCP/MCH அட்டை உள்ளதா 
+271,BCG (At birth),பிறந்தவுடன் BCG-தடுப்பூசி போடப்பட்டதா 
+272,BCG - Date,BCG-கொடுக்கப்பட்ட நாள் 
+273,Hepatitis B 0 (At Birth),ஹெபடைடிஸ் B- 0 (பிறந்தா உடன்) 
+274,Hepatitis B 0 - Date,ஹெபடைடிஸ் B-  தேதி 
+275,"OPV - 0 ( for polio, At Birth)","ஒ பி வி -0 (போலியோவுக்காக, பிறந்த உடன்) "
+276,OPV - 0 - Date,ஒ பி வி -0- தேதி 
+277,OPV - 1 (at 1.5 months),ஒ பி வி -1-  (1.5. மாதத்தில்)
+278,OPV - 1 - Date,ஒ பி வி -1- தேதி 
+279,DPT - 1 (at 1.5 months),டிபிடி -1  (1.5. மாதத்தில்)
+280,DPT - 1 - Date,டிபிடி - 1 தேதி 
+281,Hepatitis B 1 (at 1.5 months),ஹெபடைடிஸ் B- 1 (1.5. மாதத்தில்)
+282,Hepatitis B 1 - Date,ஹெபடைடிஸ் B- 1 தேதி 
+283,OPV - 2 (At 2.5 months),ஒ பி வி -2- (2.5. மாதத்தில்)
+284,OPV - 2 - Date,ஒ பி வி -2- தேதி 
+285,DPT - 2 (At 2.5 months),டிபிடி -2  (2.5. மாதத்தில்)
+286,DPT - 2 - Date,டிபிடி -2 தேதி 
+287,Hepatitis B 2 (At 2.5 months),ஹெபடைடிஸ் B- 2 (2.5. மாதத்தில்)
+288,Hepatitis B 2 - Date,ஹெபடைடிஸ் B- 2 தேதி 
+289,OPV - 3 (At 3.5 months),ஒ பி வி -3-  (3.5. மாதத்தில்)
+290,OPV - 3 - Date,ஒ பி வி -3- தேதி 
+291,DPT - 3 (At 3.5 months),டிபிடி -3  (3.5. மாதத்தில்)
+292,DPT - 3 - Date,டிபிடி -3 தேதி 
+293,Hepatitis B 3 (At 3.5 months),ஹெபடைடிஸ் B- 3 (3.5. மாதத்தில்)
+294,Hepatitis B 3- Date,ஹெபடைடிஸ் B- 3 தேதி 
+295,Pentavalent - 1,பெண்டாவேலன்ட் தடுப்பூசி -1
+296,Pentavalent - 1- Date,பெண்டாவேலன்ட் தடுப்பூசி -1- தேதி 
+,Pentavalent - 2,பெண்டாவேலன்ட் தடுப்பூசி -2
+,Pentavalent - 2- Date,பெண்டாவேலன்ட் தடுப்பூசி -2- தேதி 
+297,Pentavalent - 3,பெண்டாவேலன்ட் தடுப்பூசி -3
+298,Pentavalent - 3 - Date,பெண்டாவேலன்ட் தடுப்பூசி -3- தேதி 
+299,Measles (At 9 months),தட்டம்மை தடுப்பூசி  (9 .ம் மாதத்தில் வழங்கப்பட்டதா)
+300,Measles - Date,தட்டம்மை தடுப்பூசி கொடுக்கப்பட்ட தேதி 
+301,Vitamin A (1st dose at 9 months),வைட்டமின் A- (9 .ம் மாதத்தில் முதல் டோஸ்) வழங்கப்பட்டதா  
+302,Vitamin A - Date,வைட்டமின் A- தேதி 
+303,Full immunization,முழுமையான நோய் எதிர்ப்புதிறனூட்டல் 

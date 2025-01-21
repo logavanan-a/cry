@@ -1,0 +1,41 @@
+,Unique Admin ID,विशेष एडमिन आई डी
+,AWC CRY ID,आँगनवाडी केन्द्र क्राई आई डी
+,AWC Government ID,आँगनवाडी केन्द्र शासकीय आई डी
+,Village / Ward,गांव/वार्ड
+,Hamlet/ Para/Mohalla,बसाहट/पारा/मोहल्ला
+89,Type of Anganwaadi,आँगनवाड़ी का प्रकार
+,Rural / Urban,ग्रामीण/शहरी
+,Location/ Address of the AWC,स्थान/आँगनवाड़ी केन्द्र का पता
+108,Year of Operation of AWC,आँगनवाड़ी केन्द्र के परिचालन का वर्ष
+111,Population catered to by AWC,आँगनवाड़ी केन्द्र द्वारा कवर की जा रह जनसंख्या
+113,Need for additional AWC,अतिरिक्त आँगनवाड़ी केन्द्र की आवश्यकता
+114,Anganwadi Worker (AWW) available,आँगनवाड़ी कार्यकर्ता की उपलब्धता
+115,Month and year of joining in the area for AWW,आँगनवाड़ी कार्यकर्ता द्वारा कार्यभार ग्रहण करने का माह एवं वर्ष
+116,Whether AWW is from the same Panchayat/ Ward,क्या आँगनवाड़ी कार्यकर्ता उसी पंचायत या वार्ड से है.
+117,Additional AWW cum Nutrition Counsellor available,अतिरिक्त आँगनवाड़ी कार्यकर्ता-सह-पोषण काउंसलर की उपलब्धता 
+118,AW Helper available,आँगनवाड़ी सहायिका की उपलब्धता
+119,Boys (0-3 Years) enrolled,दर्ज लड़के (0-3 वर्ष)
+120,Girls (0-3 Years) enrolled,दर्ज लड़कियाँ (0-3 वर्ष)
+121,Total Children (0-3 years),0-3 वर्ष आयु के कुल बच्चों की संख्या
+122,Boys (3-6 Years) enrolled,दर्ज लड़के (3-6 वर्ष)
+123,Girls (3-6 Years) enrolled,दर्ज लड़ियाँ (3-6 वर्ष)
+124,Total children (3-6 Years) enrolled,3-6 वर्ष आयु के कुल दर्ज बच्चों की संख्या
+125,Total adolescent girls (11-18 Years) enrolled,कुल दर्ज किशोरी बालिकायें (11-18 वर्ष)
+126,Total number of pregnant women enrolled,कुल दर्ज गर्भवती महिलायें
+127,Total number of lactating mothers enrolled,कुल दर्ज धात्री मातायें
+128,Own Building available,खुद के भवन की उपलब्धता
+129,Type of building,भवन का प्रकार
+130,Shade for cooking available,भोजन पकाने के लिये उपलब्ध छत
+131,Whether drinking water available,क्या पीने का पानी उपलब्ध है
+132,Functional toilet available,कार्यशील शौचालय उपलब्ध
+133,Water available in toilets,शौचालय में पानी की उपलब्धता
+134,Pre-school Education Kits/ material available,स्कूल-पूर्व शिक्षा किट/सामग्री की उपलब्धता
+135,Take Home Ration Available,टेक होम राशन की उपलब्धता
+136,Cooked Food Available,पके भोजन की उपलब्धता
+137,Immunization service available,टीकाकरण सेवाओं की उपलब्धता
+138,Health check up service available,स्वास्थ्य जाँच सेवाओं की उपलब्धता
+139,Referral services available,रेफ़रल सेवाओं की उपलब्धता
+140,Nutrition & Health education service available,पोषण एवं स्वास्थ्य शिक्षा सेवाओं की उपलब्धता
+141,Counselling Services - Adolescent Girls available,किशोरी बालिकाओं के लिये परामर्श सेवाओं की उपलब्धता
+596,Boys referred for referral,रेफ़र किये गये लड़के
+597,Girls referred for referral,रेफ़र की गईं लड़कियाँ

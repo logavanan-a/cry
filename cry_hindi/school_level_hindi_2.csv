@@ -1,0 +1,69 @@
+,Unique Admin ID,विशेष एडमिन आई डी
+,Village / Ward,गांव/वार्ड
+,Hamlet/ Para/Mohalla,बसाहट/पारा/मोहल्ला
+44,Name of the School,स्कूल का नाम
+45,School ID,स्कूल विशिष्ट आई डी 
+46,Lowest class in school,स्कूल की निम्नतम कक्षा
+47,Highest class in school,स्कूल की उच्चतम कक्षा
+48,Category of school,स्कूल की श्रेणी
+49,Type of school,स्कूल का प्रकार
+50,Total number of rooms in school ,स्कूल में कुल कमरों की संख्या
+51,Total Numbers of Class rooms,अध्ययन कक्षों की कुल संख्या
+52,Official medium of instruction,शिक्षण का शासकीय माध्यम
+53,If the official medium matches with local language,क्या शिक्षण का शासकीय माध्यम स्थानीय भाषा से मेल खाता है
+54,Total SC Boys,कुल अ. जा. के लड़के 
+55,Total SC Girls,कुल अ. जा. की लड़कियाँ
+56,Total ST Boys,कुल अ. ज. जा. के लड़के 
+57,Total ST Girls,कुल अ.ज. जा. की लड़कियाँ
+58,Total OBC Boys,कुल अ. पि. व. लड़के
+59,Total OBC Girls,कुल अ. पि. व. लड़कियाँ
+60,Total Other Boys,कुल अन्य लड़के
+61,Total Other Girls,कुल अन्य लड़कियाँ
+62,Total Hindu Boys,कुल हिन्दू लड़के
+63,Total Hindu Girls,कुल हिन्दू लड़कियाँ
+64,Total Muslim Boys,कुल मुस्लिम लड़के
+65,Total Muslim Girls,कुल मुस्लिम लड़कियाँ
+66,Total Christian Boys,कुल ईसाई लड़के
+67,Total Christian Girls,कुल ईसाई लड़कियाँ
+68,Total Sikh Boys,कुल सिक्ख लड़के
+69,Total Sikh Girls,कुल सिक्ख लड़कियाँ
+70,Total Buddhist Boys,कुल बौद्ध लड़के
+71,Total Buddhist Girls,कुल बौद्ध लड़कियाँ
+72,Total Jain Boys,कुल जैन लड़के
+73,Total Jain Girls,कुल जैन लड़कियाँ
+602,Total Other Boys,कुल अन्य लड़के
+603,Total Other Girls,कुल अन्य लड़कियाँ
+74,Total Boys,कुल लड़के
+75,Total Girls,कुल लड़कियाँ
+76,Total Children,कुल बच्चे
+,Total numbers of children with special needs,विशेष आवश्यकता वाले कुल बच्चे
+77,Total numbers of boys with special needs,विशेष आवश्यकता वाले कुल लड़कों की संख्या
+78,Total numbers of girls with special needs,विशेष आवश्यकता वाली कुल लड़कियों की संख्या
+79,Number of permanent teachers ,स्थाई शिक्षकों की संख्या
+80,Number of contractual teachers,संविदा शिक्षकों की संख्या
+81,Total numbers of Teachers,शिक्षकों की कुल संख्या
+82,Total male teachers,कुल पुरुष शिक्षक
+83,Total female teachers,कुल महिला शिक्षक
+,Separate Mathematics Teacher,गणित के लिये नियत शिक्षक
+85,Separate Science Teacher,विज्ञान  के  लिये नियत शिक्षक
+86,Separate Language Teacher,भाषा के  लिये नियत शिक्षक
+87,Separate Teacher for SST,एस. एस. टी. के  लिये नियत शिक्षक
+88,At least one female teacher available,कम से कम एक महिला शिक्षक
+92,Mid-Day Meal cooked by,मध्यान्न भोजन कौन पकाता है
+93,Mid-Day Meal Cook available,मध्यान्न भोजन रसोईया उपलब्ध
+94,Mid-Day Meal Helper available,मध्यान्न भोजन सहायक उपलब्ध
+95,Separate Cleaning Staff for MDM,मध्यान्न भोजन में सफ़ाई के लिये नियत स्टाफ़ उपलब्ध
+96,School building available,स्कूल भवन उपलब्ध
+97,Toilet for Children,बच्चों के लिये शौचालय 
+98,Separate Toilet for Girls,लड़कियों के लिये अलग से शौचालय
+99,Water available in Toilet,शौचालय में पानी उपलब्ध
+100,Boundary Wall Available,चहारदीवारी उपलब्ध
+102,Library Available,पुस्तकालय उपलब्ध
+103,Playground available,खेलकूद मैदान उपलब्ध
+104,Separate kitchen with shed,शेड सहित रसोईघर अलग से उपलब्ध
+105,Disable friendly ramp,विकलांग-हितैशी रैंप उपलब्ध
+106,Availability of drinking water,पीने का पानी उपलब्ध
+107,Availability of electricity,बिजली उपलब्ध
+109,Availability of Science lab ,विज्ञान प्रयोगशाला उपलब्ध
+110,School Management Committee Constituted,स्कल-प्रबंधन समिति गठित
+112,Numbers of meetings conducted in the year,वर्ष में संचालित बैठकों की संख्या

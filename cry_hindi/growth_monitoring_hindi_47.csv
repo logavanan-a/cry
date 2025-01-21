@@ -1,0 +1,53 @@
+,SN,क्रमाँक
+,Unique Admin ID,विशेष एडमिन आई डी
+,Village / Ward,गांव/वार्ड
+,Hamlet/ Para/Mohalla,बसाहट/पारा/मोहल्ला
+,Child ID,बच्चे का आई डी
+,Name of child,बच्चे का नाम
+,Name of head of HH,परिवार के मुखिया का नाम
+231,Name of the father,पिता का नाम
+232,Name of mother,माता का नाम
+233,Data collection date-Q1,आँकड़े एकत्रित करने की तिथि
+,Sex of child-Q1,बच्चे का लिंग
+234,Date of birth-Q1,बच्चे की जन्म-तिथि
+236,Weight-Q1,वज़न
+237,Height-Q1,ऊँचाई
+238,Nutritional Status-Q1,पोषण स्तर
+239,Whether Growth Monitoring Chart updated - Q1,क्या वृद्धि निगरानी चार्ट अपडेट किया गया है
+240,Referral Q1,रेफ़रल
+242,Whether referral service availed-Q1,क्या रेफ़रल सेवाओं का उपयोग किया गया
+243,"If no, reason for not availing-Q1","यदि नहीं, तो उपयोग न करने के कारण"
+244,Supl Nutrition-Q1,पूरक पोषण आहार
+,Data collection date-Q2,आँकड़े एकत्रित करने की तिथि
+,Sex of child-Q2,बच्चे का लिंग
+,Date of birth-Q2,बच्चे की जन्म-तिथि
+,Weight-Q2,वज़न
+,Height-Q2,ऊँचाई
+,Nutritional Status-Q2,पोषण स्तर
+,Whether Growth Monitoring Chart updated - Q2,क्या वृद्धि निगरानी चार्ट अपडेट किया गया है
+,ReferraQ2,रेफ़रल
+,Whether referral service availed-Q2,क्या रेफ़रल सेवाओं का उपयोग किया गया
+,"If no, reason for not availing-Q2","यदि नहीं, तो उपयोग न करने के कारण"
+,Supl Nutrition-Q2,पूरक पोषण आहार
+,Data collection date-Q3,आँकड़े एकत्रित करने की तिथि
+,Sex of child-Q3,बच्चे का लिंग
+,Date of birth-Q3,बच्चे की जन्म-तिथि
+,Weight-Q3,वज़न
+,Height-Q3,ऊँचाई
+,Nutritional Status-Q3,पोषण स्तर
+,Whether Growth Monitoring Chart updated - Q3,क्या वृद्धि निगरानी चार्ट अपडेट किया गया है
+,Referral Q3,रेफ़रल
+,Whether referral service availed-Q3,क्या रेफ़रल सेवाओं का उपयोग किया गया
+,"If no, reason for not availing-Q3","यदि नहीं, तो उपयोग न करने के कारण"
+,Supl Nutrition-Q3,पूरक पोषण आहार
+,Data collection date-Q4,आँकड़े एकत्रित करने की तिथि
+,Sex of child-Q4,बच्चे का लिंग
+,Date of birth-Q4,बच्चे की जन्म-तिथि
+,Weight-Q4,वज़न
+,Height-Q4,ऊँचाई
+,Nutritional Status-Q4,पोषण स्तर
+,Whether Growth Monitoring Chart updated - Q4,क्या वृद्धि निगरानी चार्ट अपडेट किया गया है
+,Referral Q4,रेफ़रल
+,Whether referral service availed-Q4,क्या रेफ़रल सेवाओं का उपयोग किया गया
+,"If no, reason for not availing-Q4","यदि नहीं, तो उपयोग न करने के कारण"
+,Supl Nutrition-Q4,पूरक पोषण आहार

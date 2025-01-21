@@ -1,0 +1,199 @@
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+54,Village Information,340,Rural or Urban - 101---(Village Information),1042,Urban
+54,Village Information,340,Rural or Urban - 101---(Village Information),1043,Rural
+54,Village Information,341,Primary school available - 102---(Village Information),715,"No, Not in the hamlet"
+54,Village Information,341,Primary school available - 102---(Village Information),1041,"Yes , in the Village"
+54,Village Information,342,Primary School ID - 103---(Village Information),,
+54,Village Information,343,Lowest class in Primary School - 104---(Village Information),1044,Class 1
+54,Village Information,343,Lowest class in Primary School - 104---(Village Information),1045,Class 2
+54,Village Information,343,Lowest class in Primary School - 104---(Village Information),1045,Class 2,1046,Class 3
+54,Village Information,343,Lowest class in Primary School - 104---(Village Information),1045,Class 2,1046,Class 3,1047,Class 4
+54,Village Information,343,Lowest class in Primary School - 104---(Village Information),1045,Class 2,1046,Class 3,1047,Class 4,1048,Class 5
+54,Village Information,344,Highest class in Primary School - 105---(Village Information),1049,Class 6
+54,Village Information,344,Highest class in Primary School - 105---(Village Information),1050,Class 7
+54,Village Information,344,Highest class in Primary School - 105---(Village Information),1050,Class 7,1051,Class 8
+54,Village Information,345,Category of Primary School - 106---(Village Information),1052,Government / Local bodies
+54,Village Information,345,Category of Primary School - 106---(Village Information),1053,Private
+54,Village Information,346,Distance of the Primary School - 107---(Village Information),,
+54,Village Information,347,Barriers for accessing Primary School - 108---(Village Information),701,No barrier
+54,Village Information,347,Barriers for accessing Primary School - 108---(Village Information),702,Near to the upper class hamlet
+54,Village Information,347,Barriers for accessing Primary School - 108---(Village Information),702,Near to the upper class hamlet,703,Far from the Village
+54,Village Information,347,Barriers for accessing Primary School - 108---(Village Information),702,Near to the upper class hamlet,703,Far from the Village,704,On the main road
+54,Village Information,347,Barriers for accessing Primary School - 108---(Village Information),702,Near to the upper class hamlet,703,Far from the Village,704,On the main road,705,Across the road or Traffic
+54,Village Information,347,Barriers for accessing Primary School - 108---(Village Information),702,Near to the upper class hamlet,703,Far from the Village,704,On the main road,705,Across the road or Traffic,706,In or Near to market
+54,Village Information,347,Barriers for accessing Primary School - 108---(Village Information),702,Near to the upper class hamlet,703,Far from the Village,704,On the main road,705,Across the road or Traffic,706,In or Near to market,707,Across the forest or hill
+54,Village Information,347,Barriers for accessing Primary School - 108---(Village Information),702,Near to the upper class hamlet,703,Far from the Village,704,On the main road,705,Across the road or Traffic,706,In or Near to market,707,Across the forest or hill,708,Across the stream or river
+54,Village Information,347,Barriers for accessing Primary School - 108---(Village Information),702,Near to the upper class hamlet,703,Far from the Village,704,On the main road,705,Across the road or Traffic,706,In or Near to market,707,Across the forest or hill,708,Across the stream or river,709,Near the graveyard
+54,Village Information,347,Barriers for accessing Primary School - 108---(Village Information),702,Near to the upper class hamlet,703,Far from the Village,704,On the main road,705,Across the road or Traffic,706,In or Near to market,707,Across the forest or hill,708,Across the stream or river,709,Near the graveyard,710,Classes in open
+54,Village Information,347,Barriers for accessing Primary School - 108---(Village Information),702,Near to the upper class hamlet,703,Far from the Village,704,On the main road,705,Across the road or Traffic,706,In or Near to market,707,Across the forest or hill,708,Across the stream or river,709,Near the graveyard,710,Classes in open,711,Across the railway track
+54,Village Information,347,Barriers for accessing Primary School - 108---(Village Information),702,Near to the upper class hamlet,703,Far from the Village,704,On the main road,705,Across the road or Traffic,706,In or Near to market,707,Across the forest or hill,708,Across the stream or river,709,Near the graveyard,710,Classes in open,711,Across the railway track,712,Near Bar and Restaurant
+54,Village Information,347,Barriers for accessing Primary School - 108---(Village Information),702,Near to the upper class hamlet,703,Far from the Village,704,On the main road,705,Across the road or Traffic,706,In or Near to market,707,Across the forest or hill,708,Across the stream or river,709,Near the graveyard,710,Classes in open,711,Across the railway track,712,Near Bar and Restaurant,713,Near Religious structure
+54,Village Information,347,Barriers for accessing Primary School - 108---(Village Information),702,Near to the upper class hamlet,703,Far from the Village,704,On the main road,705,Across the road or Traffic,706,In or Near to market,707,Across the forest or hill,708,Across the stream or river,709,Near the graveyard,710,Classes in open,711,Across the railway track,712,Near Bar and Restaurant,713,Near Religious structure,714,Others
+54,Village Information,348," If other (primary school), specify - 109---(Village Information)",,
+54,Village Information,349,Upper Primary school available - 110---(Village Information),717,"NO, not in the village or Hamlet"
+54,Village Information,349,Upper Primary school available - 110---(Village Information),718,"Yes, in the village/hamlet"
+54,Village Information,350,Upper Primary school ID - 111---(Village Information),,
+54,Village Information,351,Lowest class in upper primary school - 112---(Village Information),1054,Class 6
+54,Village Information,351,Lowest class in upper primary school - 112---(Village Information),1055,Class 7
+54,Village Information,351,Lowest class in upper primary school - 112---(Village Information),1055,Class 7,1056,Class 8
+54,Village Information,352,Highest class in upper primary school - 113---(Village Information),723,class 6
+54,Village Information,352,Highest class in upper primary school - 113---(Village Information),724,class 7
+54,Village Information,352,Highest class in upper primary school - 113---(Village Information),724,class 7,725,class 8
+54,Village Information,353,Category of upper primary school - 114---(Village Information),726,Government or Loacl Bodies
+54,Village Information,353,Category of upper primary school - 114---(Village Information),727,Private
+54,Village Information,354,Distance of the upper primary school from village - 115---(Village Information),,
+54,Village Information,355,Barriers for accessing upper primary school - 116---(Village Information),729,No barrier
+54,Village Information,355,Barriers for accessing upper primary school - 116---(Village Information),730,Near upper class hamle
+54,Village Information,355,Barriers for accessing upper primary school - 116---(Village Information),730,Near upper class hamle,731,Far off from the village
+54,Village Information,355,Barriers for accessing upper primary school - 116---(Village Information),730,Near upper class hamle,731,Far off from the village,732,On the main road
+54,Village Information,355,Barriers for accessing upper primary school - 116---(Village Information),730,Near upper class hamle,731,Far off from the village,732,On the main road,733,Across the road  or Traffic
+54,Village Information,355,Barriers for accessing upper primary school - 116---(Village Information),730,Near upper class hamle,731,Far off from the village,732,On the main road,733,Across the road  or Traffic,734,In or near to market
+54,Village Information,355,Barriers for accessing upper primary school - 116---(Village Information),730,Near upper class hamle,731,Far off from the village,732,On the main road,733,Across the road  or Traffic,734,In or near to market,735,Across the forest or  hill
+54,Village Information,355,Barriers for accessing upper primary school - 116---(Village Information),730,Near upper class hamle,731,Far off from the village,732,On the main road,733,Across the road  or Traffic,734,In or near to market,735,Across the forest or  hill,736,Across the stream or  river
+54,Village Information,355,Barriers for accessing upper primary school - 116---(Village Information),730,Near upper class hamle,731,Far off from the village,732,On the main road,733,Across the road  or Traffic,734,In or near to market,735,Across the forest or  hill,736,Across the stream or  river,737,Near the graveyard
+54,Village Information,355,Barriers for accessing upper primary school - 116---(Village Information),730,Near upper class hamle,731,Far off from the village,732,On the main road,733,Across the road  or Traffic,734,In or near to market,735,Across the forest or  hill,736,Across the stream or  river,737,Near the graveyard,738,Classes in open
+54,Village Information,355,Barriers for accessing upper primary school - 116---(Village Information),730,Near upper class hamle,731,Far off from the village,732,On the main road,733,Across the road  or Traffic,734,In or near to market,735,Across the forest or  hill,736,Across the stream or  river,737,Near the graveyard,738,Classes in open,739,across the Railway track
+54,Village Information,355,Barriers for accessing upper primary school - 116---(Village Information),730,Near upper class hamle,731,Far off from the village,732,On the main road,733,Across the road  or Traffic,734,In or near to market,735,Across the forest or  hill,736,Across the stream or  river,737,Near the graveyard,738,Classes in open,739,across the Railway track,740,Near Bar and Restaurant
+54,Village Information,355,Barriers for accessing upper primary school - 116---(Village Information),730,Near upper class hamle,731,Far off from the village,732,On the main road,733,Across the road  or Traffic,734,In or near to market,735,Across the forest or  hill,736,Across the stream or  river,737,Near the graveyard,738,Classes in open,739,across the Railway track,740,Near Bar and Restaurant,741,Near Religious Structure
+54,Village Information,355,Barriers for accessing upper primary school - 116---(Village Information),730,Near upper class hamle,731,Far off from the village,732,On the main road,733,Across the road  or Traffic,734,In or near to market,735,Across the forest or  hill,736,Across the stream or  river,737,Near the graveyard,738,Classes in open,739,across the Railway track,740,Near Bar and Restaurant,741,Near Religious Structure,742,Others
+54,Village Information,356,If other  - 117---(Village Information),,
+54,Village Information,357,Secondary school available - 118---(Village Information),744,"No, not in the vilaage or Hamlet"
+54,Village Information,357,Secondary school available - 118---(Village Information),745,"Yes, in the village or Hamlet"
+54,Village Information,358,Secondary school ID - 119---(Village Information),,
+54,Village Information,359,Lowest class in secondary school - 120---(Village Information),747,class 9
+54,Village Information,359,Lowest class in secondary school - 120---(Village Information),748,class 10
+54,Village Information,360,Highest class in secondary school - 121---(Village Information),749,class 9
+54,Village Information,360,Highest class in secondary school - 121---(Village Information),750,class 10
+54,Village Information,361,Category of secondary school - 122---(Village Information),751,Government or Local Bodies
+54,Village Information,361,Category of secondary school - 122---(Village Information),752,Private
+54,Village Information,362,Distance of the secondary school - 123---(Village Information),,
+54,Village Information,363,Barriers for accessing secondary school - 124---(Village Information),754,No barrier
+54,Village Information,363,Barriers for accessing secondary school - 124---(Village Information),755,Near upper class hamlet
+54,Village Information,363,Barriers for accessing secondary school - 124---(Village Information),755,Near upper class hamlet,756,Far off from the village
+54,Village Information,363,Barriers for accessing secondary school - 124---(Village Information),755,Near upper class hamlet,756,Far off from the village,757,On the main road
+54,Village Information,363,Barriers for accessing secondary school - 124---(Village Information),755,Near upper class hamlet,756,Far off from the village,757,On the main road,758,Across the road or Traffic
+54,Village Information,363,Barriers for accessing secondary school - 124---(Village Information),755,Near upper class hamlet,756,Far off from the village,757,On the main road,758,Across the road or Traffic,759,In or  near to market
+54,Village Information,363,Barriers for accessing secondary school - 124---(Village Information),755,Near upper class hamlet,756,Far off from the village,757,On the main road,758,Across the road or Traffic,759,In or  near to market,760,Across the forest or  hill
+54,Village Information,363,Barriers for accessing secondary school - 124---(Village Information),755,Near upper class hamlet,756,Far off from the village,757,On the main road,758,Across the road or Traffic,759,In or  near to market,760,Across the forest or  hill,761,Across the stream or river
+54,Village Information,363,Barriers for accessing secondary school - 124---(Village Information),755,Near upper class hamlet,756,Far off from the village,757,On the main road,758,Across the road or Traffic,759,In or  near to market,760,Across the forest or  hill,761,Across the stream or river,762,Near the graveyard
+54,Village Information,363,Barriers for accessing secondary school - 124---(Village Information),755,Near upper class hamlet,756,Far off from the village,757,On the main road,758,Across the road or Traffic,759,In or  near to market,760,Across the forest or  hill,761,Across the stream or river,762,Near the graveyard,763,Classes in open
+54,Village Information,363,Barriers for accessing secondary school - 124---(Village Information),755,Near upper class hamlet,756,Far off from the village,757,On the main road,758,Across the road or Traffic,759,In or  near to market,760,Across the forest or  hill,761,Across the stream or river,762,Near the graveyard,763,Classes in open,764,Across the Railway track
+54,Village Information,363,Barriers for accessing secondary school - 124---(Village Information),755,Near upper class hamlet,756,Far off from the village,757,On the main road,758,Across the road or Traffic,759,In or  near to market,760,Across the forest or  hill,761,Across the stream or river,762,Near the graveyard,763,Classes in open,764,Across the Railway track,765,Near Bar and Restaurant
+54,Village Information,363,Barriers for accessing secondary school - 124---(Village Information),755,Near upper class hamlet,756,Far off from the village,757,On the main road,758,Across the road or Traffic,759,In or  near to market,760,Across the forest or  hill,761,Across the stream or river,762,Near the graveyard,763,Classes in open,764,Across the Railway track,765,Near Bar and Restaurant,766,Near Religious Structure
+54,Village Information,363,Barriers for accessing secondary school - 124---(Village Information),755,Near upper class hamlet,756,Far off from the village,757,On the main road,758,Across the road or Traffic,759,In or  near to market,760,Across the forest or  hill,761,Across the stream or river,762,Near the graveyard,763,Classes in open,764,Across the Railway track,765,Near Bar and Restaurant,766,Near Religious Structure,767,Others
+54,Village Information,364,if other - 125---(Village Information),,
+54,Village Information,365,Higher Secondary school available - 126---(Village Information),769,"No, not in the village or Hamlet"
+54,Village Information,365,Higher Secondary school available - 126---(Village Information),770,"Yes, in the village or Hamlet"
+54,Village Information,366,Higher Secondary school ID - 127---(Village Information),,
+54,Village Information,367,Lowest class in higher secondary school - 128---(Village Information),772,class 11
+54,Village Information,367,Lowest class in higher secondary school - 128---(Village Information),773,class 12
+54,Village Information,368,Highest class in higher secondary school - 129---(Village Information),774,class 11
+54,Village Information,368,Highest class in higher secondary school - 129---(Village Information),775,class 12
+54,Village Information,369,Category of higher secondary school - 130---(Village Information),776,Government or Local Bodies
+54,Village Information,369,Category of higher secondary school - 130---(Village Information),777,Private
+54,Village Information,370,Distance of the higher secondary school - 131---(Village Information),,
+54,Village Information,371,Barriers for accessing higher secondary school - 132---(Village Information),779,No barrier
+54,Village Information,371,Barriers for accessing higher secondary school - 132---(Village Information),780,Near upper class hamlet
+54,Village Information,371,Barriers for accessing higher secondary school - 132---(Village Information),780,Near upper class hamlet,781, Far off from the village
+54,Village Information,371,Barriers for accessing higher secondary school - 132---(Village Information),780,Near upper class hamlet,781, Far off from the village,782,On the main road
+54,Village Information,371,Barriers for accessing higher secondary school - 132---(Village Information),780,Near upper class hamlet,781, Far off from the village,782,On the main road,783,Across the road  or Traffic
+54,Village Information,371,Barriers for accessing higher secondary school - 132---(Village Information),780,Near upper class hamlet,781, Far off from the village,782,On the main road,783,Across the road  or Traffic,784,In or near to market
+54,Village Information,371,Barriers for accessing higher secondary school - 132---(Village Information),780,Near upper class hamlet,781, Far off from the village,782,On the main road,783,Across the road  or Traffic,784,In or near to market,785,Across the forest or hill
+54,Village Information,371,Barriers for accessing higher secondary school - 132---(Village Information),780,Near upper class hamlet,781, Far off from the village,782,On the main road,783,Across the road  or Traffic,784,In or near to market,785,Across the forest or hill,786,Across the stream or  river
+54,Village Information,371,Barriers for accessing higher secondary school - 132---(Village Information),780,Near upper class hamlet,781, Far off from the village,782,On the main road,783,Across the road  or Traffic,784,In or near to market,785,Across the forest or hill,786,Across the stream or  river,787,Near the graveyard
+54,Village Information,371,Barriers for accessing higher secondary school - 132---(Village Information),780,Near upper class hamlet,781, Far off from the village,782,On the main road,783,Across the road  or Traffic,784,In or near to market,785,Across the forest or hill,786,Across the stream or  river,787,Near the graveyard,788,Classes in open
+54,Village Information,371,Barriers for accessing higher secondary school - 132---(Village Information),780,Near upper class hamlet,781, Far off from the village,782,On the main road,783,Across the road  or Traffic,784,In or near to market,785,Across the forest or hill,786,Across the stream or  river,787,Near the graveyard,788,Classes in open,789, Across the Railway track
+54,Village Information,371,Barriers for accessing higher secondary school - 132---(Village Information),780,Near upper class hamlet,781, Far off from the village,782,On the main road,783,Across the road  or Traffic,784,In or near to market,785,Across the forest or hill,786,Across the stream or  river,787,Near the graveyard,788,Classes in open,789, Across the Railway track,790,Near Bar and Restaurant
+54,Village Information,371,Barriers for accessing higher secondary school - 132---(Village Information),780,Near upper class hamlet,781, Far off from the village,782,On the main road,783,Across the road  or Traffic,784,In or near to market,785,Across the forest or hill,786,Across the stream or  river,787,Near the graveyard,788,Classes in open,789, Across the Railway track,790,Near Bar and Restaurant,791,Near Religious Structure
+54,Village Information,371,Barriers for accessing higher secondary school - 132---(Village Information),780,Near upper class hamlet,781, Far off from the village,782,On the main road,783,Across the road  or Traffic,784,In or near to market,785,Across the forest or hill,786,Across the stream or  river,787,Near the graveyard,788,Classes in open,789, Across the Railway track,790,Near Bar and Restaurant,791,Near Religious Structure,792,Others
+54,Village Information,372,If other - 133---(Village Information),,
+54,Village Information,373,AWC available - 134---(Village Information),794,"No, not in the village or Hamlet"
+54,Village Information,373,AWC available - 134---(Village Information),795,"yes, in the village or Hamlet"
+54,Village Information,374,Distance of the AWC from the village - 135---(Village Information),,
+54,Village Information,375,Primary barriers for accessing AWC - 136---(Village Information),797,for No barrier
+54,Village Information,375,Primary barriers for accessing AWC - 136---(Village Information),798,Near upper class hamlet
+54,Village Information,375,Primary barriers for accessing AWC - 136---(Village Information),798,Near upper class hamlet,799,Far off from some of the catchment villages
+54,Village Information,375,Primary barriers for accessing AWC - 136---(Village Information),798,Near upper class hamlet,799,Far off from some of the catchment villages,800,On the main road
+54,Village Information,375,Primary barriers for accessing AWC - 136---(Village Information),798,Near upper class hamlet,799,Far off from some of the catchment villages,800,On the main road,801,Across the road or  traffic
+54,Village Information,375,Primary barriers for accessing AWC - 136---(Village Information),798,Near upper class hamlet,799,Far off from some of the catchment villages,800,On the main road,801,Across the road or  traffic,802,In or near to market
+54,Village Information,375,Primary barriers for accessing AWC - 136---(Village Information),798,Near upper class hamlet,799,Far off from some of the catchment villages,800,On the main road,801,Across the road or  traffic,802,In or near to market,803,Across the forest or  hill
+54,Village Information,375,Primary barriers for accessing AWC - 136---(Village Information),798,Near upper class hamlet,799,Far off from some of the catchment villages,800,On the main road,801,Across the road or  traffic,802,In or near to market,803,Across the forest or  hill,804,Across the stream or river
+54,Village Information,375,Primary barriers for accessing AWC - 136---(Village Information),798,Near upper class hamlet,799,Far off from some of the catchment villages,800,On the main road,801,Across the road or  traffic,802,In or near to market,803,Across the forest or  hill,804,Across the stream or river,805,Near the graveyard
+54,Village Information,375,Primary barriers for accessing AWC - 136---(Village Information),798,Near upper class hamlet,799,Far off from some of the catchment villages,800,On the main road,801,Across the road or  traffic,802,In or near to market,803,Across the forest or  hill,804,Across the stream or river,805,Near the graveyard,806,AWC in open
+54,Village Information,375,Primary barriers for accessing AWC - 136---(Village Information),798,Near upper class hamlet,799,Far off from some of the catchment villages,800,On the main road,801,Across the road or  traffic,802,In or near to market,803,Across the forest or  hill,804,Across the stream or river,805,Near the graveyard,806,AWC in open,807,Across the Railway track
+54,Village Information,375,Primary barriers for accessing AWC - 136---(Village Information),798,Near upper class hamlet,799,Far off from some of the catchment villages,800,On the main road,801,Across the road or  traffic,802,In or near to market,803,Across the forest or  hill,804,Across the stream or river,805,Near the graveyard,806,AWC in open,807,Across the Railway track,808,Near Bar and Restaurant
+54,Village Information,375,Primary barriers for accessing AWC - 136---(Village Information),798,Near upper class hamlet,799,Far off from some of the catchment villages,800,On the main road,801,Across the road or  traffic,802,In or near to market,803,Across the forest or  hill,804,Across the stream or river,805,Near the graveyard,806,AWC in open,807,Across the Railway track,808,Near Bar and Restaurant,809,Near Religious Structure
+54,Village Information,375,Primary barriers for accessing AWC - 136---(Village Information),798,Near upper class hamlet,799,Far off from some of the catchment villages,800,On the main road,801,Across the road or  traffic,802,In or near to market,803,Across the forest or  hill,804,Across the stream or river,805,Near the graveyard,806,AWC in open,807,Across the Railway track,808,Near Bar and Restaurant,809,Near Religious Structure,810,Others
+54,Village Information,376,Others - 137---(Village Information),,
+54,Village Information,377,Need for additional AWC - 138---(Village Information),812,No
+54,Village Information,377,Need for additional AWC - 138---(Village Information),813,Yes
+54,Village Information,378,SHC available - 139---(Village Information),814,No
+54,Village Information,378,SHC available - 139---(Village Information),815,Yes
+54,Village Information,379,SHC ID - 140---(Village Information),,
+54,Village Information,380,Distance of the SHC from the village - 141---(Village Information),,
+54,Village Information,381,Primary barrier in accessing SHC - 142---(Village Information),819,No barrier
+54,Village Information,381,Primary barrier in accessing SHC - 142---(Village Information),820,Near upper class hamlet
+54,Village Information,381,Primary barrier in accessing SHC - 142---(Village Information),820,Near upper class hamlet,821,Far off from some of the catchment villages
+54,Village Information,381,Primary barrier in accessing SHC - 142---(Village Information),820,Near upper class hamlet,821,Far off from some of the catchment villages,822,On the main road
+54,Village Information,381,Primary barrier in accessing SHC - 142---(Village Information),820,Near upper class hamlet,821,Far off from some of the catchment villages,822,On the main road,823,Across the road or  traffic
+54,Village Information,381,Primary barrier in accessing SHC - 142---(Village Information),820,Near upper class hamlet,821,Far off from some of the catchment villages,822,On the main road,823,Across the road or  traffic,824,In or near to market
+54,Village Information,381,Primary barrier in accessing SHC - 142---(Village Information),820,Near upper class hamlet,821,Far off from some of the catchment villages,822,On the main road,823,Across the road or  traffic,824,In or near to market,825,Across the forest or hill
+54,Village Information,381,Primary barrier in accessing SHC - 142---(Village Information),820,Near upper class hamlet,821,Far off from some of the catchment villages,822,On the main road,823,Across the road or  traffic,824,In or near to market,825,Across the forest or hill,826,Across the stream or river
+54,Village Information,381,Primary barrier in accessing SHC - 142---(Village Information),820,Near upper class hamlet,821,Far off from some of the catchment villages,822,On the main road,823,Across the road or  traffic,824,In or near to market,825,Across the forest or hill,826,Across the stream or river,827,Near the graveyard
+54,Village Information,381,Primary barrier in accessing SHC - 142---(Village Information),820,Near upper class hamlet,821,Far off from some of the catchment villages,822,On the main road,823,Across the road or  traffic,824,In or near to market,825,Across the forest or hill,826,Across the stream or river,827,Near the graveyard,828,Others
+54,Village Information,381,Primary barrier in accessing SHC - 142---(Village Information),820,Near upper class hamlet,821,Far off from some of the catchment villages,822,On the main road,823,Across the road or  traffic,824,In or near to market,825,Across the forest or hill,826,Across the stream or river,827,Near the graveyard,828,Others,818,Not Applicable Write
+54,Village Information,382,If Other - 143---(Village Information),,
+54,Village Information,383,PHC available - 144---(Village Information),830,NO
+54,Village Information,383,PHC available - 144---(Village Information),831,YES
+54,Village Information,384,PHC ID - 145---(Village Information),,
+54,Village Information,385,Distance of the PHC from the village - 146---(Village Information),,
+54,Village Information,386,Primary barrier in accessing PHC - 147---(Village Information),835,No barrier
+54,Village Information,386,Primary barrier in accessing PHC - 147---(Village Information),836,Near upper class hamlet
+54,Village Information,386,Primary barrier in accessing PHC - 147---(Village Information),836,Near upper class hamlet,837,Far off from some of the catchment villages
+54,Village Information,386,Primary barrier in accessing PHC - 147---(Village Information),836,Near upper class hamlet,837,Far off from some of the catchment villages,838,On the main road
+54,Village Information,386,Primary barrier in accessing PHC - 147---(Village Information),836,Near upper class hamlet,837,Far off from some of the catchment villages,838,On the main road,839,Across the road or traffic
+54,Village Information,386,Primary barrier in accessing PHC - 147---(Village Information),836,Near upper class hamlet,837,Far off from some of the catchment villages,838,On the main road,839,Across the road or traffic,840,In or  near to market
+54,Village Information,386,Primary barrier in accessing PHC - 147---(Village Information),836,Near upper class hamlet,837,Far off from some of the catchment villages,838,On the main road,839,Across the road or traffic,840,In or  near to market,841,Across the forest or hill
+54,Village Information,386,Primary barrier in accessing PHC - 147---(Village Information),836,Near upper class hamlet,837,Far off from some of the catchment villages,838,On the main road,839,Across the road or traffic,840,In or  near to market,841,Across the forest or hill,842,Across the stream or river
+54,Village Information,386,Primary barrier in accessing PHC - 147---(Village Information),836,Near upper class hamlet,837,Far off from some of the catchment villages,838,On the main road,839,Across the road or traffic,840,In or  near to market,841,Across the forest or hill,842,Across the stream or river,843,Near the graveyard
+54,Village Information,386,Primary barrier in accessing PHC - 147---(Village Information),836,Near upper class hamlet,837,Far off from some of the catchment villages,838,On the main road,839,Across the road or traffic,840,In or  near to market,841,Across the forest or hill,842,Across the stream or river,843,Near the graveyard,844,Others
+54,Village Information,386,Primary barrier in accessing PHC - 147---(Village Information),836,Near upper class hamlet,837,Far off from some of the catchment villages,838,On the main road,839,Across the road or traffic,840,In or  near to market,841,Across the forest or hill,842,Across the stream or river,843,Near the graveyard,844,Others,834,Not Applicable Write
+54,Village Information,387,If Other - 148---(Village Information),,
+54,Village Information,388,CHC available - 149---(Village Information),846,NO
+54,Village Information,388,CHC available - 149---(Village Information),847,YES
+54,Village Information,389,CHC ID - 150---(Village Information),,
+54,Village Information,390,Distance of the CHC from the village - 151---(Village Information),,
+54,Village Information,391,Primary barrier in accessing CHC - 152---(Village Information),851,No barrier
+54,Village Information,391,Primary barrier in accessing CHC - 152---(Village Information),852,Near upper class hamlet
+54,Village Information,391,Primary barrier in accessing CHC - 152---(Village Information),852,Near upper class hamlet,853,Far off from some of the catchment villages
+54,Village Information,391,Primary barrier in accessing CHC - 152---(Village Information),852,Near upper class hamlet,853,Far off from some of the catchment villages,854,On the main road
+54,Village Information,391,Primary barrier in accessing CHC - 152---(Village Information),852,Near upper class hamlet,853,Far off from some of the catchment villages,854,On the main road,855,Across the road or traffic
+54,Village Information,391,Primary barrier in accessing CHC - 152---(Village Information),852,Near upper class hamlet,853,Far off from some of the catchment villages,854,On the main road,855,Across the road or traffic,856,In or near to market
+54,Village Information,391,Primary barrier in accessing CHC - 152---(Village Information),852,Near upper class hamlet,853,Far off from some of the catchment villages,854,On the main road,855,Across the road or traffic,856,In or near to market,857,Across the forest or hill
+54,Village Information,391,Primary barrier in accessing CHC - 152---(Village Information),852,Near upper class hamlet,853,Far off from some of the catchment villages,854,On the main road,855,Across the road or traffic,856,In or near to market,857,Across the forest or hill,858,Across the stream or river
+54,Village Information,391,Primary barrier in accessing CHC - 152---(Village Information),852,Near upper class hamlet,853,Far off from some of the catchment villages,854,On the main road,855,Across the road or traffic,856,In or near to market,857,Across the forest or hill,858,Across the stream or river,859,Near the graveyard
+54,Village Information,391,Primary barrier in accessing CHC - 152---(Village Information),852,Near upper class hamlet,853,Far off from some of the catchment villages,854,On the main road,855,Across the road or traffic,856,In or near to market,857,Across the forest or hill,858,Across the stream or river,859,Near the graveyard,860,Others
+54,Village Information,391,Primary barrier in accessing CHC - 152---(Village Information),852,Near upper class hamlet,853,Far off from some of the catchment villages,854,On the main road,855,Across the road or traffic,856,In or near to market,857,Across the forest or hill,858,Across the stream or river,859,Near the graveyard,860,Others,850,Not Applicable Write
+54,Village Information,392,If other - 153---(Village Information),,
+54,Village Information,393,ASHA available - 154---(Village Information),862,NO
+54,Village Information,393,ASHA available - 154---(Village Information),863,Yes
+54,Village Information,394,VHSNC existing - 155---(Village Information),864,No
+54,Village Information,394,VHSNC existing - 155---(Village Information),865,Yes
+54,Village Information,395,VHSNC operational - 156---(Village Information),866,No
+54,Village Information,395,VHSNC operational - 156---(Village Information),867,"Yes, irregular"
+54,Village Information,395,VHSNC operational - 156---(Village Information),867,"Yes, irregular",868,"Yes, regular"
+54,Village Information,396,VCPC existing - 157---(Village Information),869,No
+54,Village Information,396,VCPC existing - 157---(Village Information),870,Yes
+54,Village Information,397,VCPC Operational - 158---(Village Information),871,No
+54,Village Information,397,VCPC Operational - 158---(Village Information),872,"Yes, irregular"
+54,Village Information,397,VCPC Operational - 158---(Village Information),872,"Yes, irregular",873,"Yes, regular"
+54,Village Information,398,Number of Self Help Groups/ CBOs - 159---(Village Information),,
+54,Village Information,399,Number of Child Collective - 160---(Village Information),,
+54,Village Information,400,Electricity - 161---(Village Information),876,No
+54,Village Information,400,Electricity - 161---(Village Information),877,Yes
+54,Village Information,401,Road - 162---(Village Information),878,No
+54,Village Information,401,Road - 162---(Village Information),879,Yes
+54,Village Information,402,Public Transport - 163---(Village Information),880,No
+54,Village Information,402,Public Transport - 163---(Village Information),881,Yes
+54,Village Information,403,Water Supply - 164---(Village Information),882,No
+54,Village Information,403,Water Supply - 164---(Village Information),883,Yes

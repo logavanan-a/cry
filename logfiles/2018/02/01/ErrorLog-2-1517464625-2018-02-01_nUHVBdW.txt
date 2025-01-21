@@ -1,0 +1,4 @@
+Date : 01-02-2018
+Time : 11hrs:27min
+
+Error : Section : dynamicallySettingView,Date : 1 Feb 2018 11:25:51 a.m.,Uid : ,Application : CRY,NetWorkType & NetwortStatus : MOBILE: CONNECTED,Ip Address : localhost/127.0.0.1,Xiaomi,Redmi 3S,23,Error Message : Exception In Getting View ,postparameters : 

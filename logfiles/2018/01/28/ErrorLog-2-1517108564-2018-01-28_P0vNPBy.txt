@@ -1,0 +1,4 @@
+Date : 28-01-2018
+Time : 08hrs:32min
+
+Error : Section : getChoicelist,Date : 28 Jan 2018 8:31:30 a.m.,Uid : ,Application : CRY,NetWorkType & NetwortStatus : MOBILE: CONNECTED,Ip Address : localhost/127.0.0.1,Letv,Le X507,23,Error Message : Conflict on Option date,postparameters : 2018-01-05 09:39:05.257442

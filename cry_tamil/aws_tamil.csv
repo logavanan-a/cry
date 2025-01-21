@@ -1,0 +1,42 @@
+,,Question Id,SN,வ.எண்
+,,,Unique Admin ID,தனித்தன்மையான அடையாள எண்
+,,,AWC CRY ID,அங்கன்வாடி மையம்- CRY அடையாள எண் 
+,,,AWC Government ID,அங்கன்வாடி மையம்- அரசின் அடையாள எண் 
+,,,Village / Ward,கிராமம்/வார்டு
+,,,Hamlet/ Para/Mohalla,குக்கிராமம்
+,,89,Type of Anganwaadi,அங்கன்வாடியின் வகை 
+,,,Rural / Urban,கிராமம்/நகரம்
+,,,Location/ Address of the AWC,இடம்/அங்கன்வாடியின் முகவரி
+,,108,Year of Operation of AWC,அங்கன்வாடி மையம் செயல்பட தொடங்கிய வருடம் 
+,,111,Population catered to by AWC,அங்கன்வாடி மையத்தால் சேவை வழங்கப்படும் மொத்த மக்கள்தொகை
+,,113,Need for additional AWC,கூடுதல் அங்கன்வாடி மையம் தேவையா
+,,114,Anganwadi Worker (AWW) available,அங்கன்வாடி மைய ஊழியர் இருக்கிறாரா
+,,115,Month and year of joining in the area for AWW,அங்கன்வாடி மைய ஊழியர் மையத்தில் பணியில் சேர்ந்த மாதம் மற்றும் வருடம் 
+,,116,Whether AWW is from the same Panchayat/ Ward,அங்கன்வாடி மைய ஊழியர் அதே பஞ்சாயத்தை/வார்டை சேர்ந்தவரா
+,,117,Additional AWW cum Nutrition Counsellor available,கூடுதல் அங்கன்வாடி  ஊழியர் மற்றும் சத்துணவு ஆலோசகர் இருக்கிறாரா
+,,118,AW Helper available,அங்கன்வாடி மைய உதவியளர் இருக்கிறாரா
+,,119,Boys (0-3 Years) enrolled,ஆண் குழந்தைகள் ( ௦-3வயது) சேர்க்கை
+,,120,Girls (0-3 Years) enrolled,பெண் குழந்தைகள் ( ௦-3வயது) சேர்க்கை
+,,121,Total Children (0-3 years),மொத்த குழந்தைகள் ( ௦-3வயது) 
+,,122,Boys (3-6 Years) enrolled,ஆண் குழந்தைகள் ( 3-6 வயது) சேர்க்கை
+,,123,Girls (3-6 Years) enrolled,பெண் குழந்தைகள் ( 3-6 வயது) சேர்க்கை
+,,124,Total children (3-6 Years) enrolled,மொத்த குழந்தைகள் ( 3-6 வயது)
+,,125,Total adolescent girls (11-18 Years) enrolled,பதிவு செய்யப்பட்டமொத்த வளரிளம் பெண்கள் (11-18 வயது)  
+,,126,Total number of pregnant women enrolled,பதிவு செய்யப்பட்டமொத்த கர்ப்பிணி பெண்கள்
+,,127,Total number of lactating mothers enrolled,பதிவு செய்யப்பட்டமொத்த பாலுட்டும் தாய்மார்கள்
+,,128,Own Building available,சொந்த கட்டிடம் இருக்கிறதா
+,,129,Type of building,கட்டிடத்தின் வகை
+,,130,Shade for cooking available,சமையலறையில் கூரை உள்ளதா 
+,,131,Whether drinking water available,குடிநீர் உள்ளதா
+,,132,Functional toilet available,பயன்பாட்டில் உள்ள கழிவறை உள்ளதா 
+,,133,Water available in toilets,கழிவறையில் தண்ணீர் வசதி உள்ளதா 
+,,134,Pre-school Education Kits/ material available,கல்வி உபகரணங்கள் இருக்கிறதா
+,,135,Take Home Ration Available,கூடுதல் இணை உணவு/ சத்துணவு வழங்கப்படுகிறதா 
+,,136,Cooked Food Available,சமைக்கப்பட்ட உணவு உள்ளதா 
+,,137,Immunization service available,தடுப்பூசி சேவை உள்ளதா 
+,,138,Health check up service available,மருத்துவ பரிசோதனை சேவை உள்ளதா 
+,,139,Referral services available,பரிந்துரை சேவைகள் உள்ளதா 
+,,140,Nutrition & Health education service available,ஊட்டசத்து மற்றும் உடல் நலக் கல்வி சேவை உள்ளதா 
+,,141,Counselling Services - Adolescent Girls available,வளரிளம்பெண் குழந்தைகளுக்கானஆலோசனை வழங்கப்படுகிறத 
+,,,Boys referred for referral,பரிந்துரை செய்யப்பட்ட ஆண் குழந்தைகள்
+,,,Girls referred for referral,பரிந்துரை செய்யப்பட்ட பெண் குழந்தைகள் 

@@ -1,0 +1,59 @@
+
+Question,Question Id,Question Type,choice Id,Choice
+Type of Anganwadi,89,Select One Choice,78,ICDS
+
+Anganwadi worker AWW available,114,Radio List,119,Yes
+Anganwadi worker AWW available,114,Radio List,120,No
+
+Whether AWW is from the same Panchayat or Ward,116,Radio List,121,Yes
+Whether AWW is from the same Panchayat or Ward,116,Radio List,122,No
+
+Additional AWW cum Nutrition Counsellor available,117,Radio List,123,Yes
+Additional AWW cum Nutrition Counsellor available,117,Radio List,124,No
+
+AW Helper available,118,Radio List,125,Yes
+AW Helper available,118,Radio List,126,No
+
+Own Building available,128,Radio List,127,Yes
+Own Building available,128,Radio List,128,No
+
+Type of building,129,Radio List,129,Own
+Type of building,129,Radio List,130,Rented
+Type of building,129,Radio List,131,Leased
+
+Shade for cooking available,130,Radio List,132,Yes
+Shade for cooking available,130,Radio List,133,No
+
+Whether drinking water available,131,Radio List,134,Yes
+Whether drinking water available,131,Radio List,135,No
+
+Functional toilet available,132,Radio List,136,Yes
+Functional toilet available,132,Radio List,137,No
+
+Water available in toilets,133,Radio List,138,Yes
+Water available in toilets,133,Radio List,139,No
+
+Pre-school Education Kits/ material available,134,Radio List,140,Yes
+Pre-school Education Kits/ material available,134,Radio List,141,No
+
+Take Home Ration Available,135,Radio List,142,Yes
+Take Home Ration Available,135,Radio List,143,No
+
+Cooked Food Available,136,Radio List,144,Yes
+Cooked Food Available,136,Radio List,145,No
+
+Immunization service available,137,Radio List,146,Yes
+Immunization service available,137,Radio List,147,No
+
+Health check up service available,138,Radio List,148,Yes
+Health check up service available,138,Radio List,149,No
+
+Referral services available,139,Radio List,150,Yes
+Referral services available,139,Radio List,151,No
+
+Nutrition & Health education service available,140,Radio List,152,Yes
+Nutrition & Health education service available,140,Radio List,153,No
+
+Counselling Services - Adolescent Girls available,141,Radio List,154,Yes
+Counselling Services - Adolescent Girls available,141,Radio List,155,No
+

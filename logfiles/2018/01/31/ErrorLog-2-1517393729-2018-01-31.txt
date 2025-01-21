@@ -1,0 +1,4 @@
+Date : 31-01-2018
+Time : 15hrs:45min
+
+Error : Section : getBlocklist,Date : Jan 31, 2018 3:44:12 PM,Uid : ,Application : CRY,NetWorkType & NetwortStatus : MOBILE: CONNECTED,Ip Address : localhost/127.0.0.1,unknown,Android SDK built for x86,23,Error Message : Conflict on Block date,postparameters : 

@@ -1,0 +1,69 @@
+
+Question,Question Id,Question Type,choice Id,Choice
+Category of School,48,Radio List,68,Higher
+Category of School,48,Radio List,69,Secondary
+Category of School,48,Radio List,70,Both
+
+Type of School,49,Radio List,71,Girls
+Type of School,49,Radio List,72,Boys
+Type of School,49,Radio List,73,Co Education
+
+If the official medium matches with local language,53,Radio List,74,Yes
+If the official medium matches with local language,53,Radio List,75,No 
+
+Atleast one Female teacher available,88,Radio List,77,No 
+Atleast one Female teacher available,88,Radio List,76,Yes
+
+Mid Day meal cooked by ,92,Select One Choice,82,School
+Mid Day meal cooked by ,92,Select One Choice,158,Self Cookingg
+Mid Day meal cooked by ,92,Select One Choice,83,NGO
+Mid Day meal cooked by ,92,Select One Choice,84,Caterer
+
+Mid Day meal cook available,93,Radio List,85,Yes
+Mid Day meal cook available,93,Radio List,86,No 
+
+Mid Day meal helper available,94,Radio List,87,Yes
+Mid Day meal helper available,94,Radio List,88,No
+
+Separate cleaning staff for MDM,95,Radio List,89,Yes
+Separate cleaning staff for MDM,95,Radio List,90,No
+
+School building available,96,Radio List,91,Yes
+School building available,96,Radio List,92,No
+
+Toilet for children,97,Radio List,93,Yes
+Toilet for children,97,Radio List,94,No
+
+Separate Toilet for Girls,98,Radio List,95,Yes
+Separate Toilet for Girls,98,Radio List,96,No
+
+Water available in Toilet,99,Radio List,97,Yes
+Water available in Toilet,99,Radio List,98,No
+
+Boundary wall available,100,Radio List,99,Yes
+Boundary wall available,100,Radio List,100,No
+
+Libraray available,102,Radio List,103,Yes
+Libraray available,102,Radio List,104,No
+
+Playground available,103,Radio List,105,Yes
+Playground available,103,Radio List,106,No
+
+Separate kitchen with shed,104,Radio List,107,Yes
+Separate kitchen with shed,104,Radio List,108,No
+
+Disable friendly with ramp,105,Radio List,109,Yes
+Disable friendly with ramp,105,Radio List,110,No
+
+Availablity of Drinking Water,106,Radio List,111,Yes
+Availablity of Drinking Water,106,Radio List,112,No
+
+Availability of Electricity,107,Radio List,113,Yes
+Availability of Electricity,107,Radio List,114,No
+
+Availability of Science lab,109,Radio List,115,Yes
+Availability of Science lab,109,Radio List,116,No
+
+School management commitee constituted,110,Radio List,117,Yes
+School management commitee constituted,110,Radio List,118,No
+

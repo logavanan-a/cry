@@ -1,0 +1,4 @@
+Date : 09-02-2018
+Time : 11hrs:23min
+
+Error : Section : getLanguageOptionlist,Date : Feb 9, 2018 11:21:49 AM,Uid : ,Application : CRY,NetWorkType & NetwortStatus : MOBILE: CONNECTED,Ip Address : localhost/127.0.0.1,unknown,Android SDK built for x86,23,Error Message : Conflict in the Langaugeoptions date,postparameters : 2018-02-02 13:35:54.600165

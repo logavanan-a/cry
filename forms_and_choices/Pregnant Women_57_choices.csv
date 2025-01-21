@@ -1,0 +1,265 @@
+
+Question,Question Id,Question Type,choice Id,Choice
+Highest Class passed Husband,456,Select One Choice,1066,Illiterate
+Highest Class passed Husband,456,Select One Choice,1067,Class 1
+Highest Class passed Husband,456,Select One Choice,1068,Class 2
+Highest Class passed Husband,456,Select One Choice,1069,Class 3
+Highest Class passed Husband,456,Select One Choice,1070,Class 4
+Highest Class passed Husband,456,Select One Choice,1071,Class 5
+Highest Class passed Husband,456,Select One Choice,1072,Class 6
+Highest Class passed Husband,456,Select One Choice,1073,Class 7
+Highest Class passed Husband,456,Select One Choice,1074,Class 8
+Highest Class passed Husband,456,Select One Choice,1075,Class 9
+Highest Class passed Husband,456,Select One Choice,1076,Class 10
+Highest Class passed Husband,456,Select One Choice,1077,Class 11
+Highest Class passed Husband,456,Select One Choice,1078,Class 12
+Highest Class passed Husband,456,Select One Choice,1079,Graduate
+Highest Class passed Husband,456,Select One Choice,1080,Post Graduate
+Highest Class passed Husband,456,Select One Choice,1081,Technical/Professional Education
+
+Occupation of Husband,457,Select One Choice,1083,Unemployed
+Occupation of Husband,457,Select One Choice,1084, Agricultural labour
+Occupation of Husband,457,Select One Choice,1085,Casual labour and other labour work
+Occupation of Husband,457,Select One Choice,1086,Agriculture/ dairy/ fishery and other allied work
+Occupation of Husband,457,Select One Choice,1087,Self employed/ business/ vending/ trading
+Occupation of Husband,457,Select One Choice,1088,Salaried 
+Occupation of Husband,457,Select One Choice,1089,Artisan
+Occupation of Husband,457,Select One Choice,1090,Domestic work
+Occupation of Husband,457,Select One Choice,1091,Others
+
+Highest class passed - Mother,459,Select One Choice,1093,Illiterate
+Highest class passed - Mother,459,Select One Choice,1094,Class 1
+Highest class passed - Mother,459,Select One Choice,1095,Class 2
+Highest class passed - Mother,459,Select One Choice,1096,Class 3
+Highest class passed - Mother,459,Select One Choice,1097,Class 4
+Highest class passed - Mother,459,Select One Choice,1098,Class 5
+Highest class passed - Mother,459,Select One Choice,1099,Class 6
+Highest class passed - Mother,459,Select One Choice,1100,Class 7
+Highest class passed - Mother,459,Select One Choice,1101,Class 8
+Highest class passed - Mother,459,Select One Choice,1102,Class 9
+Highest class passed - Mother,459,Select One Choice,1103,Class 10
+Highest class passed - Mother,459,Select One Choice,1104,Class 11
+Highest class passed - Mother,459,Select One Choice,1105,Class 12
+Highest class passed - Mother,459,Select One Choice,1106,Graduate
+Highest class passed - Mother,459,Select One Choice,1107,Post Graduate
+Highest class passed - Mother,459,Select One Choice,1108,Technical/Professional Education
+
+Occupation of the mother,460,Select One Choice,1109,Unemployed
+Occupation of the mother,460,Select One Choice,1110,Agricultural labour
+Occupation of the mother,460,Select One Choice,1111,Casual labour and other labour work
+Occupation of the mother,460,Select One Choice,1112,Agriculture/ dairy/ fishery and other allied work
+Occupation of the mother,460,Select One Choice,1113,Self employed/ business/ vending/ trading
+Occupation of the mother,460,Select One Choice,1114,Salaried
+Occupation of the mother,460,Select One Choice,1115,Artisan
+Occupation of the mother,460,Select One Choice,1116,Domestic work
+Occupation of the mother,460,Select One Choice,1117,Others
+
+Residential Status,461,Select One Choice,1118,From this village only and stays in the village
+Residential Status,461,Select One Choice,1119,From other village and shifted this location
+Residential Status,461,Select One Choice,1120,Migrated out of the village to another place
+Residential Status,461,Select One Choice,1121,Migrated permanently out of the village to another place 
+
+Month of in migration or out migration,462,Select One Choice,1123,January
+Month of in migration or out migration,462,Select One Choice,1124,Feburary
+Month of in migration or out migration,462,Select One Choice,1125,March
+Month of in migration or out migration,462,Select One Choice,1126,April
+Month of in migration or out migration,462,Select One Choice,1127,May
+Month of in migration or out migration,462,Select One Choice,1128,June
+Month of in migration or out migration,462,Select One Choice,1129,July
+Month of in migration or out migration,462,Select One Choice,1130,August
+Month of in migration or out migration,462,Select One Choice,1131,September
+Month of in migration or out migration,462,Select One Choice,1132,October
+Month of in migration or out migration,462,Select One Choice,1133,November
+Month of in migration or out migration,462,Select One Choice,1134,December
+
+MCP/MCH Card made?,463,Radio List,1135,Yes
+MCP/MCH Card made?,463,Radio List,1136,No
+
+MCP/MCH card available,465,Radio List,1138,Yes
+MCP/MCH card available,465,Radio List,1139,No
+
+Whether registered in 3 months of preganancy,469,Radio List,1143,Yes
+Whether registered in 3 months of preganancy,469,Radio List,1144,No
+
+"If no,Reason for not registering in 3 months",471,Select One Choice,1146,Mother identified late as pregnant
+"If no,Reason for not registering in 3 months",471,Select One Choice,1147,Mother Could not contact ANM Hospital
+"If no,Reason for not registering in 3 months",471,Select One Choice,1148,ANM not available
+"If no,Reason for not registering in 3 months",471,Select One Choice,1149,Other reasons
+
+1st ANC ,479,Select One Choice,1157,Done
+1st ANC ,479,Select One Choice,1158,"Not Done, Service not given"
+1st ANC ,479,Select One Choice,1159,Mother Migrated
+1st ANC ,479,Select One Choice,1160,Dont Know/ No information
+1st ANC ,479,Select One Choice,1161,Not applicable
+
+1st ANC Urine Albumin,486,Radio List,1169,Yes
+1st ANC Urine Albumin,486,Radio List,1170,No
+
+1st ANC Urine Sugar,487,Radio List,1171,Yes
+1st ANC Urine Sugar,487,Radio List,1172,No
+
+1st ANC IFA Tablets received,488,Radio List,1173,Yes
+1st ANC IFA Tablets received,488,Radio List,1174,No
+
+1st ANC IFA tablets consumed,489,Radio List,1175,Yes
+1st ANC IFA tablets consumed,489,Radio List,1176,No
+
+1st ANC Abdominal examination,490,Radio List,1177,Yes
+1st ANC Abdominal examination,490,Radio List,1178,No
+
+1st ANC Identified as High Risk,491,Select One Choice,1179,Yes
+1st ANC Identified as High Risk,491,Select One Choice,1180,No
+1st ANC Identified as High Risk,491,Select One Choice,1181,Not Applicable
+
+1st ANC High Risk Referred,492,Radio List,1182,Yes
+1st ANC High Risk Referred,492,Radio List,1183,No
+
+1st ANC supplementary nutrition available,493,Select One Choice,1184,No not at all
+1st ANC supplementary nutrition available,493,Select One Choice,1185,Yes irregular
+1st ANC supplementary nutrition available,493,Select One Choice,1186,Yes regular
+1st ANC supplementary nutrition available,493,Select One Choice,1187,Not applicable
+
+MCP/MCH card updated 1st trimester,494,Radio List,1188,Yes
+MCP/MCH card updated 1st trimester,494,Radio List,1189,No
+
+2nd ANC,495,Select One Choice,1190,Done
+2nd ANC,495,Select One Choice,1191,"Not Done, Service not given"
+2nd ANC,495,Select One Choice,1192,Mother Migrated
+2nd ANC,495,Select One Choice,1193,Dont Know / No information
+2nd ANC,495,Select One Choice,1194,Not applicable
+
+2nd ANC Urine Albumin,500,Radio List,1199,Yes
+2nd ANC Urine Albumin,500,Radio List,1200,No
+
+2nd ANC Urine sugar,501,Radio List,1201,Yes
+2nd ANC Urine sugar,501,Radio List,1202,No
+
+2nd ANC IFA Tablets received,502,Radio List,1203,Yes
+2nd ANC IFA Tablets received,502,Radio List,1204,No
+
+2nd ANC IFA tablets consumed,503,Radio List,1205,Yes
+2nd ANC IFA tablets consumed,503,Radio List,1206,No
+
+2nd ANC abdominal Examination,504,Select One Choice,1207,No
+2nd ANC abdominal Examination,504,Select One Choice,1208,Yes
+2nd ANC abdominal Examination,504,Select One Choice,1209,Dont know
+2nd ANC abdominal Examination,504,Select One Choice,1210,Not applicable
+
+2nd ANC - Identified as High Risk,505,Radio List,1211,Yes
+2nd ANC - Identified as High Risk,505,Radio List,1212,No
+2nd ANC - Identified as High Risk,505,Radio List,1213,Not Applicable
+
+2nd ANC - High Risk Referred,506,Radio List,1214,Yes
+2nd ANC - High Risk Referred,506,Radio List,1215,No
+
+2nd ANC - Supplementary Nutrition Available,507,Select One Choice,1216,No not at all
+2nd ANC - Supplementary Nutrition Available,507,Select One Choice,1217,Yes irregular
+2nd ANC - Supplementary Nutrition Available,507,Select One Choice,1218,Yes regular
+2nd ANC - Supplementary Nutrition Available,507,Select One Choice,1219,Not applicable
+
+MCP/ MCH Card updated - 2nd Trimester,508,Radio List,1220,Yes
+MCP/ MCH Card updated - 2nd Trimester,508,Radio List,1221,No
+
+3rd ANC,509,Select One Choice,1222,Done
+3rd ANC,509,Select One Choice,1223,"Not Done, Service not given"
+3rd ANC,509,Select One Choice,1224,Mother Migrated
+3rd ANC,509,Select One Choice,1225,Dont Know / No information
+3rd ANC,509,Select One Choice,1226,Not applicable
+
+3rd ANC Urine Albumin,514,Radio List,1231,Yes
+3rd ANC Urine Albumin,514,Radio List,1232,No
+
+3rd ANC Urine Sugar,515,Radio List,1233,Yes
+3rd ANC Urine Sugar,515,Radio List,1234,No
+
+3rd ANC - IFA tablets received,516,Radio List,1235,Yes
+3rd ANC - IFA tablets received,516,Radio List,1236,No
+
+3rd ANC - IFA tablets consumed,517,Radio List,1237,Yes
+3rd ANC - IFA tablets consumed,517,Radio List,1238,No
+
+3rd ANC-Abdominal Examination,518,Select One Choice,1239,No
+3rd ANC-Abdominal Examination,518,Select One Choice,1240,Yes
+3rd ANC-Abdominal Examination,518,Select One Choice,1241,Dont know
+3rd ANC-Abdominal Examination,518,Select One Choice,1242,Not applicable
+
+3rd ANC - Identified as High Risk,519,Radio List,1243,Yes
+3rd ANC - Identified as High Risk,519,Radio List,1244,No
+
+3rd ANC - High Risk Referred,520,Radio List,1245,Yes
+3rd ANC - High Risk Referred,520,Radio List,1246,No
+
+3rd ANC - Supplementary Nutrition Available,521,Select One Choice,1247,No not at all
+3rd ANC - Supplementary Nutrition Available,521,Select One Choice,1248,Yes irregular
+3rd ANC - Supplementary Nutrition Available,521,Select One Choice,1249,Yes regular
+3rd ANC - Supplementary Nutrition Available,521,Select One Choice,1250,Not applicable
+
+MCP/ MCH Card updated - 3nd Trimester,522,Radio List,1251,Yes
+MCP/ MCH Card updated - 3nd Trimester,522,Radio List,1252,No
+
+4th ANC,523,Select One Choice,1253,Done
+4th ANC,523,Select One Choice,1254,"Not Done, Service not given"
+4th ANC,523,Select One Choice,1255,Mother Migrated
+4th ANC,523,Select One Choice,1256,Dont Know/ No information
+4th ANC,523,Select One Choice,1257,Not applicable
+
+4th ANC Urine Albumin,528,Radio List,1262,Yes
+4th ANC Urine Albumin,528,Radio List,1263,No
+
+4th ANC Urine Sugar,529,Radio List,1264,Yes
+4th ANC Urine Sugar,529,Radio List,1265,No
+
+4th ANC - IFA tablets received,530,Radio List,1266,Yes
+4th ANC - IFA tablets received,530,Radio List,1267,No
+
+4th ANC - IFA tablets consumed,531,Radio List,1268,Yes
+4th ANC - IFA tablets consumed,531,Radio List,1269,No
+
+4th ANC-Abdominal Examination,532,Select One Choice,1270,No
+4th ANC-Abdominal Examination,532,Select One Choice,1271,Yes
+4th ANC-Abdominal Examination,532,Select One Choice,1272,Not Applicable
+
+4th ANC - Identified as High Risk,533,Radio List,1273,Yes
+4th ANC - Identified as High Risk,533,Radio List,1274,No
+
+4th ANC - High Risk Referred,534,Radio List,1275,Yes
+4th ANC - High Risk Referred,534,Radio List,1276,No
+
+4th ANC - Supplementary Nutrition Available,535,Radio List,1277,No not at all
+4th ANC - Supplementary Nutrition Available,535,Radio List,1278,Yes irregular
+4th ANC - Supplementary Nutrition Available,535,Radio List,1279,Yes regular
+4th ANC - Supplementary Nutrition Available,535,Radio List,1280,Not applicable
+
+Miscarriage or delivered,536,Radio List,1281,Miscarriage/Abortion
+Miscarriage or delivered,536,Radio List,1282,Delivered
+
+Status of Birth,537,Radio List,1283,Live birth
+Status of Birth,537,Radio List,1284,Still birth
+
+Place of Delivery,539,Select One Choice,1286,Home
+Place of Delivery,539,Select One Choice,1287,Government Hospital
+Place of Delivery,539,Select One Choice,1288,Private Hospital
+Place of Delivery,539,Select One Choice,1289,On the way to hospital
+Place of Delivery,539,Select One Choice,1290,Work
+
+Type of delivery,540,Select One Choice,1291,Normal
+Type of delivery,540,Select One Choice,1292,Instrumental
+Type of delivery,540,Select One Choice,1293,C Section
+
+Received free transportation from Government,541,Select One Choice,1295,Yes
+Received free transportation from Government,541,Select One Choice,1296,No
+
+Received financial assistance from Government,542,Select One Choice,1297,Yes
+Received financial assistance from Government,542,Select One Choice,1298,No
+Received financial assistance from Government,542,Select One Choice,1299,Not Applicable
+
+Home delivery assisted by,544,Select One Choice,1301,No one
+Home delivery assisted by,544,Select One Choice,1302,Family members
+Home delivery assisted by,544,Select One Choice,1303,Dai untrained
+Home delivery assisted by,544,Select One Choice,1304,Dai Trained
+Home delivery assisted by,544,Select One Choice,1305,ANM
+Home delivery assisted by,544,Select One Choice,1306,Nurse
+Home delivery assisted by,544,Select One Choice,1307,Doctor
+Home delivery assisted by,544,Select One Choice,1308,Others
+Home delivery assisted by,544,Select One Choice,1309,Not Applicable
+

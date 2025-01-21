@@ -1,0 +1,73 @@
+,Unique Admin ID,ವಿಶಿಷ್ಟ ನಿರ್ವಹಣಾ (ಆಡಳಿತ) ಗುರುತು ಐ.ಡಿ.
+,Village / Ward,ಗ್ರಾಮ/ ವಾರ್ಡ್
+,Hamlet/ Para/Mohalla / Keri / Thora,ತಾಂಡಾ/ಪಾರಾ/ಮೊಹಲ್ಲಾ ಕರಿ/ಥೋಟ
+,Child ID,ಮಗುವಿನ ಐಡಿ
+,Name of child,ಮಗುವಿನ ಹೆಸರು
+245,Name of the father,ತಂದೆಯ ಹೆಸರು
+246,Name of the mother,ತಾಯಿಯ ಹೆಸರು
+,Sex of the child,ಮಗುವಿನ ಲಿಂಗ
+247,Date of birth of the child,ಮಗುವಿನ ಹುಟ್ಟಿದ ದಿನಾಂಕ
+,Date of collection (Quarter-1), ಮಾಹಿತ ಪಡೆದ ದಿನಾಂಕ (ತ್ರೈಮಾಸಿಕ 1)
+249,Enrollment status-Q1,ದಾಖಲಾತಿಯ ಸ್ಥಿತಿ-ಕ್ಯೂ 1
+250,HH Chores involvement-Q1,ಹೆಚ್ ಹೆಚ್ ಕೆಲಸಗಳಲ್ಲಿ ಭಾಗಿ-ಕ್ಯೂ1
+251,HH Chores involvement - Before going to school-Q1,ಹೆಚ್ ಹೆಚ್ ಕೆಲಸಗಳಲ್ಲಿ ಭಾಗಿ-ಶಾಲೆಗೂ ಮುನ್ನ -ಕ್ಯೂ1
+252,HH Chores involvement - After coming from school-Q1,ಹೆಚ್ ಹೆಚ್ ಕೆಲಸಗಳಲ್ಲಿ ಭಾಗಿ-ಶಾಲೆಯಿಂದಬಂದ ನಂತರ -ಕ್ಯೂ1
+253,Economic activities involvement-Q1,ಆರ್ಥಿಕ ಚಟುವಟಿಕೆಗಳಲ್ಲಿ ಭಾಗಿ-ಕ್ಯೂ1
+254,Numbers of hours of involvement-Q1,ಭಾಗಿಯಾಗಿರುವ ಘಂಟೆಗಳು-ಕ್ಯೂ1
+255,Numbers of days of involvement in a month-Q1,ತಿಂಗಳಿನಲ್ಲಿ ಭಾಗಿಯಾಗಿರುವ ದಿನಗಳು ಸಂಖ್ಯೆ-ಕ್ಯೂ1
+256,Sector of work (Economic Activities)-Q1,ಕಾರ್ಯವಲಯ (ಕ್ಷೇತ್ರ) (ಆರ್ಥಿಕ ಚಟುವಟಿಕೆಗಳು)-ಕ್ಯೂ1
+257,"If others Q1, specify","ಇತರೆ ಇದ್ದಲ್ಲಿ ಕ್ಯೂ1,ಸ್ಪಷ್ಟಪಡಿಸಿ"
+258,Bonded labour involvement-Q1,ಜೀತ ಪದ್ದತಿಯಲ್ಲಿ ಭಾಗಿ-ಕ್ಯೂ1
+259,Child migrated-Q1,ವಲಸೆಯಾಗಿರುವ ಮಗು-ಕ್ಯೂ1
+260,Purpose of migration-Q1,ವಲಸೆಹೋಗಿರುವ ಉದ್ದೇಶ-ಕ್ಯೂ1
+599,Place of migration-Q1,ವಲಸೆಯಾಗಿರುವ ಸ್ಥಳ-ಕ್ಯೂ1
+600,Sector of work (Migration) -Q1,ಕಾರ್ಯವಲಯ (ಕ್ಷೇತ್ರ) (ವಲಸೆ)-ಕ್ಯೂ1
+601,"If others, specify","ಇತರೆ ಇದ್ದಲ್ಲಿ, ಸ್ಪಷ್ಟಪಡಿಸಿ"
+,Date of collection (Quarter-2),ಮಾಹಿತಿ ಪಡೆದ ದಿನಾಂಕ  (ತ್ರೈಮಾಸಿಕ 2)
+,Enrollment status-Q2,ದಾಖಲಾತಿಯ ಸ್ಥಿತಿ-ಕ್ಯೂ 2
+,HH Chores involvement-Q2,ಹೆಚ್ ಹೆಚ್ ಕೆಲಸಗಳಲ್ಲಿ ಭಾಗಿ-ಕ್ಯೂ2
+,HH Chores involvement - Before school-Q2,ಹೆಚ್ ಹೆಚ್ ಕೆಲಸಗಳಲ್ಲಿ ಭಾಗಿ- ಶಾಲೆಗೂ ಮನ್ನ-ಕ್ಯೂ2
+,HH Chores involvement - After school - Q2,ಹೆಚ್ ಹೆಚ್ ಕೆಲಸಗಳಲ್ಲ್ಲಿ ಭಾಗಿ-ಶಾಲೆಯಿಂದ ಬಂದ ನಂತರ -ಕ್ಯೂ2
+,Economic activities involvement-Q2,ಆರ್ಥಿಕ ಚಟುವಟಿಕೆಗಳಲ್ಲಿ ಭಾಗಿ-ಕ್ಯೂ2
+,Numbers of hours of involvement-Q2,¨sÁVAiÀiÁVgÀÄªÀ WÀAmÉUÀ¼ÀÄ - PÀÆå2
+,Numbers of days of involvement in a month-Q2,ತಿಂಗಳಿನಲ್ಲಿ ಭಾಗಿಯಾಗಿರುವ ದಿನಗಳು ಸಂಖ್ಯೆ-ಕ್ಯೂ2
+,Sector of work (Economic Activities)-Q2,ಕಾರ್ಯವಲಯ (ಕ್ಷೇತ್ರ)ಆರ್ಥಿಕ ಚಟುವಟಿಕೆಗಳಲ್ಲಿ ಭಾಗಿ-ಕ್ಯೂ2
+,"If others Q2, specify","ಇತರೆ ಇದ್ದಲ್ಲಿ ಕ್ಯೂ2 , ಸ್ಪಷ್ಟಪಡಿಸಿ"
+,Bonded labour involvement-Q2,ಜೀತ ಪದ್ದತಿಯಲ್ಲಿ ಭಾಗಿ-ಕ್ಯೂ2
+,Child migrated-Q2,ವಲಸೆಯಾಗಿರುವ ಮಗು-ಕ್ಯೂ2
+,Purpose of migration-Q2,ವಲಸೆ ಹೋಗಿರುವ ಉದ್ದೇಶ -ಕ್ಯೂ2
+,Place of migration-Q2,ವಲಸೆಯಾಗಿರುವ  ಸ್ಥಳ-ಕ್ಯೂ2
+,Sector of work (Migration)-Q2,ಕಾರ್ಯವಲಯ (ಕ್ಷೇತ್ರ) (ವಲಸೆ)-ಕ್ಯೂ2
+,"If othersQ2, specify","ಇತರೆ ಇದ್ದಲ್ಲಿ ಕ್ಯೂ2 , ಸ್ಪಷ್ಟಪಡಿಸಿ"
+,Date of collection (Quarter-3),ಮಾಹಿತಿ ಪಡೆದ ದಿನಾಂಕ  (ತ್ರೈಮಾಸಿಕ 2)
+,Enrollment status-Q3,ದಾಖಲಾತಿಯ ಸ್ಥಿತಿ-ಕ್ಯೂ3
+,HH Chores involvement-Q3,ಹೆಚ್ ಹೆಚ್ ಕೆಲಸಗಳ ಲ್ಲಿ ಭಾಗಿ- ಕ್ಯೂ3
+,HH Chores involvement - Before school-Q3,ಹೆಚ್ ಹೆಚ್ ಕೆಲಸಗಳ ಲ್ಲಿ ಭಾಗಿ  - ಶಾಲೆಗೂ ಮುನ್ನ ಕ್ಯೂ3
+,HH Chores involvement - After school - Q3,ಹೆಚ್ ಹೆಚ್ ಕೆಲಸಗಳ ಲ್ಲಿ ಭಾಗಿ -ಶಾಲೆಯಿಂದ ಬಂದ ನಂತರ-ಕ್ಯೂ3
+,Economic activities involvement-Q3,ಆರ್ಥಿಕ ಚಟುವಟಿಕೆಗಳಲ್ಲಿ ಭಾಗಿ- ಕ್ಯೂ3
+,Numbers of hours of involvement-Q3,ಭಾಗಿಯಾಗಿರುವ ಘಂಟೆಗಳು-ಕ್ಯೂ3
+,Numbers of days of involvement in a month-Q3,ತಿಂಗಳಿನಲ್ಲಿ ಭಾಗಿಯಾಗಿರುವ ದಿನಗಳ ಸಂಖ್ಯೆ-ಕ್ಯೂ3
+,Sector of work (Economic Activities)-Q3,ಕಾರ್ಯವಲಯ (ಕ್ಷೇತ್ರ)(ಆರ್ಥಿಕ ಚಟುವಟಿಕೆಗಳು)-ಕ್ಯೂ3
+,"If others Q3, specify","ಇತರೆ ಇದ್ದಲ್ಲಿ ಕ್ಯೂ3 , ಸ್ಪಷ್ಟಪಡಿಸಿ"
+,Bonded labour involvement-Q3,ಜೀತ ಪದ್ದತಿಯಲ್ಲಿ ಭಾಗಿ-ಕ್ಯೂ3
+,Child migrated-Q3,ವಲಸೆಯಾಗಿರುವ ಮಗು-ಕ್ಯೂ3
+,Purpose of migration-Q3,ವಲಸೆಹೋಗಿರುವ ಉದ್ದೇಶ- ಕ್ಯೂ3
+,Place of migration-Q3,ವಲಸೆಯಾಗಿರುವ  ಸ್ಥಳ- ಕ್ಯೂ3
+,Sector of work (Migration)-Q3,ಕಾರ್ಯವಲಯ (ಕ್ಷೇತ್ರ) (ವಲಸೆ)-ಕ್ಯೂ3
+,"If othersQ3, specify","ಇತರೆ ಇದ್ದಲ್ಲಿ ಕ್ಯೂ3 , ಸ್ಪಷ್ಟಪಡಿಸಿ"
+,Date of collection (Quarter-4),ಮಾಹಿತಿ ಪಡೆದ ದಿನಾಂಕ  (ತ್ರೈಮಾಸಿಕ 4)
+,Enrollment status-Q4,ದಾಖಲಾತಿಯ ಸ್ಥಿತಿ-ಕ್ಯೂ4
+,HH Chores involvement-Q4,ಹೆಚ್ ಹೆಚ್ ಕೆಲಸಗಳ ಲ್ಲಿ ಭಾಗಿ -ಕ್ಯೂ4
+,HH Chores involvement - Before school-Q4,ಹೆಚ್ ಹೆಚ್ ಕೆಲಸಗಳ ಲ್ಲಿ ಭಾಗಿ  - ಶಾಲೆಗೂ ಮುನ್ನ- ಕ್ಯೂ4
+,HH Chores involvement - After school - Q4,ಹೆಚ್ ಹೆಚ್ ಕೆಲಸಗಳ ಲ್ಲಿ ಭಾಗಿ -ಶಾಲೆಯಿಂದ ಬಂದ ನಂತರ-ಕ್ಯೂ4
+,Economic activities involvement-Q4,ಆರ್ಥಿಕ ಚಟುವಟಿಕೆಗಳಲ್ಲಿ ಭಾಗಿ- ಕ್ಯೂ4
+,Numbers of hours of involvement-Q4,ಭಾಗಿಯಾಗಿರುವ ಘಂಟೆಗಳು-ಕ್ಯೂ4
+,Numbers of days of involvement in a month-Q4,ತಿಂಗಳಿನಲ್ಲಿ ಭಾಗಿಯಾಗಿರುವ ದಿನಗಳ ಸಂಖ್ಯೆ-ಕ್ಯೂ4
+,Sector of work (Economic Activities)-Q4,ಕಾರ್ಯವಲಯ (ಕ್ಷೇತ್ರ)(ಆರ್ಥಿಕ ಚಟುವಟಿಕೆಗಳು)-ಕ್ಯೂ4
+,"If others Q4, specify","ಇತರೆ ಇದ್ದಲ್ಲಿ ಕ್ಯೂ೪ , ಸ್ಪಷ್ಟಪಡಿಸಿ"
+,Bonded labour involvement-Q4,ಜೀತ ಪದ್ದತಿಯಲ್ಲಿ ಭಾಗಿ-ಕ್ಯೂ4
+,Child migrated-Q4,ವಲಸೆಯಾಗಿರುವ ಮಗು-ಕ್ಯೂ4
+,Purpose of migration-Q4,ವಲಸೆಹೋಗಿರುವ ಉದ್ದೇಶ- ಕ್ಯೂ4
+,Place of migration-Q4,ವಲಸೆಯಾಗಿರುವ  ಸ್ಥಳ- ಕ್ಯೂ4
+,Sector of work (Migration)-Q4,ಕಾರ್ಯವಲಯ (ಕ್ಷೇತ್ರ) (ವಲಸೆ)-ಕ್ಯೂ4
+,"If othersQ4, specify","ಇತರೆ ಇದ್ದಲ್ಲಿ ಕ್ಯೂ4, ಸ್ಪಷ್ಟಪಡಿಸಿ"

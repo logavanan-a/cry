@@ -1,0 +1,17 @@
+Date : 02-02-2018
+Time : 00hrs:21min
+
+Error : Section : SyncSurveyActivity_Startsurvey,Date : 2 Feb 2018 12:20:27 a.m.,Uid : ,Application : CRY,NetWorkType & NetwortStatus : MOBILE: CONNECTED,Ip Address : localhost/127.0.0.1,Xiaomi,Redmi 3S,23,Error Message : java.lang.IllegalArgumentException: invalid provider: null
+	at android.location.LocationManager.checkProvider(LocationManager.java:1724)
+	at android.location.LocationManager.getLastKnownLocation(LocationManager.java:1208)
+	at org.mahiti.cry.location.MyCurrentLocationTracker.getLocation(MyCurrentLocationTracker.java:76)
+	at org.mahiti.cry.utils.StartSurvey.setLocation(StartSurvey.java:188)
+	at org.mahiti.cry.utils.StartSurvey.doInBackground(StartSurvey.java:209)
+	at org.mahiti.cry.utils.StartSurvey.doInBackground(StartSurvey.java:42)
+	at android.os.AsyncTask$2.call(AsyncTask.java:295)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+	at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:234)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+	at java.lang.Thread.run(Thread.java:818)
+,postparameters : {}

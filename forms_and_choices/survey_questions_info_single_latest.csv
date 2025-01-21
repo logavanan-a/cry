@@ -1,0 +1,542 @@
+Lactating Mothers
+Form Id,Form Name,Question Id,Question Text
+60,Lactating Mothers,557,Name of the Husband
+60,Lactating Mothers,558,Age of Husband
+60,Lactating Mothers,559,Highest class husband passed
+60,Lactating Mothers,560,Occupation of the Husband
+60,Lactating Mothers,561,Highest class passed - mother
+60,Lactating Mothers,562,Residential Status
+60,Lactating Mothers,563,Month of in migration or out migration
+60,Lactating Mothers,567,Received post natal care within 24 hours
+60,Lactating Mothers,568,Colostrum feeding
+60,Lactating Mothers,569,2nd visit by ANM/ AWW/ASHA
+60,Lactating Mothers,570,3rd visit by ANM/ AWW/ASHA
+60,Lactating Mothers,571,4th visit by ANM/ AWW/ASHA
+60,Lactating Mothers,572,Received complete post natal care and advice
+60,Lactating Mothers,573,Additional visit - 14th Day
+60,Lactating Mothers,574,Additional visit - 21st Day
+60,Lactating Mothers,575,Additional visit - 28th Day
+60,Lactating Mothers,576,Supplementary nutrition - Post Natal: 1- 3 months
+60,Lactating Mothers,577,Exclusive Breast Feeding: 0 - 3 months
+60,Lactating Mothers,578,Supplementary nutrition - Post Natal: 4 - 6 months
+60,Lactating Mothers,579,Exclusive Breast Feeding: 4 - 6 months
+60,Lactating Mothers,580,Complementary feeding
+60,Lactating Mothers,581,Enrolled in AWC
+60,Lactating Mothers,582,Anganwaadi Centre ID
+""
+School Education Retention
+Form Id,Form Name,Question Id,Question Text
+51,School Education Retention,325,Name of Father
+51,School Education Retention,326,Date of Collection
+51,School Education Retention,327,Current Class
+51,School Education Retention,328,Regular or Irregular
+51,School Education Retention,329,Reason for not in school - primary reason
+51,School Education Retention,330,Secondary reason for not in school
+51,School Education Retention,331,Tertiary reason for not in school
+""
+Child Vaccination and Immuniza
+Form Id,Form Name,Question Id,Question Text
+49,Child Vaccination and Immuniza,264,Name of the Father
+49,Child Vaccination and Immuniza,265,Name of Mother
+49,Child Vaccination and Immuniza,268,Date of birth of Child
+49,Child Vaccination and Immuniza,269,MCP MCH card made
+49,Child Vaccination and Immuniza,270,MCP MCH card available
+49,Child Vaccination and Immuniza,271,BCG at birth
+49,Child Vaccination and Immuniza,272,BCG Date 
+49,Child Vaccination and Immuniza,273,Hepatitis B 0 (At Birth)
+49,Child Vaccination and Immuniza,274,Hepatitis B 0 Date
+49,Child Vaccination and Immuniza,275,"OPV - 0 ( for polio, At Birth)"
+49,Child Vaccination and Immuniza,276,OPV - 0 - Date
+49,Child Vaccination and Immuniza,277,OPV - 1 (at 1.5 months)
+49,Child Vaccination and Immuniza,278,Opv - 1- Date 
+49,Child Vaccination and Immuniza,279,DPT - 1 (at 1.5 months)
+49,Child Vaccination and Immuniza,280,DPT - 1 - Date 
+49,Child Vaccination and Immuniza,281,Hepatitis B 1 (at 1.5 months)
+49,Child Vaccination and Immuniza,282,Hepatitis B 1 - Date
+49,Child Vaccination and Immuniza,283,OPV - 2 (At 2.5 months)
+49,Child Vaccination and Immuniza,284,OPV - 2 Date
+49,Child Vaccination and Immuniza,285,DPT - 2 (At 2.5 months)
+49,Child Vaccination and Immuniza,286,DPT - 2 Date
+49,Child Vaccination and Immuniza,287,Hepatitis B 2 (At 2.5 months)
+49,Child Vaccination and Immuniza,288,Hepatitis B 2 Date
+49,Child Vaccination and Immuniza,289,OPV - 3 (At 3.5 months)
+49,Child Vaccination and Immuniza,290,OPV - 3 Date
+49,Child Vaccination and Immuniza,291,DPT - 3 (At 3.5 months)
+49,Child Vaccination and Immuniza,292,DPT - 3 Date
+49,Child Vaccination and Immuniza,293,Hepatitis B 3 (At 3.5 months)
+49,Child Vaccination and Immuniza,294,Hepatitis B 3 Date
+49,Child Vaccination and Immuniza,295,Pentavalent - 1
+49,Child Vaccination and Immuniza,296,Pentavalent - 1 Date
+49,Child Vaccination and Immuniza,605,Pentavalent - 2
+49,Child Vaccination and Immuniza,606,Pentavalent - 2 Date
+49,Child Vaccination and Immuniza,297,Pentavalent - 3
+49,Child Vaccination and Immuniza,298,Pentavalent - 3 Date
+49,Child Vaccination and Immuniza,301,Vitamin A (1st dose at 9 months)
+49,Child Vaccination and Immuniza,302,Vitamin A Date
+49,Child Vaccination and Immuniza,299,Measles (At 9 months)
+49,Child Vaccination and Immuniza,300,Measles - Date
+49,Child Vaccination and Immuniza,303,Full immunization
+""
+Labour and Migration
+Form Id,Form Name,Question Id,Question Text
+48,Labour and Migration,245,Name of Father
+48,Labour and Migration,246,Name of Mother
+48,Labour and Migration,247,Date of birth of child
+48,Labour and Migration,248,Date of collection
+48,Labour and Migration,249,Enrollment status
+48,Labour and Migration,250,HH Chores involvement
+48,Labour and Migration,251,HH Chores involvement - Before going to school
+48,Labour and Migration,252,HH Chores involvement - After coming from school
+48,Labour and Migration,253,Economic activities involvement
+48,Labour and Migration,254,Number of hours of involvement
+48,Labour and Migration,255,Number of days of involvement
+48,Labour and Migration,256,Sector of work
+48,Labour and Migration,257,Specify the other sector of work
+48,Labour and Migration,258,Bonded labour involvement
+48,Labour and Migration,259,Child Migrated
+48,Labour and Migration,260,Purpose of migration
+48,Labour and Migration,599,Place of Migration
+48,Labour and Migration,600,Sector of work
+48,Labour and Migration,601,If others specify
+""
+Growth Monitoring
+Form Id,Form Name,Question Id,Question Text
+47,Growth Monitoring,231,Name of Father
+47,Growth Monitoring,232,Name of Mother
+47,Growth Monitoring,234,Date of Birth
+47,Growth Monitoring,236,Weight (in kgs)
+47,Growth Monitoring,237,Height (in cms)
+47,Growth Monitoring,238,Nutrition status
+47,Growth Monitoring,239,Growth monitoring chart updated
+47,Growth Monitoring,240,Referal
+47,Growth Monitoring,241,If Yes
+47,Growth Monitoring,242,Whether referal service availed
+47,Growth Monitoring,243,"If No,Reason for not availing"
+47,Growth Monitoring,244,Supl Nutrition
+""
+Child Annual Information
+Form Id,Form Name,Question Id,Question Text
+37,Child Annual Information,155,Name of the Father
+37,Child Annual Information,156,Age of Father
+37,Child Annual Information,157,Highest class passed - Father
+37,Child Annual Information,158,Occupation of the father
+37,Child Annual Information,159,Name of Mother
+37,Child Annual Information,160,Age of Mother
+37,Child Annual Information,161,Highest class passed - Mother
+37,Child Annual Information,162,Occupation of the Mother
+37,Child Annual Information,163,Orphaned /Single parent
+37,Child Annual Information,164,Name of Guardian
+37,Child Annual Information,165,Caste of Child
+37,Child Annual Information,166,Religion of Child
+37,Child Annual Information,168,Birth registration of child done?
+37,Child Annual Information,169,Date of  birth of the child
+37,Child Annual Information,170,Place of Delivery
+37,Child Annual Information,175,Resendtial Status
+37,Child Annual Information,176,Month of in-migration or out-migration
+37,Child Annual Information,177,Whether enrolled in Anganwadi
+37,Child Annual Information,178,Anganwadi ID (if available)
+37,Child Annual Information,179,Whether child getting ECE?
+37,Child Annual Information,180,Is the child Challenged?
+37,Child Annual Information,181,Is the child Chronically ill?
+37,Child Annual Information,182,Is the child Terminally ill?
+37,Child Annual Information,183,Is the child Engagged/Married?
+37,Child Annual Information,184,Current Location of child
+37,Child Annual Information,185,Others Specify
+37,Child Annual Information,621,Is Child less than 1 Year Old
+37,Child Annual Information,171,Weight at birth (in kgs)
+37,Child Annual Information,172,Weight of child communicated to the mother after delivery
+37,Child Annual Information,174,Age of child as of today(months)
+""
+Pregnant Women
+Form Id,Form Name,Question Id,Question Text
+57,Pregnant Women,454,Name of the Husband
+57,Pregnant Women,455,Age of the Husband
+57,Pregnant Women,456,Highest Class passed Husband
+57,Pregnant Women,457,Occupation of Husband
+57,Pregnant Women,458,Age of mother
+57,Pregnant Women,459,Highest class passed - Mother
+57,Pregnant Women,460,Occupation of the mother
+57,Pregnant Women,461,Residential Status
+57,Pregnant Women,462,Month of in migration or out migration
+57,Pregnant Women,463,MCP/MCH Card made?
+57,Pregnant Women,464,Date of issue of MCP/MCH card
+57,Pregnant Women,465,MCP/MCH card available
+57,Pregnant Women,466,"Reasons, if not available"
+57,Pregnant Women,467,Date of ANC registration
+57,Pregnant Women,468,Last Menstrual Period
+57,Pregnant Women,469,Whether registered in 3 months of preganancy
+57,Pregnant Women,470,Health center ID
+57,Pregnant Women,471,"If no,Reason for not registering in 3 months"
+57,Pregnant Women,472,"Others,Specify"
+57,Pregnant Women,473,No of Previous Pregnancies
+57,Pregnant Women,474,No of live births
+57,Pregnant Women,475,Last Pregnancy before
+57,Pregnant Women,476,TT1 (Tetanus Toxoid) actual date
+57,Pregnant Women,477,TT2 Actual date
+57,Pregnant Women,478,TT Booster Actual Date
+57,Pregnant Women,479,1st ANC 
+57,Pregnant Women,480,1st ANC Date
+57,Pregnant Women,481,1st ANC weight
+57,Pregnant Women,484,1st ANC BP
+57,Pregnant Women,485,1st ANC HB
+57,Pregnant Women,486,1st ANC Urine Albumin
+57,Pregnant Women,487,1st ANC Urine Sugar
+57,Pregnant Women,488,1st ANC IFA Tablets received
+57,Pregnant Women,489,1st ANC IFA tablets consumed
+57,Pregnant Women,490,1st ANC Abdominal examination
+57,Pregnant Women,491,1st ANC Identified as High Risk
+57,Pregnant Women,492,1st ANC High Risk Referred
+57,Pregnant Women,493,1st ANC supplementary nutrition available
+57,Pregnant Women,494,MCP/MCH card updated 1st trimester
+57,Pregnant Women,495,2nd ANC
+57,Pregnant Women,496,2nd ANC Date
+57,Pregnant Women,497,2nd ANC Weight
+57,Pregnant Women,498,2nd ANC BP
+57,Pregnant Women,499,2nd ANC HB
+57,Pregnant Women,500,2nd ANC Urine Albumin
+57,Pregnant Women,501,2nd ANC Urine sugar
+57,Pregnant Women,502,2nd ANC IFA Tablets received
+57,Pregnant Women,503,2nd ANC IFA tablets consumed
+57,Pregnant Women,504,2nd ANC abdominal Examination
+57,Pregnant Women,505,2nd ANC - Identified as High Risk
+57,Pregnant Women,506,2nd ANC - High Risk Referred
+57,Pregnant Women,507,2nd ANC - Supplementary Nutrition Available
+57,Pregnant Women,508,MCP/ MCH Card updated - 2nd Trimester
+57,Pregnant Women,509,3rd ANC
+57,Pregnant Women,510,3rd ANC date
+57,Pregnant Women,511,3rd ANC Weight
+57,Pregnant Women,512,3rd ANC BP
+57,Pregnant Women,513,3rd ANC Hb
+57,Pregnant Women,514,3rd ANC Urine Albumin
+57,Pregnant Women,515,3rd ANC Urine Sugar
+57,Pregnant Women,516,3rd ANC - IFA tablets received
+57,Pregnant Women,517,3rd ANC - IFA tablets consumed
+57,Pregnant Women,518,3rd ANC-Abdominal Examination
+57,Pregnant Women,519,3rd ANC - Identified as High Risk
+57,Pregnant Women,520,3rd ANC - High Risk Referred
+57,Pregnant Women,521,3rd ANC - Supplementary Nutrition Available
+57,Pregnant Women,522,MCP/ MCH Card updated - 3rd Trimester
+57,Pregnant Women,523,4th ANC
+57,Pregnant Women,524,4th ANC Date
+57,Pregnant Women,525,4th ANC Weight
+57,Pregnant Women,526,4th ANC BP
+57,Pregnant Women,527,4th ANC HB
+57,Pregnant Women,528,4th ANC Urine Albumin
+57,Pregnant Women,529,4th ANC Urine Sugar
+57,Pregnant Women,530,4th ANC - IFA tablets received
+57,Pregnant Women,531,4th ANC - IFA tablets consumed
+57,Pregnant Women,532,4th ANC-Abdominal Examination
+57,Pregnant Women,533,4th ANC - Identified as High Risk
+57,Pregnant Women,534,4th ANC - High Risk Referred
+57,Pregnant Women,535,4th ANC - Supplementary Nutrition Available
+57,Pregnant Women,536,Miscarriage or Abortion
+57,Pregnant Women,537,Status of Birth
+57,Pregnant Women,538,Time of birth
+57,Pregnant Women,539,Place of Delivery
+57,Pregnant Women,540,Type of delivery
+57,Pregnant Women,541,Received free transportation from Government
+57,Pregnant Women,542,Received financial assistance from Government
+57,Pregnant Women,543,Amount Received
+57,Pregnant Women,544,Home delivery assisted by
+57,Pregnant Women,545,"If other, specify"
+57,Pregnant Women,546,Time of miscarriage/abortion(In weeks)
+57,Pregnant Women,547,Other information
+""
+House Hold Information
+Form Id,Form Name,Question Id,Question Text
+55,House Hold Information,405,Type of Family
+55,House Hold Information,409,Highest class passed (Head of the HH)
+55,House Hold Information,410,Caste
+55,House Hold Information,411,Do you have homestead land
+55,House Hold Information,412,Type of house
+55,House Hold Information,413,Religion
+55,House Hold Information,414,Type of Ration card
+55,House Hold Information,415,If others
+55,House Hold Information,416,Ration from PDS
+55,House Hold Information,417,MGNREGA JOB CARD
+55,House Hold Information,418,Number of working days last year
+55,House Hold Information,419,Amount of money received last year?
+55,House Hold Information,420,Amount Received (MGNREGA)
+55,House Hold Information,421,Total family members
+55,House Hold Information,422,Total family members 17 years or younger
+55,House Hold Information,423,Primary occupation of the family
+55,House Hold Information,424,Enter other type of occupation
+55,House Hold Information,425,If Landless
+55,House Hold Information,426,Primary source of energy for cooking
+55,House Hold Information,427,Is there a Casserole/ thermos/ thermoware?
+55,House Hold Information,428,Is there a TV and VCR/ VCD/ DVD player?
+55,House Hold Information,429,Is there a mobile handset and a telephone (landline)?
+55,House Hold Information,430,Is there a sewing machine?
+55,House Hold Information,431,Is there an almeerah  or dressing table?
+55,House Hold Information,432,"Is there a bicycle, motorcycle/scooter, or motor car/jeep?"
+55,House Hold Information,433,Whether the HH is headed by a single parent
+55,House Hold Information,434,Whether the HH is headed by grand parents
+55,House Hold Information,435,Whether headed by children (18 years and below)
+55,House Hold Information,436,Whether both mother and father work to earn a livelihood
+55,House Hold Information,437,Whether the primary bread-earner of the HH is terminally/seriously ill
+55,House Hold Information,438,Residential Status
+55,House Hold Information,439,Month of in migration or out migration
+55,House Hold Information,440,Whether Household migrates every year
+55,House Hold Information,441,Duration of migration
+55,House Hold Information,442,Whether one adult member of the Household has permanently migrated
+55,House Hold Information,443,Source of drinking water
+55,House Hold Information,444,Enter other type of source of drinking water
+55,House Hold Information,445,Access to toilet
+55,House Hold Information,446,Enter other type of toilet
+55,House Hold Information,447,Is any child missing?
+55,House Hold Information,448,"If Yes, how many boys are missing"
+55,House Hold Information,449,"If Yes, how many girls are missing"
+""
+Child Education
+Form Id,Form Name,Question Id,Question Text
+50,Child Education,304,Name of Father
+50,Child Education,305,Name of Mother
+50,Child Education,307,Date of birth
+50,Child Education,308,Ever Enrolled
+50,Child Education,309,"If enrolled, enrollment status"
+50,Child Education,311,School Id
+50,Child Education,319,Type of School
+50,Child Education,320,Free text books available
+50,Child Education,321,Free uniform available
+50,Child Education,322,HH Chores involvement
+50,Child Education,323,HH Chores involvement -Before school
+50,Child Education,324,HH Chores involvement - After coming from school
+50,Child Education,313,If dropout primary reason
+50,Child Education,314,If dropout secondary reason
+50,Child Education,315,"If dropout, tertiary reason"
+50,Child Education,312,"If dropped out ,class of dropout"
+50,Child Education,316,"If never enrolled, primary  reason"
+50,Child Education,317,"If never enrolled, secondary reason"
+50,Child Education,318,"If never enrolled, tertiary reason"
+50,Child Education,334,Other information
+""
+Anganwadi Centre Information
+Form Id,Form Name,Question Id,Question Text
+3,Anganwadi Centre Information,89,Type of Anganwadi
+3,Anganwadi Centre Information,108,Year of Operation of AWC
+3,Anganwadi Centre Information,111,Population catered to by AWC
+3,Anganwadi Centre Information,113,Need for additional AWC
+3,Anganwadi Centre Information,114,Anganwadi worker AWW available
+3,Anganwadi Centre Information,115,Month and year of joining in the area for AWW
+3,Anganwadi Centre Information,116,Whether AWW is from the same Panchayat or Ward
+3,Anganwadi Centre Information,117,Additional AWW cum Nutrition Counsellor available
+3,Anganwadi Centre Information,118,AW Helper available
+3,Anganwadi Centre Information,119,Boys (0-3 Years) enrolled
+3,Anganwadi Centre Information,120,Girls (0-3 Years) enrolled
+3,Anganwadi Centre Information,121,Total Children (0-3 years)
+3,Anganwadi Centre Information,122,Boys (3-6 Years) enrolled
+3,Anganwadi Centre Information,123,Girls (3-6 Years) enrolled
+3,Anganwadi Centre Information,124,Total children (3-6 Years) enrolled
+3,Anganwadi Centre Information,125,Total adolescent girls (11-18 Years) enrolled
+3,Anganwadi Centre Information,126,Total number of pregnant women enrolled
+3,Anganwadi Centre Information,127,Total number of lactating mothers enrolled
+3,Anganwadi Centre Information,128,Own Building available
+3,Anganwadi Centre Information,129,Type of building
+3,Anganwadi Centre Information,130,Shade for cooking available
+3,Anganwadi Centre Information,131,Whether drinking water available
+3,Anganwadi Centre Information,132,Functional toilet available
+3,Anganwadi Centre Information,133,Water available in toilets
+3,Anganwadi Centre Information,134,Pre-school Education Kits/ material available
+3,Anganwadi Centre Information,135,Take Home Ration Available
+3,Anganwadi Centre Information,136,Cooked Food Available
+3,Anganwadi Centre Information,137,Immunization service available
+3,Anganwadi Centre Information,138,Health check up service available
+3,Anganwadi Centre Information,140,Nutrition & Health education service available
+3,Anganwadi Centre Information,139,Referral services available
+3,Anganwadi Centre Information,618,Is Referral Data Available
+3,Anganwadi Centre Information,596,Boys referred to referal
+3,Anganwadi Centre Information,597,Girls referred to referal
+3,Anganwadi Centre Information,141,Counselling Services - Adolescent Girls available
+""
+School Level Information
+Form Id,Form Name,Question Id,Question Text
+2,School Level Information,44,Name of the School
+2,School Level Information,45,School ID
+2,School Level Information,46,Lowest class in School
+2,School Level Information,47,Highest class in school
+2,School Level Information,48,Category of School
+2,School Level Information,49,Type of School
+2,School Level Information,50,Total number of room in School
+2,School Level Information,51,Total number of class rooms
+2,School Level Information,52,Official medium of instruction
+2,School Level Information,53,If the official medium matches with local language
+2,School Level Information,54,Total SC Boys
+2,School Level Information,55,Total SC Girls
+2,School Level Information,56,Total ST Boys
+2,School Level Information,57,Total ST Girls
+2,School Level Information,58,Total OBC Boys
+2,School Level Information,59,Total OBC Girls
+2,School Level Information,60,Total Other Boys
+2,School Level Information,61,Total Other Girls
+2,School Level Information,62,Total Hindu Boys
+2,School Level Information,63,Total Hindu Girls
+2,School Level Information,64,Total Muslim Boys
+2,School Level Information,65,Total Muslim Girls
+2,School Level Information,66,Total Christian Boys
+2,School Level Information,67,Total Christian Girls
+2,School Level Information,68,Total Sikh Boys
+2,School Level Information,69,Total Sikh Girls
+2,School Level Information,70,Total Buddhist Boys
+2,School Level Information,71,Total Buddhist Girls
+2,School Level Information,72,Total Jain Boys
+2,School Level Information,73,Total Jain Girls
+2,School Level Information,602,Total Other Boys
+2,School Level Information,603,Total Other Girls
+2,School Level Information,74,Total Boys
+2,School Level Information,75,Total Girls
+2,School Level Information,76,Total Children
+2,School Level Information,84,Separate mathematics teachers
+2,School Level Information,607,Total No of Children with special need
+2,School Level Information,77,Total number of Boys with special needs
+2,School Level Information,78,Total number of Girls with special needs
+2,School Level Information,79,Number of permanent teachers
+2,School Level Information,80,Number of contractual teachers
+2,School Level Information,81,Total numbers of teachers
+2,School Level Information,82,Total Male teachers
+2,School Level Information,83,Total Female teachers
+2,School Level Information,85,Separate Science teachers
+2,School Level Information,86,Separate Language teachers
+2,School Level Information,87,Separate teachers for SST
+2,School Level Information,88,Atleast one Female teacher available
+2,School Level Information,92,Mid Day meal cooked by 
+2,School Level Information,93,Mid Day meal cook available
+2,School Level Information,94,Mid Day meal helper available
+2,School Level Information,95,Separate cleaning staff for MDM
+2,School Level Information,96,School building available
+2,School Level Information,97,Toilet for children
+2,School Level Information,98,Separate Toilet for Girls
+2,School Level Information,99,Water available in Toilet
+2,School Level Information,100,Boundary wall available
+2,School Level Information,102,Libraray available
+2,School Level Information,103,Playground available
+2,School Level Information,104,Separate kitchen with shed
+2,School Level Information,105,Disable friendly with ramp
+2,School Level Information,106,Availablity of Drinking Water
+2,School Level Information,107,Availability of Electricity
+2,School Level Information,109,Availability of Science lab
+2,School Level Information,110,School management commitee constituted
+2,School Level Information,112,Numbers of meeting conducted this year
+""
+Health Centre Survey
+Form Id,Form Name,Question Id,Question Text
+1,Health Centre Survey,192,Type of Health Centre
+1,Health Centre Survey,193,Specify the Urban Health Unit
+1,Health Centre Survey,194,Incubator Available
+1,Health Centre Survey,195,New Born Corner Centre available
+1,Health Centre Survey,196,Sick Born Centre available
+1,Health Centre Survey,197,Functional NRC MTC available
+1,Health Centre Survey,198,Medical Officer available
+1,Health Centre Survey,199,DataEntryOperator available
+1,Health Centre Survey,200,Pharmacist available
+1,Health Centre Survey,201,Staff Nurse available
+1,Health Centre Survey,202,Ambulance Service available
+1,Health Centre Survey,203,Blood Storage unit available
+1,Health Centre Survey,204,Laboratory technician available
+1,Health Centre Survey,205,Gynaecologist available
+1,Health Centre Survey,206,Paediatrician available
+1,Health Centre Survey,207,Anaesthetic available
+1,Health Centre Survey,208,ANM available
+1,Health Centre Survey,209,Female Health Worker available
+1,Health Centre Survey,210,Building Own or Rented
+1,Health Centre Survey,211,Operating since
+1,Health Centre Survey,216,Coverage Population
+1,Health Centre Survey,217,Whether delivery conducted?
+1,Health Centre Survey,218,Designated class for delivery and referal
+1,Health Centre Survey,219,Whether list of medicines available at the centre is publicly displayed outside
+1,Health Centre Survey,220,Examination table available
+1,Health Centre Survey,221,Screen/separate room/separate place for examination available
+1,Health Centre Survey,222,Delivery table
+1,Health Centre Survey,223,Weighing machine for children available
+1,Health Centre Survey,224,Weighing machine for adults available?
+1,Health Centre Survey,225,Container for waste disposal available?
+1,Health Centre Survey,226,Sterilisation machine available for disinfecting equipments?
+1,Health Centre Survey,227,Urine testing facility available?
+1,Health Centre Survey,228,Functional BP testing apparatus available?
+1,Health Centre Survey,229,Vaccine storage facility available
+""
+Village Information
+Form Id,Form Name,Question Id,Question Text
+54,Village Information,340,Rural or Urban
+54,Village Information,341,Primary school available
+54,Village Information,342,Primary School ID
+54,Village Information,343,Lowest class in Primary School
+54,Village Information,344,Highest class in Primary School
+54,Village Information,345,Category of Primary School
+54,Village Information,346,Distance of the Primary School
+54,Village Information,347,Barriers for accessing Primary School
+54,Village Information,348," If other (primary school), specify"
+54,Village Information,349,Upper Primary school available
+54,Village Information,350,Upper Primary school ID
+54,Village Information,351,Lowest class in upper primary school
+54,Village Information,352,Highest class in upper primary school
+54,Village Information,353,Category of upper primary school
+54,Village Information,354,Distance of the upper primary school from village
+54,Village Information,355,Barriers for accessing upper primary school
+54,Village Information,356,If other 
+54,Village Information,357,Secondary school available
+54,Village Information,358,Secondary school ID
+54,Village Information,359,Lowest class in secondary school
+54,Village Information,360,Highest class in secondary school
+54,Village Information,361,Category of secondary school
+54,Village Information,362,Distance of the secondary school
+54,Village Information,363,Barriers for accessing secondary school
+54,Village Information,364,if other
+54,Village Information,365,Higher Secondary school available
+54,Village Information,366,Higher Secondary school ID
+54,Village Information,367,Lowest class in higher secondary school
+54,Village Information,368,Highest class in higher secondary school
+54,Village Information,369,Category of higher secondary school
+54,Village Information,370,Distance of the higher secondary school
+54,Village Information,371,Barriers for accessing higher secondary school
+54,Village Information,372,If other
+54,Village Information,373,AWC available
+54,Village Information,374,Distance of the AWC from the village
+54,Village Information,375,Primary barriers for accessing AWC
+54,Village Information,376,Others
+54,Village Information,377,Need for additional AWC
+54,Village Information,378,SHC available
+54,Village Information,379,SHC ID
+54,Village Information,380,Distance of the SHC from the village
+54,Village Information,381,Primary barrier in accessing SHC
+54,Village Information,382,If Other
+54,Village Information,383,PHC available
+54,Village Information,384,PHC ID
+54,Village Information,385,Distance of the PHC from the village
+54,Village Information,386,Primary barrier in accessing PHC
+54,Village Information,387,If Other
+54,Village Information,388,CHC available
+54,Village Information,389,CHC ID
+54,Village Information,390,Distance of the CHC from the village
+54,Village Information,391,Primary barrier in accessing CHC
+54,Village Information,392,If other
+54,Village Information,393,ASHA available
+54,Village Information,394,VHSNC existing
+54,Village Information,395,VHSNC operational
+54,Village Information,396,VCPC existing
+54,Village Information,397,VCPC Operational
+54,Village Information,398,Number of Self Help Groups/ CBOs
+54,Village Information,399,Number of Child Collective
+54,Village Information,400,Electricity
+54,Village Information,401,Road
+54,Village Information,402,Public Transport
+54,Village Information,403,Water Supply
+""
+Mortality
+Form Id,Form Name,Question Id,Question Text
+70,Mortality,608,Beneficiary Type
+70,Mortality,609,Child Id
+70,Mortality,610,Time of Death for Neo-Natal/Child Death
+70,Mortality,611,Mother Id
+70,Mortality,612,Time of death for maternal death
+70,Mortality,613,Place of Death
+70,Mortality,614,Whether death registered
+70,Mortality,615,Date of Death
+70,Mortality,616,Reason for death - government record
+70,Mortality,617,Reason for death - household
+""
+Testing Form
+Form Id,Form Name,Question Id,Question Text
+69,Testing Form,604,Name
+69,Testing Form,619,drop down list
+69,Testing Form,620,radio
+""

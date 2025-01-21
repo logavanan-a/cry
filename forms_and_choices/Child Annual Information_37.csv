@@ -1,0 +1,135 @@
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+37,Child Annual Information,155,Name of the Father - 102---(Child Annual Information),,
+37,Child Annual Information,156,Age of Father - 103---(Child Annual Information),,
+37,Child Annual Information,157,Highest class passed - Father - 104---(Child Annual Information),175,
+37,Child Annual Information,157,Highest class passed - Father - 104---(Child Annual Information),457,Illiterate
+37,Child Annual Information,157,Highest class passed - Father - 104---(Child Annual Information),458,Class 1
+37,Child Annual Information,157,Highest class passed - Father - 104---(Child Annual Information),459,Class 2
+37,Child Annual Information,157,Highest class passed - Father - 104---(Child Annual Information),460,Class 3
+37,Child Annual Information,157,Highest class passed - Father - 104---(Child Annual Information),461,Class 4
+37,Child Annual Information,157,Highest class passed - Father - 104---(Child Annual Information),462,Class 5
+37,Child Annual Information,157,Highest class passed - Father - 104---(Child Annual Information),463,Class 6
+37,Child Annual Information,157,Highest class passed - Father - 104---(Child Annual Information),464,Class 7
+37,Child Annual Information,157,Highest class passed - Father - 104---(Child Annual Information),465,Class 8
+37,Child Annual Information,157,Highest class passed - Father - 104---(Child Annual Information),466,Class 9
+37,Child Annual Information,157,Highest class passed - Father - 104---(Child Annual Information),467,Class 10
+37,Child Annual Information,157,Highest class passed - Father - 104---(Child Annual Information),468,Class 11
+37,Child Annual Information,157,Highest class passed - Father - 104---(Child Annual Information),469,Class 12
+37,Child Annual Information,157,Highest class passed - Father - 104---(Child Annual Information),470,Graduate
+37,Child Annual Information,157,Highest class passed - Father - 104---(Child Annual Information),472,Technical education
+37,Child Annual Information,157,Highest class passed - Father - 104---(Child Annual Information),471,Post Graduate
+37,Child Annual Information,158,Occupation of the father - 105---(Child Annual Information),176,Unemployed
+37,Child Annual Information,158,Occupation of the father - 105---(Child Annual Information),177,Agricultural labour
+37,Child Annual Information,158,Occupation of the father - 105---(Child Annual Information),473,Casual Labour
+37,Child Annual Information,158,Occupation of the father - 105---(Child Annual Information),474,Agriculture or other worker
+37,Child Annual Information,158,Occupation of the father - 105---(Child Annual Information),475,Self Employed
+37,Child Annual Information,158,Occupation of the father - 105---(Child Annual Information),476,Salaried
+37,Child Annual Information,158,Occupation of the father - 105---(Child Annual Information),477,Artisan
+37,Child Annual Information,158,Occupation of the father - 105---(Child Annual Information),478,Domestic Work
+37,Child Annual Information,158,Occupation of the father - 105---(Child Annual Information),479,Others
+37,Child Annual Information,159,Name of Mother - 106---(Child Annual Information),,
+37,Child Annual Information,160,Age of Mother - 107---(Child Annual Information),,
+37,Child Annual Information,161,Highest class passed - Mother - 108---(Child Annual Information),180,
+37,Child Annual Information,161,Highest class passed - Mother - 108---(Child Annual Information),480,Illiterate
+37,Child Annual Information,161,Highest class passed - Mother - 108---(Child Annual Information),481,Class 1
+37,Child Annual Information,161,Highest class passed - Mother - 108---(Child Annual Information),482,Class 2
+37,Child Annual Information,161,Highest class passed - Mother - 108---(Child Annual Information),483,Class 3
+37,Child Annual Information,161,Highest class passed - Mother - 108---(Child Annual Information),484,Class 4
+37,Child Annual Information,161,Highest class passed - Mother - 108---(Child Annual Information),485,Class 5
+37,Child Annual Information,161,Highest class passed - Mother - 108---(Child Annual Information),486,Class 6
+37,Child Annual Information,161,Highest class passed - Mother - 108---(Child Annual Information),487,Class 7
+37,Child Annual Information,161,Highest class passed - Mother - 108---(Child Annual Information),488,Class 8
+37,Child Annual Information,161,Highest class passed - Mother - 108---(Child Annual Information),489,Class 9
+37,Child Annual Information,161,Highest class passed - Mother - 108---(Child Annual Information),490,Class 10
+37,Child Annual Information,161,Highest class passed - Mother - 108---(Child Annual Information),491,Class 11
+37,Child Annual Information,161,Highest class passed - Mother - 108---(Child Annual Information),492,Class 12
+37,Child Annual Information,161,Highest class passed - Mother - 108---(Child Annual Information),493,Graduate
+37,Child Annual Information,161,Highest class passed - Mother - 108---(Child Annual Information),494,Post Graduate
+37,Child Annual Information,161,Highest class passed - Mother - 108---(Child Annual Information),495,Technical Education
+37,Child Annual Information,162,Occupation of the Mother - 109---(Child Annual Information),496,Agriculture or other worker
+37,Child Annual Information,162,Occupation of the Mother - 109---(Child Annual Information),182,Agricultural labour
+37,Child Annual Information,162,Occupation of the Mother - 109---(Child Annual Information),183,Casual Labour
+37,Child Annual Information,162,Occupation of the Mother - 109---(Child Annual Information),497,Self Employed
+37,Child Annual Information,162,Occupation of the Mother - 109---(Child Annual Information),498,Salaried
+37,Child Annual Information,162,Occupation of the Mother - 109---(Child Annual Information),499,Artisan
+37,Child Annual Information,162,Occupation of the Mother - 109---(Child Annual Information),500,Domestic Work
+37,Child Annual Information,162,Occupation of the Mother - 109---(Child Annual Information),181,Unemployed
+37,Child Annual Information,162,Occupation of the Mother - 109---(Child Annual Information),501,Others
+37,Child Annual Information,163,Orphaned /Single parent - 110---(Child Annual Information),185,Yes Father-Dead Missing
+37,Child Annual Information,163,Orphaned /Single parent - 110---(Child Annual Information),502,Yes Mother-Dead Missing
+37,Child Annual Information,163,Orphaned /Single parent - 110---(Child Annual Information),184,No
+37,Child Annual Information,163,Orphaned /Single parent - 110---(Child Annual Information),503,Yes Both Mother and Father
+37,Child Annual Information,164,Name of Guardian - 111---(Child Annual Information),,
+37,Child Annual Information,165,Caste of Child - 112---(Child Annual Information),187,SC
+37,Child Annual Information,165,Caste of Child - 112---(Child Annual Information),188,ST
+37,Child Annual Information,165,Caste of Child - 112---(Child Annual Information),189,OBC
+37,Child Annual Information,165,Caste of Child - 112---(Child Annual Information),190,Minority
+37,Child Annual Information,165,Caste of Child - 112---(Child Annual Information),191,General
+37,Child Annual Information,166,Religion of Child - 113---(Child Annual Information),192,Hindu
+37,Child Annual Information,166,Religion of Child - 113---(Child Annual Information),193,Christian
+37,Child Annual Information,166,Religion of Child - 113---(Child Annual Information),194,Muslim
+37,Child Annual Information,166,Religion of Child - 113---(Child Annual Information),195,Others
+37,Child Annual Information,166,Religion of Child - 113---(Child Annual Information),1572,Sikh
+37,Child Annual Information,166,Religion of Child - 113---(Child Annual Information),1573,Buddhist
+37,Child Annual Information,166,Religion of Child - 113---(Child Annual Information),1574,Jain
+37,Child Annual Information,166,Religion of Child - 113---(Child Annual Information),1575,Don't Know
+37,Child Annual Information,168,Birth registration of child done? - 115---(Child Annual Information),199,No
+37,Child Annual Information,168,Birth registration of child done? - 115---(Child Annual Information),198,Yes
+37,Child Annual Information,169,Date of  birth of the child - 116---(Child Annual Information),,
+37,Child Annual Information,170,Place of Delivery - 117---(Child Annual Information),201,
+37,Child Annual Information,170,Place of Delivery - 117---(Child Annual Information),504,Home
+37,Child Annual Information,170,Place of Delivery - 117---(Child Annual Information),505,Government Hospital
+37,Child Annual Information,170,Place of Delivery - 117---(Child Annual Information),506,Private Hospital
+37,Child Annual Information,170,Place of Delivery - 117---(Child Annual Information),507,On the Way
+37,Child Annual Information,171,Weight at birth (in kgs) - 118---(Child Annual Information),,
+37,Child Annual Information,172,Weight of child communicated to the mother after delivery - 119---(Child Annual Information),203,No
+37,Child Annual Information,172,Weight of child communicated to the mother after delivery - 119---(Child Annual Information),1505,Yes
+37,Child Annual Information,172,Weight of child communicated to the mother after delivery - 119---(Child Annual Information),1506,Not applicable
+37,Child Annual Information,174,Age of child as of today(months) - 121---(Child Annual Information),,
+37,Child Annual Information,175,Resendtial Status - 122---(Child Annual Information),206,From this village only
+37,Child Annual Information,175,Resendtial Status - 122---(Child Annual Information),207,shifted to this location
+37,Child Annual Information,175,Resendtial Status - 122---(Child Annual Information),1558,Migrated out of the village
+37,Child Annual Information,175,Resendtial Status - 122---(Child Annual Information),1559,Migrated permanently to another Village
+37,Child Annual Information,176,Month of in-migration or out-migration - 123---(Child Annual Information),208,January
+37,Child Annual Information,176,Month of in-migration or out-migration - 123---(Child Annual Information),1432,Feburary
+37,Child Annual Information,176,Month of in-migration or out-migration - 123---(Child Annual Information),1433,March
+37,Child Annual Information,176,Month of in-migration or out-migration - 123---(Child Annual Information),1434,April
+37,Child Annual Information,176,Month of in-migration or out-migration - 123---(Child Annual Information),1435,May
+37,Child Annual Information,176,Month of in-migration or out-migration - 123---(Child Annual Information),1436,June
+37,Child Annual Information,176,Month of in-migration or out-migration - 123---(Child Annual Information),1437,July
+37,Child Annual Information,176,Month of in-migration or out-migration - 123---(Child Annual Information),1438,August
+37,Child Annual Information,176,Month of in-migration or out-migration - 123---(Child Annual Information),1439,September
+37,Child Annual Information,176,Month of in-migration or out-migration - 123---(Child Annual Information),1440,October
+37,Child Annual Information,176,Month of in-migration or out-migration - 123---(Child Annual Information),1441,November
+37,Child Annual Information,176,Month of in-migration or out-migration - 123---(Child Annual Information),1442,December
+37,Child Annual Information,176,Month of in-migration or out-migration - 123---(Child Annual Information),1560,Not applicable
+37,Child Annual Information,176,Month of in-migration or out-migration - 123---(Child Annual Information),1561,Don't Know
+37,Child Annual Information,177,Whether enrolled in Anganwadi - 124---(Child Annual Information),1562,Not applicable
+37,Child Annual Information,177,Whether enrolled in Anganwadi - 124---(Child Annual Information),209,Yes
+37,Child Annual Information,177,Whether enrolled in Anganwadi - 124---(Child Annual Information),210,No
+37,Child Annual Information,178,Anganwadi ID (if available) - 125---(Child Annual Information),,
+37,Child Annual Information,179,Whether child getting ECE? - 126---(Child Annual Information),212,"Not getting, Service not avail"
+37,Child Annual Information,179,Whether child getting ECE? - 126---(Child Annual Information),213,Availing  from AWC (Aganwadi)
+37,Child Annual Information,179,Whether child getting ECE? - 126---(Child Annual Information),1563,"Not availing, services available"
+37,Child Annual Information,179,Whether child getting ECE? - 126---(Child Annual Information),1564,Availing from private play school
+37,Child Annual Information,179,Whether child getting ECE? - 126---(Child Annual Information),1565,NA (for below 3 yrs and above 6 yrs)
+37,Child Annual Information,180,Is the child Challenged? - 127---(Child Annual Information),214,No
+37,Child Annual Information,180,Is the child Challenged? - 127---(Child Annual Information),215,Yes physically challenged
+37,Child Annual Information,180,Is the child Challenged? - 127---(Child Annual Information),1507,"Yes, mentally challenged"
+37,Child Annual Information,180,Is the child Challenged? - 127---(Child Annual Information),1508,"Yes, both"
+37,Child Annual Information,181,Is the child Chronically ill? - 128---(Child Annual Information),216,Yes
+37,Child Annual Information,181,Is the child Chronically ill? - 128---(Child Annual Information),217,No
+37,Child Annual Information,182,Is the child Terminally ill? - 129---(Child Annual Information),218,Yes
+37,Child Annual Information,182,Is the child Terminally ill? - 129---(Child Annual Information),219,No
+37,Child Annual Information,183,Is the child Engagged/Married? - 130---(Child Annual Information),220,No
+37,Child Annual Information,183,Is the child Engagged/Married? - 130---(Child Annual Information),221,Live in relationship
+37,Child Annual Information,183,Is the child Engagged/Married? - 130---(Child Annual Information),1509,Engaged
+37,Child Annual Information,183,Is the child Engagged/Married? - 130---(Child Annual Information),1510,Married
+37,Child Annual Information,183,Is the child Engagged/Married? - 130---(Child Annual Information),1511,Widowed
+37,Child Annual Information,184,Current Location of child - 131---(Child Annual Information),222,At Home
+37,Child Annual Information,184,Current Location of child - 131---(Child Annual Information),1512,Education Residential School
+37,Child Annual Information,184,Current Location of child - 131---(Child Annual Information),1513,Child Care Institution/Homes/Remand Home
+37,Child Annual Information,184,Current Location of child - 131---(Child Annual Information),1514,Child Migrated (for work/employment)
+37,Child Annual Information,184,Current Location of child - 131---(Child Annual Information),1515,Married child at in-laws house
+37,Child Annual Information,184,Current Location of child - 131---(Child Annual Information),1516,Others
+37,Child Annual Information,185,Others Specify - 132---(Child Annual Information),,

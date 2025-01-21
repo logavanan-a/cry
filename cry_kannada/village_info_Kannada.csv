@@ -1,0 +1,67 @@
+,Unique Admin ID ,ವಿಶಿಷ್ಟ ನಿರ್ವಹಣಾ (ಆಡಳಿತ) ಗುರುತು ಐ.ಡಿ.
+,Village / Ward,ಗ್ರಾಮ/ ವಾರ್ಡ್
+,Hamlet/ Para/Mohalla,ತಾಂಡಾ/ಪಾರಾ/ಮೊಹಲ್ಲಾ
+340,Rural/ Urban,ಗ್ರಾಮೀಣ/ ನಗರ
+341,Primary school available,ಪ್ರಾಥಮಿಕ ಶಾಲೆಯ ಲಭ್ಯತೆ
+342,Primary school ID,ಪ್ರಾಥಮಿಕ ಶಾಲೆಯ ಐಡಿ
+343,Lowest class in primary school,ಪ್ರಾಥಮಿಕ ಶಾಲೆಯಲ್ಲಿಯಲ್ಲಿನ ಕಡಿಮೆ ತರಗತಿ
+344,Highest class in primary school,ಪ್ರಾಥಮಿಕ ಶಾಲೆಪ್ರಾಥಮಿಕ ಶಾಲೆಯಲ್ಲಿಯಲ್ಲಿನ ಹೆಚ್ಚಿನ ತರಗತಿ
+345,Category of primary school,ಪ್ರಾಥಮಿಕ ಶಾಲೆಯ ವರ್ಗ
+346,Distance of the primary school,ಪ್ರಾಥಮಿಕ ಶಾಲೆಯ ಅಂತರ (ದೂರ)
+347,Barriers for accessing primary school,ಪ್ರಾಥಮಿಕ ಶಾಲೆಯನ್ನು ಪ್ರವೇಶಿಸಲು ಇರುವ ಅಡತಡೆಗಳು
+348,If other specify,ಇತರೆ  ಸ್ಪಷ್ಟಪಡಿಸಿ
+349,Upper Primary school available,ಹಿರಿಯ ಪಾಥಮಿಕ ಶಾಲೆಯ ಲಭ್ಯತೆ
+350,Upper Primary school ID,ಹಿರಿಯ ಪಾಥಮಿಕ ಶಾಲೆಯ ಐಡಿ
+351,Lowest class in upper school,ಹಿರಿಯ ಪಾಥಮಿಕ ಶಾಲೆಯಲ್ಲಿಯಲ್ಲಿನ ಕಡಿಮೆ ತರಗತಿ
+352,Highest class in upper school,ಹಿರಿಯ ಪಾಥಮಿಕ ಶಾಲೆಯಲ್ಲಿಯಲ್ಲಿನ ಹೆಚ್ಚಿನ  ತರಗತಿ
+353,Category of upper school,ಹಿರಿಯ ಪಾಥಮಿಕ ಶಾಲೆಯ ವರ್ಗ
+354,Distance of the upper school,ಹಿರಿಯ ಪಾಥಮಿಕ ಶಾಲೆಯ ಅಂತರ(ದೂರ)
+355,Barriers for accessing upper school,ಹಿರಿಯ ಪಾಥಮಿಕ ಶಾಲೆಯನ್ನು ಪ್ರವೇಶಿಸಲು ಇರುವ ಅಡತಡೆಗಳು
+356,"If other, specify","ಇತರೆ ಇದ್ದಲ್ಲಿ, ಸ್ಪಷ್ಟಪಡಿಸಿ"
+357,Secondary school available,ಮಾಧ್ಯಮಿಕ ಶಾಲೆಯ ಲಭ್ಯತೆ
+358,Secondary school ID,ಮಾಧ್ಯಮಿಕ ಶಾಲೆಯ ಐಡಿ
+359,Lowest class in secondary school,ಮಾಧ್ಯಮಿಕ ಶಾಲೆಯಲ್ಲಿಯಲ್ಲಿನ ಕಡಿಮೆ ತರಗತಿ
+360,Highest class in secondary school,ಮಾಧ್ಯಮಿಕ ಶಾಲೆಯಲ್ಲಿಯಲ್ಲಿನ  ಹೆಚ್ಚಿನ ತರಗತಿ
+361,Category of secondary school,ಮಾಧ್ಯಮಿಕ ಶಾಲೆಯ ವರ್ಗ
+362,Distance of the secondary school,ಮಾಧ್ಯಮಿಕ ಶಾಲೆಯ ಅಂತರ(ದೂರ)
+363,Barriers for accessing secondary school,ಮಾಧ್ಯಮಿಕ ಶಾಲೆಯನ್ನು ಪ್ರವೇಶಿಸಲು ಇರುವ ಅಡತಡೆಗಳು
+364,"If other, specify","ಇತರೆ ಇದ್ದಲ್ಲಿ, ಸ್ಪಷ್ಟಪಡಿಸಿ"
+365,PUC / Higher Secondary school available,ಪಿಯುಸಿ/ಹಿರಿಯ ಮಾಧ್ಯಮಿಕ ಶಾಲೆಯ ಲಭ್ಯತೆ
+366,PUC / Higher Secondary school ID,ಪಿಯುಸಿ/ಹಿರಿಯ ಮಾಧ್ಯಮಿಕ ಶಾಲೆಯ ಐಡಿ
+367,Lowest class in Higher  secondary school,ಪಿಯುಸಿ/ಹಿರಿಯ ಮಾಧ್ಯಮಿಕ ಶಾಲೆಯ ಲ್ಲಿಯಲ್ಲಿನ ಕಡಿಮೆ ತರಗತಿ 
+368,Highest class in Higher secondary school,ಪಿಯುಸಿ/ಹಿರಿಯ ಮಾಧ್ಯಮಿಕ ಶಾಲೆಯಲ್ಲಿಯಲ್ಲಿನ ಹೆಚ್ಚಿನ ತರಗತಿ  
+369,Category of Higher secondary school,ಹಿರಿಯ ಮಾಧ್ಯಮಿಕ ಶಾಲೆಯ ವರ್ಗ
+370,Distance of the Higher secondary school,ಹಿರಿಯ ಮಾಧ್ಯಮಿಕ ಶಾಲೆಯ ಅಂತರ(ದೂರ)
+371,Barriers for accessing Higher secondary school,ಹಿರಿಯ ಮಾಧ್ಯಮಿಕ ಶಾಲೆಯನ್ನು ಪ್ರವೇಶಿಸಲು ಇರುವ ಅಡತಡೆಗಳು
+372,"If other, specify","ಇತರೆ ಇದ್ದಲ್ಲಿ, ಸ್ಪಷ್ಟಪಡಿಸಿ"
+373,AWC available,ಎ.ಡಬ್ಲ್ಯೂಸಿ.ಲಭ್ಯತೆ
+374,Distance of the AWC from the village,ಗ್ರಾಮದಿಂದ ಎ.ಡಬ್ಲ್ಯೂಸಿ. ಯ ಅಂತರ
+375,Primaary barriers for accessing AWC,ಎ.ಡಬ್ಲ್ಯೂಸಿ.ಯನ್ನು ಬಳಸಲು/ ಉಪಯೋಗಿಸಲು ಇರುವ ಪ್ರಾಥಮಿಕ ಅಡೆತಡೆಗಳು
+376,"Others, specify","ಇತರೆ ಇದ್ದಲ್ಲಿ, ಸ್ಪಷ್ಟಪಡಿಸಿ"
+377,Need for additional AWC,ಹೆಚ್ಚುವರಿ ಎ.ಡಬ್ಲ್ಯೂಸಿ. ಯ ಅಗತ್ಯತೆ
+378,Sub centre available,ಎಸ್.ಎಚ್.ಸಿ.ಲಭ್ಯತೆ
+379,Sub centre ID,ಎಸ್.ಎಚ್.ಸಿ.ಐಡಿ
+380,Distance of the Sub centre from the village,ಗ್ರಾಮದಿಂದ  ಎಸ್.ಎಚ್.ಸಿ . ಯ ಅಂತರ
+381,Primary barrier in accessing Sub centre,ಎಸ್.ಎಚ್.ಸಿ .ಯನ್ನು ಬಳಸಲು/ ಉಪಯೋಗಿಸಲು ಇರುವ ಪ್ರಾಥಮಿಕ ಅಡೆತಡೆಗಳು
+382,"If other, specify",ಇತರೆ  ಸ್ಪಷ್ಟಪಡಿಸಿ
+383,PHC available,ಪಿಹೆಚ್.ಸಿ.ಲಭ್ಯತೆ
+384,PHC ID,ಪಿಹೆಚ್.ಸಿ. ಐಡಿ
+385,Distance of the PHC from the village,ಗ್ರಾಮದಿಂದ  ಪಿಹೆಚ್.ಸಿ.  ಯ ಅಂತರ
+386,Primary barrier in accessing PHC,ಪಿಹೆಚ್.ಸಿ ಯನ್ನು ಬಳಸಲು/ ಉಪಯೋಗಿಸಲು ಇರುವ ಪ್ರಾಥಮಿಕ ಅಡೆತಡೆಗಳು
+387,"If other, specify","ಇತರೆ , ಸ್ಪಷ್ಟಪಡಿಸಿ"
+388,CHC available,ಸಿ.ಹೆಚ್.ಸಿ.ಲಭ್ಯತೆ
+389,CHC ID,ಸಿ.ಹೆಚ್.ಸಿ.ಐಡಿ
+390,Distance of the CHC from the village,ಗ್ರಾಮದಿಂದ  ಸಿ.ಹೆಚ್.ಸಿ.  ಯ ಅಂತರ
+391,Primary barrier in accessing CHC,ಸಿ.ಹೆಚ್.ಸಿ.ಯನ್ನು ಬಳಸಲು/ ಉಪಯೋಗಿಸಲು ಇರುವ ಪ್ರಾಥಮಿಕ ಅಡೆತಡೆಗಳು
+392,"If other, specify","ಇತರೆ , ಸ್ಪಷ್ಟಪಡಿಸಿ"
+393,ASHA available,ಆಶಾ ಲಭ್ಯತೆ
+394,VHSNC,ವಿ.ಹೆಚ್.ಎಸ್.ಎನ್.ಸಿ.(ಗ್ರಾಮ ಆರೋಗ್ಯ ನೈರ್ಮಲ್ಯ ಮತ್ತು ಪೋಷಣಾ ಸಮಿತಿ)
+395,VHSNC operational,ವಿ.ಹೆಚ್.ಎಸ್.ಎನ್.ಸಿ.ಕಾರ್ಯಾಚರಣೆ
+396,VCPC existing,ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ವಿ.ಸಿ.ಪಿ.ಸಿ.
+397,VCPC Operational,ಕಾರ್ಯಾಚರಣೆಯಲ್ಲಿರುವ ವಿ.ಸಿ.ಪಿ.ಸಿ.
+398,Number of Community based org,ಸಮುದಾಯ ಸಂಘಟನೆ ಗುಂಪುಗಳ ಸಂಖ್ತೆ
+399,Number of Child Collective,ಮಕ್ಕಳ ಸಂಘಟನೆಯ ಸಂಖ್ಯೆ
+400,Electricity,ವಿದ್ಯುತ್
+401,Road (Tar),ರಸ್ತೆ(ಟಾರು)
+402,Public Transport,ಸಾರ್ವಜನಿಕ ಸಾರಿಗೆ
+403,Water supply,ನೀರಿನ ವ್ಯವಸ್ಥೆ

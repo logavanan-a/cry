@@ -1,0 +1,20 @@
+Date : 02-02-2018
+Time : 16hrs:03min
+
+Error : Section : SyncSurveyActivity_SyncFunction,Date : 02-Feb-2018 4:01:40 pm,Uid : ,Application : CRY,NetWorkType & NetwortStatus : WIFI: CONNECTED,Ip Address : localhost/127.0.0.1,motorola,XT1033,22,Error Message : net.sqlcipher.database.SQLiteException: error code 5: database is locked
+	at net.sqlcipher.database.SQLiteStatement.native_execute(Native Method)
+	at net.sqlcipher.database.SQLiteStatement.execute(SQLiteStatement.java:58)
+	at net.sqlcipher.database.SQLiteDatabase.updateWithOnConflict(SQLiteDatabase.java:2182)
+	at net.sqlcipher.database.SQLiteDatabase.update(SQLiteDatabase.java:2108)
+	at org.mahiti.cry.database.DBHandler.updateSurveyDataToDB(DBHandler.java:209)
+	at org.mahiti.cry.AutoSyncActivity$SurveyUpdateTask.fetchDatabaseValues(AutoSyncActivity.java:273)
+	at org.mahiti.cry.AutoSyncActivity$SurveyUpdateTask.surveyIdListLooping(AutoSyncActivity.java:213)
+	at org.mahiti.cry.AutoSyncActivity$SurveyUpdateTask.doInBackground(AutoSyncActivity.java:173)
+	at org.mahiti.cry.AutoSyncActivity$SurveyUpdateTask.doInBackground(AutoSyncActivity.java:121)
+	at android.os.AsyncTask$2.call(AsyncTask.java:292)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+	at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:231)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:818)
+,postparameters : {"596":[{"T_0_0":"Pradeep"}],"597":[{"R_0_0":"1463"}],"598":[{"R_0_0":"1466"}],"599":[{"R_0_0":"1468"}],"602":[{"T_0_0":"nothing"}]}

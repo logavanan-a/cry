@@ -1,0 +1,127 @@
+
+Question,Question Id,Question Type,choice Id,Choice
+Highest class husband passed,559,Select One Choice,1318,Illiterate
+Highest class husband passed,559,Select One Choice,1319,Class 1
+Highest class husband passed,559,Select One Choice,1320,Class 2
+Highest class husband passed,559,Select One Choice,1321,Class 4
+Highest class husband passed,559,Select One Choice,1322,Class 5
+Highest class husband passed,559,Select One Choice,1323,Class 6
+Highest class husband passed,559,Select One Choice,1324,Class 7
+Highest class husband passed,559,Select One Choice,1325,Class 8
+Highest class husband passed,559,Select One Choice,1326,Class 9
+Highest class husband passed,559,Select One Choice,1327,Class 10
+Highest class husband passed,559,Select One Choice,1328,Class 11
+Highest class husband passed,559,Select One Choice,1329,Class 12
+Highest class husband passed,559,Select One Choice,1330,Graduate
+Highest class husband passed,559,Select One Choice,1331,Post Graduate
+Highest class husband passed,559,Select One Choice,1332,Technical / Professional Education
+
+Occupation of the Husband,560,Select One Choice,1334,Unemployed
+Occupation of the Husband,560,Select One Choice,1335,Agricultural labour
+Occupation of the Husband,560,Select One Choice,1336,Casual labour and other labour work
+Occupation of the Husband,560,Select One Choice,1337,Agriculture/ dairy/ fishery and other allied work
+Occupation of the Husband,560,Select One Choice,1338,Self employed/ business/ vending/ trading
+Occupation of the Husband,560,Select One Choice,1339,Salaried Government/ Private
+Occupation of the Husband,560,Select One Choice,1340,Artisan
+Occupation of the Husband,560,Select One Choice,1341,Domestic work
+Occupation of the Husband,560,Select One Choice,1342,Others
+
+Highest class passed - mother,561,Select One Choice,1343,Illiterate
+Highest class passed - mother,561,Select One Choice,1344,Class 1
+Highest class passed - mother,561,Select One Choice,1345,Class 2
+Highest class passed - mother,561,Select One Choice,1346,Class 3
+Highest class passed - mother,561,Select One Choice,1347,Class 4
+Highest class passed - mother,561,Select One Choice,1348,Class 5
+Highest class passed - mother,561,Select One Choice,1349,Class 6
+Highest class passed - mother,561,Select One Choice,1350,Class 7
+Highest class passed - mother,561,Select One Choice,1351,Class 8
+Highest class passed - mother,561,Select One Choice,1352,Class 9
+Highest class passed - mother,561,Select One Choice,1353,Class 10
+Highest class passed - mother,561,Select One Choice,1354,Class 11
+Highest class passed - mother,561,Select One Choice,1355,Class 12
+Highest class passed - mother,561,Select One Choice,1356,Graduate
+Highest class passed - mother,561,Select One Choice,1357,Post Graduate
+Highest class passed - mother,561,Select One Choice,1358,Technical/Professional Education
+
+Residential Status,562,Select One Choice,1359,From this village only and stays in the village
+Residential Status,562,Select One Choice,1360,From other village and shifted this location
+Residential Status,562,Select One Choice,1361,Migrated out of the village to another place
+Residential Status,562,Select One Choice,1362,Migrated permanently out of the village to another place
+
+Month of in migration or out migration,563,Select One Choice,1364,January
+Month of in migration or out migration,563,Select One Choice,1365,Feburary
+Month of in migration or out migration,563,Select One Choice,1366,March
+Month of in migration or out migration,563,Select One Choice,1367,April
+Month of in migration or out migration,563,Select One Choice,1368,May
+Month of in migration or out migration,563,Select One Choice,1369,June
+Month of in migration or out migration,563,Select One Choice,1370,July
+Month of in migration or out migration,563,Select One Choice,1371,August
+Month of in migration or out migration,563,Select One Choice,1372,September
+Month of in migration or out migration,563,Select One Choice,1373,October
+Month of in migration or out migration,563,Select One Choice,1374,November
+Month of in migration or out migration,563,Select One Choice,1375,December
+
+Received post natal care within 24 hours,567,Radio List,1381,Yes
+Received post natal care within 24 hours,567,Radio List,1382,No
+
+Colostrum feeding,568,Radio List,1383,No
+Colostrum feeding,568,Radio List,1384,Yes
+Colostrum feeding,568,Radio List,1385,Not Applicable
+
+2nd visit by ANM/ AWW/ASHA,569,Select One Choice,1386,No
+2nd visit by ANM/ AWW/ASHA,569,Select One Choice,1387,Yes
+2nd visit by ANM/ AWW/ASHA,569,Select One Choice,1388,Not Applicable
+
+3rd visit by ANM/ AWW/ASHA,570,Select One Choice,1389,No
+3rd visit by ANM/ AWW/ASHA,570,Select One Choice,1390,Yes
+3rd visit by ANM/ AWW/ASHA,570,Select One Choice,1391,Not Applicable
+
+4th visit by ANM/ AWW/ASHA,571,Select One Choice,1392,No
+4th visit by ANM/ AWW/ASHA,571,Select One Choice,1393,Yes
+4th visit by ANM/ AWW/ASHA,571,Select One Choice,1394,Not Applicable
+
+Received complete post natal care and advice,572,Radio List,1395,Yes
+Received complete post natal care and advice,572,Radio List,1396,No
+
+Additional visit - 14th Day,573,Select One Choice,1397,Yes
+Additional visit - 14th Day,573,Select One Choice,1398,No
+Additional visit - 14th Day,573,Select One Choice,1399,Not Applicable
+
+Additional visit - 21st Day,574,Select One Choice,1400,No
+Additional visit - 21st Day,574,Select One Choice,1401,Yes
+Additional visit - 21st Day,574,Select One Choice,1402,Not Applicable
+
+Additional visit - 28th Day,575,Select One Choice,1403,No
+Additional visit - 28th Day,575,Select One Choice,1404,Yes
+Additional visit - 28th Day,575,Select One Choice,1405,Not Applicable
+
+Supplementary nutrition - Post Natal: 1- 3 months,576,Select One Choice,1406,"No, did not received at all "
+Supplementary nutrition - Post Natal: 1- 3 months,576,Select One Choice,1407,"Yes, but irregular"
+Supplementary nutrition - Post Natal: 1- 3 months,576,Select One Choice,1408,"Yes, regular"
+
+Exclusive Breast Feeding: 0 - 3 months,577,Radio List,1409,Yes
+Exclusive Breast Feeding: 0 - 3 months,577,Radio List,1410,No
+
+Supplementary nutrition - Post Natal: 4 - 6 months,578,Select One Choice,1411,"No, did not received at all"
+Supplementary nutrition - Post Natal: 4 - 6 months,578,Select One Choice,1412,"Yes, but irregular"
+Supplementary nutrition - Post Natal: 4 - 6 months,578,Select One Choice,1413,"Yes, regular"
+
+Exclusive Breast Feeding: 4 - 6 months,579,Radio List,1414,Yes
+Exclusive Breast Feeding: 4 - 6 months,579,Radio List,1415,No
+
+Complementary feeding,580,Select One Choice,1417,January
+Complementary feeding,580,Select One Choice,1418,Feburary
+Complementary feeding,580,Select One Choice,1419,March
+Complementary feeding,580,Select One Choice,1420,April
+Complementary feeding,580,Select One Choice,1421,May
+Complementary feeding,580,Select One Choice,1422,June
+Complementary feeding,580,Select One Choice,1423,July
+Complementary feeding,580,Select One Choice,1424,August
+Complementary feeding,580,Select One Choice,1425,September
+Complementary feeding,580,Select One Choice,1426,October
+Complementary feeding,580,Select One Choice,1427,November
+Complementary feeding,580,Select One Choice,1428,December
+
+Enrolled in AWC,581,Radio List,1429,Yes
+Enrolled in AWC,581,Radio List,1430,No
+

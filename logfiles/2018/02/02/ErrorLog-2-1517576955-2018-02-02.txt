@@ -1,0 +1,4 @@
+Date : 02-02-2018
+Time : 18hrs:39min
+
+Error : Section : getLanguageOptionlist,Date : 2 Feb 2018 6:37:58 p.m.,Uid : ,Application : CRY,NetWorkType & NetwortStatus : MOBILE: CONNECTED,Ip Address : localhost/127.0.0.1,Xiaomi,Redmi 3S,23,Error Message : Conflict in the Langaugeoptions date,postparameters : 2018-02-01 14:07:26.960735

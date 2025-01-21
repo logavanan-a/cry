@@ -1,0 +1,4 @@
+Date : 01-02-2018
+Time : 08hrs:09min
+
+Error : Section : getOptionDetails,Date : Feb 1, 2018 8:08:36 AM,Uid : ,Application : CRY,NetWorkType & NetwortStatus : MOBILE: CONNECTED,Ip Address : localhost/127.0.0.1,unknown,Android SDK built for x86,23,Error Message : Exception on getting answers details from Options,postparameters : 

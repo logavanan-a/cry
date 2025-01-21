@@ -1,0 +1,8 @@
+Country ID,Country Name,State ID,State Name,District ID,District Name,City ID,City Name,Area ID,Area Name,Ward ID,Ward Name,Mohalla/Slum ID,Mohalla/Slum Name
+1,India,378,Karnataka,379,Benguluru Rural,380,Doddaballapura,381,Vinayakanagar,382,Wardseven,383,Ambedkar Colony
+1,India,378,Karnataka,379,Benguluru Rural,380,Doddaballapura,381,Vinayakanagar,382,Wardseven,399,Mohalla
+1,India,378,Karnataka,379,Benguluru Rural,380,Doddaballapura,381,Vinayakanagar,382,Wardseven,431,Slum
+1,India,378,Karnataka,379,Benguluru Rural,380,Doddaballapura,381,Vinayakanagar,382,Wardseven,432,Mohalla One
+1,India,378,Karnataka,379,Benguluru Rural,380,Doddaballapura,381,Vinayakanagar,382,Wardseven,433,Mohalla Two
+1,India,378,Karnataka,379,Benguluru Rural,380,Doddaballapura,381,Vinayakanagar,382,Wardseven,434,Mohalla Three
+1,India,378,Karnataka,379,Benguluru Rural,380,Doddaballapura,381,Vinayakanagar,382,Wardseven,435,Mohalla Eight

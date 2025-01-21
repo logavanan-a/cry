@@ -1,0 +1,22 @@
+Date : 03-02-2018
+Time : 11hrs:55min
+
+Error : Section : SyncSurveyActivity_Startsurvey,Date : Feb 3, 2018 11:54:08 AM,Uid : ,Application : CRY,NetWorkType & NetwortStatus : MOBILE: CONNECTED,Ip Address : localhost/127.0.0.1,unknown,Android SDK built for x86,23,Error Message : java.lang.RuntimeException: Can't create handler inside thread that has not called Looper.prepare()
+	at android.os.Handler.<init>(Handler.java:200)
+	at android.os.Handler.<init>(Handler.java:114)
+	at android.app.Dialog.<init>(Dialog.java:119)
+	at android.app.AlertDialog.<init>(AlertDialog.java:200)
+	at android.app.AlertDialog$Builder.create(AlertDialog.java:1086)
+	at android.app.AlertDialog$Builder.show(AlertDialog.java:1111)
+	at org.mahiti.cry.utils.StartSurvey.showLangugeChangePopUp(StartSurvey.java:494)
+	at org.mahiti.cry.utils.StartSurvey.UpdateServerResponsetoDatabase(StartSurvey.java:456)
+	at org.mahiti.cry.utils.StartSurvey.callNextActivity(StartSurvey.java:392)
+	at org.mahiti.cry.utils.StartSurvey.doInBackground(StartSurvey.java:336)
+	at org.mahiti.cry.utils.StartSurvey.doInBackground(StartSurvey.java:44)
+	at android.os.AsyncTask$2.call(AsyncTask.java:295)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+	at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:234)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+	at java.lang.Thread.run(Thread.java:818)
+,postparameters : {extra_column=1, server_primary_key=439, survey_status=0, domain_id=, start_date=, uuid=20e6cc84-42c2-411a-a080-aa02228acd2a, typology_code=69, mode_status=, start_survey_status=0, clustername=, sync_status=0, facility_type_id=0, facility_ids=0, p1_charge=100.0, paper_entry_reason=, cluster_id=2271, last_qcode=, beneficiary_type_id=4, gps_tracker=0, survey_status2=0, long=-122.08400000000002, inv_id=2, survey_status1=0, beneficiary_ids=915, sectionId=, end_date=0, typocodes=, version_num=1.0, survey_key=0, app_version=, specimen_id=1517639048, consent_status=, reason_off_survey=2, clusterkey=Hamlet, reason=, language=2, sync_date=0, lat=37.421998333333335}

@@ -1,0 +1,4 @@
+
+ , ,231,232,234,236,237,238,239,240,241,242,243,244
+ Partner , Beneficiary/Facilty ,Name of Father,Name of Mother,Date of Birth,Weight (in kgs),Height (in cms),Nutrition status,Growth monitoring chart updated,Referal,If Yes,Whether referal service availed,"If No,Reason for not availing",Supl Nutrition
+ , ,Text Input,Text Input,Date,Text Input,Text Input,Select One Choice,Radio List,Radio List,Radio List,Radio List,Radio List,Radio List

@@ -1,0 +1,50 @@
+,Unique Admin ID ,தனித்தன்மையான அடையாள எண்
+,Village / Ward,கிராமம்/வார்டு
+,Hamlet/ Slum,குக்கிராமம்/குடிசை பகுதி
+,HH ID,வீட்டிற்கான அடையாள எண் 
+,Name of the Head of the HH,குடும்பத்தின் தலைவர்/தலைவியின் பெயர்
+,Rural/ Urban,கிராமம்/நகரம் 
+405,Type of Family,குடும்பத்தின் வகை 
+,Age of the Head of the HH,குடும்பத்தின் தலைவர்/தலைவியின் வயது 
+,Sex of the Head of the HH,குடும்பத்தின் தலைவர்/தலைவியின் பாலினம் 
+409,Highest class passed (Head of the HH),குடும்பத்தின்தலைவர்/தலைவி படித்த வகுப்பு 
+410,Caste,சாதி 
+411,Do you have homestead land,வீட்டு நிலம் பட்டா இருக்கிறதா  
+412,Type of house,வீட்டின் வகை 
+413,Religion,மதம் 
+414,Type of Ration card,குடும்ப அட்டையின் வகை 
+415,"If others, specify",வேறுவகை ஏதேனும் இருந்தால் குறிப்பிடவும் 
+416,Ration from PDS,நியாய விலை கடையிலிருந்து பொருட்கள் வாங்கப்பட்டதா 
+417,MGNREGA JOB CARD,மகாத்மா காந்தி தேசிய ஊரக வேலை உறுதி திட்ட அட்டை 
+418,Number of working days last year,கடந்த ஆண்டு வேலை செய்த நாட்கள் 
+419,Amount of money received last year?,கடந்த ஆண்டு பெற்ற பணம் 
+420,Amount Received (MGNREGA), பெற்ற பணம் (மகாத்மா காந்தி தேசிய ஊராக வேலை உறுதி திட்டத்தில்)
+421,Total family members,மொத்த குடும்ப நபர்கள் 
+422,Total family members 17 years or younger,குடும்பத்த்தில் உள்ள 17 வயதுக்கும் குறைவான நபர்களின் எண்ணிக்கை 
+423,Primary occupation of the family,குடும்பத்தின் தொழில் 
+424,"If others, specify",மற்றவை எனில் குறிப்பிடவும் 
+425,If landless,நிலமற்றவர் எனில் 
+426,Primary source of energy for cooking,சமைப்பதற்கான எரிபொருள் 
+427,Is there a Casserole/ thermos/ thermoware?,"வெப்பம் (அ) குளிர்ச்சி குன்றாது வைத்திருக்கும் புட்டி, "
+428,Is there a TV and VCR/ VCD/ DVD player?,"தொலைகாட்சி பெட்டி, VCR/VCD/DVD இருக்கிறதா "
+429,Is there a mobile handset and a telephone (landline)?,"அலைபேசி, தொலைபேசிஇருக்கிறதா "
+430,Is there a sewing machine?,தையல் இயந்திரம் இருக்கிறதா 
+431,Is there an almeerah/ dressing table?,அலமாரி உள்ளதா 
+432,"Is there a bicycle, motorcycle/scooter, or motor car/jeep?","மிதிவண்டி, இருசக்கர வாகனம், நான்கு சக்கர வாகனம் இருக்கிறதா "
+433,Whether the HH is headed by a single parent,ஒற்றை பெற்றோர் தலைமையில் உள்ள குடும்பமா 
+434,Whether the HH is headed by grand parents,தாத்தா- பாட்டி தலைமையில் உள்ள குடும்பமா 
+435,Whether headed by children(18 years and below),குழந்தைகளின் தலைமையில் உள்ள குடும்பமா (18  வயதுக்கும் குறைவான) 
+436,Whether both mother and father work to earn a livelihood,வாழ்வாதாரத்திற்காக தாயும் தந்தையும் வேலை செய்யவேண்டுமா 
+437,Whether the primary bread-earner of the HH is terminally/seriously ill,வீட்டின் முதன்மை வருவாய் ஈட்டுபவர் நிரந்தர/மோசமாக நோய்வாய்பட்டிருக்கிரார 
+438,Residential Status,இருப்பிடம்
+439,Month of in migration or out migration,இடம்பெயர்ந்து செல்லும் அல்லது வரும் மாதம் 
+440,Whether HH migrates every year,வீட்டில் உள்ளவர்கள் ஒவ்வொரு வருடமும்  இடம்பெயர்ந்து செல்கிறாரா 
+441,Duration of migration,இடம்பெயர்ந்து இருக்கும் கால அளவு 
+442,Whether one adult member of the HH has permanently migrated,வீட்டில் உள்ளவர்களில் யாராவது ஒரு நபர் நிரந்தரமாக இடம்பெயர்ந்து சென்று இருக்கிறாரா 
+443,Source of drinking water,குடிநீருக்கான ஆதாரம் 
+444,"If others, specify",வேறு ஏதேனும் எனில் குறிப்பிடவும் 
+445,Access to toilet,கழிவறை பயன்பாடு 
+446,"If others, specify",வேறு ஏதேனும் எனில் குறிப்பிடவும் 
+447,Is any child missing?,எந்த குழந்தையேனும் காணாமல் பொய் இருக்குகிறதா 
+448,"If yes, how many boys",ஆம் எனில் எத்தனை ஆண்  குழந்தைகள் 
+449,"If yes, how many girls",ஆம் எனில் எத்தனை பெண் குழந்தைகள் 

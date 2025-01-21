@@ -1,0 +1,26 @@
+Question ID,SN,வ. எண்
+,Unique Admin ID,தனித்தன்மையான அடையாள எண்
+,Village / Ward,கிராமம்/வார்டு
+,Hamlet/ Para/Mohalla,குக்கிராமம்
+,Child ID,குழந்தையின் அடையாள எண்
+,Name of child,குழந்தையின் பெயர் 
+304,Name of the father,தந்தையின் பெயர் 
+305,Name of mother,தாயின் பெயர்
+,Sex of the child,குழந்தையின் பாலினம் 
+307,Date of birth of child,குழந்தையின் பிறந்த தேதி 
+308,Ever enrolled,எப்போவாவது பள்ளியில் சேர்க்கப்பட்ட குழந்தையா
+316,"If never enrolled, reason - primary",பள்ளியில் சேர்க்கப்படவில்லை என்றால் காரணம்  - அடிப்படை 
+317,"If never enrolled, reason - secondary",பள்ளியில் சேர்க்கப்படாததற்கான காரணங்கள் -இரண்டாம் நிலை 
+318,"If never enrolled, reason - tertiary",பள்ளியில் சேர்க்கப்படாததற்கான காரணங்கள் - மூன்றாம் நிலை 
+309,"If enrolled, enrollment status",பள்ளியில் சேர்க்கப்பட்ட குழந்தையாக இருப்பின் 
+311,School ID,பள்ளியின் அடையாள எண்
+312,"If dropped out, class of drop out","பள்ளி இடைநின்ற குழந்தையாக இருந்தால், இடைநின்ற வகுப்பு "
+313,If dropped out primary reason,இடை நிற்றலுக்கான அடிப்படை காரணங்கள்
+314,"If dropped out, secondary reason",இடை நிற்றலுக்கான இரண்டாம் நிலை  காரணங்கள்
+315,"If dropped out, tertiary reason",இடை நிற்றலுக்கான மூன்றாம் நிலை  காரணங்கள்
+319,Type of school,பள்ளியின் வகை 
+320,Free text books available,இலவச பாடபுத்தகங்கள் உள்ளனவா
+321,Free uniform available,இலவச சீருடைகள் உள்ளனவா
+322,HH Chores involvement,வீட்டு வேலைகளில் ஈடுபாடு 
+323,HH Chores involvement - Before school,வீட்டு வேலைகளில் ஈடுபாடு- பள்ளிக்கு போகும் முன் 
+324,HH Chores involvement - After coming from school,வீட்டு வேலைகளில் ஈடுபாடு- பள்ளியிலிருந்து வந்த பின்பு

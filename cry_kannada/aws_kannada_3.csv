@@ -1,0 +1,41 @@
+,Unique Admin ID,ವಿಶಿಷ್ಟ ನಿರ್ವಹಣಾ (ಆಡಳಿತ) ಐ.ಡಿ.
+,AWC CRY ID,ಅಂಗನವಾಡಿ ಕೇಂದ್ರ CRY ಐ.ಡಿ.
+,AWC Government ID,ಎಡಬ್ಲ್ಯೂಸಿ ಸರ್ಕಾರಿ ಐಡಿ
+,Village / Ward,ಗ್ರಾಮ /ವಾರ್ಡ್
+,Hamlet/ Para/Mohalla,ತಾಂಡಾ/ಪಾರಾ/ಮೊಹಲ್ಲಾ/ಕೆರಿ/ಥೋಟ
+89,Type of Anganwaadi,ಅಂಗನವಾಡಿ ವಿಧ
+,Rural / Urban,ಗ್ರಾಮೀಣ/ ನಗರ
+,Location/ Address of the AWC,ಎಡಬ್ಲ್ಯೂಸಿ ಸ್ಥಳ/ ವಿಳಾಸ
+108,Year of Operation of AWC,ಎಡಬ್ಲ್ಯೂಸಿ ಕಾರ್ಯಾಚರಣೆ ವರ್ಷ
+111,Population catered to by AWC,ಎಡಬ್ಲ್ಯೂಸಿ ಸೇವೆ ಸಲ್ಲಿಸಿದ ಜನಸಂಖ್ಯೆ
+113,Need for additional AWC,ಹೆಚ್ಚುವರಿ ಎಡಬ್ಲ್ಯೂಸಿಗಳ ಅಗತ್ಯ
+114,Anganwadi Worker (AWW) available,ಅಂಗನವಾಡಿ ಕಾರ್ಯಕರ್ತರ (ಎಡಬ್ಲ್ಯೂಡಬ್ಲ್ಯೂ ) ಲಭ್ಯತೆ
+115,Month and year of joining in the area for AWW, ಎಡಬ್ಲ್ಯೂಡಬ್ಲ್ಯೂ ಕಾರ್ಯ ಕ್ಷೇತ್ರಕ್ಕೆ ಸೇರ್ಪಡೆಯಾದ ತಿಂಗಳು ಹಾಗೂ ವರ್ಷ
+116,Whether AWW is from the same Panchayat/ Ward,ಎಡಬ್ಲ್ಯೂಡಬ್ಲ್ಯೂ  ಅದೇ ಪಂಚಾಯಿತಿ/ ವಾರ್ಡಾನವರೇ
+117,Additional AWW cum Nutrition Counsellor available,ಲಭ್ಯವಿರುವ ಹೆಚ್ಚುವರಿ  ಎಡಬ್ಲ್ಯೂಡಬ್ಲ್ಯೂ ಹಾಗೂ ಪೌಷ್ಠಿಕತೆ ಆಪ್ತಸಮಾಲೋಚಕ
+118,AW Helper available,ಅಂಗನವಾಡಿ ಸಹಾಯಕರ ಲಭ್ಯತೆ
+119,Boys (0-3 Years) enrolled,ದಾಖಲಾಗಿರುವ ಬಾಲಕರು (0-3  ವರ್ಷಗಳು)
+120,Girls (0-3 Years) enrolled,ದಾಖಲಾಗಿರುವ ಬಾಲಕಿಯರು (0-3  ವರ್ಷಗಳು)
+121,Total Children (0-3 years),ಒಟ್ಟು ಮಕ್ಕಳ ಸಂಖ್ಯೆ (0-3  ವರ್ಷಗಳು)
+122,Boys (3-6 Years) enrolled,ದಾಖಲಾಗಿರುವ ಬಾಲಕರ ಸಂಖ್ಯೆ(3-6 ವರ್ಷಗಳು)
+123,Girls (3-6 Years) enrolled,ದಾಖಲಾಗಿರುವ ಬಾಲಕಿಯರ ಸಂಖ್ಯೆ(3-6 ವರ್ಷಗಳು)
+124,Total children (3-6 Years) enrolled,ದಾಖಲಾಗಿರುವ ಒಟ್ಟು ಮಕ್ಕಳ ಸಂಖ್ಯೆ    (3-6 ವರ್ಷಗಳು)
+125,Total adolescent girls (11-18 Years) enrolled,ದಾಖಲಾಗಿರುವ ಒಟ್ಟು ಹದಿಹರೆಯದ (ಕಿಶೋರಿ) ಬಾಲಕಿಯರು (11-18ವರ್ಷಗಳು)
+126,Total number of pregnant women enrolled,ದಾಖಲಾಗಿರುವ ಒಟ್ಟು ಗರ್ಭಿಣಿಯರ ಸಂಖ್ಯೆ
+127,Total number of lactating mothers enrolled,ದಾಖಲಾಗಿರುವ ಒಟ್ಟು ಬಾಣಂತಿಯರ ಸಂಖ್ಯೆ
+128,Own Building available,ಸ್ವಂತ ಕಟ್ಟಡದ    ಲಭ್ಯತೆ
+129,Type of building,ಕಟ್ಟಡದ ಸ್ವರೂಪ (ಮಾದರಿ)
+130,Shade for cooking available,ಅಡುಗೆ ತಯಾರಿಸಲು ಕೊಠಡಿ ಲಭ್ಯತೆ
+131,Whether drinking water available,ಕುಡಿಯುವ ನೀರು ಲಭ್ಯವಿದೆಯೇ
+132,Functional toilet available,ಬಳಸಲು ಯೋಗ್ಯವಾಗಿರುವ ಶೌಚಾಲಯವಿದಯೇ
+133,Water available in toilets,ಶೌಚಾಲಯಗಳಲ್ಲಿ ನೀರು  ಲಭ್ಯತೆ
+134,Pre-school Education Kits/ material available,ಶಾಲಾ ಪೂರ್ವ ಶ್ಯೆಕ್ಷಣಿಕ ಕಿಟ್ ಗಳು/ ಸಾಮಾಗ್ರಿಗಳು  ಲಭ್ಯತೆ
+135,Take Home Ration Available,ಮನೆಗೆ ಕೊಂಡೊಯ್ಯುವ ಪಡಿತರ ಲಭ್ಹ್ಯತೆ
+136,Cooked Food Available,ಬೇಯಿಸಿದ ಆಹಾರ ಲಭ್ಯವಿದೆಯೇ
+137,Immunization service available,ಲಸಿಕೆ ಸೇವೆ ಲಭ್ಯವಿದೆಯೇ
+138,Health check up service available,ಆರೋಗ್ಯ ತಪಾಸಣೆ ಸೇವೆ ಲಭ್ಯವಿದೆಯೇ
+139,Referral services available,ಉಲ್ಲೇಖಿತ ಸೇವೆ ಗಳ ಲಭ್ಯತೆ
+140,Nutrition & Health education service available,ಪೌಷ್ಠಿಕತೆ & ಆರೋಗ್ಯ ಶಿಕ್ಷಣ ಸೇವೆ ಲಭ್ಯವಿದೆಯೇ
+141,Counselling Services - Adolescent Girls available, ಹದಿಹರೆಯದವರಿಗೆ (ಕಿಶೋರಿಯರಿಗೆ)  ಆಪ್ತಸಮಾಲೋಚನೆ ಸೇವೆ ಗಳ ಲಭ್ಯತೆ
+596,Boys referred for referral,ಉಲ್ಲೇಖಿತ ಸೇವೆಗಳಿಗೆ ಉಲ್ಲೇಖಿಸಿರುವ ಬಾಲಕರು
+597,Girls referred for referral,ಉಲ್ಲೇಖಿತ ಸೇವೆಗಳಿಗೆ ಉಲ್ಲೇಖಿಸಿರುವ ಬಾಲಕಿಯರು

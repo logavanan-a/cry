@@ -1,0 +1,68 @@
+Question ID,SN,வ.எண்
+,Unique Admin ID ,தனித்தன்மையான அடையாள எண்
+,Village / Ward,கிராமம்/வார்டு
+,Hamlet/ Para/Mohalla,குக்கிராமம்
+340,Rural/ Urban,கிராமம்/நகரம் 
+341,Primary school available,தொடக்கப்பள்ளி இருக்கிறதா 
+342,Primary school ID,தொடக்கப்பள்ளியின் அடையாள எண் 
+343,Lowest class in primary school,தொடக்கப்பள்ளியின் குறைந்த வகுப்பு 
+344,Highest class in primary school,தொடக்கப்பள்ளியில் இருக்கும் அதிகபட்ச வகுப்பு 
+345,Category of primary school,பள்ளியின் வகை 
+346,Distance of the primary school,தொடக்கப்பள்ளி இருக்கும் தொலைவு 
+347,Barriers for accessing primary school,பள்ளிக்கு செல்வதில் இருக்கும் தடைகள் 
+348,If other specify,வேறு காரணங்கள் இருந்தால் குறிப்பிடவும் 
+349,Upper Primary school available,நடுநிலைப்பள்ளி இருக்கிறதா 
+350,Upper Primary school ID,நடுநிலைப்பள்ளி யின் அடையாள எண் 
+351,Lowest class in upper school,நடுநிலைப்பள்ளியின் குறைந்த வகுப்பு 
+352,Highest class in upper school,நடுநிலைப்பள்ளியில் இருக்கும் அதிகபட்ச வகுப்பு 
+353,Category of upper school,பள்ளியின் வகை 
+354,Distance of the upper school,நடுநிலைப்பள்ளி  இருக்கும் தொலைவு 
+355,Barriers for accessing upper school,பள்ளிக்கு செல்வதில் இருக்கும் தடைகள் 
+356,"If other, specify",வேறு காரணங்கள் இருந்தால் குறிப்பிடவும் 
+357,Secondary school available,உயர்நிலைப்பள்ளி இருக்கிறதா 
+358,Secondary school ID,உயர்நிலைப்பள்ளியின் அடையாள எண் 
+359,Lowest class in secondary school,உயர்நிலைப்பள்ளியின் குறைந்த வகுப்பு 
+360,Highest class in secondary school,உயர்நிலைப்பள்ளியில் இருக்கும் அதிகபட்ச வகுப்பு 
+361,Category of secondary school,பள்ளியின் வகை 
+362,Distance of the secondary school,உயர்நிலைப்பள்ளி  இருக்கும் தொலைவு 
+363,Barriers for accessing secondary school,பள்ளிக்கு செல்வதில் இருக்கும் தடைகள் 
+364,"If other, specify",வேறு காரணங்கள் இருந்தால் குறிப்பிடவும் 
+365,PUC / Higher Secondary school available,மேல்நிலைப்பள்ளி இருக்கிறதா 
+366,PUC / Higher Secondary school ID,மேல்நிலைப்பள்ளியின் அடையாள எண் 
+367,Lowest class in Higher  secondary school,மேல்நிலைப்பள்ளியின் குறைந்த வகுப்பு 
+368,Highest class in Higher secondary school,மேல்நிலைப்பள்ளியில் இருக்கும் அதிகபட்ச வகுப்பு 
+369,Category of Higher secondary school,பள்ளியின் வகை 
+370,Distance of the Higher secondary school,மேல்நிலைப்பள்ளி இருக்கும் தொலைவு 
+371,Barriers for accessing Higher secondary school,பள்ளிக்கு செல்வதில் இருக்கும் தடைகள் 
+372,"If other, specify",வேறு காரணங்கள் இருந்தால் குறிப்பிடவும் 
+373,AWC available,அங்கன்வாடி மையம் இருக்கிறதா 
+374,Distance of the AWC from the village,கிராமத்திலிருந்து அங்கன்வாடி இருக்கும் தொலைவு 
+375,Primaary barriers for accessing AWC,அங்கன்வாடிக்கு  செல்வதில் இருக்கும் தடைகள் 
+376,"Others, specify",வேறு காரணங்கள் இருந்தால் குறிப்பிடவும் 
+377,Need for additional AWC,கூடுதல் அங்கன்வாடி மையம் தேவையா
+378,Sub centre available,துணை சுகாதார நிலையம் இருக்கிறதா 
+379,Sub centre ID,துணை சுகாதார நிலைய அடையாள எண் 
+380,Distance of the Sub centre from the village,கிராமத்திலிருந்து துணை சுகாதார நிலையம்  இருக்கும் தொலைவு 
+381,Primary barrier in accessing Sub centre,துணை சுகாதார நிலையம் செல்வதில் இருக்கும் தடைகள் 
+382,"If other, specify",வேறு கரணங்கள் இருந்தால் குறிப்பிடவும் 
+383,PHC available,ஆரம்ப சுகாதார நிலையம் இருக்கிறதா 
+384,PHC ID,ஆரம்ப சுகாதார நிலைய அடையாள எண் 
+385,Distance of the PHC from the village,கிராமத்திலிருந்து ஆரம்ப சுகாதார நிலையம்  இருக்கும் தொலைவு 
+386,Primary barrier in accessing PHC,ஆரம்ப சுகாதார நிலையம் செல்வதில் இருக்கும் தடைகள் 
+387,"If other, specify",வேறு கரணங்கள் இருந்தால் குறிப்பிடவும் 
+388,CHC available,சமுதாய சுகாதார நிலையம் இருக்கிறதா 
+389,CHC ID,சமுதாய சுகாதார நிலைய அடையாள எண் 
+390,Distance of the CHC from the village,கிராமத்திலிருந்து சமுதாய  சுகாதார நிலையம்  இருக்கும் தொலைவு 
+391,Primary barrier in accessing CHC,சமுதாய சுகாதார நிலையம் செல்வதில் இருக்கும் தடைகள் 
+392,"If other, specify",வேறு கரணங்கள் இருந்தால் குறிப்பிடவும் 
+393,ASHA available,ஆஷா பணியாளர் இருக்கிறாரா 
+394,VHSNC,"கிராம சுகாதார, ஊட்டச்சத்து குழு இருக்கிறதா "
+395,VHSNC operational,"கிராம சுகாதார, ஊட்டச்சத்து குழு செயல்பாட்டில் இருக்கிறதா "
+396,VCPC existing,கிராம குழந்தைகள் பாதுகாப்பு குழு இருக்கிறதா 
+397,VCPC Operational,கிராம குழந்தைகள் பாதுகாப்பு குழு செயல்படுகிறதா  
+398,Number of Community based org,சுய உதவிக்குழுவின் எண்ணிக்கை 
+399,Number of Child Collective,குழந்தைகள் குழுக்களின் எண்ணிக்கை 
+400,Electricity,மின்சாரம் 
+401,Road (Tar),தார் சாலை 
+402,Public Transport,பேருந்து வசதி இருக்கிறதா 
+403,Water supply,தண்ணீர் வசதி இருக்கிறதா 

@@ -1,0 +1,39 @@
+,Health Centre ID,சுகாதார மையத்தின் அடையாள எண் 
+192,Type of Health Centre,சுகாதார மையத்தின் வகை
+193,Specify,குறிப்பிடவும் 
+210,Building own rented,சொந்த/வாடகை கட்டிடம் 
+211,Operating since,எப்போதிலிருந்து செயல்படுகிறது 
+,Location,இடம் 
+,Village / Ward,கிராமம்/வார்டு
+,Hamelt/ Slum,குக்கிராமம்/சேரி 
+,Rural/ Urban,கிராமமா/நகரமா 
+216,Coverage Population,மக்கட்தொகை 
+217,Whether delivery conducted,பிரசவம் பார்க்கப்படுகிறதா 
+218,Designated class of health facility for delivery and referral,பிரசவம் மற்றும் பரிந்துரை சேவை  சுகாதார வசதிகளின் வகை  
+219,Whether list of medicines available at the centre is publicly displayed outside,மையத்தில் இருப்பிருக்கும் மருந்துகளின் பட்டியல் அனைவருக்கும் தெரியும் வகையில் வெளியில் ஒட்டப்பட்டுள்ளதா 
+220,Examination table available?,பரிசோதனை மேஜை இருக்கிறதா 
+221,Screen/ separat room/ separate place for examination available?,பரிசோதனை செய்வதற்காக திரை/தனி அறை/தனி இடம் இருக்கிறதா 
+222,Delivery table available?,பிரசவ மேஜை இருக்கிறதா 
+223,Weighing machine for children available?,குழந்தைகளுக்கான எடை பார்க்கும் கருவி இருக்கிறதா 
+224,Weighing machine for adults available?,பெரியவர்களுக்கான எடை பார்க்கும் கருவி இருக்கிறதா 
+225,Container for waste disposal available?,கழிவுகளை அப்புறப்படுத்துவதற்கான கொள்கலன் இருக்கிறதா 
+226,Sterilisation machine available for disinfecting equipments?,உபகரணங்களை கிருமி நீக்கம் செய்யும்/சுத்தப்படுத்தும் கருவி இருக்கிறதா
+227,Urine testing facility available?,சிறுநீரை பரிசோதிக்கும் வசதி இருக்கிறதா 
+228,Functional BP testing apparatus available?,இரத்த அழுத்தத்தை பரிசோதிக்கும் கருவி இருக்கிறதா 
+229,Vaccine storage facility available,தடுப்பூசி கிடங்கு/ சேமிப்பு மையம் இருக்கிறதா 
+194,Incubator available,பச்சிளம் குழந்தைகளுக்கான அடை காக்கும் கருவி  இருக்கிறதா  
+195,New Born Corner Centre (NBCC) available,பச்சிளம் குழந்தைகளுக்கான மையம் இருக்கிறதா 
+196,Sick New Born Corner Centre (SNCU) available,நோயுற்ற பச்சிளம் குழந்தைகளுக்கான மையம் இருக்கிறதா 
+197,Functional NRC / MTC available,ஊட்டச்சத்து மறுவாழ்வு மையம்/ஊடச்சத்து குறைபாடு சிகிச்சை மையம் இருக்கிறதா 
+198,Medical Officer available,மருத்துவ அதிகாரி இருக்கிறாரா 
+199,Gynaecologist available,மகப்பேறு மருத்துவர் இருக்கிறாரா 
+206,Paediatrician available,குழந்தை நல மருத்துவர் இருக்கிறாரா 
+207,Anasthecist available,மயக்கமருந்து நிபுணர் இருக்கிறாரா 
+199,Data entry operator available,கணிப்பொறி உதவியாளார் இருக்கிறாரா 
+200,Pharmacist available,மருந்தாளுனர் இருக்கிறாரா 
+201,Staff nurse available,செவிலியர் இருக்கிறாரா 
+208,ANM available,சுகாதார செவிலியர் இருக்கிறாரா 
+209,Female health worker available,பெண் சுகாதார பணியாளர் இருக்கிறாரா 
+202,Amublance services available,அவசர ஊர்தி சேவை உள்ளதா
+203,Blood storage unit available,இரத்த சேமிப்பு அலகு இருக்கிறதா 
+204,Laboratory technician available,இரத்த சேமிப்பு அலகு இருக்கிறதா 

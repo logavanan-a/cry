@@ -1,0 +1,32 @@
+,Unique Admin ID,ವಿಶಿಷ್ಟ ನಿರ್ವಹಣಾ (ಆಡಳಿತ) ಗುರುತು ಐ.ಡಿ.
+,Village / Ward,ಗ್ರಾಮ/ ವಾರ್ಡ್
+,Hamlet/ Para/Mohalla,ತಾಂಡಾ/ಪಾರಾ/ಮೊಹಲ್ಲಾ /ಕರಿ/ಥೋಟ
+,Child ID,ಮಗುವಿನ ಐಡಿ
+,Name of child,ಮಗುವಿನ ಹೆಸರು
+,Sex of the child,ಮಗುವಿನ ಲಿಂಗ
+325,Name of the father,ತಂದೆಯ ಹೆಸರು
+,Name of the mother,ತಾಯಿಯ ಹೆಸರು
+326,Date of collection (Quarter1),ಮಾಹಿತಿ ಪಡೆದ ದಿನಾಂಕ (ತ್ರೈಮಾಸಿಕ 1)
+327,Current class (Child Education) - Q1,ಪ್ರಸಕ್ತ  ತರಗತಿ (ಮಗುವಿನ ಶಿಕ್ಷಣ)-ಕ್ಯೂ1
+328,Regular/ Irregular (Child Education) -Q1,ನಿಯಮಿತ/ಅನಿಯಮಿತ (ಮಗುವಿನ  ಶಿಕ್ಷಣ)-ಕ್ಯೂ1
+329,Reasons for not in school-primary reason - Q1,ಶಾಲೆಯಲ್ಲಿ ಇಲ್ಲದಿರುವ ಕಾರಣ- ಪ್ರಾಥಮಿಕ ಕಾರಣ-ಕ್ಯೂ1
+330,Reasons for not in school - secondary reason -Q1,ಶಾಲೆಯಲ್ಲಿ ಇಲ್ಲದಿರುವ ಕಾರಣ- ಎರಡನೇ ಕಾರಣ-ಕ್ಯೂ1
+331,Reasons for not in school - tertiary reason Q1,ಶಾಲೆಯಲ್ಲಿ ಇಲ್ಲದಿರುವ ಕಾರಣ- ತೃತೀಯ ಕಾರಣ-ಕ್ಯೂ1
+,Date of collection (Quarter2),ಮಾಹಿತಿ ಪಡೆದ ದಿನಾಂಕ (ತ್ರೈಮಾಸಿಕ 2)
+,Current class (Child Education) - Q2,ಪ್ರಸಕ್ತ  ತರಗತಿ (ಮಗುವಿನ ಶಿಕ್ಷಣ)-ಕ್ಯೂ2
+,Regular/ Irregular (Child Education) -Q2,ನಿಯಮಿತ/ಅನಿಯಮಿತ (ಮಗುವಿನ  ಶಿಕ್ಷಣ)-ಕ್ಯೂ2
+,Reasons for not in school-primary reason - Q2,ಶಾಲೆಯಲ್ಲಿ ಇಲ್ಲದಿರುವ ಕಾರಣ- ಪ್ರಾಥಮಿಕ ಕಾರಣ-ಕ್ಯೂ2
+,Reasons for not in school - secondary reason -Q2,ಶಾಲೆಯಲ್ಲಿ ಇಲ್ಲದಿರುವ ಕಾರಣ- ಎರಡನೇ ಕಾರಣ-ಕ್ಯೂ2
+,Reasons for not in school - tertiary reason Q2,ಶಾಲೆಯಲ್ಲಿ ಇಲ್ಲದಿರುವ ಕಾರಣ- ತೃತೀಯ ಕಾರಣ-ಕ್ಯೂ2
+,Date of collection (Quarter3),ಮಾಹಿತಿ ಪಡೆದ ದಿನಾಂಕ (ತ್ರೈಮಾಸಿಕ 3)
+,Current class (Child Education) - Q3,ಪ್ರಸಕ್ತ  ತರಗತಿ (ಮಗುವಿನ ಶಿಕ್ಷಣ)-ಕ್ಯೂ3
+,Regular/ Irregular (Child Education) -Q3,ನಿಯಮಿತ/ಅನಿಯಮಿತ (ಮಗುವಿನ  ಶಿಕ್ಷಣ)-ಕ್ಯೂ3
+,Reasons for not in school-primary reason - Q3,ಶಾಲೆಯಲ್ಲಿ ಇಲ್ಲದಿರುವ ಕಾರಣ- ಪ್ರಾಥಮಿಕ ಕಾರಣ-ಕ್ಯೂ3
+,Reasons for not in school - secondary reason -Q3,ಶಾಲೆಯಲ್ಲಿ ಇಲ್ಲದಿರುವ ಕಾರಣ- ಎರಡನೇ ಕಾರಣ-ಕ್ಯೂ3
+,Reasons for not in school - tertiary reason Q3,ಶಾಲೆಯಲ್ಲಿ ಇಲ್ಲದಿರುವ ಕಾರಣ- ತೃತೀಯ ಕಾರಣ-ಕ್ಯೂ3
+,Date of collection (Quarter4),ಮಾಹಿತಿ ಪಡೆದ ದಿನಾಂಕ (ತ್ರೈಮಾಸಿಕ 4)
+,Current class (Child Education) - Q4,ಪ್ರಸಕ್ತ  ತರಗತಿ (ಮಗುವಿನ ಶಿಕ್ಷಣ)-ಕ್ಯೂ 4
+,Regular/ Irregular (Child Education) -Q4,ನಿಯಮಿತ/ಅನಿಯಮಿತ (ಮಗುವಿನ  ಶಿಕ್ಷಣ)-ಕ್ಯೂ 4
+,Reasons for not in school-primary reason - Q4,ಶಾಲೆಯಲ್ಲಿ ಇಲ್ಲದಿರುವ ಕಾರಣ- ಪ್ರಾಥಮಿಕ ಕಾರಣ-ಕ್ಯೂ4
+,Reasons for not in school - secondary reason -Q4,ಶಾಲೆಯಲ್ಲಿ ಇಲ್ಲದಿರುವ ಕಾರಣ- ಎರಡನೇ ಕಾರಣ-ಕ್ಯೂ4
+,Reasons for not in school - tertiary reason Q4,ಶಾಲೆಯಲ್ಲಿ ಇಲ್ಲದಿರುವ ಕಾರಣ- ತೃತೀಯ ಕಾರಣ-ಕ್ಯೂ4

@@ -1,0 +1,38 @@
+,Unique Admin ID,विशेष एडमिन आई डी
+,Village / Ward,गांव/वार्ड
+,Hamlet/ Para/Mohalla,बसाहट/पारा/मोहल्ला
+,Child ID,बच्चे का आई डी
+,Name of child,बच्चे का नाम
+,Name of head of household,परिवार के मुखिया का नाम
+155,Name of the father,पिता का नाम
+156,Age of father,पिता की उम्र
+157,Highest class passed - Father,पिता द्वारा उत्तीर्ण उच्चतम कक्षा
+158,Occupation of the father,पिता का व्यवसाय
+159,Name of mother,माता का नाम
+160,Age of Mother,माता की उम्र
+161,Highest class passed - Mother,माता द्वारा उत्तीर्ण उच्चतम कक्षा
+162,Occupation of the mother,माता का व्यवसाय
+163,Orphaned/ Single parent,अनाथ/एकल माता-पिता
+164,Name of guardian,अभिभावक का नाम
+165,Caste of child,बच्चे की जाति
+166,Religion of child,बच्चे का धर्म
+167,Sex of the child,बच्चे का लिंग
+168,Birth registration of child done,बच्चे का जन्म पंजीयन
+169,Date of birth of the child,बच्चे की जन्म-तिथि
+170,Place of Delivery,प्रसव का स्थान
+171,Weight at birth,जनम के समय वज़न
+172,Whether the weight of child was communicated to the mother after delivery,क्या प्रसव के बाद माता को बच्चे का वज़न बताया गया था
+173,Age of child  (years),बच्चे की आयु (वर्ष में)
+174,Age of child as of today (months),बच्चे की आयु आज की तारीख में (माह में)
+175,Residential Status,निवास की स्थिति
+176,Month of in migration or out migration,माह जिसमें इस जगह प्रवासित हो कर आये या यहाँ से बाहर गये
+177,Whether enrolled in Anganwaadi,क्या आँगनवाड़ी में नामांकित है
+178,"If yes, Anganwaadi ID","यदि हाँ, आँगनवाड़ी का आई डी"
+179,Whether child getting ECE?,"क्या बच्चे को प्रारंभिक बाल शिक्षा मिल रही 
+है"
+180,Is the child challenged?,क्या बच्चा अशक्त है
+181,Is the child Chronically ill?,क्या बच्चा लम्बी बीमारी से ग्रस्त है
+182,Is the child terminally ill?,क्या बच्चा मरणासन्न है
+183,Is the child engaged/ married?,क्या बच्चे की सगाई/शादी हो चुकी है
+184,Current location of child,वर्तमान में बच्चा कहाँ है
+185,Other specify,स्पष्ट करें

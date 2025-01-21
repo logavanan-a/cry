@@ -1,0 +1,114 @@
+
+Question,Question Id,Question Type,choice Id,Choice
+Highest class passed - Father,157,Select One Choice,457,Illiterate
+Highest class passed - Father,157,Select One Choice,458,Class 1
+Highest class passed - Father,157,Select One Choice,459,Class 2
+Highest class passed - Father,157,Select One Choice,460,Class 3
+Highest class passed - Father,157,Select One Choice,461,Class 4
+Highest class passed - Father,157,Select One Choice,462,Class 5
+Highest class passed - Father,157,Select One Choice,463,Class 6
+Highest class passed - Father,157,Select One Choice,464,Class 7
+Highest class passed - Father,157,Select One Choice,465,Class 8
+Highest class passed - Father,157,Select One Choice,466,Class 9
+Highest class passed - Father,157,Select One Choice,467,Class 10
+Highest class passed - Father,157,Select One Choice,468,Class 11
+Highest class passed - Father,157,Select One Choice,469,Class 12
+Highest class passed - Father,157,Select One Choice,470,Graduate
+Highest class passed - Father,157,Select One Choice,472,Technical education
+Highest class passed - Father,157,Select One Choice,471,Post Graduate
+
+Occupation of the father,158,Select One Choice,176,Unemployed
+Occupation of the father,158,Select One Choice,177,Agricultural labour
+Occupation of the father,158,Select One Choice,473,Casual Labour
+Occupation of the father,158,Select One Choice,474,Agriculture or other worker
+Occupation of the father,158,Select One Choice,475,Self Employed
+Occupation of the father,158,Select One Choice,476,Salaried
+Occupation of the father,158,Select One Choice,477,Artisan
+Occupation of the father,158,Select One Choice,478,Domestic Work
+Occupation of the father,158,Select One Choice,479,Others
+
+Highest class passed - Mother,161,Select One Choice,480,Illiterate
+Highest class passed - Mother,161,Select One Choice,481,Class 1
+Highest class passed - Mother,161,Select One Choice,482,Class 2
+Highest class passed - Mother,161,Select One Choice,483,Class 3
+Highest class passed - Mother,161,Select One Choice,484,Class 4
+Highest class passed - Mother,161,Select One Choice,485,Class 5
+Highest class passed - Mother,161,Select One Choice,486,Class 6
+Highest class passed - Mother,161,Select One Choice,487,Class 7
+Highest class passed - Mother,161,Select One Choice,488,Class 8
+Highest class passed - Mother,161,Select One Choice,489,Class 9
+Highest class passed - Mother,161,Select One Choice,490,Class 10
+Highest class passed - Mother,161,Select One Choice,491,Class 11
+Highest class passed - Mother,161,Select One Choice,492,Class 12
+Highest class passed - Mother,161,Select One Choice,493,Graduate
+Highest class passed - Mother,161,Select One Choice,494,Post Graduate
+Highest class passed - Mother,161,Select One Choice,495,Technical Education
+
+Occupation of the Mother,162,Select One Choice,181,Unemployed
+Occupation of the Mother,162,Select One Choice,182,Agricultural labour
+Occupation of the Mother,162,Select One Choice,183,Casual Labour
+Occupation of the Mother,162,Select One Choice,496,Agriculture labour
+Occupation of the Mother,162,Select One Choice,497,Self Employed
+Occupation of the Mother,162,Select One Choice,498,Salaried
+Occupation of the Mother,162,Select One Choice,499,Artisan
+Occupation of the Mother,162,Select One Choice,500,Domestic Work
+Occupation of the Mother,162,Select One Choice,501,Others
+
+Orphaned /Single parent,163,Radio List,185,Yes Father
+Orphaned /Single parent,163,Radio List,502,Yes Mother
+Orphaned /Single parent,163,Radio List,503,Yes Both Mother and Father
+Orphaned /Single parent,163,Radio List,184,No
+
+Caste of Child,165,Select One Choice,187,SC
+Caste of Child,165,Select One Choice,188,ST
+Caste of Child,165,Select One Choice,189,OBC
+Caste of Child,165,Select One Choice,190,Minority
+Caste of Child,165,Select One Choice,191,General
+
+Religion of Child,166,Select One Choice,192,Hindu
+Religion of Child,166,Select One Choice,193,Christian
+Religion of Child,166,Select One Choice,194,Muslim
+Religion of Child,166,Select One Choice,195,Others
+
+Birth registration of child done?,168,Radio List,198,Yes
+Birth registration of child done?,168,Radio List,199,No
+
+Place of Delivery,170,Select One Choice,504,Home
+Place of Delivery,170,Select One Choice,505,Government Hospital
+Place of Delivery,170,Select One Choice,506,Private Hospital
+Place of Delivery,170,Select One Choice,507,On the Way
+
+Resendtial Status,175,Select One Choice,206,Available
+Resendtial Status,175,Select One Choice,207,Not Available
+
+Month of in-migration or out-migration,176,Select One Choice,208,January
+Month of in-migration or out-migration,176,Select One Choice,1432,Feburary
+Month of in-migration or out-migration,176,Select One Choice,1433,March
+Month of in-migration or out-migration,176,Select One Choice,1434,April
+Month of in-migration or out-migration,176,Select One Choice,1435,May
+Month of in-migration or out-migration,176,Select One Choice,1436,June
+Month of in-migration or out-migration,176,Select One Choice,1437,July
+Month of in-migration or out-migration,176,Select One Choice,1438,August
+Month of in-migration or out-migration,176,Select One Choice,1439,September
+Month of in-migration or out-migration,176,Select One Choice,1440,October
+Month of in-migration or out-migration,176,Select One Choice,1441,November
+Month of in-migration or out-migration,176,Select One Choice,1442,December
+
+Whether enrolled in Anganwadi,177,Radio List,210,No
+Whether enrolled in Anganwadi,177,Radio List,209,Yes
+
+Whether child getting ECE?,179,Radio List,212,Yes
+Whether child getting ECE?,179,Radio List,213,No
+
+Is the child Challenged?,180,Radio List,214,Yes
+Is the child Challenged?,180,Radio List,215,No
+
+Is the child Chronically ill?,181,Radio List,216,Yes
+Is the child Chronically ill?,181,Radio List,217,No
+
+Is the child Terminally ill?,182,Radio List,218,Yes
+Is the child Terminally ill?,182,Radio List,219,No
+
+Is the child Engagged/Married?,183,Radio List,220,Yes
+Is the child Engagged/Married?,183,Radio List,221,No
+

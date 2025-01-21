@@ -1,0 +1,50 @@
+,Unique Admin ID ,विशेष एडमिन आई डी
+,Village / Ward,गांव/वार्ड
+,Hamlet/ Slum,बसाहट/पारा/मोहल्ला
+,HH ID,परिवार का आई डी
+,Name of the Head of the HH,परिवार के मुखिया का नाम
+,Rural/ Urban,ग्रामीण/शहरी
+405,Type of Family,परिवार का प्रकार
+407,Age of the Head of the HH,परिवार के मुखिया  की आयु
+408,Sex of the Head of the HH,परिवार के मुखिया का लिंग  
+409,Highest class passed (Head of the HH), उच्चतम उत्तीर्ण कक्षा (परिवार के मुखिया) 
+410,Caste,जाति
+411,Do you have homestead land,क्या आपके पास वासभूमि है
+412,Type of house,घर का प्रकार
+413,Religion,धर्म
+414,Type of Ration card,राशन कार्ड का प्रकार
+415,"If others, specify","यदि अन्य, स्पष्ट करें"
+416,Ration from PDS,सार्वजनिक वितरण प्रणाली से राशन
+417,MGNREGA JOB CARD,मनरेगा जॉब कार्ड
+418,Number of working days last year,पिछले वर्ष के कार्य दिवस
+419,Amount of money received last year?,पिछले वर्ष कितनी राशि प्राप्त की
+420,Amount Received (MGNREGA),प्राप्त राशि (मनरेगा)
+421,Total family members,परिवार में कुल सदस्य
+422,Total family members 17 years or younger,परिवार में 17 वर्ष से कम आयु के कुल सदस्य
+423,Primary occupation of the family,परिवार का प्रमुख व्यवसाय
+424,"If others, specify","यदि अन्य, स्पष्ट करें"
+425,If landless,क्या भूमिहीन है
+426,Primary source of energy for cooking,खाना पकाने के लिये ईंधन का मुख्स स्रोत
+427,Is there a Casserole/ thermos/ thermoware?,क्या घर में केसेरॉल/थर्मस/थर्मोवेयर है
+428,Is there a TV and VCR/ VCD/ DVD player?,क्या घर में टीवी/वीसीआर/वीसीडी/डीवीडी प्लेयर है
+429,Is there a mobile handset and a telephone (landline)?,क्या घर में मोबाईल फोन और लैंडलाईन टेलीफ़ोन है
+430,Is there a sewing machine?,क्या घर में सिलाई मशीन है
+431,Is there an almeerah/ dressing table?, क्या घर में अल्मारी/ड्रेसिंग टेबल है
+432,"Is there a bicycle, motorcycle/scooter, or motor car/jeep?",क्या घर में साईकल/मोटरसाईकल/स्कूटर/कार/जीप है
+433,Whether the HH is headed by a single parent,क्या एकल माता या पिता परिवार का मुखिया हैं
+434,Whether the HH is headed by grand parents,क्या दादा-दादी/नाना-नानी परिवार का मुखिया हैं
+435,Whether headed by children(18 years and below),क्या बच्चे (18 वर्ष से कम) परिवार का मुखिया हैं
+436,Whether both mother and father work to earn a livelihood,क्या जीविकोपार्जन के लिये मातापिता दोनों काम करते हैं
+437,Whether the primary bread-earner of the HH is terminally/seriously ill,क्या परिवार का मुख्य कमाने वाला व्यक्ति मरणासन्न/गंभीर रूप से बीमार है  
+438,Residential Status,निवास स्थिति
+439,Month of in migration or out migration,प्रवासित हो कर आने या जाने का माह
+440,Whether HH migrates every year,क्या परिवार हर वर्ष प्रवासित होता है
+441,Duration of migration,प्रवासन की अवधि
+442,Whether one adult member of the HH has permanently migrated,क्या परिवार का एक वयस्क सदस्य स्थायी रूप से प्रवासित हो चुका है
+443,Source of drinking water,पीने के पानी का स्रोत
+444,"If others, specify","If others, specify"
+445,Access to toilet,शौचालय तक पहुंच
+446,"If others, specify","यदि अन्य, स्पष्ट करें"
+447,Is any child missing?,क्या कोई बच्चा गुम है?
+448,"If yes, how many boys","यदि हाँ, तो कितने लड़के"
+449,"If yes, how many girls","यदि हाँ, तो कितनी लड़कियाँ"

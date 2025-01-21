@@ -1,0 +1,4 @@
+Date : 22-01-2018
+Time : 10hrs:20min
+
+Error : Section : getChoicelist,Date : Jan 22, 2018 10:18:55 AM,Uid : ,Application : CRY,NetWorkType & NetwortStatus : MOBILE: CONNECTED,Ip Address : localhost/127.0.0.1,HUAWEI,KIW-L22,23,Error Message : Conflict on Option date,postparameters : 2018-01-05 09:39:05.257442

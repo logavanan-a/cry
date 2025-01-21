@@ -1,0 +1,4 @@
+
+ , ,304,305,307,308,309,311,319,320,321,322,323,324,313,314,315,312,316,317,318,334
+ Partner , Beneficiary/Facilty ,Name of Father,Name of Mother,Date of birth,Ever Enrolled,"If enrolled, enrollment status",School Id,Type of School,Free text books available,Free uniform available,HH Chores involvement,HH Chores involvement -Before school,HH Chores involvement - After coming from school,If dropout primary reason,If dropout secondary reason,"If dropout, tertiary reason","If dropped out ,class of dropout","If never enrolled, primary  reason","If never enrolled, secondary reason","If never enrolled, tertiary reason",Other information
+ , ,Text Input,Text Input,Date,Radio List,Radio List,Text Input,Radio List,Radio List,Radio List,Radio List,Radio List,Radio List,Text Input,Text Input,Text Input,Radio List,Radio List,Text Input,Text Input,Text Input

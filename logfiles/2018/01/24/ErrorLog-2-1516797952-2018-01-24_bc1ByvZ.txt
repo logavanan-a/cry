@@ -1,0 +1,4 @@
+Date : 24-01-2018
+Time : 18hrs:15min
+
+Error : Section : ,Date : Jan 24, 2018 6:14:40 PM,Uid : ,Application : CRY,NetWorkType & NetwortStatus : MOBILE: CONNECTED,Ip Address : localhost/127.0.0.1,unknown,Android SDK built for x86,23,Error Message : Conflict on Beneficiary Date,postparameters : 2018-01-24 17:44:08

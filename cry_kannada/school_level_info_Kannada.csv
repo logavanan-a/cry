@@ -1,0 +1,68 @@
+,Unique Admin ID,ವಿಶಿಷ್ಟ ನಿರ್ವಹಣಾ (ಆಡಳಿತ) ಗುರುತು ಐ.ಡಿ.
+,Village / Ward,ಗ್ರಾಮ/ ವಾರ್ಡ್
+,Hamlet/ Para/Mohalla / Keri / Thota,ತಾಂಡಾ/ಪಾರಾ/ಮೊಹಲ್ಲಾ /ಕರಿ/ಥೋಟ
+44,Name of the School,ಶಾಲೆಯ ಹೆಸರು
+45,School ID,ಶಾಲೆಯ ಐಡಿ
+46,Lowest class in school,ಶಾಲೆಯಲ್ಲಿರುವ ಅತಿ ಕಡಿಮೆ  ದರ್ಜೆ (ತರಗತಿ)
+47,Highest class in school,ಶಾಲೆಯಲ್ಲಿರುವ ಅತಿ ಹೆಚ್ಚು  ದರ್ಜೆ (ತರಗತಿ)
+48,Category of school,ಶಾಲೆಯ ವರ್ಗ
+49,Type of school,ಶಾಲೆಯ ಮಾದರಿ
+50,Total number of rooms in school ,ಶಾಲೆಯಲ್ಲಿರುವ ಒಟ್ಟು ಕೊಠಡಿಗಳು
+51,Total Numbers of Class rooms,ಒಟ್ಟು ತರಗತಿಗಳು (ಕೊಠಡಿಗಳು)
+52,Official medium of instruction,ಅಧಿಕೃತ ಭೋಧನಾ ಮಾಧ್ಯಮ
+53,If the official medium matches with local language,ಅಧಿಕೃತ ಭೋಧನಾ ಮಾಧ್ಯಮವು ಸ್ಥಳೀಯ ಭಾಷೆಗೆ ಹೊಂದಿಕೆ ಯಾಗುವುದೇ
+54,Total SC Boys,ಪರಿಶಿಷ್ಟ ಜಾತಿಗೆ ಸೇರಿದ ಒಟ್ಟು ಗಂಡು ಮಕ್ಕಳು (ಬಾಲಕರು)
+55,Total SC Girls,ಪರಿಶಿಷ್ಟ ಜಾತಿಗೆ ಸೇರಿದ ಒಟ್ಟು ಹೆಣ್ಣು ಮಕ್ಕಳು (ಬಾಲಕಿಯರು)
+56,Total ST Boys,ಪರಿಶಿಷ್ಟ ಪಂಗಡಕ್ಕೆ ಸೇರಿದ ಒಟ್ಟು ಗಂಡು ಮಕ್ಕಳು (ಬಾಲಕರು)
+57,Total ST Girls,ಪರಿಶಿಷ್ಟ ಪಂಗಡಕ್ಕೆ ಸೇರಿದ ಒಟ್ಟು ಹೆಣ್ಣು ಮಕ್ಕಳು  (ಬಾಲಕಿಯರು)
+58,Total OBC Boys,ಹಿಂದುಳಿದ ವರ್ಗಕ್ಕೆ ಸೇರಿದ ಒಟ್ಟು ಗಂಡು ಮಕ್ಕಳು (ಬಾಲಕರು)
+59,Total OBC Girls,ಹಿಂದುಳಿದ ವರ್ಗಕ್ಕೆ ಸೇರಿದ ಒಟ್ಟು  ಹೆಣ್ಣು ಮಕ್ಕಳು  (ಬಾಲಕಿಯರು)
+60,Total Other Boys,ಇತರೆ ವರ್ಗಕ್ಕ್ಕೆ ಸೇರಿದ ಒಟ್ಟು ಗಂಡು ಮಕ್ಕಳು (ಬಾಲಕರು)
+61,Total Other Girls,ಇತರೆ ವರ್ಗಕ್ಕ್ಕೆ ಸೇರಿದ ಒಟ್ಟು ಹೆಣ್ಣು ಮಕ್ಕಳು  (ಬಾಲಕಿಯರು)
+62,Total Hindu Boys,ಹಿಂದು ಧರ್ಮಕ್ಕೆ ಸೇರಿದ ಒಟ್ಟು ಗಂಡು ಮಕ್ಕಳು (ಬಾಲಕರು)
+63,Total Hindu Girls,ಹಿಂದು ಧರ್ಮಕ್ಕೆ ಸೇರಿದ ಒಟ್ಟು ಹೆಣ್ಣು ಮಕ್ಕಳು  (ಬಾಲಕಿಯರು) 
+64,Total Muslim Boys,ಮುಸ್ಲಿಂ ಧರ್ಮಕ್ಕೆ ಸೇರಿದ ಒಟ್ಟು ಗಂಡು ಮಕ್ಕಳು (ಬಾಲಕರು)
+65,Total Muslim Girls,ಮುಸ್ಲಿಂ ಧರ್ಮಕ್ಕೆ ಸೇರಿದ ಒಟ್ಟು  ಹೆಣ್ಣು ಮಕ್ಕಳು  (ಬಾಲಕಿಯರು)
+66,Total Christian Boys,      ಕ್ರಿಶ್ಚಿಯನ್   ಧರ್ಮಕ್ಕೆ ಸೇರಿದ ಒಟ್ಟು ಗಂಡು ಮಕ್ಕಳು (ಬಾಲಕರು)
+67,Total Christian Girls,       ಕ್ರಿಶ್ಚಿಯನ್        ಧರ್ಮಕ್ಕೆ ಸೇರಿದ ಒಟ್ಟು  ಹೆಣ್ಣು ಮಕ್ಕಳು  (ಬಾಲಕಿಯರು)
+68,Total Sikh Boys,ಸಿಕ್ ಧರ್ಮಕ್ಕೆ ಸೇರಿದ ಒಟ್ಟು ಗಂಡು ಮಕ್ಕಳು (ಬಾಲಕರು)
+69,Total Sikh Girls,ಸಿಕ್ ಧರ್ಮಕ್ಕೆ ಸೇರಿದ ಒಟ್ಟು ಹೆಣ್ಣು ಮಕ್ಕಳು  (ಬಾಲಕಿಯರು)
+70,Total Buddhist Boys,ಬ್ಭೌದ ಧರ್ಮಕ್ಕೆ ಸೇರಿದ ಒಟ್ಟು ಗಂಡು ಮಕ್ಕಳು (ಬಾಲಕರು)
+71,Total Buddhist Girls,ಬ್ಭೌದ ಧರ್ಮಕ್ಕೆ ಸೇರಿದ ಒಟ್ಟು  ಹೆಣ್ಣು ಮಕ್ಕಳು  (ಬಾಲಕಿಯರು)
+72,Total Jain Boys,ಜೈನ ಧರ್ಮಕ್ಕೆ ಸೇರಿದ ಒಟ್ಟು ಗಂಡು ಮಕ್ಕಳು (ಬಾಲಕರು)
+73,Total Jain Girls,ಜೈನ ಧರ್ಮಕ್ಕೆ ಸೇರಿದ ಒಟ್ಟು  ಹೆಣ್ಣು ಮಕ್ಕಳು  (ಬಾಲಕಿಯರು)
+602,Total Other Boys,ಒಟ್ಟು ಇತರೆ ಗಂಡು ಮಕ್ಕಳು (ಬಾಲಕರು)
+603,Total Other Girls,ಒಟ್ಟು ಇತರೆ ಹೆಣ್ಣು ಮಕ್ಕಳು  (ಬಾಲಕಿಯರು)
+74,Total Boys,ಒಟ್ಟು ಗಂಡು ಮಕ್ಕಳು (ಬಾಲಕರು)
+75,Total Girls,ಒಟ್ಟು ಹೆಣ್ಣು ಮಕ್ಕಳು  (ಬಾಲಕಿಯರು)
+76,Total Children,ಒಟ್ಟು ಮಕ್ಕಳು 
+77,Total numbers of boys with disabled,ವಿಕಲಚೇತನ ಬಾಲಕರು
+78,Total numbers of girls with disability,ವಿಕಲಚೇತನ ಬಾಲಕಿಯರು
+79,Number of permanent teachers ,ಒಟ್ಟು ಖಾಯಂ ಶಿಕ್ಷಕರು
+80,Number of contractual teachers,ಒಪ್ಪಂದದಲ್ಲಿರುವ (ಕರಾರು)ಒಟ್ಟು ಶಿಕ್ಷಕರು
+81,Total numbers of Teachers,ಒಟ್ಟು ಶಿಕ್ಷಕರು
+82,Total male teachers,ಒಟ್ಟು ಪುರುಷ  ಶಿಕ್ಷಕರು
+83,Total female teachers,ಒಟ್ಟು ಮಹಿಳಾ ಶಿಕ್ಷಕರು
+84,Separate Mathematics Teacher,ಪ್ರತ್ಯೇಕ ಗಣಿತದ ಶಿಕ್ಷಕರು
+85,Separate Science Teacher,ಸಾಮಾಜಿಕ ವಿಜ್ಞಾನ ಶಿಕ್ಷಕ ಶಿಕ್ಷಕರು
+86,Separate Language Teacher,ಪ್ರತ್ಯೇಕ ಭಾಷ ಶಿಕ್ಷಕರು
+87,Separate Teacher for SST,ಎಸ್.ಎಸ್.ಟಿ.ಗೆ ಪ್ರತ್ಯೇಕ ಭಾಷ ಶಿಕ್ಷಕರು
+88,At least one female teacher available,ಕನಿಷ್ಟ ಒಬ್ಬ ಮಹಿಳಾ ಶಿಕ್ಷಕರು ಲಭ್ಯ
+92,Mid-Day Meal cooked by,ಬಿಸಿ ಊಟದ ತಯಾರು ಮಾಡುವವರು
+93,Mid-Day Meal Cook available,ಬಿಸಿ ಊಟ ಮಾಡುವ ಅಡುಗೆಯವರು ಲಭ್ಯ
+94,Mid-Day Meal Helper available,ಬಿಸಿ ಊಟದ ಸಹಾಯಕರು ಲಭ್ಯ
+95,Separate Cleaning Staff for MDM,ಬಿಸಿ ಊಟದ ವ್ಯವಸ್ಥೆ ಯನ್ನು ಶುಚಿ ಮಾಡುವ ಸಿಬ್ಬಂದಿ ಪ್ರತ್ಯೇಕವಾಗಿರುವರು
+96,School building available,ಶಾಲಾ ಕಟ್ಟಡ ಲಭ್ಯವಿರುವುದು
+97,Toilet for Children,ಮಕ್ಕಳಿಗಾಗಿ ಶೌಚಾಲಯ
+98,Separate Toilet for Girls,ಬಾಲಕಿಯರಿಗೆ  ಪ್ರತ್ಯೇಕ ಶೌಚಾಲಯ
+99,Water available in Toilet,ಶೌಚಾಲಯ ನೀರಿನ ವ್ಯವಸ್ಥೆಯಿರುವುದು
+100,Boundary Wall Available,ಆವರಣ ಗೋಡೆ ಲಭ್ಯವಿರುವುದು
+102,Library Available,ಗ್ರಂಥಾಲಯ ಲಭ್ಯವಿರುವುದು
+103,Playground available,ಆಟದ ಮೈದಾನ ಲಭ್ಯವಿರುವುದು
+104,Separate kitchen with shed,ಶೆಡ್ ಇರುವ ಪ್ರತ್ಯೇಕ ಅಡುಗೆ ಕೋಣೆ
+105,Disable friendly ramp,ವಿಕಲಚೇತನ ಸ್ನೇಹಿ ಇಳಿಜಾರು
+106,Availability of drinking water,ಕುಡಿಯುವ ನೀರಿನ ಲಭ್ಯತೆ
+107,Availability of electricity,ವಿದ್ಯುಚ್ಚಕ್ತಿಯ ಲಭ್ಯತೆ
+109,Availability of Science lab , ವಿಜ್ಞಾನ ಪ್ರಯೋಗಾಲಯದ ಲಭ್ಯತೆ
+110,School Management Committee Constituted,ಶಾಲಾ ಆಡಳಿತ(ನಿರ್ವಹಣಾ) ಸಮಿತಿಯ ರಚನೆಯಾಗಿದೆ
+112,Numbers of meetings conducted in the year,ವರ್ಷದಲ್ಲಿ ಆಯೋಜಿಸಲಾದ ಸಭೆಗಳ ಸಂಖ್ಯೆ

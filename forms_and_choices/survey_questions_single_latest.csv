@@ -1,0 +1,2027 @@
+Lactating Mothers
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+60,Lactating Mothers,557,Name of the Husband,,
+60,Lactating Mothers,558,Age of Husband,,
+60,Lactating Mothers,559,Highest class husband passed,1318,Illiterate
+60,Lactating Mothers,559,Highest class husband passed,1319,Class 1
+60,Lactating Mothers,559,Highest class husband passed,1320,Class 2
+60,Lactating Mothers,559,Highest class husband passed,1321,Class 4
+60,Lactating Mothers,559,Highest class husband passed,1322,Class 5
+60,Lactating Mothers,559,Highest class husband passed,1323,Class 6
+60,Lactating Mothers,559,Highest class husband passed,1324,Class 7
+60,Lactating Mothers,559,Highest class husband passed,1325,Class 8
+60,Lactating Mothers,559,Highest class husband passed,1326,Class 9
+60,Lactating Mothers,559,Highest class husband passed,1327,Class 10
+60,Lactating Mothers,559,Highest class husband passed,1328,Class 11
+60,Lactating Mothers,559,Highest class husband passed,1329,Class 12
+60,Lactating Mothers,559,Highest class husband passed,1330,Graduate
+60,Lactating Mothers,559,Highest class husband passed,1331,Post Graduate
+60,Lactating Mothers,559,Highest class husband passed,1332,Technical / Professional Education
+60,Lactating Mothers,560,Occupation of the Husband,1334,Unemployed
+60,Lactating Mothers,560,Occupation of the Husband,1335,Agricultural labour
+60,Lactating Mothers,560,Occupation of the Husband,1336,Casual labour and other labour work
+60,Lactating Mothers,560,Occupation of the Husband,1337,Agriculture/ dairy/ fishery and other allied work
+60,Lactating Mothers,560,Occupation of the Husband,1338,Self employed/ business/ vending/ trading
+60,Lactating Mothers,560,Occupation of the Husband,1339,Salaried Government/ Private
+60,Lactating Mothers,560,Occupation of the Husband,1340,Artisan
+60,Lactating Mothers,560,Occupation of the Husband,1341,Domestic work
+60,Lactating Mothers,560,Occupation of the Husband,1342,Others
+60,Lactating Mothers,561,Highest class passed - mother,1343,Illiterate
+60,Lactating Mothers,561,Highest class passed - mother,1344,Class 1
+60,Lactating Mothers,561,Highest class passed - mother,1345,Class 2
+60,Lactating Mothers,561,Highest class passed - mother,1346,Class 3
+60,Lactating Mothers,561,Highest class passed - mother,1347,Class 4
+60,Lactating Mothers,561,Highest class passed - mother,1348,Class 5
+60,Lactating Mothers,561,Highest class passed - mother,1349,Class 6
+60,Lactating Mothers,561,Highest class passed - mother,1350,Class 7
+60,Lactating Mothers,561,Highest class passed - mother,1351,Class 8
+60,Lactating Mothers,561,Highest class passed - mother,1352,Class 9
+60,Lactating Mothers,561,Highest class passed - mother,1353,Class 10
+60,Lactating Mothers,561,Highest class passed - mother,1354,Class 11
+60,Lactating Mothers,561,Highest class passed - mother,1355,Class 12
+60,Lactating Mothers,561,Highest class passed - mother,1356,Graduate
+60,Lactating Mothers,561,Highest class passed - mother,1357,Post Graduate
+60,Lactating Mothers,561,Highest class passed - mother,1358,Technical/Professional Education
+60,Lactating Mothers,562,Residential Status,1359,From this village only and stays in the village
+60,Lactating Mothers,562,Residential Status,1360,From other village and shifted this location
+60,Lactating Mothers,562,Residential Status,1361,Migrated out of the village to another place
+60,Lactating Mothers,562,Residential Status,1362,Migrated permanently out of the village to another place
+60,Lactating Mothers,563,Month of in migration or out migration,1364,January
+60,Lactating Mothers,563,Month of in migration or out migration,1365,Feburary
+60,Lactating Mothers,563,Month of in migration or out migration,1366,March
+60,Lactating Mothers,563,Month of in migration or out migration,1367,April
+60,Lactating Mothers,563,Month of in migration or out migration,1368,May
+60,Lactating Mothers,563,Month of in migration or out migration,1369,June
+60,Lactating Mothers,563,Month of in migration or out migration,1370,July
+60,Lactating Mothers,563,Month of in migration or out migration,1371,August
+60,Lactating Mothers,563,Month of in migration or out migration,1372,September
+60,Lactating Mothers,563,Month of in migration or out migration,1373,October
+60,Lactating Mothers,563,Month of in migration or out migration,1374,November
+60,Lactating Mothers,563,Month of in migration or out migration,1375,December
+60,Lactating Mothers,567,Received post natal care within 24 hours,1381,Yes
+60,Lactating Mothers,567,Received post natal care within 24 hours,1382,No
+60,Lactating Mothers,567,Received post natal care within 24 hours,1530,Not applicable
+60,Lactating Mothers,567,Received post natal care within 24 hours,1720,Don't Know
+60,Lactating Mothers,568,Colostrum feeding,1383,No
+60,Lactating Mothers,568,Colostrum feeding,1384,Yes
+60,Lactating Mothers,568,Colostrum feeding,1385,Not Applicable
+60,Lactating Mothers,568,Colostrum feeding,1721,Don't Know
+60,Lactating Mothers,569,2nd visit by ANM/ AWW/ASHA,1386,No
+60,Lactating Mothers,569,2nd visit by ANM/ AWW/ASHA,1387,Yes
+60,Lactating Mothers,569,2nd visit by ANM/ AWW/ASHA,1388,Not Applicable
+60,Lactating Mothers,569,2nd visit by ANM/ AWW/ASHA,1722,Don't Know
+60,Lactating Mothers,570,3rd visit by ANM/ AWW/ASHA,1389,No
+60,Lactating Mothers,570,3rd visit by ANM/ AWW/ASHA,1390,Yes
+60,Lactating Mothers,570,3rd visit by ANM/ AWW/ASHA,1391,Not Applicable
+60,Lactating Mothers,570,3rd visit by ANM/ AWW/ASHA,1723,Don't Know
+60,Lactating Mothers,571,4th visit by ANM/ AWW/ASHA,1392,No
+60,Lactating Mothers,571,4th visit by ANM/ AWW/ASHA,1393,Yes
+60,Lactating Mothers,571,4th visit by ANM/ AWW/ASHA,1394,Not Applicable
+60,Lactating Mothers,571,4th visit by ANM/ AWW/ASHA,1724,Don't Know
+60,Lactating Mothers,572,Received complete post natal care and advice,1395,Yes
+60,Lactating Mothers,572,Received complete post natal care and advice,1396,No
+60,Lactating Mothers,572,Received complete post natal care and advice,1725,Don't Know
+60,Lactating Mothers,572,Received complete post natal care and advice,1726,Not Applicable
+60,Lactating Mothers,573,Additional visit - 14th Day,1397,Yes
+60,Lactating Mothers,573,Additional visit - 14th Day,1398,No
+60,Lactating Mothers,573,Additional visit - 14th Day,1399,Not Applicable
+60,Lactating Mothers,573,Additional visit - 14th Day,1727,Don't Know
+60,Lactating Mothers,574,Additional visit - 21st Day,1400,No
+60,Lactating Mothers,574,Additional visit - 21st Day,1401,Yes
+60,Lactating Mothers,574,Additional visit - 21st Day,1402,Not Applicable
+60,Lactating Mothers,574,Additional visit - 21st Day,1728,Don't Know
+60,Lactating Mothers,575,Additional visit - 28th Day,1403,No
+60,Lactating Mothers,575,Additional visit - 28th Day,1404,Yes
+60,Lactating Mothers,575,Additional visit - 28th Day,1405,Not Applicable
+60,Lactating Mothers,575,Additional visit - 28th Day,1729,Don't Know
+60,Lactating Mothers,576,Supplementary nutrition - Post Natal: 1- 3 months,1406,"No, did not received at all "
+60,Lactating Mothers,576,Supplementary nutrition - Post Natal: 1- 3 months,1407,"Yes, but irregular"
+60,Lactating Mothers,576,Supplementary nutrition - Post Natal: 1- 3 months,1408,"Yes, regular"
+60,Lactating Mothers,576,Supplementary nutrition - Post Natal: 1- 3 months,1730,Don't Know
+60,Lactating Mothers,576,Supplementary nutrition - Post Natal: 1- 3 months,1731,Not Applicable
+60,Lactating Mothers,577,Exclusive Breast Feeding: 0 - 3 months,1409,Yes
+60,Lactating Mothers,577,Exclusive Breast Feeding: 0 - 3 months,1410,No
+60,Lactating Mothers,577,Exclusive Breast Feeding: 0 - 3 months,1732,Don't Know
+60,Lactating Mothers,577,Exclusive Breast Feeding: 0 - 3 months,1733,Not Applicable
+60,Lactating Mothers,578,Supplementary nutrition - Post Natal: 4 - 6 months,1411,"No, did not received at all"
+60,Lactating Mothers,578,Supplementary nutrition - Post Natal: 4 - 6 months,1412,"Yes, but irregular"
+60,Lactating Mothers,578,Supplementary nutrition - Post Natal: 4 - 6 months,1413,"Yes, regular"
+60,Lactating Mothers,579,Exclusive Breast Feeding: 4 - 6 months,1414,Yes
+60,Lactating Mothers,579,Exclusive Breast Feeding: 4 - 6 months,1415,No
+60,Lactating Mothers,579,Exclusive Breast Feeding: 4 - 6 months,1734,Don't Know
+60,Lactating Mothers,579,Exclusive Breast Feeding: 4 - 6 months,1735,Not Applicable
+60,Lactating Mothers,580,Complementary feeding,,
+60,Lactating Mothers,581,Enrolled in AWC,1429,Yes
+60,Lactating Mothers,581,Enrolled in AWC,1430,No
+60,Lactating Mothers,581,Enrolled in AWC,1531,Not applicable
+60,Lactating Mothers,581,Enrolled in AWC,1736,Don't Know
+60,Lactating Mothers,582,Anganwaadi Centre ID,,
+""
+School Education Retention
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+51,School Education Retention,325,Name of Father,,
+51,School Education Retention,326,Date of Collection,,
+51,School Education Retention,327,Current Class,648,Class 1
+51,School Education Retention,327,Current Class,649,Class 2
+51,School Education Retention,327,Current Class,650,Class 3
+51,School Education Retention,327,Current Class,651,Class 4
+51,School Education Retention,327,Current Class,652,Class 5
+51,School Education Retention,327,Current Class,653,Class 6
+51,School Education Retention,327,Current Class,654,Class 7
+51,School Education Retention,327,Current Class,655,Class 8
+51,School Education Retention,327,Current Class,656,Class 9
+51,School Education Retention,327,Current Class,657,Class 10
+51,School Education Retention,327,Current Class,658,Class 11
+51,School Education Retention,327,Current Class,659,Class 12
+51,School Education Retention,327,Current Class,660,Graduation and above
+51,School Education Retention,327,Current Class,1707,77-Others
+51,School Education Retention,327,Current Class,1708,88-Dont Know
+51,School Education Retention,327,Current Class,1709,99-Not Applicable
+51,School Education Retention,328,Regular or Irregular,661,Regular
+51,School Education Retention,328,Regular or Irregular,662,Irregular
+51,School Education Retention,328,Regular or Irregular,1710,88-Dont Know
+51,School Education Retention,328,Regular or Irregular,1711,99-Not Applicable
+51,School Education Retention,329,Reason for not in school - primary reason,663,Need to help family in work
+51,School Education Retention,329,Reason for not in school - primary reason,664,Child need to earn money
+51,School Education Retention,329,Reason for not in school - primary reason,665,Child migrated to other place
+51,School Education Retention,329,Reason for not in school - primary reason,666,Need to take care of siblings
+51,School Education Retention,329,Reason for not in school - primary reason,667,Thinks Education not useful
+51,School Education Retention,329,Reason for not in school - primary reason,668,Child not intrested
+51,School Education Retention,329,Reason for not in school - primary reason,669,Disability
+51,School Education Retention,329,Reason for not in school - primary reason,670,Marriage
+51,School Education Retention,329,Reason for not in school - primary reason,671,Teaching in school not good
+51,School Education Retention,329,Reason for not in school - primary reason,672,No facilities in school
+51,School Education Retention,329,Reason for not in school - primary reason,673,School at a long distance
+51,School Education Retention,329,Reason for not in school - primary reason,674,Unsafe travel to  school
+51,School Education Retention,329,Reason for not in school - primary reason,675,No higher level schools
+51,School Education Retention,329,Reason for not in school - primary reason,676,Mid Day Meal not available
+51,School Education Retention,329,Reason for not in school - primary reason,677,Discrimination by teacher
+51,School Education Retention,329,Reason for not in school - primary reason,678,Discrimination by others
+51,School Education Retention,329,Reason for not in school - primary reason,679,Corporal punishment
+51,School Education Retention,329,Reason for not in school - primary reason,680,Sexual harassment
+51,School Education Retention,329,Reason for not in school - primary reason,1500,Not applicable
+51,School Education Retention,329,Reason for not in school - primary reason,1712,88-Dont Know
+51,School Education Retention,329,Reason for not in school - primary reason,1713,77-Others
+51,School Education Retention,330,Secondary reason for not in school,682,
+51,School Education Retention,330,Secondary reason for not in school,1612,Need to help family in work/ Household occupation
+51,School Education Retention,330,Secondary reason for not in school,1613,Child need to work to earn money (labour work)
+51,School Education Retention,330,Secondary reason for not in school,1614,Family/ child migrated to other place for work or any other
+51,School Education Retention,330,Secondary reason for not in school,1615,Need to take care of siblings/ need to take care of domestic
+51,School Education Retention,330,Secondary reason for not in school,1616,Parents perceive education as not useful
+51,School Education Retention,330,Secondary reason for not in school,1617,Child not interested in education
+51,School Education Retention,330,Secondary reason for not in school,1618,Disability
+51,School Education Retention,330,Secondary reason for not in school,1619,Marriage
+51,School Education Retention,330,Secondary reason for not in school,1620,Teaching in school not satisfactory
+51,School Education Retention,330,Secondary reason for not in school,1621,Facilities in school are not adequate/ satisfactory
+51,School Education Retention,330,Secondary reason for not in school,1622,School unsafe/ travel to school unsafe
+51,School Education Retention,330,Secondary reason for not in school,1623,Higher level schools are not available close to the village
+51,School Education Retention,330,Secondary reason for not in school,1624,MDM not available or not available regularly/ Quality of MDM
+51,School Education Retention,330,Secondary reason for not in school,1625,Discrimination by teacher/ Misbehaviour by teacher from high
+51,School Education Retention,330,Secondary reason for not in school,1626,Discrimination by other children
+51,School Education Retention,330,Secondary reason for not in school,1627,Corporal punishment
+51,School Education Retention,330,Secondary reason for not in school,1628,Sexual harassment
+51,School Education Retention,330,Secondary reason for not in school,1629,Not applicable
+51,School Education Retention,330,Secondary reason for not in school,1651,School at a long distance/ Travel to school not convenient
+51,School Education Retention,330,Secondary reason for not in school,1714,88-Dont Know
+51,School Education Retention,330,Secondary reason for not in school,1715,77-Others
+51,School Education Retention,331,Tertiary reason for not in school,683,
+51,School Education Retention,331,Tertiary reason for not in school,1630,Need to help family in work/ Household occupation
+51,School Education Retention,331,Tertiary reason for not in school,1631,Child need to work to earn money
+51,School Education Retention,331,Tertiary reason for not in school,1632,Family/ child migrated to other place for work or any other
+51,School Education Retention,331,Tertiary reason for not in school,1633,Need to take care of siblings/ need to take care of domestic
+51,School Education Retention,331,Tertiary reason for not in school,1634,Parents perceive education as not useful
+51,School Education Retention,331,Tertiary reason for not in school,1635,Child not interested in education
+51,School Education Retention,331,Tertiary reason for not in school,1636,Disability
+51,School Education Retention,331,Tertiary reason for not in school,1637,Marriage
+51,School Education Retention,331,Tertiary reason for not in school,1638,Teaching in school not satisfactory
+51,School Education Retention,331,Tertiary reason for not in school,1639,Facilities in school are not adequate/ satisfactory
+51,School Education Retention,331,Tertiary reason for not in school,1640,School at a long distance/ Travel to school not convenient
+51,School Education Retention,331,Tertiary reason for not in school,1641,School unsafe/ travel to school unsafe
+51,School Education Retention,331,Tertiary reason for not in school,1642,Higher level schools are not available close to the village
+51,School Education Retention,331,Tertiary reason for not in school,1643,MDM not available or not available regularly/ Quality of MDM
+51,School Education Retention,331,Tertiary reason for not in school,1644,Discrimination by teacher/ Misbehaviour by teacher from high
+51,School Education Retention,331,Tertiary reason for not in school,1645,Discrimination by other children/ Misbehaviour by other
+51,School Education Retention,331,Tertiary reason for not in school,1646,Corporal punishment
+51,School Education Retention,331,Tertiary reason for not in school,1647,Sexual harassment
+51,School Education Retention,331,Tertiary reason for not in school,1648,Not applicable
+51,School Education Retention,331,Tertiary reason for not in school,1716,88-Dont Know
+51,School Education Retention,331,Tertiary reason for not in school,1717,77-Others
+""
+Child Vaccination and Immuniza
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+49,Child Vaccination and Immuniza,264,Name of the Father,,
+49,Child Vaccination and Immuniza,265,Name of Mother,,
+49,Child Vaccination and Immuniza,268,Date of birth of Child,,
+49,Child Vaccination and Immuniza,269,MCP MCH card made,522,Yes
+49,Child Vaccination and Immuniza,269,MCP MCH card made,523,No
+49,Child Vaccination and Immuniza,270,MCP MCH card available,579,Yes
+49,Child Vaccination and Immuniza,270,MCP MCH card available,580,No
+49,Child Vaccination and Immuniza,271,BCG at birth,526,Given
+49,Child Vaccination and Immuniza,271,BCG at birth,527,Not Given
+49,Child Vaccination and Immuniza,272,BCG Date ,,
+49,Child Vaccination and Immuniza,273,Hepatitis B 0 (At Birth),529,Given
+49,Child Vaccination and Immuniza,273,Hepatitis B 0 (At Birth),530,Not Given
+49,Child Vaccination and Immuniza,274,Hepatitis B 0 Date,,
+49,Child Vaccination and Immuniza,275,"OPV - 0 ( for polio, At Birth)",533,Given
+49,Child Vaccination and Immuniza,275,"OPV - 0 ( for polio, At Birth)",534,Not Given
+49,Child Vaccination and Immuniza,276,OPV - 0 - Date,,
+49,Child Vaccination and Immuniza,277,OPV - 1 (at 1.5 months),537,Given
+49,Child Vaccination and Immuniza,277,OPV - 1 (at 1.5 months),538,Not Given
+49,Child Vaccination and Immuniza,277,OPV - 1 (at 1.5 months),1740,Don't Know
+49,Child Vaccination and Immuniza,277,OPV - 1 (at 1.5 months),1741,Not Applicable
+49,Child Vaccination and Immuniza,277,OPV - 1 (at 1.5 months),1742,Others
+49,Child Vaccination and Immuniza,278,Opv - 1- Date ,,
+49,Child Vaccination and Immuniza,279,DPT - 1 (at 1.5 months),541,Given
+49,Child Vaccination and Immuniza,279,DPT - 1 (at 1.5 months),542,Not Given
+49,Child Vaccination and Immuniza,279,DPT - 1 (at 1.5 months),1737,Don't Know
+49,Child Vaccination and Immuniza,279,DPT - 1 (at 1.5 months),1738,Not Applicable
+49,Child Vaccination and Immuniza,279,DPT - 1 (at 1.5 months),1739,Others
+49,Child Vaccination and Immuniza,280,DPT - 1 - Date ,,
+49,Child Vaccination and Immuniza,281,Hepatitis B 1 (at 1.5 months),544,Given
+49,Child Vaccination and Immuniza,281,Hepatitis B 1 (at 1.5 months),545,Not Given
+49,Child Vaccination and Immuniza,281,Hepatitis B 1 (at 1.5 months),1743,Don't Know
+49,Child Vaccination and Immuniza,281,Hepatitis B 1 (at 1.5 months),1744,Others
+49,Child Vaccination and Immuniza,281,Hepatitis B 1 (at 1.5 months),1745,Not Applicable
+49,Child Vaccination and Immuniza,282,Hepatitis B 1 - Date,,
+49,Child Vaccination and Immuniza,283,OPV - 2 (At 2.5 months),547,Given
+49,Child Vaccination and Immuniza,283,OPV - 2 (At 2.5 months),548,Not Given
+49,Child Vaccination and Immuniza,283,OPV - 2 (At 2.5 months),1746,Don't Know
+49,Child Vaccination and Immuniza,283,OPV - 2 (At 2.5 months),1747,Not Applicable
+49,Child Vaccination and Immuniza,284,OPV - 2 Date,,
+49,Child Vaccination and Immuniza,285,DPT - 2 (At 2.5 months),550,Given
+49,Child Vaccination and Immuniza,285,DPT - 2 (At 2.5 months),551,Not Given
+49,Child Vaccination and Immuniza,285,DPT - 2 (At 2.5 months),1748,Don't Know
+49,Child Vaccination and Immuniza,285,DPT - 2 (At 2.5 months),1749,Not Applicable
+49,Child Vaccination and Immuniza,286,DPT - 2 Date,,
+49,Child Vaccination and Immuniza,287,Hepatitis B 2 (At 2.5 months),553,Given
+49,Child Vaccination and Immuniza,287,Hepatitis B 2 (At 2.5 months),554,Not Given
+49,Child Vaccination and Immuniza,287,Hepatitis B 2 (At 2.5 months),1750,Don't Know
+49,Child Vaccination and Immuniza,287,Hepatitis B 2 (At 2.5 months),1751,Not Applicable
+49,Child Vaccination and Immuniza,288,Hepatitis B 2 Date,,
+49,Child Vaccination and Immuniza,289,OPV - 3 (At 3.5 months),556,Given
+49,Child Vaccination and Immuniza,289,OPV - 3 (At 3.5 months),557,Not Given
+49,Child Vaccination and Immuniza,289,OPV - 3 (At 3.5 months),1752,Don't Know
+49,Child Vaccination and Immuniza,289,OPV - 3 (At 3.5 months),1753,Not Applicable
+49,Child Vaccination and Immuniza,290,OPV - 3 Date,,
+49,Child Vaccination and Immuniza,291,DPT - 3 (At 3.5 months),559,Given
+49,Child Vaccination and Immuniza,291,DPT - 3 (At 3.5 months),560,Not Given
+49,Child Vaccination and Immuniza,291,DPT - 3 (At 3.5 months),1754,Don't Know
+49,Child Vaccination and Immuniza,291,DPT - 3 (At 3.5 months),1755,Not Applicable
+49,Child Vaccination and Immuniza,292,DPT - 3 Date,,
+49,Child Vaccination and Immuniza,293,Hepatitis B 3 (At 3.5 months),562,Given
+49,Child Vaccination and Immuniza,293,Hepatitis B 3 (At 3.5 months),563,Not Given
+49,Child Vaccination and Immuniza,293,Hepatitis B 3 (At 3.5 months),1756,Don't Know
+49,Child Vaccination and Immuniza,293,Hepatitis B 3 (At 3.5 months),1757,Not Applicable
+49,Child Vaccination and Immuniza,294,Hepatitis B 3 Date,,
+49,Child Vaccination and Immuniza,295,Pentavalent - 1,565,Given
+49,Child Vaccination and Immuniza,295,Pentavalent - 1,566,Not Given
+49,Child Vaccination and Immuniza,295,Pentavalent - 1,1532,Not applicable
+49,Child Vaccination and Immuniza,295,Pentavalent - 1,1758,Don't Know
+49,Child Vaccination and Immuniza,295,Pentavalent - 1,1759,Others
+49,Child Vaccination and Immuniza,296,Pentavalent - 1 Date,,
+49,Child Vaccination and Immuniza,605,Pentavalent - 2,1653,Given
+49,Child Vaccination and Immuniza,605,Pentavalent - 2,1654,Not Given
+49,Child Vaccination and Immuniza,605,Pentavalent - 2,1655,Not applicable
+49,Child Vaccination and Immuniza,605,Pentavalent - 2,1656,Don't know
+49,Child Vaccination and Immuniza,605,Pentavalent - 2,1657,Others
+49,Child Vaccination and Immuniza,606,Pentavalent - 2 Date,,
+49,Child Vaccination and Immuniza,297,Pentavalent - 3,568,Given
+49,Child Vaccination and Immuniza,297,Pentavalent - 3,569,Not Given
+49,Child Vaccination and Immuniza,297,Pentavalent - 3,1611,Not applicable
+49,Child Vaccination and Immuniza,297,Pentavalent - 3,1760,Don't Know
+49,Child Vaccination and Immuniza,298,Pentavalent - 3 Date,,
+49,Child Vaccination and Immuniza,301,Vitamin A (1st dose at 9 months),574,Given
+49,Child Vaccination and Immuniza,301,Vitamin A (1st dose at 9 months),575,Not Given
+49,Child Vaccination and Immuniza,301,Vitamin A (1st dose at 9 months),1761,Don't Know
+49,Child Vaccination and Immuniza,301,Vitamin A (1st dose at 9 months),1762,Not Applicable
+49,Child Vaccination and Immuniza,301,Vitamin A (1st dose at 9 months),1763,Others
+49,Child Vaccination and Immuniza,302,Vitamin A Date,,
+49,Child Vaccination and Immuniza,299,Measles (At 9 months),571,Given
+49,Child Vaccination and Immuniza,299,Measles (At 9 months),572,Not Given
+49,Child Vaccination and Immuniza,299,Measles (At 9 months),1764,Don't Know
+49,Child Vaccination and Immuniza,299,Measles (At 9 months),1765,Not Applicable
+49,Child Vaccination and Immuniza,299,Measles (At 9 months),1766,Others
+49,Child Vaccination and Immuniza,300,Measles - Date,,
+49,Child Vaccination and Immuniza,303,Full immunization,577,Yes
+49,Child Vaccination and Immuniza,303,Full immunization,578,No
+49,Child Vaccination and Immuniza,303,Full immunization,1767,Don't Know
+49,Child Vaccination and Immuniza,303,Full immunization,1768,Not Applicable
+49,Child Vaccination and Immuniza,303,Full immunization,1769,Others
+""
+Labour and Migration
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+48,Labour and Migration,245,Name of Father,,
+48,Labour and Migration,246,Name of Mother,,
+48,Labour and Migration,247,Date of birth of child,,
+48,Labour and Migration,248,Date of collection,,
+48,Labour and Migration,249,Enrollment status,352,Enrolled and currently going s
+48,Labour and Migration,249,Enrollment status,353,Drop out of School
+48,Labour and Migration,249,Enrollment status,1770,Don't Know
+48,Labour and Migration,249,Enrollment status,1771,Not Applicable
+48,Labour and Migration,250,HH Chores involvement,420,"No, Not at all"
+48,Labour and Migration,250,HH Chores involvement,422,"Yes, works for the entire day"
+48,Labour and Migration,250,HH Chores involvement,421,Yes somtimes
+48,Labour and Migration,250,HH Chores involvement,1772,88-Dont Know
+48,Labour and Migration,251,HH Chores involvement - Before going to school,508,No
+48,Labour and Migration,251,HH Chores involvement - Before going to school,510,Yes most of the time
+48,Labour and Migration,251,HH Chores involvement - Before going to school,509,Yes sometimes
+48,Labour and Migration,251,HH Chores involvement - Before going to school,1773,Don't Know
+48,Labour and Migration,251,HH Chores involvement - Before going to school,1774,Not Applicable
+48,Labour and Migration,251,HH Chores involvement - Before going to school,419,Yes most of the time
+48,Labour and Migration,251,HH Chores involvement - Before going to school,418,Yes sometime
+48,Labour and Migration,251,HH Chores involvement - Before going to school,417,No
+48,Labour and Migration,252,HH Chores involvement - After coming from school,1775,Don't Know
+48,Labour and Migration,252,HH Chores involvement - After coming from school,1776,Not Applicable
+48,Labour and Migration,252,HH Chores involvement - After coming from school,360,No
+48,Labour and Migration,252,HH Chores involvement - After coming from school,362,Yes Most of the time
+48,Labour and Migration,252,HH Chores involvement - After coming from school,361,Yes Sometimes
+48,Labour and Migration,253,Economic activities involvement,1777,Don't Know
+48,Labour and Migration,253,Economic activities involvement,1778,Not Applicable
+48,Labour and Migration,253,Economic activities involvement,366,Yes outside home alone
+48,Labour and Migration,253,Economic activities involvement,363,No
+48,Labour and Migration,253,Economic activities involvement,365,Yes outside with family
+48,Labour and Migration,253,Economic activities involvement,364,Yes at home
+48,Labour and Migration,254,Number of hours of involvement,1779,Don't Know
+48,Labour and Migration,254,Number of hours of involvement,1780,Not Applicable
+48,Labour and Migration,254,Number of hours of involvement,423,Below 3 hours
+48,Labour and Migration,254,Number of hours of involvement,424,3 to 6 hours
+48,Labour and Migration,254,Number of hours of involvement,425,6 to 8 hours
+48,Labour and Migration,254,Number of hours of involvement,426,Above 8 hours
+48,Labour and Migration,255,Number of days of involvement,1781,Don't Know
+48,Labour and Migration,255,Number of days of involvement,1782,Not Applicable
+48,Labour and Migration,255,Number of days of involvement,427,Below 7 days
+48,Labour and Migration,255,Number of days of involvement,428,7 to 15 days
+48,Labour and Migration,255,Number of days of involvement,429,16 to 21 days
+48,Labour and Migration,255,Number of days of involvement,430,Above 21 days
+48,Labour and Migration,256,Sector of work,438,Hotels or Restaurants
+48,Labour and Migration,256,Sector of work,434,Brick Klink
+48,Labour and Migration,256,Sector of work,435,Carpet weaving
+48,Labour and Migration,256,Sector of work,436,Constructions
+48,Labour and Migration,256,Sector of work,431,Agriculture
+48,Labour and Migration,256,Sector of work,439,Minning Quarries
+48,Labour and Migration,256,Sector of work,440,Diamond and gems industry
+48,Labour and Migration,256,Sector of work,441,Grazing
+48,Labour and Migration,256,Sector of work,442,Zari Work
+48,Labour and Migration,256,Sector of work,432,Domestic Work
+48,Labour and Migration,256,Sector of work,433,Beeding rolling
+48,Labour and Migration,256,Sector of work,445,Street Vending
+48,Labour and Migration,256,Sector of work,446,Garage Work
+48,Labour and Migration,256,Sector of work,447,Pollination
+48,Labour and Migration,256,Sector of work,448,Other industry
+48,Labour and Migration,256,Sector of work,449,Paper and milk distribution
+48,Labour and Migration,256,Sector of work,450,NTFP
+48,Labour and Migration,256,Sector of work,451,Fishing
+48,Labour and Migration,256,Sector of work,452,Rag Picking
+48,Labour and Migration,256,Sector of work,453,Begging
+48,Labour and Migration,256,Sector of work,454,Others
+48,Labour and Migration,256,Sector of work,455,Dont know
+48,Labour and Migration,256,Sector of work,456,Not Applicable
+48,Labour and Migration,256,Sector of work,444,Flower Picking
+48,Labour and Migration,256,Sector of work,443,Piece meal work
+48,Labour and Migration,256,Sector of work,437,Fireworks and matches factory
+48,Labour and Migration,257,Specify the other sector of work,,
+48,Labour and Migration,258,Bonded labour involvement,1783,Don't Know
+48,Labour and Migration,258,Bonded labour involvement,402,No
+48,Labour and Migration,258,Bonded labour involvement,403,Yes
+48,Labour and Migration,259,Child Migrated,404,Not Migrated
+48,Labour and Migration,259,Child Migrated,405,Yes with family
+48,Labour and Migration,259,Child Migrated,406,"Yes, with relatives/friends/neighbour/acquaitances"
+48,Labour and Migration,259,Child Migrated,407,"Yes, with a person known for sending child for labour/agent"
+48,Labour and Migration,259,Child Migrated,408,"Yes, alone"
+48,Labour and Migration,259,Child Migrated,1785,Don't Know
+48,Labour and Migration,260,Purpose of migration,409,Work
+48,Labour and Migration,260,Purpose of migration,410,Education
+48,Labour and Migration,260,Purpose of migration,411,Social ceremonies
+48,Labour and Migration,260,Purpose of migration,412,Accompanied parents
+48,Labour and Migration,260,Purpose of migration,413,Dont know
+48,Labour and Migration,599,Place of Migration,1465,Neighbouring Village
+48,Labour and Migration,599,Place of Migration,1466,Another Village in the district
+48,Labour and Migration,599,Place of Migration,1467,Another District in the state
+48,Labour and Migration,599,Place of Migration,1468,Neighbouring State
+48,Labour and Migration,599,Place of Migration,1469,Distant States
+48,Labour and Migration,599,Place of Migration,1470,Dont Know
+48,Labour and Migration,600,Sector of work,1471,Agriculture
+48,Labour and Migration,600,Sector of work,1472,Domestic Work
+48,Labour and Migration,600,Sector of work,1473,Beedi Rolling
+48,Labour and Migration,600,Sector of work,1474,Brick Kilns
+48,Labour and Migration,600,Sector of work,1475,Carpet Weaving
+48,Labour and Migration,600,Sector of work,1476,Construction
+48,Labour and Migration,600,Sector of work,1477,Fireworks and matches factorires
+48,Labour and Migration,600,Sector of work,1478,Hotels or restaurants
+48,Labour and Migration,600,Sector of work,1479,Mining or Quarries
+48,Labour and Migration,600,Sector of work,1480,Diamond and gems industry
+48,Labour and Migration,600,Sector of work,1481,Grazing
+48,Labour and Migration,600,Sector of work,1482,Zari work
+48,Labour and Migration,600,Sector of work,1483,Piece meal work
+48,Labour and Migration,600,Sector of work,1484,Flower picking
+48,Labour and Migration,600,Sector of work,1485,Street Vending
+48,Labour and Migration,600,Sector of work,1486,Garage Work
+48,Labour and Migration,600,Sector of work,1487,Pollination
+48,Labour and Migration,600,Sector of work,1488,Industry other than given
+48,Labour and Migration,600,Sector of work,1489,Paper milk distribution
+48,Labour and Migration,600,Sector of work,1490,NFTP Collection
+48,Labour and Migration,600,Sector of work,1491,Fishing
+48,Labour and Migration,600,Sector of work,1492,Rag picking
+48,Labour and Migration,600,Sector of work,1493,Begging
+48,Labour and Migration,600,Sector of work,1494,Others
+48,Labour and Migration,600,Sector of work,1495,Dont Know
+48,Labour and Migration,601,If others specify,,
+""
+Growth Monitoring
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+47,Growth Monitoring,231,Name of Father,,
+47,Growth Monitoring,232,Name of Mother,,
+47,Growth Monitoring,234,Date of Birth,,
+47,Growth Monitoring,236,Weight (in kgs),,
+47,Growth Monitoring,237,Height (in cms),,
+47,Growth Monitoring,238,Nutrition status,1787,Others
+47,Growth Monitoring,238,Nutrition status,1788,Don't Know
+47,Growth Monitoring,238,Nutrition status,1789,Not Applicable
+47,Growth Monitoring,238,Nutrition status,345,Normal
+47,Growth Monitoring,238,Nutrition status,347,SAM
+47,Growth Monitoring,238,Nutrition status,346,MAM
+47,Growth Monitoring,239,Growth monitoring chart updated,1790,Not Applicable
+47,Growth Monitoring,239,Growth monitoring chart updated,1791,Don't Know
+47,Growth Monitoring,239,Growth monitoring chart updated,1792,Others
+47,Growth Monitoring,239,Growth monitoring chart updated,323,Yes
+47,Growth Monitoring,239,Growth monitoring chart updated,324,No
+47,Growth Monitoring,240,Referal,1793,Don't Know
+47,Growth Monitoring,240,Referal,1794,Not Applicable
+47,Growth Monitoring,240,Referal,1795,Others
+47,Growth Monitoring,240,Referal,326,No
+47,Growth Monitoring,240,Referal,325,Yes
+47,Growth Monitoring,241,If Yes,327,NRC
+47,Growth Monitoring,241,If Yes,328,MTC
+47,Growth Monitoring,241,If Yes,329,Hospital
+47,Growth Monitoring,241,If Yes,330,Not Applicable
+47,Growth Monitoring,242,Whether referal service availed,1796,Don't Know
+47,Growth Monitoring,242,Whether referal service availed,1797,Not Applicable
+47,Growth Monitoring,242,Whether referal service availed,1798,Others
+47,Growth Monitoring,242,Whether referal service availed,331,Yes
+47,Growth Monitoring,242,Whether referal service availed,332,No
+47,Growth Monitoring,243,"If No,Reason for not availing",333,Cant leave family
+47,Growth Monitoring,243,"If No,Reason for not availing",334,No person to accompany 
+47,Growth Monitoring,243,"If No,Reason for not availing",335,Longer Distance
+47,Growth Monitoring,243,"If No,Reason for not availing",336,Dont trust the institution
+47,Growth Monitoring,243,"If No,Reason for not availing",337,Economic issue
+47,Growth Monitoring,243,"If No,Reason for not availing",338,Not applicable
+47,Growth Monitoring,243,"If No,Reason for not availing",339,Others
+47,Growth Monitoring,244,Supl Nutrition,1799,Don't Know
+47,Growth Monitoring,244,Supl Nutrition,1800,Others
+47,Growth Monitoring,244,Supl Nutrition,343,Regular and complete amount
+47,Growth Monitoring,244,Supl Nutrition,340,No 
+47,Growth Monitoring,244,Supl Nutrition,341,Irregular and incomplete
+47,Growth Monitoring,244,Supl Nutrition,344,Not applicable
+47,Growth Monitoring,244,Supl Nutrition,342,Irregular and complete amount
+""
+Child Annual Information
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+37,Child Annual Information,155,Name of the Father,,
+37,Child Annual Information,156,Age of Father,,
+37,Child Annual Information,157,Highest class passed - Father,457,Illiterate
+37,Child Annual Information,157,Highest class passed - Father,458,Class 1
+37,Child Annual Information,157,Highest class passed - Father,459,Class 2
+37,Child Annual Information,157,Highest class passed - Father,460,Class 3
+37,Child Annual Information,157,Highest class passed - Father,461,Class 4
+37,Child Annual Information,157,Highest class passed - Father,462,Class 5
+37,Child Annual Information,157,Highest class passed - Father,463,Class 6
+37,Child Annual Information,157,Highest class passed - Father,464,Class 7
+37,Child Annual Information,157,Highest class passed - Father,465,Class 8
+37,Child Annual Information,157,Highest class passed - Father,466,Class 9
+37,Child Annual Information,157,Highest class passed - Father,467,Class 10
+37,Child Annual Information,157,Highest class passed - Father,468,Class 11
+37,Child Annual Information,157,Highest class passed - Father,469,Class 12
+37,Child Annual Information,157,Highest class passed - Father,470,Graduate
+37,Child Annual Information,157,Highest class passed - Father,471,Post Graduate
+37,Child Annual Information,157,Highest class passed - Father,472,Technical education
+37,Child Annual Information,157,Highest class passed - Father,1683,88-Dont Know
+37,Child Annual Information,157,Highest class passed - Father,1684,99-Not Applicable
+37,Child Annual Information,158,Occupation of the father,176,Unemployed
+37,Child Annual Information,158,Occupation of the father,177,Agricultural labour
+37,Child Annual Information,158,Occupation of the father,473,Casual Labour
+37,Child Annual Information,158,Occupation of the father,474,"Agriculture,dairy,fishery and other allied work"
+37,Child Annual Information,158,Occupation of the father,475,Self Employed/business/vending/trading
+37,Child Annual Information,158,Occupation of the father,476,Salaried
+37,Child Annual Information,158,Occupation of the father,477,Artisan
+37,Child Annual Information,158,Occupation of the father,478,Domestic Work
+37,Child Annual Information,158,Occupation of the father,479,Others
+37,Child Annual Information,158,Occupation of the father,1685,88-Dont Know
+37,Child Annual Information,158,Occupation of the father,1686,99-Not Applicable
+37,Child Annual Information,159,Name of Mother,,
+37,Child Annual Information,160,Age of Mother,,
+37,Child Annual Information,161,Highest class passed - Mother,480,Illiterate
+37,Child Annual Information,161,Highest class passed - Mother,481,Class 1
+37,Child Annual Information,161,Highest class passed - Mother,482,Class 2
+37,Child Annual Information,161,Highest class passed - Mother,483,Class 3
+37,Child Annual Information,161,Highest class passed - Mother,484,Class 4
+37,Child Annual Information,161,Highest class passed - Mother,485,Class 5
+37,Child Annual Information,161,Highest class passed - Mother,486,Class 6
+37,Child Annual Information,161,Highest class passed - Mother,487,Class 7
+37,Child Annual Information,161,Highest class passed - Mother,488,Class 8
+37,Child Annual Information,161,Highest class passed - Mother,489,Class 9
+37,Child Annual Information,161,Highest class passed - Mother,490,Class 10
+37,Child Annual Information,161,Highest class passed - Mother,491,Class 11
+37,Child Annual Information,161,Highest class passed - Mother,492,Class 12
+37,Child Annual Information,161,Highest class passed - Mother,493,Graduate
+37,Child Annual Information,161,Highest class passed - Mother,494,Post Graduate
+37,Child Annual Information,161,Highest class passed - Mother,495,Technical Education
+37,Child Annual Information,161,Highest class passed - Mother,1687,88-Dont Know
+37,Child Annual Information,161,Highest class passed - Mother,1688,99-Not Applicable
+37,Child Annual Information,162,Occupation of the Mother,181,Unemployed
+37,Child Annual Information,162,Occupation of the Mother,182,Agricultural labour
+37,Child Annual Information,162,Occupation of the Mother,183,Casual labour and other labour
+37,Child Annual Information,162,Occupation of the Mother,496,"Agriculture,dairy,fishery and other allied work"
+37,Child Annual Information,162,Occupation of the Mother,497,Self employed/business/vending/trading
+37,Child Annual Information,162,Occupation of the Mother,498,Salaried (Government/ Private)
+37,Child Annual Information,162,Occupation of the Mother,499,Artisan
+37,Child Annual Information,162,Occupation of the Mother,500,Domestic Work
+37,Child Annual Information,162,Occupation of the Mother,501,Others
+37,Child Annual Information,162,Occupation of the Mother,1689,88-Dont Know
+37,Child Annual Information,162,Occupation of the Mother,1690,99-Not Applicable
+37,Child Annual Information,163,Orphaned /Single parent,184,No
+37,Child Annual Information,163,Orphaned /Single parent,185,"Yes, father-Dead OR missing OR Deserted OR in Jail"
+37,Child Annual Information,163,Orphaned /Single parent,502,"Yes, Mother-Dead OR missing OR Deserted OR in Jail"
+37,Child Annual Information,163,Orphaned /Single parent,503,"Yes, Both Mother and Father -Dead OR missing OR Deserted OR in Jail"
+37,Child Annual Information,163,Orphaned /Single parent,1810,Don't Know
+37,Child Annual Information,163,Orphaned /Single parent,1811,Not Applicable
+37,Child Annual Information,163,Orphaned /Single parent,1815,Others
+37,Child Annual Information,164,Name of Guardian,,
+37,Child Annual Information,165,Caste of Child,187,SC
+37,Child Annual Information,165,Caste of Child,188,ST
+37,Child Annual Information,165,Caste of Child,189,OBC/BC/ EBC (All backward caste)
+37,Child Annual Information,165,Caste of Child,190,Don't know
+37,Child Annual Information,165,Caste of Child,191,General
+37,Child Annual Information,165,Caste of Child,1818,Not Applicable
+37,Child Annual Information,165,Caste of Child,1819,Others
+37,Child Annual Information,166,Religion of Child,192,Hindu
+37,Child Annual Information,166,Religion of Child,194,Muslim
+37,Child Annual Information,166,Religion of Child,193,Christian
+37,Child Annual Information,166,Religion of Child,1572,Sikh
+37,Child Annual Information,166,Religion of Child,1573,Buddhist
+37,Child Annual Information,166,Religion of Child,1574,Jain
+37,Child Annual Information,166,Religion of Child,195,Others
+37,Child Annual Information,166,Religion of Child,1575,Don't Know
+37,Child Annual Information,168,Birth registration of child done?,1693,88-Dont Know
+37,Child Annual Information,168,Birth registration of child done?,1820,Not Applicable
+37,Child Annual Information,168,Birth registration of child done?,1821,Others
+37,Child Annual Information,168,Birth registration of child done?,198,Yes
+37,Child Annual Information,168,Birth registration of child done?,199,No
+37,Child Annual Information,169,Date of  birth of the child,,
+37,Child Annual Information,170,Place of Delivery,201,
+37,Child Annual Information,170,Place of Delivery,1823,Don't Know
+37,Child Annual Information,170,Place of Delivery,1825,Not Applicable
+37,Child Annual Information,170,Place of Delivery,1827,Others
+37,Child Annual Information,170,Place of Delivery,507,On the Way
+37,Child Annual Information,170,Place of Delivery,506,Private Hospital
+37,Child Annual Information,170,Place of Delivery,505,Government Hospital
+37,Child Annual Information,170,Place of Delivery,504,Home
+37,Child Annual Information,175,Resendtial Status,206,From this village only and stays in the village
+37,Child Annual Information,175,Resendtial Status,207,From other village and shifted to this location
+37,Child Annual Information,175,Resendtial Status,1558,Migrated out of the village to another place
+37,Child Annual Information,175,Resendtial Status,1559,Migrated permanently out of the village to another place
+37,Child Annual Information,175,Resendtial Status,1831,Not Applicable
+37,Child Annual Information,175,Resendtial Status,1832,Don't Know
+37,Child Annual Information,175,Resendtial Status,1833,Others
+37,Child Annual Information,176,Month of in-migration or out-migration,208,January
+37,Child Annual Information,176,Month of in-migration or out-migration,1432,Feburary
+37,Child Annual Information,176,Month of in-migration or out-migration,1433,March
+37,Child Annual Information,176,Month of in-migration or out-migration,1434,April
+37,Child Annual Information,176,Month of in-migration or out-migration,1435,May
+37,Child Annual Information,176,Month of in-migration or out-migration,1436,June
+37,Child Annual Information,176,Month of in-migration or out-migration,1437,July
+37,Child Annual Information,176,Month of in-migration or out-migration,1438,August
+37,Child Annual Information,176,Month of in-migration or out-migration,1439,September
+37,Child Annual Information,176,Month of in-migration or out-migration,1440,October
+37,Child Annual Information,176,Month of in-migration or out-migration,1441,November
+37,Child Annual Information,176,Month of in-migration or out-migration,1442,December
+37,Child Annual Information,176,Month of in-migration or out-migration,1560,Not applicable
+37,Child Annual Information,176,Month of in-migration or out-migration,1561,Don't Know
+37,Child Annual Information,176,Month of in-migration or out-migration,1834,Others
+37,Child Annual Information,177,Whether enrolled in Anganwadi,1562,Not applicable
+37,Child Annual Information,177,Whether enrolled in Anganwadi,1835,Don't Know
+37,Child Annual Information,177,Whether enrolled in Anganwadi,1836,Others
+37,Child Annual Information,177,Whether enrolled in Anganwadi,209,Yes
+37,Child Annual Information,177,Whether enrolled in Anganwadi,210,No
+37,Child Annual Information,178,Anganwadi ID (if available),,
+37,Child Annual Information,179,Whether child getting ECE?,212,"Not getting, Service not available"
+37,Child Annual Information,179,Whether child getting ECE?,213,Availing  from AWC (Aganwadi)
+37,Child Annual Information,179,Whether child getting ECE?,1563,"Not availing, services available"
+37,Child Annual Information,179,Whether child getting ECE?,1564,Availing from private play school
+37,Child Annual Information,179,Whether child getting ECE?,1565,NA (for below 3 yrs and above 6 yrs)
+37,Child Annual Information,179,Whether child getting ECE?,1837,Don't Know
+37,Child Annual Information,179,Whether child getting ECE?,1838,Not Applicable
+37,Child Annual Information,179,Whether child getting ECE?,1839,Others
+37,Child Annual Information,180,Is the child Challenged?,214,No
+37,Child Annual Information,180,Is the child Challenged?,215,Yes physically challenged
+37,Child Annual Information,180,Is the child Challenged?,1507,"Yes, mentally challenged"
+37,Child Annual Information,180,Is the child Challenged?,1508,"Yes, both"
+37,Child Annual Information,180,Is the child Challenged?,1840,Don't Know
+37,Child Annual Information,180,Is the child Challenged?,1841,Not Applicable
+37,Child Annual Information,180,Is the child Challenged?,1842,Others
+37,Child Annual Information,181,Is the child Chronically ill?,216,Yes
+37,Child Annual Information,181,Is the child Chronically ill?,217,No
+37,Child Annual Information,181,Is the child Chronically ill?,1843,Don't Know
+37,Child Annual Information,181,Is the child Chronically ill?,1844,Not Applicable
+37,Child Annual Information,181,Is the child Chronically ill?,1845,Others
+37,Child Annual Information,182,Is the child Terminally ill?,218,Yes
+37,Child Annual Information,182,Is the child Terminally ill?,219,No
+37,Child Annual Information,182,Is the child Terminally ill?,1846,Don't Know
+37,Child Annual Information,182,Is the child Terminally ill?,1847,Not Applicable
+37,Child Annual Information,182,Is the child Terminally ill?,1848,Others
+37,Child Annual Information,183,Is the child Engagged/Married?,220,No
+37,Child Annual Information,183,Is the child Engagged/Married?,221,Live in relationship
+37,Child Annual Information,183,Is the child Engagged/Married?,1509,Engaged
+37,Child Annual Information,183,Is the child Engagged/Married?,1510,Married
+37,Child Annual Information,183,Is the child Engagged/Married?,1511,Widowed
+37,Child Annual Information,183,Is the child Engagged/Married?,1851,Don't Know
+37,Child Annual Information,183,Is the child Engagged/Married?,1852,Not Applicable
+37,Child Annual Information,183,Is the child Engagged/Married?,1854,Others
+37,Child Annual Information,184,Current Location of child,222,At Home
+37,Child Annual Information,184,Current Location of child,1512,Education Residential School
+37,Child Annual Information,184,Current Location of child,1513,Child Care Institution/Homes/Observation Home
+37,Child Annual Information,184,Current Location of child,1514,Child Migrated (for work/employment)
+37,Child Annual Information,184,Current Location of child,1515,Married child at in-laws house
+37,Child Annual Information,184,Current Location of child,1516,Others
+37,Child Annual Information,184,Current Location of child,1855,Don't Know
+37,Child Annual Information,184,Current Location of child,1856,Not Applicable
+37,Child Annual Information,185,Others Specify,,
+37,Child Annual Information,621,Is Child less than 1 Year Old,1718,Yes
+37,Child Annual Information,621,Is Child less than 1 Year Old,1719,No
+37,Child Annual Information,171,Weight at birth (in kgs),,
+37,Child Annual Information,172,Weight of child communicated to the mother after delivery,203,No
+37,Child Annual Information,172,Weight of child communicated to the mother after delivery,1505,Yes
+37,Child Annual Information,172,Weight of child communicated to the mother after delivery,1506,Not applicable
+37,Child Annual Information,174,Age of child as of today(months),,
+""
+Pregnant Women
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+57,Pregnant Women,454,Name of the Husband,,
+57,Pregnant Women,455,Age of the Husband,,
+57,Pregnant Women,456,Highest Class passed Husband,1066,Illiterate
+57,Pregnant Women,456,Highest Class passed Husband,1067,Class 1
+57,Pregnant Women,456,Highest Class passed Husband,1068,Class 2
+57,Pregnant Women,456,Highest Class passed Husband,1069,Class 3
+57,Pregnant Women,456,Highest Class passed Husband,1070,Class 4
+57,Pregnant Women,456,Highest Class passed Husband,1071,Class 5
+57,Pregnant Women,456,Highest Class passed Husband,1072,Class 6
+57,Pregnant Women,456,Highest Class passed Husband,1073,Class 7
+57,Pregnant Women,456,Highest Class passed Husband,1074,Class 8
+57,Pregnant Women,456,Highest Class passed Husband,1075,Class 9
+57,Pregnant Women,456,Highest Class passed Husband,1076,Class 10
+57,Pregnant Women,456,Highest Class passed Husband,1077,Class 11
+57,Pregnant Women,456,Highest Class passed Husband,1078,Class 12
+57,Pregnant Women,456,Highest Class passed Husband,1079,Graduate
+57,Pregnant Women,456,Highest Class passed Husband,1080,Post Graduate
+57,Pregnant Women,456,Highest Class passed Husband,1081,Technical/Professional Education
+57,Pregnant Women,456,Highest Class passed Husband,1860,Don't Know
+57,Pregnant Women,456,Highest Class passed Husband,1861,Not Applicable
+57,Pregnant Women,457,Occupation of Husband,1083,Unemployed
+57,Pregnant Women,457,Occupation of Husband,1084, Agricultural labour
+57,Pregnant Women,457,Occupation of Husband,1085,Casual labour and other labour work
+57,Pregnant Women,457,Occupation of Husband,1086,Agriculture/ dairy/ fishery and other allied work
+57,Pregnant Women,457,Occupation of Husband,1087,Self employed/ business/ vending/ trading
+57,Pregnant Women,457,Occupation of Husband,1088,Salaried 
+57,Pregnant Women,457,Occupation of Husband,1089,Artisan
+57,Pregnant Women,457,Occupation of Husband,1090,Domestic work
+57,Pregnant Women,457,Occupation of Husband,1091,Others
+57,Pregnant Women,458,Age of mother,,
+57,Pregnant Women,459,Highest class passed - Mother,1093,Illiterate
+57,Pregnant Women,459,Highest class passed - Mother,1094,Class 1
+57,Pregnant Women,459,Highest class passed - Mother,1095,Class 2
+57,Pregnant Women,459,Highest class passed - Mother,1096,Class 3
+57,Pregnant Women,459,Highest class passed - Mother,1097,Class 4
+57,Pregnant Women,459,Highest class passed - Mother,1098,Class 5
+57,Pregnant Women,459,Highest class passed - Mother,1099,Class 6
+57,Pregnant Women,459,Highest class passed - Mother,1100,Class 7
+57,Pregnant Women,459,Highest class passed - Mother,1101,Class 8
+57,Pregnant Women,459,Highest class passed - Mother,1102,Class 9
+57,Pregnant Women,459,Highest class passed - Mother,1103,Class 10
+57,Pregnant Women,459,Highest class passed - Mother,1104,Class 11
+57,Pregnant Women,459,Highest class passed - Mother,1105,Class 12
+57,Pregnant Women,459,Highest class passed - Mother,1106,Graduate
+57,Pregnant Women,459,Highest class passed - Mother,1107,Post Graduate
+57,Pregnant Women,459,Highest class passed - Mother,1108,Technical/Professional Education
+57,Pregnant Women,460,Occupation of the mother,1109,Unemployed
+57,Pregnant Women,460,Occupation of the mother,1110,Agricultural labour
+57,Pregnant Women,460,Occupation of the mother,1111,Casual labour and other labour work
+57,Pregnant Women,460,Occupation of the mother,1112,Agriculture/ dairy/ fishery and other allied work
+57,Pregnant Women,460,Occupation of the mother,1113,Self employed/ business/ vending/ trading
+57,Pregnant Women,460,Occupation of the mother,1114,Salaried
+57,Pregnant Women,460,Occupation of the mother,1115,Artisan
+57,Pregnant Women,460,Occupation of the mother,1116,Domestic work
+57,Pregnant Women,460,Occupation of the mother,1866,Don't Know
+57,Pregnant Women,460,Occupation of the mother,1867,Not Applicable
+57,Pregnant Women,460,Occupation of the mother,1117,Others
+57,Pregnant Women,461,Residential Status,1118,From this village only and stays in the village
+57,Pregnant Women,461,Residential Status,1119,From other village and shifted this location
+57,Pregnant Women,461,Residential Status,1120,Migrated out of the village to another place
+57,Pregnant Women,461,Residential Status,1121,Migrated permanently out of the village to another place 
+57,Pregnant Women,461,Residential Status,1868,Don't Know
+57,Pregnant Women,461,Residential Status,1869,Not Applicable
+57,Pregnant Women,461,Residential Status,1870,Others
+57,Pregnant Women,462,Month of in migration or out migration,1123,January
+57,Pregnant Women,462,Month of in migration or out migration,1124,Feburary
+57,Pregnant Women,462,Month of in migration or out migration,1125,March
+57,Pregnant Women,462,Month of in migration or out migration,1126,April
+57,Pregnant Women,462,Month of in migration or out migration,1127,May
+57,Pregnant Women,462,Month of in migration or out migration,1128,June
+57,Pregnant Women,462,Month of in migration or out migration,1129,July
+57,Pregnant Women,462,Month of in migration or out migration,1130,August
+57,Pregnant Women,462,Month of in migration or out migration,1131,September
+57,Pregnant Women,462,Month of in migration or out migration,1132,October
+57,Pregnant Women,462,Month of in migration or out migration,1133,November
+57,Pregnant Women,462,Month of in migration or out migration,1134,December
+57,Pregnant Women,462,Month of in migration or out migration,1871,Don't Know
+57,Pregnant Women,462,Month of in migration or out migration,1872,Not Applicable
+57,Pregnant Women,462,Month of in migration or out migration,1873,Others
+57,Pregnant Women,463,MCP/MCH Card made?,1135,Yes
+57,Pregnant Women,463,MCP/MCH Card made?,1136,No
+57,Pregnant Women,464,Date of issue of MCP/MCH card,,
+57,Pregnant Women,465,MCP/MCH card available,1138,Yes
+57,Pregnant Women,465,MCP/MCH card available,1139,No
+57,Pregnant Women,465,MCP/MCH card available,1874,Don't Know
+57,Pregnant Women,465,MCP/MCH card available,1875,Not Applicable
+57,Pregnant Women,465,MCP/MCH card available,1876,Others
+57,Pregnant Women,466,"Reasons, if not available",1140,With health service provider
+57,Pregnant Women,466,"Reasons, if not available",1518,Misplaced/ Lost/ Damaged
+57,Pregnant Women,466,"Reasons, if not available",1519,With other member of the HH
+57,Pregnant Women,466,"Reasons, if not available",1520,Not applicable
+57,Pregnant Women,466,"Reasons, if not available",1877,Don't Know
+57,Pregnant Women,466,"Reasons, if not available",1878,Others
+57,Pregnant Women,467,Date of ANC registration,,
+57,Pregnant Women,468,Last Menstrual Period,,
+57,Pregnant Women,469,Whether registered in 3 months of preganancy,1143,Yes
+57,Pregnant Women,469,Whether registered in 3 months of preganancy,1144,No
+57,Pregnant Women,470,Health center ID,,
+57,Pregnant Women,471,"If no,Reason for not registering in 3 months",1146,Mother identified late as pregnant
+57,Pregnant Women,471,"If no,Reason for not registering in 3 months",1147,Mother Could not contact ANM Hospital
+57,Pregnant Women,471,"If no,Reason for not registering in 3 months",1148,ANM not available
+57,Pregnant Women,471,"If no,Reason for not registering in 3 months",1149,Other reasons
+57,Pregnant Women,471,"If no,Reason for not registering in 3 months",1879,Don't Know
+57,Pregnant Women,471,"If no,Reason for not registering in 3 months",1880,Not Applicable
+57,Pregnant Women,472,"Others,Specify",,
+57,Pregnant Women,473,No of Previous Pregnancies,1151,Not applicable
+57,Pregnant Women,473,No of Previous Pregnancies,1521,Not available
+57,Pregnant Women,474,No of live births,1152,Not applicable
+57,Pregnant Women,475,Last Pregnancy before,,
+57,Pregnant Women,476,TT1 (Tetanus Toxoid) actual date,,
+57,Pregnant Women,477,TT2 Actual date,,
+57,Pregnant Women,478,TT Booster Actual Date,,
+57,Pregnant Women,479,1st ANC ,1157,Done
+57,Pregnant Women,479,1st ANC ,1158,"Not Done, Service not given"
+57,Pregnant Women,479,1st ANC ,1159,Mother Migrated
+57,Pregnant Women,479,1st ANC ,1160,Dont Know/ No information
+57,Pregnant Women,479,1st ANC ,1161,Not applicable
+57,Pregnant Women,479,1st ANC ,1881,Others
+57,Pregnant Women,480,1st ANC Date,,
+57,Pregnant Women,481,1st ANC weight,,
+57,Pregnant Women,484,1st ANC BP,,
+57,Pregnant Women,485,1st ANC HB,,
+57,Pregnant Women,486,1st ANC Urine Albumin,1169,Yes
+57,Pregnant Women,486,1st ANC Urine Albumin,1170,No
+57,Pregnant Women,486,1st ANC Urine Albumin,1882,Don't Know
+57,Pregnant Women,486,1st ANC Urine Albumin,1883,Not Applicable
+57,Pregnant Women,486,1st ANC Urine Albumin,1884,Others
+57,Pregnant Women,487,1st ANC Urine Sugar,1171,Yes
+57,Pregnant Women,487,1st ANC Urine Sugar,1172,No
+57,Pregnant Women,487,1st ANC Urine Sugar,1885,Don't Know
+57,Pregnant Women,487,1st ANC Urine Sugar,1886,Not Applicable
+57,Pregnant Women,487,1st ANC Urine Sugar,1887,Others
+57,Pregnant Women,488,1st ANC IFA Tablets received,,
+57,Pregnant Women,489,1st ANC IFA tablets consumed,,
+57,Pregnant Women,490,1st ANC Abdominal examination,1177,Yes
+57,Pregnant Women,490,1st ANC Abdominal examination,1178,No
+57,Pregnant Women,490,1st ANC Abdominal examination,1566,Don't Know
+57,Pregnant Women,490,1st ANC Abdominal examination,1567,Not applicable
+57,Pregnant Women,491,1st ANC Identified as High Risk,1179,Yes
+57,Pregnant Women,491,1st ANC Identified as High Risk,1180,No
+57,Pregnant Women,491,1st ANC Identified as High Risk,1181,Not Applicable
+57,Pregnant Women,491,1st ANC Identified as High Risk,1888,Don't Know
+57,Pregnant Women,492,1st ANC High Risk Referred,1182,Yes
+57,Pregnant Women,492,1st ANC High Risk Referred,1183,No
+57,Pregnant Women,492,1st ANC High Risk Referred,1522,Not applicable
+57,Pregnant Women,492,1st ANC High Risk Referred,1889,Don't Know
+57,Pregnant Women,493,1st ANC supplementary nutrition available,1184,No not at all
+57,Pregnant Women,493,1st ANC supplementary nutrition available,1185,Yes irregular
+57,Pregnant Women,493,1st ANC supplementary nutrition available,1186,Yes regular
+57,Pregnant Women,493,1st ANC supplementary nutrition available,1187,Not applicable
+57,Pregnant Women,493,1st ANC supplementary nutrition available,1890,Don't Know
+57,Pregnant Women,493,1st ANC supplementary nutrition available,1891,Others
+57,Pregnant Women,494,MCP/MCH card updated 1st trimester,1188,Yes
+57,Pregnant Women,494,MCP/MCH card updated 1st trimester,1189,No
+57,Pregnant Women,495,2nd ANC,1190,Done
+57,Pregnant Women,495,2nd ANC,1191,"Not Done, Service not given"
+57,Pregnant Women,495,2nd ANC,1192,Mother Migrated
+57,Pregnant Women,495,2nd ANC,1193,Dont Know / No information
+57,Pregnant Women,495,2nd ANC,1194,Not applicable
+57,Pregnant Women,496,2nd ANC Date,,
+57,Pregnant Women,497,2nd ANC Weight,,
+57,Pregnant Women,498,2nd ANC BP,,
+57,Pregnant Women,499,2nd ANC HB,,
+57,Pregnant Women,500,2nd ANC Urine Albumin,1199,Yes
+57,Pregnant Women,500,2nd ANC Urine Albumin,1200,No
+57,Pregnant Women,500,2nd ANC Urine Albumin,1892,Don't Know
+57,Pregnant Women,500,2nd ANC Urine Albumin,1893,Not Applicable
+57,Pregnant Women,501,2nd ANC Urine sugar,1201,Yes
+57,Pregnant Women,501,2nd ANC Urine sugar,1202,No
+57,Pregnant Women,501,2nd ANC Urine sugar,1894,Don't Know
+57,Pregnant Women,501,2nd ANC Urine sugar,1895,Not Applicable
+57,Pregnant Women,502,2nd ANC IFA Tablets received,,
+57,Pregnant Women,503,2nd ANC IFA tablets consumed,,
+57,Pregnant Women,504,2nd ANC abdominal Examination,1207,No
+57,Pregnant Women,504,2nd ANC abdominal Examination,1208,Yes
+57,Pregnant Women,504,2nd ANC abdominal Examination,1209,Dont know
+57,Pregnant Women,504,2nd ANC abdominal Examination,1210,Not applicable
+57,Pregnant Women,505,2nd ANC - Identified as High Risk,1211,Yes
+57,Pregnant Women,505,2nd ANC - Identified as High Risk,1212,No
+57,Pregnant Women,505,2nd ANC - Identified as High Risk,1213,Not Applicable
+57,Pregnant Women,505,2nd ANC - Identified as High Risk,1896,Don't Know
+57,Pregnant Women,506,2nd ANC - High Risk Referred,1214,Yes
+57,Pregnant Women,506,2nd ANC - High Risk Referred,1215,No
+57,Pregnant Women,506,2nd ANC - High Risk Referred,1524,Not applicable
+57,Pregnant Women,506,2nd ANC - High Risk Referred,1897,Don't Know
+57,Pregnant Women,507,2nd ANC - Supplementary Nutrition Available,1216,No not at all
+57,Pregnant Women,507,2nd ANC - Supplementary Nutrition Available,1217,Yes irregular
+57,Pregnant Women,507,2nd ANC - Supplementary Nutrition Available,1218,Yes regular
+57,Pregnant Women,507,2nd ANC - Supplementary Nutrition Available,1219,Not applicable
+57,Pregnant Women,507,2nd ANC - Supplementary Nutrition Available,1898,Don't Know
+57,Pregnant Women,508,MCP/ MCH Card updated - 2nd Trimester,1220,Yes
+57,Pregnant Women,508,MCP/ MCH Card updated - 2nd Trimester,1221,No
+57,Pregnant Women,508,MCP/ MCH Card updated - 2nd Trimester,1899,Don't Know
+57,Pregnant Women,508,MCP/ MCH Card updated - 2nd Trimester,1900,Not Applicable
+57,Pregnant Women,509,3rd ANC,1222,Done
+57,Pregnant Women,509,3rd ANC,1223,"Not Done, Service not given"
+57,Pregnant Women,509,3rd ANC,1224,Mother Migrated
+57,Pregnant Women,509,3rd ANC,1225,Dont Know / No information
+57,Pregnant Women,509,3rd ANC,1226,Not applicable
+57,Pregnant Women,510,3rd ANC date,,
+57,Pregnant Women,511,3rd ANC Weight,,
+57,Pregnant Women,512,3rd ANC BP,,
+57,Pregnant Women,513,3rd ANC Hb,,
+57,Pregnant Women,514,3rd ANC Urine Albumin,1231,Yes
+57,Pregnant Women,514,3rd ANC Urine Albumin,1232,No
+57,Pregnant Women,515,3rd ANC Urine Sugar,1233,Yes
+57,Pregnant Women,515,3rd ANC Urine Sugar,1234,No
+57,Pregnant Women,516,3rd ANC - IFA tablets received,,
+57,Pregnant Women,517,3rd ANC - IFA tablets consumed,,
+57,Pregnant Women,518,3rd ANC-Abdominal Examination,1239,No
+57,Pregnant Women,518,3rd ANC-Abdominal Examination,1240,Yes
+57,Pregnant Women,518,3rd ANC-Abdominal Examination,1241,Dont know
+57,Pregnant Women,518,3rd ANC-Abdominal Examination,1242,Not applicable
+57,Pregnant Women,519,3rd ANC - Identified as High Risk,1243,Yes
+57,Pregnant Women,519,3rd ANC - Identified as High Risk,1244,No
+57,Pregnant Women,519,3rd ANC - Identified as High Risk,1525,Not applicable
+57,Pregnant Women,519,3rd ANC - Identified as High Risk,1901,Don't Know
+57,Pregnant Women,520,3rd ANC - High Risk Referred,1245,Yes
+57,Pregnant Women,520,3rd ANC - High Risk Referred,1246,No
+57,Pregnant Women,520,3rd ANC - High Risk Referred,1526,Not applicable
+57,Pregnant Women,521,3rd ANC - Supplementary Nutrition Available,1247,No not at all
+57,Pregnant Women,521,3rd ANC - Supplementary Nutrition Available,1248,Yes irregular
+57,Pregnant Women,521,3rd ANC - Supplementary Nutrition Available,1249,Yes regular
+57,Pregnant Women,521,3rd ANC - Supplementary Nutrition Available,1250,Not applicable
+57,Pregnant Women,522,MCP/ MCH Card updated - 3nd Trimester,1251,Yes
+57,Pregnant Women,522,MCP/ MCH Card updated - 3nd Trimester,1252,No
+57,Pregnant Women,522,MCP/ MCH Card updated - 3nd Trimester,1902,Don't Know
+57,Pregnant Women,522,MCP/ MCH Card updated - 3nd Trimester,1903,Not Applicable
+57,Pregnant Women,523,4th ANC,1253,Done
+57,Pregnant Women,523,4th ANC,1254,"Not Done, Service not given"
+57,Pregnant Women,523,4th ANC,1255,Mother Migrated
+57,Pregnant Women,523,4th ANC,1256,Dont Know/ No information
+57,Pregnant Women,523,4th ANC,1257,Not applicable
+57,Pregnant Women,524,4th ANC Date,,
+57,Pregnant Women,525,4th ANC Weight,,
+57,Pregnant Women,526,4th ANC BP,,
+57,Pregnant Women,527,4th ANC HB,,
+57,Pregnant Women,528,4th ANC Urine Albumin,1262,Yes
+57,Pregnant Women,528,4th ANC Urine Albumin,1263,No
+57,Pregnant Women,529,4th ANC Urine Sugar,1264,Yes
+57,Pregnant Women,529,4th ANC Urine Sugar,1265,No
+57,Pregnant Women,530,4th ANC - IFA tablets received,,
+57,Pregnant Women,531,4th ANC - IFA tablets consumed,,
+57,Pregnant Women,532,4th ANC-Abdominal Examination,1270,No
+57,Pregnant Women,532,4th ANC-Abdominal Examination,1271,Yes
+57,Pregnant Women,532,4th ANC-Abdominal Examination,1272,Not Applicable
+57,Pregnant Women,533,4th ANC - Identified as High Risk,1273,Yes
+57,Pregnant Women,533,4th ANC - Identified as High Risk,1274,No
+57,Pregnant Women,533,4th ANC - Identified as High Risk,1527,Not applicable
+57,Pregnant Women,533,4th ANC - Identified as High Risk,1904,Don't Know
+57,Pregnant Women,534,4th ANC - High Risk Referred,1275,Yes
+57,Pregnant Women,534,4th ANC - High Risk Referred,1276,No
+57,Pregnant Women,534,4th ANC - High Risk Referred,1528,Not applicable
+57,Pregnant Women,534,4th ANC - High Risk Referred,1905,Don't Know
+57,Pregnant Women,535,4th ANC - Supplementary Nutrition Available,1277,No not at all
+57,Pregnant Women,535,4th ANC - Supplementary Nutrition Available,1278,Yes irregular
+57,Pregnant Women,535,4th ANC - Supplementary Nutrition Available,1279,Yes regular
+57,Pregnant Women,535,4th ANC - Supplementary Nutrition Available,1280,Not applicable
+57,Pregnant Women,536,Miscarriage or Abortion,1281,Miscarriage
+57,Pregnant Women,536,Miscarriage or Abortion,1282,Abortion
+57,Pregnant Women,536,Miscarriage or Abortion,1906,Don't Know
+57,Pregnant Women,536,Miscarriage or Abortion,1907,Not Applicable
+57,Pregnant Women,537,Status of Birth,1283,Live birth
+57,Pregnant Women,537,Status of Birth,1284,Still birth
+57,Pregnant Women,537,Status of Birth,1908,Don't Know
+57,Pregnant Women,537,Status of Birth,1909,Not Applicable
+57,Pregnant Women,538,Time of birth,,
+57,Pregnant Women,539,Place of Delivery,1286,Home
+57,Pregnant Women,539,Place of Delivery,1287,Government Hospital
+57,Pregnant Women,539,Place of Delivery,1288,Private Hospital
+57,Pregnant Women,539,Place of Delivery,1289,On the way to hospital
+57,Pregnant Women,539,Place of Delivery,1290,Work
+57,Pregnant Women,539,Place of Delivery,1910,Don't Know
+57,Pregnant Women,539,Place of Delivery,1911,Not Applicable
+57,Pregnant Women,540,Type of delivery,1291,Normal
+57,Pregnant Women,540,Type of delivery,1292,Instrumental
+57,Pregnant Women,540,Type of delivery,1293,C Section
+57,Pregnant Women,540,Type of delivery,1912,Don't Know
+57,Pregnant Women,540,Type of delivery,1913,Not Applicable
+57,Pregnant Women,541,Received free transportation from Government,1295,Yes
+57,Pregnant Women,541,Received free transportation from Government,1296,No
+57,Pregnant Women,541,Received free transportation from Government,1529,Not applicable
+57,Pregnant Women,541,Received free transportation from Government,1914,Don't Know
+57,Pregnant Women,542,Received financial assistance from Government,1297,Yes
+57,Pregnant Women,542,Received financial assistance from Government,1298,No
+57,Pregnant Women,542,Received financial assistance from Government,1299,Not Applicable
+57,Pregnant Women,542,Received financial assistance from Government,1915,Don't Know
+57,Pregnant Women,543,Amount Received,,
+57,Pregnant Women,544,Home delivery assisted by,1301,No one
+57,Pregnant Women,544,Home delivery assisted by,1302,Family members
+57,Pregnant Women,544,Home delivery assisted by,1303,Dai untrained
+57,Pregnant Women,544,Home delivery assisted by,1304,Dai Trained
+57,Pregnant Women,544,Home delivery assisted by,1305,ANM
+57,Pregnant Women,544,Home delivery assisted by,1306,Nurse
+57,Pregnant Women,544,Home delivery assisted by,1307,Doctor
+57,Pregnant Women,544,Home delivery assisted by,1308,Others
+57,Pregnant Women,544,Home delivery assisted by,1309,Not Applicable
+57,Pregnant Women,544,Home delivery assisted by,1916,Don't Know
+57,Pregnant Women,545,"If other, specify",,
+57,Pregnant Women,546,Time of miscarriage,,
+57,Pregnant Women,547,Other information,,
+""
+House Hold Information
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+55,House Hold Information,405,Type of Family,885,Joint family 
+55,House Hold Information,405,Type of Family,886,Nuclear  family
+55,House Hold Information,405,Type of Family,1959,Don't Know
+55,House Hold Information,409,Highest class passed (Head of the HH),891,Illiterate
+55,House Hold Information,409,Highest class passed (Head of the HH),892,class1
+55,House Hold Information,409,Highest class passed (Head of the HH),893,class2
+55,House Hold Information,409,Highest class passed (Head of the HH),894,class3
+55,House Hold Information,409,Highest class passed (Head of the HH),895,class4
+55,House Hold Information,409,Highest class passed (Head of the HH),896,class5
+55,House Hold Information,409,Highest class passed (Head of the HH),897,class6
+55,House Hold Information,409,Highest class passed (Head of the HH),898,class7
+55,House Hold Information,409,Highest class passed (Head of the HH),899,class8
+55,House Hold Information,409,Highest class passed (Head of the HH),900,class9
+55,House Hold Information,409,Highest class passed (Head of the HH),901,class10
+55,House Hold Information,409,Highest class passed (Head of the HH),902,class11
+55,House Hold Information,409,Highest class passed (Head of the HH),903,class12
+55,House Hold Information,409,Highest class passed (Head of the HH),904,Graduation
+55,House Hold Information,409,Highest class passed (Head of the HH),905,Post Graduation
+55,House Hold Information,409,Highest class passed (Head of the HH),906,Technical or Professional Education
+55,House Hold Information,409,Highest class passed (Head of the HH),1966,Dont Know
+55,House Hold Information,410,Caste,907,SC
+55,House Hold Information,410,Caste,908,ST
+55,House Hold Information,410,Caste,909,"OBC,BC"
+55,House Hold Information,410,Caste,910,"General,Others"
+55,House Hold Information,410,Caste,1979,Dont Know
+55,House Hold Information,411,Do you have homestead land,1501,No
+55,House Hold Information,411,Do you have homestead land,911,"Yes, but no legal/ official/ formal document "
+55,House Hold Information,411,Do you have homestead land,912,"Yes, but have legal/ official/ formal document"
+55,House Hold Information,411,Do you have homestead land,1992,Dont Know
+55,House Hold Information,412,Type of house,913,Pucca 
+55,House Hold Information,412,Type of house,914,Semi Pucca
+55,House Hold Information,412,Type of house,915,Kutcha
+55,House Hold Information,412,Type of house,2000,Dont Know
+55,House Hold Information,413,Religion,916,Hindu
+55,House Hold Information,413,Religion,917,Muslim
+55,House Hold Information,413,Religion,918,Christian
+55,House Hold Information,413,Religion,919,Sikh
+55,House Hold Information,413,Religion,920,Buddhist
+55,House Hold Information,413,Religion,921,Jain
+55,House Hold Information,413,Religion,922,Others
+55,House Hold Information,413,Religion,923,Dont know
+55,House Hold Information,414,Type of Ration card,924,Above Poverty Line
+55,House Hold Information,414,Type of Ration card,925,Below Poverty Line
+55,House Hold Information,414,Type of Ration card,2025,No Ration card
+55,House Hold Information,414,Type of Ration card,926,Others
+55,House Hold Information,414,Type of Ration card,2018,Dont Know
+55,House Hold Information,415,If others,,
+55,House Hold Information,416,Ration from PDS,928,Not at all in last one year
+55,House Hold Information,416,Ration from PDS,929,Received all the 12 months and correct amount
+55,House Hold Information,416,Ration from PDS,930, Received all the 12 months but amount was not correct
+55,House Hold Information,416,Ration from PDS,931, Received less than 12 months but amount was correct 
+55,House Hold Information,416,Ration from PDS,932,"Received less than 12 months, also lesser amount"
+55,House Hold Information,416,Ration from PDS,2028,Dont Know
+55,House Hold Information,416,Ration from PDS,2030,Not Applicable
+55,House Hold Information,417,MGNREGA JOB CARD,933,"No, never issued"
+55,House Hold Information,417,MGNREGA JOB CARD,934,Issued and with me
+55,House Hold Information,417,MGNREGA JOB CARD,935,Issued and not with me
+55,House Hold Information,417,MGNREGA JOB CARD,2032,Dont Know
+55,House Hold Information,417,MGNREGA JOB CARD,2033,Not Applicable
+55,House Hold Information,418,Number of working days last year,,
+55,House Hold Information,419,Amount of money received last year?,,
+55,House Hold Information,420,Amount Received (MGNREGA),1502,Didn't Received any Money
+55,House Hold Information,420,Amount Received (MGNREGA),938,Received full amount
+55,House Hold Information,420,Amount Received (MGNREGA),1503,Received less money against due
+55,House Hold Information,420,Amount Received (MGNREGA),1504,Not applicable
+55,House Hold Information,420,Amount Received (MGNREGA),2232,88-Dont Know
+55,House Hold Information,421,Total family members,,
+55,House Hold Information,422,Total family members 17 years or younger,,
+55,House Hold Information,423,Primary occupation of the family,941, Agricultural labour 
+55,House Hold Information,423,Primary occupation of the family,942,Casual labour and other labour work
+55,House Hold Information,423,Primary occupation of the family,943,"Agriculture, dairy, fishery and other allied work"
+55,House Hold Information,423,Primary occupation of the family,944,Self employed or business or  vending or trading
+55,House Hold Information,423,Primary occupation of the family,945,Salaried  (Govt/Pvt)
+55,House Hold Information,423,Primary occupation of the family,946,Artisan
+55,House Hold Information,423,Primary occupation of the family,947,Domestic work 
+55,House Hold Information,423,Primary occupation of the family,948,Salt Pan Working 
+55,House Hold Information,423,Primary occupation of the family,949,Non Timber Forest Produce
+55,House Hold Information,423,Primary occupation of the family,950,Rag Picking
+55,House Hold Information,423,Primary occupation of the family,951,Others
+55,House Hold Information,423,Primary occupation of the family,2252,88-Dont Know
+55,House Hold Information,424,Enter other type of occupation,,
+55,House Hold Information,425,If Landless,953,No
+55,House Hold Information,425,If Landless,954,Yes
+55,House Hold Information,425,If Landless,2037,Dont Know
+55,House Hold Information,426,Primary source of energy for cooking,955,"Firewood and chips, dung cake, kerosene, charcoal, coke or coal, gobar gas OR Others"
+55,House Hold Information,426,Primary source of energy for cooking,956,LPG or electricity
+55,House Hold Information,426,Primary source of energy for cooking,957,No cooking arrangement
+55,House Hold Information,426,Primary source of energy for cooking,2041,Dont Know
+55,House Hold Information,427,Is there a Casserole/ thermos/ thermoware?,958,No
+55,House Hold Information,427,Is there a Casserole/ thermos/ thermoware?,959,Yes
+55,House Hold Information,427,Is there a Casserole/ thermos/ thermoware?,2049,Dont Know
+55,House Hold Information,428,Is there a TV and VCR/ VCD/ DVD player?,960,"No, neither"
+55,House Hold Information,428,Is there a TV and VCR/ VCD/ DVD player?,961,"Yes, only one"
+55,House Hold Information,428,Is there a TV and VCR/ VCD/ DVD player?,962,"Yes , both"
+55,House Hold Information,428,Is there a TV and VCR/ VCD/ DVD player?,2061,Dont Know
+55,House Hold Information,429,Is there a mobile handset and a telephone (landline)?,963,"No, neither"
+55,House Hold Information,429,Is there a mobile handset and a telephone (landline)?,964,"Yes, only a mobile"
+55,House Hold Information,429,Is there a mobile handset and a telephone (landline)?,965,"Yes, a landline regardless of moblie"
+55,House Hold Information,429,Is there a mobile handset and a telephone (landline)?,2094,Dont know
+55,House Hold Information,430,Is there a sewing machine?,966,No
+55,House Hold Information,430,Is there a sewing machine?,967,Yes
+55,House Hold Information,430,Is there a sewing machine?,2106,Dont Know
+55,House Hold Information,431,Is there an almeerah  or dressing table?,968,No
+55,House Hold Information,431,Is there an almeerah  or dressing table?,969,Yes
+55,House Hold Information,431,Is there an almeerah  or dressing table?,2117,Dont Know
+55,House Hold Information,432,"Is there a bicycle, motorcycle/scooter, or motor car/jeep?",970,None
+55,House Hold Information,432,"Is there a bicycle, motorcycle/scooter, or motor car/jeep?",971,"Yes, bicycle only, no motorcycle or scooter, or car"
+55,House Hold Information,432,"Is there a bicycle, motorcycle/scooter, or motor car/jeep?",972,"Motorcycle or scooter, but no car (regardless of bicycle)"
+55,House Hold Information,432,"Is there a bicycle, motorcycle/scooter, or motor car/jeep?",973,Motor car or jeep (regardless of others)
+55,House Hold Information,432,"Is there a bicycle, motorcycle/scooter, or motor car/jeep?",2124,Dont Know
+55,House Hold Information,433,Whether the HH is headed by a single parent,974,No
+55,House Hold Information,433,Whether the HH is headed by a single parent,975,Yes
+55,House Hold Information,433,Whether the HH is headed by a single parent,2138,Dont Know
+55,House Hold Information,433,Whether the HH is headed by a single parent,976,Not Applicable
+55,House Hold Information,434,Whether the HH is headed by grand parents,977,No
+55,House Hold Information,434,Whether the HH is headed by grand parents,978,Yes
+55,House Hold Information,434,Whether the HH is headed by grand parents,2147,Dont Know
+55,House Hold Information,434,Whether the HH is headed by grand parents,979,Not Applicable
+55,House Hold Information,435,Whether headed by children (18 years and below),980,No
+55,House Hold Information,435,Whether headed by children (18 years and below),981,Yes
+55,House Hold Information,435,Whether headed by children (18 years and below),2151,Dont Know
+55,House Hold Information,435,Whether headed by children (18 years and below),982,Not Applicable
+55,House Hold Information,436,Whether both mother and father work to earn a livelihood,983,No
+55,House Hold Information,436,Whether both mother and father work to earn a livelihood,984,Yes
+55,House Hold Information,436,Whether both mother and father work to earn a livelihood,2156,Dont Know
+55,House Hold Information,436,Whether both mother and father work to earn a livelihood,985,Not Applicable
+55,House Hold Information,437,Whether the primary bread-earner of the HH is terminally/seriously ill,986,No
+55,House Hold Information,437,Whether the primary bread-earner of the HH is terminally/seriously ill,987,Yes
+55,House Hold Information,437,Whether the primary bread-earner of the HH is terminally/seriously ill,988,Dont Know
+55,House Hold Information,437,Whether the primary bread-earner of the HH is terminally/seriously ill,2158,Not Applicable
+55,House Hold Information,437,Whether the primary bread-earner of the HH is terminally/seriously ill,2161,Others
+55,House Hold Information,438,Residential Status,989,From this village only and stays in the village 
+55,House Hold Information,438,Residential Status,990,From other village and shifted this location
+55,House Hold Information,438,Residential Status,991,Migrated out of the village to another place
+55,House Hold Information,438,Residential Status,992,Migrated permanently out of the village to another place
+55,House Hold Information,438,Residential Status,2163,Dont Know
+55,House Hold Information,438,Residential Status,2164,Not Applicable
+55,House Hold Information,438,Residential Status,2165,Others
+55,House Hold Information,439,Month of in migration or out migration,993,January
+55,House Hold Information,439,Month of in migration or out migration,994,February
+55,House Hold Information,439,Month of in migration or out migration,995,March
+55,House Hold Information,439,Month of in migration or out migration,996,April
+55,House Hold Information,439,Month of in migration or out migration,997,May
+55,House Hold Information,439,Month of in migration or out migration,998,June
+55,House Hold Information,439,Month of in migration or out migration,999,July
+55,House Hold Information,439,Month of in migration or out migration,1000,August
+55,House Hold Information,439,Month of in migration or out migration,1001,September
+55,House Hold Information,439,Month of in migration or out migration,1002,October
+55,House Hold Information,439,Month of in migration or out migration,1003,November
+55,House Hold Information,439,Month of in migration or out migration,1004,December
+55,House Hold Information,439,Month of in migration or out migration,2166,Others
+55,House Hold Information,439,Month of in migration or out migration,1006,Dont know
+55,House Hold Information,439,Month of in migration or out migration,1005,Not Applicable
+55,House Hold Information,440,Whether HH migrates every year,1007,No
+55,House Hold Information,440,Whether HH migrates every year,1008,Yes
+55,House Hold Information,440,Whether HH migrates every year,2167,Dont Know
+55,House Hold Information,440,Whether HH migrates every year,2168,Not Applicable
+55,House Hold Information,440,Whether HH migrates every year,2169,Others
+55,House Hold Information,441,Duration of migration,1009,Below  3 months
+55,House Hold Information,441,Duration of migration,1010,3 to 6 months
+55,House Hold Information,441,Duration of migration,1011,Above 6 months
+55,House Hold Information,441,Duration of migration,2170,Dont Know
+55,House Hold Information,441,Duration of migration,2171,Not Applicable
+55,House Hold Information,441,Duration of migration,2172,Others
+55,House Hold Information,442,Whether one adult member of the HH has permanently migrated,1012,No
+55,House Hold Information,442,Whether one adult member of the HH has permanently migrated,1013,Yes
+55,House Hold Information,442,Whether one adult member of the HH has permanently migrated,1014,Not Applicable
+55,House Hold Information,442,Whether one adult member of the HH has permanently migrated,2173,Dont Know
+55,House Hold Information,442,Whether one adult member of the HH has permanently migrated,2174,Others
+55,House Hold Information,443,Source of drinking water,1015,Open well 
+55,House Hold Information,443,Source of drinking water,1016,Tube well
+55,House Hold Information,443,Source of drinking water,1017,Hand pump 
+55,House Hold Information,443,Source of drinking water,1018,Tap Water
+55,House Hold Information,443,Source of drinking water,1019,River 
+55,House Hold Information,443,Source of drinking water,1020,Stream 
+55,House Hold Information,443,Source of drinking water,1021,Rainwater
+55,House Hold Information,443,Source of drinking water,1022,Tanker
+55,House Hold Information,443,Source of drinking water,1023,Bottled Water 
+55,House Hold Information,443,Source of drinking water,2175,Not Applicable
+55,House Hold Information,443,Source of drinking water,2176,Dont Know
+55,House Hold Information,443,Source of drinking water,1024,Others
+55,House Hold Information,444,Enter other type of source of drinking water,,
+55,House Hold Information,445,Access to toilet,1026,Open defecation 
+55,House Hold Information,445,Access to toilet,1027,Bucket
+55,House Hold Information,445,Access to toilet,1028,Flush or pour flush to Open Drain
+55,House Hold Information,445,Access to toilet,1029,Flush or pour flush to closed drain
+55,House Hold Information,445,Access to toilet,1030,Flush or Pour Flush to septic tank
+55,House Hold Information,445,Access to toilet,1031,Community toilet or Sulabah Souchalaya
+55,House Hold Information,445,Access to toilet,1032,Sharing toilet 
+55,House Hold Information,445,Access to toilet,1033,Eco toilet or Bio Toilet
+55,House Hold Information,445,Access to toilet,1034,Others
+55,House Hold Information,445,Access to toilet,2177,Dont Know
+55,House Hold Information,445,Access to toilet,2178,Not Applicable
+55,House Hold Information,446,Enter other type of toilet,,
+55,House Hold Information,447,Is any child missing?,1036,No
+55,House Hold Information,447,Is any child missing?,1037,Yes
+55,House Hold Information,447,Is any child missing?,2179,Dont Know
+55,House Hold Information,447,Is any child missing?,2180,Not Applicable
+55,House Hold Information,447,Is any child missing?,2181,Others
+55,House Hold Information,448,"If Yes, how many boys are missing",,
+55,House Hold Information,449,"If Yes, how many girls are missing",,
+""
+Child Education
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+50,Child Education,304,Name of Father,,
+50,Child Education,305,Name of Mother,,
+50,Child Education,307,Date of birth,,
+50,Child Education,308,Ever Enrolled,586,Yes
+50,Child Education,308,Ever Enrolled,587,No
+50,Child Education,308,Ever Enrolled,1694,88-Dont Know
+50,Child Education,308,Ever Enrolled,1695,99-Not Applicable
+50,Child Education,309,"If enrolled, enrollment status",588,Drop out of school
+50,Child Education,309,"If enrolled, enrollment status",589,Enrolled going to school
+50,Child Education,309,"If enrolled, enrollment status",1699,88-Dont Know
+50,Child Education,309,"If enrolled, enrollment status",1700,99-Not Applicable
+50,Child Education,311,School Id,,
+50,Child Education,319,Type of School,629,Government
+50,Child Education,319,Type of School,630,Local Bodies
+50,Child Education,319,Type of School,631,Private unaided
+50,Child Education,319,Type of School,632,Private Aided
+50,Child Education,319,Type of School,2019,Don't know
+50,Child Education,319,Type of School,2021,Not applicable
+50,Child Education,320,Free text books available,633,Yes
+50,Child Education,320,Free text books available,634,No
+50,Child Education,320,Free text books available,2024,Don't know
+50,Child Education,320,Free text books available,2026,Not applicable
+50,Child Education,321,Free uniform available,635,Yes
+50,Child Education,321,Free uniform available,636,No
+50,Child Education,321,Free uniform available,2046,Don't know
+50,Child Education,321,Free uniform available,2048,Not applicable
+50,Child Education,322,HH Chores involvement,637,No Not at all
+50,Child Education,322,HH Chores involvement,638,Yes Sometimes
+50,Child Education,322,HH Chores involvement,639,Yes Works for the entire day
+50,Child Education,322,HH Chores involvement,1706,88-Dont Know
+50,Child Education,322,HH Chores involvement,2050,Not applicable
+50,Child Education,323,HH Chores involvement -Before school,640,No Not at all
+50,Child Education,323,HH Chores involvement -Before school,641,Yes Sometimes
+50,Child Education,323,HH Chores involvement -Before school,642,Yes Most of the time
+50,Child Education,323,HH Chores involvement -Before school,2054,Don't know
+50,Child Education,323,HH Chores involvement -Before school,2055,Not applicable
+50,Child Education,324,HH Chores involvement - After coming from school,643,No Not at all
+50,Child Education,324,HH Chores involvement - After coming from school,644,Yes Sometimes
+50,Child Education,324,HH Chores involvement - After coming from school,645,Yes Most of the time
+50,Child Education,324,HH Chores involvement - After coming from school,2057,Don't know
+50,Child Education,324,HH Chores involvement - After coming from school,2058,Not applicable
+50,Child Education,313,If dropout primary reason,605,Corporal punishment
+50,Child Education,313,If dropout primary reason,1703,Need to help family in work/ Household occupation
+50,Child Education,313,If dropout primary reason,1704,Child need to work to earn money (labour work)
+50,Child Education,313,If dropout primary reason,1705,Family/ child migrated to other place for work or any other
+50,Child Education,313,If dropout primary reason,2059,Need to take care of siblings/ need to take care of domestic
+50,Child Education,313,If dropout primary reason,2060,Parents perceive education as not useful
+50,Child Education,313,If dropout primary reason,2064,Child not interested in education
+50,Child Education,313,If dropout primary reason,2065,Disability
+50,Child Education,313,If dropout primary reason,2067,Marriage
+50,Child Education,313,If dropout primary reason,2069,Teaching in school not satisfactory
+50,Child Education,313,If dropout primary reason,2070,Facilities in school are not adequate/ satisfactory
+50,Child Education,313,If dropout primary reason,2071,School at a long distance/ Travel to school not convenient
+50,Child Education,313,If dropout primary reason,2072,MDM not available or not available regularly/ Quality of MDM
+50,Child Education,313,If dropout primary reason,2073,Discrimination by teacher/ Misbehaviour by teacher from high
+50,Child Education,313,If dropout primary reason,2074,Discrimination by other other children/ Misbehaviour by othe
+50,Child Education,313,If dropout primary reason,2075,Sexual harassment
+50,Child Education,313,If dropout primary reason,2076,Dont Know
+50,Child Education,313,If dropout primary reason,2077,Not applicable
+50,Child Education,314,If dropout secondary reason,2082,Disability
+50,Child Education,314,If dropout secondary reason,606,Need to help family in work/ Household occupation
+50,Child Education,314,If dropout secondary reason,2084,Child need to work to earn money (labour work)
+50,Child Education,314,If dropout secondary reason,2086,Family/ child migrated to other place for work or any other
+50,Child Education,314,If dropout secondary reason,2087,Need to take care of siblings/ need to take care of domestic
+50,Child Education,314,If dropout secondary reason,2089,Parents perceive education as not useful
+50,Child Education,314,If dropout secondary reason,2090,Child not interested in education
+50,Child Education,314,If dropout secondary reason,2092,Marriage
+50,Child Education,314,If dropout secondary reason,2093,Teaching in school not satisfactory
+50,Child Education,314,If dropout secondary reason,2096,Facilities in school are not adequate/ satisfactory
+50,Child Education,314,If dropout secondary reason,2098,School at a long distance/ Travel to school not convenient
+50,Child Education,314,If dropout secondary reason,2101,School unsafe/ travel to school unsafe
+50,Child Education,314,If dropout secondary reason,2102,Higher level schools are not available close to the village
+50,Child Education,314,If dropout secondary reason,2103,MDM not available or not available regularly/ Quality of MDM
+50,Child Education,314,If dropout secondary reason,2104,Discrimination by teacher/ Misbehaviour by teacher from high
+50,Child Education,314,If dropout secondary reason,2105,Discrimination by other other children/Misbehaviour by other
+50,Child Education,314,If dropout secondary reason,2107,Corporal punishment
+50,Child Education,314,If dropout secondary reason,2109,Sexual harassment
+50,Child Education,314,If dropout secondary reason,2110,Don't know
+50,Child Education,314,If dropout secondary reason,2112,Not applicable
+50,Child Education,315,"If dropout, tertiary reason",607,Don't know
+50,Child Education,315,"If dropout, tertiary reason",2115,Not applicable
+50,Child Education,315,"If dropout, tertiary reason",2118,Need to help family in work/ Household occupation
+50,Child Education,315,"If dropout, tertiary reason",2120,Child need to work to earn money (labour work)
+50,Child Education,315,"If dropout, tertiary reason",2122,Family/ child migrated to other place for work or any other
+50,Child Education,315,"If dropout, tertiary reason",2126,Need to take care of siblings/ need to take care of domestic
+50,Child Education,315,"If dropout, tertiary reason",2128,Parents perceive education as not useful
+50,Child Education,315,"If dropout, tertiary reason",2131,Child not interested in education
+50,Child Education,315,"If dropout, tertiary reason",2132,Teaching in school not satisfactory
+50,Child Education,315,"If dropout, tertiary reason",2133,Disability
+50,Child Education,315,"If dropout, tertiary reason",2134,Marriage
+50,Child Education,315,"If dropout, tertiary reason",2135,Facilities in school are not adequate/ satisfactory
+50,Child Education,315,"If dropout, tertiary reason",2136,School at a long distance/ Travel to school not convenient
+50,Child Education,315,"If dropout, tertiary reason",2137,School unsafe/ travel to school unsafe
+50,Child Education,315,"If dropout, tertiary reason",2139,Higher level schools are not available close to the village
+50,Child Education,315,"If dropout, tertiary reason",2140,MDM not available or not available regularly/ Quality of MDM
+50,Child Education,315,"If dropout, tertiary reason",2142,Discrimination by teacher/ Misbehaviour by teacher from high
+50,Child Education,315,"If dropout, tertiary reason",2143,Discrimination by other other children/Misbehaviour by other
+50,Child Education,315,"If dropout, tertiary reason",2144,Corporal punishment
+50,Child Education,315,"If dropout, tertiary reason",2145,Sexual harassment
+50,Child Education,312,"If dropped out ,class of dropout",592,class 1
+50,Child Education,312,"If dropped out ,class of dropout",593,class 2
+50,Child Education,312,"If dropped out ,class of dropout",594,class 3
+50,Child Education,312,"If dropped out ,class of dropout",595,class 4
+50,Child Education,312,"If dropped out ,class of dropout",596,class 5
+50,Child Education,312,"If dropped out ,class of dropout",597,class 6
+50,Child Education,312,"If dropped out ,class of dropout",598,class 7
+50,Child Education,312,"If dropped out ,class of dropout",599,class 8
+50,Child Education,312,"If dropped out ,class of dropout",600,class 9
+50,Child Education,312,"If dropped out ,class of dropout",601,class 10
+50,Child Education,312,"If dropped out ,class of dropout",602,class 11
+50,Child Education,312,"If dropped out ,class of dropout",603,class 12
+50,Child Education,312,"If dropped out ,class of dropout",604,Graduation and above
+50,Child Education,312,"If dropped out ,class of dropout",1701,88-Dont Know
+50,Child Education,312,"If dropped out ,class of dropout",1702,99-Not Applicable
+50,Child Education,316,"If never enrolled, primary  reason",608,Need to help in family
+50,Child Education,316,"If never enrolled, primary  reason",609,Child need to earn money
+50,Child Education,316,"If never enrolled, primary  reason",610,Child migrated to other place
+50,Child Education,316,"If never enrolled, primary  reason",611,Need to take care of siblings
+50,Child Education,316,"If never enrolled, primary  reason",612,Thinks Education not useful
+50,Child Education,316,"If never enrolled, primary  reason",613,Child not intrested
+50,Child Education,316,"If never enrolled, primary  reason",614,Disability
+50,Child Education,316,"If never enrolled, primary  reason",615,Marriage
+50,Child Education,316,"If never enrolled, primary  reason",616,Teaching in school not good
+50,Child Education,316,"If never enrolled, primary  reason",617,No facilities in school
+50,Child Education,316,"If never enrolled, primary  reason",618,School at a long distance
+50,Child Education,316,"If never enrolled, primary  reason",619,Unsafe travel to  school
+50,Child Education,316,"If never enrolled, primary  reason",620,No higher level schools
+50,Child Education,316,"If never enrolled, primary  reason",621,Mid Day Meal not available
+50,Child Education,316,"If never enrolled, primary  reason",622,Discrimination by teacher
+50,Child Education,316,"If never enrolled, primary  reason",623,Discrimination by others
+50,Child Education,316,"If never enrolled, primary  reason",624,Corporal punishment
+50,Child Education,316,"If never enrolled, primary  reason",625,Sexual harassment
+50,Child Education,316,"If never enrolled, primary  reason",1696,88-Dont Know
+50,Child Education,316,"If never enrolled, primary  reason",1697,77-Others
+50,Child Education,316,"If never enrolled, primary  reason",1652,Not applicable
+50,Child Education,317,"If never enrolled, secondary reason",627,Marriage
+50,Child Education,317,"If never enrolled, secondary reason",1576,Need to help family in work/ Household occupation
+50,Child Education,317,"If never enrolled, secondary reason",1577,Child need to work to earn money (labour work)
+50,Child Education,317,"If never enrolled, secondary reason",1578,Family/ child migrated to other place for work or any other
+50,Child Education,317,"If never enrolled, secondary reason",1579,Need to take care of siblings/ need to take care of domestic
+50,Child Education,317,"If never enrolled, secondary reason",1580,Parents perceive education as not useful
+50,Child Education,317,"If never enrolled, secondary reason",1581,Child not interested in education
+50,Child Education,317,"If never enrolled, secondary reason",1582,Disability
+50,Child Education,317,"If never enrolled, secondary reason",1583,Teaching in school not satisfactory
+50,Child Education,317,"If never enrolled, secondary reason",1584,Facilities in school are not adequate/ satisfactory
+50,Child Education,317,"If never enrolled, secondary reason",1585,School at a long distance/ Travel to school not convenient
+50,Child Education,317,"If never enrolled, secondary reason",1586,School unsafe/ travel to school unsafe
+50,Child Education,317,"If never enrolled, secondary reason",1587,Higher level schools are not available close to the village
+50,Child Education,317,"If never enrolled, secondary reason",1588,MDM not available or not available regularly/ Quality of MDM
+50,Child Education,317,"If never enrolled, secondary reason",1589,Discrimination by teacher/ Misbehaviour by teacher
+50,Child Education,317,"If never enrolled, secondary reason",1590,Discrimination by other children
+50,Child Education,317,"If never enrolled, secondary reason",1591,Corporal punishment
+50,Child Education,317,"If never enrolled, secondary reason",1592,Sexual harassment
+50,Child Education,317,"If never enrolled, secondary reason",1593,Not applicable
+50,Child Education,317,"If never enrolled, secondary reason",1698,88-Dont Know
+50,Child Education,318,"If never enrolled, tertiary reason",628,Marriage
+50,Child Education,318,"If never enrolled, tertiary reason",1594,Need to help family in work/ Household occupation
+50,Child Education,318,"If never enrolled, tertiary reason",1595,Child need to work to earn money (labour work)
+50,Child Education,318,"If never enrolled, tertiary reason",1596,Family/ child migrated to other place for work or any other
+50,Child Education,318,"If never enrolled, tertiary reason",1597,Parents perceive education as not useful
+50,Child Education,318,"If never enrolled, tertiary reason",1598,Child not interested in education
+50,Child Education,318,"If never enrolled, tertiary reason",1599,Disability
+50,Child Education,318,"If never enrolled, tertiary reason",1600,Teaching in school not satisfactory
+50,Child Education,318,"If never enrolled, tertiary reason",1601,Facilities in school are not adequate/ satisfactory
+50,Child Education,318,"If never enrolled, tertiary reason",1602,School at a long distance/ Travel to school not convenient
+50,Child Education,318,"If never enrolled, tertiary reason",1603,School unsafe/ travel to school unsafe
+50,Child Education,318,"If never enrolled, tertiary reason",1604,Higher level schools are not available close to the village
+50,Child Education,318,"If never enrolled, tertiary reason",1605,MDM not available or not available regularly/ Quality of MDM
+50,Child Education,318,"If never enrolled, tertiary reason",1606,Discrimination by teacher/ Misbehaviour by teacher from high
+50,Child Education,318,"If never enrolled, tertiary reason",1607,Discrimination by other other children
+50,Child Education,318,"If never enrolled, tertiary reason",1608,Corporal punishment
+50,Child Education,318,"If never enrolled, tertiary reason",1609,Sexual harassment
+50,Child Education,318,"If never enrolled, tertiary reason",1610,Not applicable
+50,Child Education,318,"If never enrolled, tertiary reason",1650,Need to take care of siblings/ need to take care of domestic
+50,Child Education,334,Other information,,
+""
+Anganwadi Centre Information
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+3,Anganwadi Centre Information,89,Type of Anganwadi,78,Anganwaadi
+3,Anganwadi Centre Information,89,Type of Anganwadi,1549,Mini-anganwaadi
+3,Anganwadi Centre Information,108,Year of Operation of AWC,,
+3,Anganwadi Centre Information,111,Population catered to by AWC,,
+3,Anganwadi Centre Information,113,Need for additional AWC,1570,Yes
+3,Anganwadi Centre Information,113,Need for additional AWC,1571,No
+3,Anganwadi Centre Information,113,Need for additional AWC,1917,Yes
+3,Anganwadi Centre Information,113,Need for additional AWC,1918,No
+3,Anganwadi Centre Information,114,Anganwadi worker AWW available,119,Yes
+3,Anganwadi Centre Information,114,Anganwadi worker AWW available,120,No
+3,Anganwadi Centre Information,115,Month and year of joining in the area for AWW,,
+3,Anganwadi Centre Information,116,Whether AWW is from the same Panchayat or Ward,121,Yes
+3,Anganwadi Centre Information,116,Whether AWW is from the same Panchayat or Ward,122,No
+3,Anganwadi Centre Information,117,Additional AWW cum Nutrition Counsellor available,123,Yes
+3,Anganwadi Centre Information,117,Additional AWW cum Nutrition Counsellor available,124,No
+3,Anganwadi Centre Information,117,Additional AWW cum Nutrition Counsellor available,1550,Not applicable
+3,Anganwadi Centre Information,117,Additional AWW cum Nutrition Counsellor available,1922,Others
+3,Anganwadi Centre Information,117,Additional AWW cum Nutrition Counsellor available,1924,Don't know
+3,Anganwadi Centre Information,118,AW Helper available,125,Yes
+3,Anganwadi Centre Information,118,AW Helper available,126,No
+3,Anganwadi Centre Information,119,Boys (0-3 Years) enrolled,,
+3,Anganwadi Centre Information,120,Girls (0-3 Years) enrolled,,
+3,Anganwadi Centre Information,121,Total Children (0-3 years),,
+3,Anganwadi Centre Information,122,Boys (3-6 Years) enrolled,,
+3,Anganwadi Centre Information,123,Girls (3-6 Years) enrolled,,
+3,Anganwadi Centre Information,124,Total children (3-6 Years) enrolled,,
+3,Anganwadi Centre Information,125,Total adolescent girls (11-18 Years) enrolled,,
+3,Anganwadi Centre Information,126,Total number of pregnant women enrolled,,
+3,Anganwadi Centre Information,127,Total number of lactating mothers enrolled,,
+3,Anganwadi Centre Information,128,Own Building available,127,Yes
+3,Anganwadi Centre Information,128,Own Building available,128,No
+3,Anganwadi Centre Information,128,Own Building available,1927,Not Applicable
+3,Anganwadi Centre Information,128,Own Building available,1928,Others
+3,Anganwadi Centre Information,128,Own Building available,1929,Don't know
+3,Anganwadi Centre Information,129,Type of building,129,Pucca
+3,Anganwadi Centre Information,129,Type of building,130,Semi Pucca
+3,Anganwadi Centre Information,129,Type of building,131,Kutchha
+3,Anganwadi Centre Information,130,Shade for cooking available,132,Yes
+3,Anganwadi Centre Information,130,Shade for cooking available,133,No
+3,Anganwadi Centre Information,131,Whether drinking water available,134,Within the premises/ adjoining
+3,Anganwadi Centre Information,131,Whether drinking water available,135,At a distance from the premise
+3,Anganwadi Centre Information,132,Functional toilet available,136,Yes
+3,Anganwadi Centre Information,132,Functional toilet available,137,No
+3,Anganwadi Centre Information,133,Water available in toilets,138,Yes
+3,Anganwadi Centre Information,133,Water available in toilets,139,No
+3,Anganwadi Centre Information,133,Water available in toilets,1933,Not applicable
+3,Anganwadi Centre Information,133,Water available in toilets,1934,Don't know
+3,Anganwadi Centre Information,133,Water available in toilets,1935,Others
+3,Anganwadi Centre Information,134,Pre-school Education Kits/ material available,140,Yes
+3,Anganwadi Centre Information,134,Pre-school Education Kits/ material available,141,No
+3,Anganwadi Centre Information,135,Take Home Ration Available,142,"Yes,  available and irregular"
+3,Anganwadi Centre Information,135,Take Home Ration Available,143,No
+3,Anganwadi Centre Information,135,Take Home Ration Available,1551,"Yes,  available and regular"
+3,Anganwadi Centre Information,136,Cooked Food Available,144,"Yes,  available and irregular"
+3,Anganwadi Centre Information,136,Cooked Food Available,145,No
+3,Anganwadi Centre Information,136,Cooked Food Available,1552,"Yes,  available and regular"
+3,Anganwadi Centre Information,137,Immunization service available,146,"Yes,  available and irregular"
+3,Anganwadi Centre Information,137,Immunization service available,147,No
+3,Anganwadi Centre Information,137,Immunization service available,1553,"Yes,  available and regular"
+3,Anganwadi Centre Information,138,Health check up service available,148,"Yes,  available and irregular"
+3,Anganwadi Centre Information,138,Health check up service available,149,No
+3,Anganwadi Centre Information,138,Health check up service available,1554,"Yes,  available and regular"
+3,Anganwadi Centre Information,140,Nutrition & Health education service available,152,"Yes,  available and irregular"
+3,Anganwadi Centre Information,140,Nutrition & Health education service available,153,No
+3,Anganwadi Centre Information,140,Nutrition & Health education service available,1556,"Yes,  available and regular"
+3,Anganwadi Centre Information,139,Referral services available,150,"Yes,  available and irregular"
+3,Anganwadi Centre Information,139,Referral services available,151,No
+3,Anganwadi Centre Information,139,Referral services available,1555,"Yes,  available and regular"
+3,Anganwadi Centre Information,618,Is Referral Data Available,1681,Yes
+3,Anganwadi Centre Information,618,Is Referral Data Available,1682,No
+3,Anganwadi Centre Information,596,Boys referred to referal,,
+3,Anganwadi Centre Information,597,Girls referred to referal,,
+3,Anganwadi Centre Information,141,Counselling Services - Adolescent Girls available,154,"Yes,  available and irregular"
+3,Anganwadi Centre Information,141,Counselling Services - Adolescent Girls available,155,No
+3,Anganwadi Centre Information,141,Counselling Services - Adolescent Girls available,1557,"Yes,  available and regular"
+""
+School Level Information
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+2,School Level Information,44,Name of the School,,
+2,School Level Information,45,School ID,,
+2,School Level Information,46,Lowest class in School,1801,Class 1
+2,School Level Information,46,Lowest class in School,1802,Class 2
+2,School Level Information,46,Lowest class in School,1803,Class 3
+2,School Level Information,46,Lowest class in School,1804,Class 4
+2,School Level Information,46,Lowest class in School,1805,Class 5
+2,School Level Information,46,Lowest class in School,1806,Class 6
+2,School Level Information,46,Lowest class in School,1807,Class 7
+2,School Level Information,46,Lowest class in School,1808,Class 8
+2,School Level Information,46,Lowest class in School,1809,Class 9
+2,School Level Information,46,Lowest class in School,1812,Class 10
+2,School Level Information,46,Lowest class in School,1813,Class 11
+2,School Level Information,46,Lowest class in School,1814,Class 12
+2,School Level Information,47,Highest class in school,1816,Class 1
+2,School Level Information,47,Highest class in school,1817,Class 2
+2,School Level Information,47,Highest class in school,1822,Class 3
+2,School Level Information,47,Highest class in school,1824,Class 4
+2,School Level Information,47,Highest class in school,1826,Class 5
+2,School Level Information,47,Highest class in school,1828,Class 6
+2,School Level Information,47,Highest class in school,1829,Class 7
+2,School Level Information,47,Highest class in school,1830,Class 8
+2,School Level Information,47,Highest class in school,1942,Class 9
+2,School Level Information,47,Highest class in school,1944,Class 10
+2,School Level Information,47,Highest class in school,2015,Class 11
+2,School Level Information,47,Highest class in school,2016,Class 12
+2,School Level Information,48,Category of School,68,Government
+2,School Level Information,48,Category of School,69,Private Unaided
+2,School Level Information,48,Category of School,70,Private aided
+2,School Level Information,49,Type of School,71,Girls
+2,School Level Information,49,Type of School,72,Boys
+2,School Level Information,49,Type of School,73,Co Education
+2,School Level Information,50,Total number of room in School,,
+2,School Level Information,51,Total number of class rooms,,
+2,School Level Information,52,Official medium of instruction,,
+2,School Level Information,53,If the official medium matches with local language,74,Yes
+2,School Level Information,53,If the official medium matches with local language,75,No 
+2,School Level Information,54,Total SC Boys,,
+2,School Level Information,55,Total SC Girls,,
+2,School Level Information,56,Total ST Boys,,
+2,School Level Information,57,Total ST Girls,,
+2,School Level Information,58,Total OBC Boys,,
+2,School Level Information,59,Total OBC Girls,,
+2,School Level Information,60,Total Other Boys,,
+2,School Level Information,61,Total Other Girls,,
+2,School Level Information,62,Total Hindu Boys,,
+2,School Level Information,63,Total Hindu Girls,,
+2,School Level Information,64,Total Muslim Boys,,
+2,School Level Information,65,Total Muslim Girls,,
+2,School Level Information,66,Total Christian Boys,,
+2,School Level Information,67,Total Christian Girls,,
+2,School Level Information,68,Total Sikh Boys,,
+2,School Level Information,69,Total Sikh Girls,,
+2,School Level Information,70,Total Buddhist Boys,,
+2,School Level Information,71,Total Buddhist Girls,,
+2,School Level Information,72,Total Jain Boys,,
+2,School Level Information,73,Total Jain Girls,,
+2,School Level Information,602,Total Other Boys,,
+2,School Level Information,603,Total Other Girls,,
+2,School Level Information,74,Total Boys,,
+2,School Level Information,75,Total Girls,,
+2,School Level Information,76,Total Children,,
+2,School Level Information,84,Separate mathematics teachers,1533,Yes
+2,School Level Information,84,Separate mathematics teachers,1534,No
+2,School Level Information,84,Separate mathematics teachers,1857,99-Not Applicable
+2,School Level Information,84,Separate mathematics teachers,1949,Don't know
+2,School Level Information,607,Total No of Children with special need,,
+2,School Level Information,77,Total number of Boys with special needs,,
+2,School Level Information,78,Total number of Girls with special needs,,
+2,School Level Information,79,Number of permanent teachers,,
+2,School Level Information,80,Number of contractual teachers,,
+2,School Level Information,81,Total numbers of teachers,,
+2,School Level Information,82,Total Male teachers,,
+2,School Level Information,83,Total Female teachers,,
+2,School Level Information,85,Separate Science teachers,1535,Yes
+2,School Level Information,85,Separate Science teachers,1536,No
+2,School Level Information,85,Separate Science teachers,1849,99-Not Applicable
+2,School Level Information,85,Separate Science teachers,1950,Don't know
+2,School Level Information,86,Separate Language teachers,1537,Yes
+2,School Level Information,86,Separate Language teachers,1538,No
+2,School Level Information,86,Separate Language teachers,1850,99-Not Applicable
+2,School Level Information,86,Separate Language teachers,1951,Don't know
+2,School Level Information,87,Separate teachers for SST,1539,Yes
+2,School Level Information,87,Separate teachers for SST,1540,No
+2,School Level Information,87,Separate teachers for SST,1853,99-Not Applicable
+2,School Level Information,87,Separate teachers for SST,1952,Don't know
+2,School Level Information,88,Atleast one Female teacher available,76,Yes
+2,School Level Information,88,Atleast one Female teacher available,77,No 
+2,School Level Information,88,Atleast one Female teacher available,1953,Don't know
+2,School Level Information,88,Atleast one Female teacher available,1954,Not applicable
+2,School Level Information,92,Mid Day meal cooked by ,82,Inside/adjoining the school premises and by the school
+2,School Level Information,92,Mid Day meal cooked by ,83,Inside/adjoining the school premises and by NGO/Pvt Agency/CBO
+2,School Level Information,92,Mid Day meal cooked by ,158,Outside the School premises and by the school
+2,School Level Information,92,Mid Day meal cooked by ,84,Outside the school premises by NGO/Pvt Agency/CBO
+2,School Level Information,92,Mid Day meal cooked by ,1955,Don't know
+2,School Level Information,92,Mid Day meal cooked by ,1956,Not applicable
+2,School Level Information,93,Mid Day meal cook available,85,Yes
+2,School Level Information,93,Mid Day meal cook available,86,No 
+2,School Level Information,93,Mid Day meal cook available,1858,99-Not Applicable
+2,School Level Information,93,Mid Day meal cook available,1957,Don't know
+2,School Level Information,94,Mid Day meal helper available,87,Yes
+2,School Level Information,94,Mid Day meal helper available,88,No
+2,School Level Information,94,Mid Day meal helper available,1859,99-Not Applicable
+2,School Level Information,94,Mid Day meal helper available,1960,Don't know
+2,School Level Information,95,Separate cleaning staff for MDM,89,Yes
+2,School Level Information,95,Separate cleaning staff for MDM,1964,Don't know
+2,School Level Information,95,Separate cleaning staff for MDM,90,No
+2,School Level Information,95,Separate cleaning staff for MDM,1862,99-Not Applicable
+2,School Level Information,96,School building available,92,"No, building not available or broken(classes conducted in open)"
+2,School Level Information,96,School building available,1541,"No, classes conducted in a tent or under some other temporary structures"
+2,School Level Information,96,School building available,91,"Yes, Own Building"
+2,School Level Information,96,School building available,1542,"Yes, rented building"
+2,School Level Information,96,School building available,1543,"Yes, in the premises of panchayat/religious place"
+2,School Level Information,96,School building available,1967,Don't know
+2,School Level Information,96,School building available,1968,Not applicable
+2,School Level Information,97,Toilet for children,93,Yes
+2,School Level Information,97,Toilet for children,94,No
+2,School Level Information,97,Toilet for children,1971,Don't know
+2,School Level Information,97,Toilet for children,1973,Not applicable
+2,School Level Information,98,Separate Toilet for Girls,95,Yes
+2,School Level Information,98,Separate Toilet for Girls,96,No
+2,School Level Information,98,Separate Toilet for Girls,1974,Don't know
+2,School Level Information,98,Separate Toilet for Girls,1975,Not applicable
+2,School Level Information,99,Water available in Toilet,98,No
+2,School Level Information,99,Water available in Toilet,97,"Yes, running water in the toilet"
+2,School Level Information,99,Water available in Toilet,1544,"Yes, water brought from outside and stored in the toilet"
+2,School Level Information,99,Water available in Toilet,1977,Don't know
+2,School Level Information,99,Water available in Toilet,1981,Not applicable
+2,School Level Information,100,Boundary wall available,100,No boundary wall
+2,School Level Information,100,Boundary wall available,99,"Yes, broken/ incomplete"
+2,School Level Information,100,Boundary wall available,1545,Complete boundary wall with a gate
+2,School Level Information,100,Boundary wall available,1982,Don't know
+2,School Level Information,100,Boundary wall available,1985,Not applicable
+2,School Level Information,102,Libraray available,103,Yes
+2,School Level Information,102,Libraray available,104,No
+2,School Level Information,102,Libraray available,1546,Not applicable
+2,School Level Information,102,Libraray available,1987,Don't know
+2,School Level Information,103,Playground available,105,Yes
+2,School Level Information,103,Playground available,106,No
+2,School Level Information,103,Playground available,1990,Don't know
+2,School Level Information,103,Playground available,1991,Not applicable
+2,School Level Information,104,Separate kitchen with shed,107,Yes
+2,School Level Information,104,Separate kitchen with shed,108,No
+2,School Level Information,104,Separate kitchen with shed,1863,99-Not Applicable
+2,School Level Information,104,Separate kitchen with shed,1994,Don't know
+2,School Level Information,105,Disable friendly with ramp,109,Yes
+2,School Level Information,105,Disable friendly with ramp,110,No
+2,School Level Information,105,Disable friendly with ramp,1996,Don't know
+2,School Level Information,105,Disable friendly with ramp,1997,Not applicable
+2,School Level Information,106,Availablity of Drinking Water,111,Yes
+2,School Level Information,106,Availablity of Drinking Water,112,No
+2,School Level Information,106,Availablity of Drinking Water,1999,Don't know
+2,School Level Information,106,Availablity of Drinking Water,2001,Not applicable
+2,School Level Information,107,Availability of Electricity,113,"Yes, but supply intermittent"
+2,School Level Information,107,Availability of Electricity,114,No
+2,School Level Information,107,Availability of Electricity,1864,"Yes, Supply full time"
+2,School Level Information,107,Availability of Electricity,2004,Don't know
+2,School Level Information,107,Availability of Electricity,2005,Not applicable
+2,School Level Information,109,Availability of Science lab,115,Yes
+2,School Level Information,109,Availability of Science lab,116,No
+2,School Level Information,109,Availability of Science lab,1865,99-Not Applicable
+2,School Level Information,109,Availability of Science lab,2007,Don't know
+2,School Level Information,110,School management commitee constituted,2008,Don't know
+2,School Level Information,110,School management commitee constituted,2010,Not applicable
+2,School Level Information,110,School management commitee constituted,118,No
+2,School Level Information,110,School management commitee constituted,117,Yes
+2,School Level Information,112,Numbers of meeting conducted this year,,
+""
+Health Centre Survey
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+1,Health Centre Survey,192,Type of Health Centre,234,Primary Health Centre
+1,Health Centre Survey,192,Type of Health Centre,236,Urban Health Unit
+1,Health Centre Survey,192,Type of Health Centre,237,Health units in Tea Estates
+1,Health Centre Survey,192,Type of Health Centre,235,Community Health Centre
+1,Health Centre Survey,192,Type of Health Centre,233,Sub Health Centre
+1,Health Centre Survey,193,Specify the Urban Health Unit,,
+1,Health Centre Survey,194,Incubator Available,1919,Don't Know
+1,Health Centre Survey,194,Incubator Available,1920,Not applicable
+1,Health Centre Survey,194,Incubator Available,1921,Others
+1,Health Centre Survey,194,Incubator Available,239,Yes
+1,Health Centre Survey,194,Incubator Available,240,No
+1,Health Centre Survey,195,New Born Corner Centre available,1923,Don't Know
+1,Health Centre Survey,195,New Born Corner Centre available,1925,Not applicable
+1,Health Centre Survey,195,New Born Corner Centre available,1926,Others
+1,Health Centre Survey,195,New Born Corner Centre available,241,Yes
+1,Health Centre Survey,195,New Born Corner Centre available,242,No
+1,Health Centre Survey,196,Sick Born Centre available,1930,Don't Know
+1,Health Centre Survey,196,Sick Born Centre available,1931,Not applicable
+1,Health Centre Survey,196,Sick Born Centre available,1932,Others
+1,Health Centre Survey,196,Sick Born Centre available,243,Yes
+1,Health Centre Survey,196,Sick Born Centre available,244,No
+1,Health Centre Survey,197,Functional NRC MTC available,1936,Don't Know
+1,Health Centre Survey,197,Functional NRC MTC available,1937,Not applicable
+1,Health Centre Survey,197,Functional NRC MTC available,1938,Others
+1,Health Centre Survey,197,Functional NRC MTC available,245,Yes
+1,Health Centre Survey,197,Functional NRC MTC available,246,No
+1,Health Centre Survey,198,Medical Officer available,1939,yes
+1,Health Centre Survey,198,Medical Officer available,1940,No
+1,Health Centre Survey,198,Medical Officer available,1941,Don't Know
+1,Health Centre Survey,198,Medical Officer available,1943,Not applicable
+1,Health Centre Survey,198,Medical Officer available,1945,Others
+1,Health Centre Survey,198,Medical Officer available,248,No
+1,Health Centre Survey,198,Medical Officer available,247,Yes
+1,Health Centre Survey,199,DataEntryOperator available,1946,Don't know
+1,Health Centre Survey,199,DataEntryOperator available,1947,Not applicable
+1,Health Centre Survey,199,DataEntryOperator available,1948,Others
+1,Health Centre Survey,199,DataEntryOperator available,307,Yes
+1,Health Centre Survey,199,DataEntryOperator available,308,No
+1,Health Centre Survey,200,Pharmacist available,1958,Don't Know
+1,Health Centre Survey,200,Pharmacist available,1961,Not applicable
+1,Health Centre Survey,200,Pharmacist available,1965,Others
+1,Health Centre Survey,200,Pharmacist available,251,Yes
+1,Health Centre Survey,200,Pharmacist available,252,No
+1,Health Centre Survey,201,Staff Nurse available,1972,Don't know
+1,Health Centre Survey,201,Staff Nurse available,1976,Not applicable
+1,Health Centre Survey,201,Staff Nurse available,1978,Others
+1,Health Centre Survey,201,Staff Nurse available,253,Yes
+1,Health Centre Survey,201,Staff Nurse available,254,No
+1,Health Centre Survey,202,Ambulance Service available,1983,Don't know
+1,Health Centre Survey,202,Ambulance Service available,1986,Not applicable
+1,Health Centre Survey,202,Ambulance Service available,1988,Others
+1,Health Centre Survey,202,Ambulance Service available,255,Yes
+1,Health Centre Survey,202,Ambulance Service available,256,No
+1,Health Centre Survey,203,Blood Storage unit available,1995,Don't Know
+1,Health Centre Survey,203,Blood Storage unit available,1998,Not applicable
+1,Health Centre Survey,203,Blood Storage unit available,2002,Others
+1,Health Centre Survey,203,Blood Storage unit available,257,Yes
+1,Health Centre Survey,203,Blood Storage unit available,258,No
+1,Health Centre Survey,204,Laboratory available,2011,Yes
+1,Health Centre Survey,204,Laboratory available,2012,No
+1,Health Centre Survey,204,Laboratory available,2013,Don't know
+1,Health Centre Survey,204,Laboratory available,2014,Not applicable
+1,Health Centre Survey,204,Laboratory available,2017,Others
+1,Health Centre Survey,204,Laboratory available,260,No
+1,Health Centre Survey,204,Laboratory available,259,Yes
+1,Health Centre Survey,205,Gynaecologist available,2020,Yes
+1,Health Centre Survey,205,Gynaecologist available,2022,No
+1,Health Centre Survey,205,Gynaecologist available,2023,Don't Know
+1,Health Centre Survey,205,Gynaecologist available,2027,Not applicable
+1,Health Centre Survey,205,Gynaecologist available,2029,Others
+1,Health Centre Survey,205,Gynaecologist available,262,No
+1,Health Centre Survey,205,Gynaecologist available,261,Yes
+1,Health Centre Survey,206,Paediatrician available,2034,Don't Know
+1,Health Centre Survey,206,Paediatrician available,2036,Not applicable
+1,Health Centre Survey,206,Paediatrician available,2038,Others
+1,Health Centre Survey,206,Paediatrician available,309,Yes
+1,Health Centre Survey,206,Paediatrician available,310,No
+1,Health Centre Survey,207,Anaesthetic available,2044,Yes
+1,Health Centre Survey,207,Anaesthetic available,2045,No
+1,Health Centre Survey,207,Anaesthetic available,2047,Don't Know
+1,Health Centre Survey,207,Anaesthetic available,2052,Not applicable
+1,Health Centre Survey,207,Anaesthetic available,2053,Others
+1,Health Centre Survey,207,Anaesthetic available,266,No
+1,Health Centre Survey,207,Anaesthetic available,265,Yes
+1,Health Centre Survey,208,ANM available,267,Yes
+1,Health Centre Survey,208,ANM available,268,No
+1,Health Centre Survey,209,Female Health Worker available,2062,Don't know
+1,Health Centre Survey,209,Female Health Worker available,2066,Not applicable
+1,Health Centre Survey,209,Female Health Worker available,2068,Others
+1,Health Centre Survey,209,Female Health Worker available,269,Yes
+1,Health Centre Survey,209,Female Health Worker available,270,No
+1,Health Centre Survey,210,Building Own or Rented,271,Own
+1,Health Centre Survey,210,Building Own or Rented,272,Rented
+1,Health Centre Survey,211,Operating since,,
+1,Health Centre Survey,216,Coverage Population,,
+1,Health Centre Survey,217,Whether delivery conducted?,2078,Don't Know
+1,Health Centre Survey,217,Whether delivery conducted?,2079,Not applicable
+1,Health Centre Survey,217,Whether delivery conducted?,2080,Others
+1,Health Centre Survey,217,Whether delivery conducted?,280,Yes
+1,Health Centre Survey,217,Whether delivery conducted?,281,No
+1,Health Centre Survey,218,Designated class for delivery and referal,2081,Don't know
+1,Health Centre Survey,218,Designated class for delivery and referal,2083,Not applicable
+1,Health Centre Survey,218,Designated class for delivery and referal,2085,Others
+1,Health Centre Survey,218,Designated class for delivery and referal,282,L1
+1,Health Centre Survey,218,Designated class for delivery and referal,283,L2
+1,Health Centre Survey,218,Designated class for delivery and referal,284,L3
+1,Health Centre Survey,219,Whether list of medicines available at the centre is publicly displayed outside,2091,Don't know
+1,Health Centre Survey,219,Whether list of medicines available at the centre is publicly displayed outside,2095,Not applicable
+1,Health Centre Survey,219,Whether list of medicines available at the centre is publicly displayed outside,2099,Others
+1,Health Centre Survey,219,Whether list of medicines available at the centre is publicly displayed outside,285,Yes
+1,Health Centre Survey,219,Whether list of medicines available at the centre is publicly displayed outside,286,No
+1,Health Centre Survey,220,Examination table available,287,Yes
+1,Health Centre Survey,220,Examination table available,288,No
+1,Health Centre Survey,221,Screen/separate room/separate place for examination available,2111,Don't Know
+1,Health Centre Survey,221,Screen/separate room/separate place for examination available,2114,Not applicable
+1,Health Centre Survey,221,Screen/separate room/separate place for examination available,2116,Others
+1,Health Centre Survey,221,Screen/separate room/separate place for examination available,311,Yes
+1,Health Centre Survey,221,Screen/separate room/separate place for examination available,312,No
+1,Health Centre Survey,222,Delivery table,2123,Don't know
+1,Health Centre Survey,222,Delivery table,2125,Not applicable
+1,Health Centre Survey,222,Delivery table,2130,Others
+1,Health Centre Survey,222,Delivery table,291,Yes
+1,Health Centre Survey,222,Delivery table,292,No
+1,Health Centre Survey,223,Weighing machine for children available,293,Yes
+1,Health Centre Survey,223,Weighing machine for children available,294,No
+1,Health Centre Survey,224,Weighing machine for adults available?,295,Yes
+1,Health Centre Survey,224,Weighing machine for adults available?,296,No
+1,Health Centre Survey,225,Container for waste disposal available?,297,Yes
+1,Health Centre Survey,225,Container for waste disposal available?,298,No
+1,Health Centre Survey,226,Sterilisation machine available for disinfecting equipments?,2146,Don't Know
+1,Health Centre Survey,226,Sterilisation machine available for disinfecting equipments?,2149,Not applicable
+1,Health Centre Survey,226,Sterilisation machine available for disinfecting equipments?,2150,Others
+1,Health Centre Survey,226,Sterilisation machine available for disinfecting equipments?,299,Yes
+1,Health Centre Survey,226,Sterilisation machine available for disinfecting equipments?,300,No
+1,Health Centre Survey,227,Urine testing facility available?,2153,Don't Know
+1,Health Centre Survey,227,Urine testing facility available?,2154,Not applicable
+1,Health Centre Survey,227,Urine testing facility available?,2155,Others
+1,Health Centre Survey,227,Urine testing facility available?,301,Yes
+1,Health Centre Survey,227,Urine testing facility available?,302,No
+1,Health Centre Survey,228,Functional BP testing apparatus available?,303,Yes
+1,Health Centre Survey,228,Functional BP testing apparatus available?,304,No
+1,Health Centre Survey,229,Vaccine storage facility available,2159,Don't know
+1,Health Centre Survey,229,Vaccine storage facility available,2160,Not applicable
+1,Health Centre Survey,229,Vaccine storage facility available,2162,Others
+1,Health Centre Survey,229,Vaccine storage facility available,305,Yes
+1,Health Centre Survey,229,Vaccine storage facility available,306,No
+""
+Village Information
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+54,Village Information,340,Rural or Urban,1042,Urban
+54,Village Information,340,Rural or Urban,1043,Rural
+54,Village Information,341,Primary school available,715,"No, Not in the hamlet"
+54,Village Information,341,Primary school available,1041,"Yes , in the Village"
+54,Village Information,342,Primary School ID,,
+54,Village Information,343,Lowest class in Primary School,,
+54,Village Information,344,Highest class in Primary School,,
+54,Village Information,345,Category of Primary School,1052,Government / Local bodies
+54,Village Information,345,Category of Primary School,1053,Private
+54,Village Information,345,Category of Primary School,1547,Private Unaided
+54,Village Information,345,Category of Primary School,2182,Don't Know
+54,Village Information,345,Category of Primary School,2183,Not applicable
+54,Village Information,345,Category of Primary School,2184,Others
+54,Village Information,346,Distance of the Primary School,,
+54,Village Information,347,Barriers for accessing Primary School,701,No barrier
+54,Village Information,347,Barriers for accessing Primary School,702,Near to the upper class hamlet
+54,Village Information,347,Barriers for accessing Primary School,703,Far from the Village
+54,Village Information,347,Barriers for accessing Primary School,704,On the main road
+54,Village Information,347,Barriers for accessing Primary School,705,Across the road or Traffic
+54,Village Information,347,Barriers for accessing Primary School,706,In or Near to market
+54,Village Information,347,Barriers for accessing Primary School,707,Across the forest or hill
+54,Village Information,347,Barriers for accessing Primary School,708,Across the stream or river
+54,Village Information,347,Barriers for accessing Primary School,709,Near the graveyard
+54,Village Information,347,Barriers for accessing Primary School,710,Classes in open
+54,Village Information,347,Barriers for accessing Primary School,711,Across the railway track
+54,Village Information,347,Barriers for accessing Primary School,712,Near Bar and Restaurant
+54,Village Information,347,Barriers for accessing Primary School,713,Near Religious structure
+54,Village Information,347,Barriers for accessing Primary School,2185,Don't know
+54,Village Information,347,Barriers for accessing Primary School,2186,Not applicable
+54,Village Information,347,Barriers for accessing Primary School,714,Others
+54,Village Information,348," If other (primary school), specify",,
+54,Village Information,349,Upper Primary school available,717,"NO, not in the village or Hamlet"
+54,Village Information,349,Upper Primary school available,718,"Yes, in the village/hamlet"
+54,Village Information,349,Upper Primary school available,2187,Don't Know
+54,Village Information,349,Upper Primary school available,2188,Not applicable
+54,Village Information,349,Upper Primary school available,2189,Others
+54,Village Information,350,Upper Primary school ID,,
+54,Village Information,351,Lowest class in upper primary school,,
+54,Village Information,352,Highest class in upper primary school,,
+54,Village Information,353,Category of upper primary school,726,Government or Loacl Bodies
+54,Village Information,353,Category of upper primary school,727,Private
+54,Village Information,353,Category of upper primary school,1649,Private Unaided
+54,Village Information,353,Category of upper primary school,2196,Don't Know
+54,Village Information,353,Category of upper primary school,2197,Not applicable
+54,Village Information,353,Category of upper primary school,2198,Others
+54,Village Information,354,Distance of the upper primary school from village,,
+54,Village Information,355,Barriers for accessing upper primary school,729,No barrier
+54,Village Information,355,Barriers for accessing upper primary school,730,Near upper class hamle
+54,Village Information,355,Barriers for accessing upper primary school,731,Far off from the village
+54,Village Information,355,Barriers for accessing upper primary school,732,On the main road
+54,Village Information,355,Barriers for accessing upper primary school,733,Across the road  or Traffic
+54,Village Information,355,Barriers for accessing upper primary school,734,In or near to market
+54,Village Information,355,Barriers for accessing upper primary school,735,Across the forest or  hill
+54,Village Information,355,Barriers for accessing upper primary school,736,Across the stream or  river
+54,Village Information,355,Barriers for accessing upper primary school,737,Near the graveyard
+54,Village Information,355,Barriers for accessing upper primary school,738,Classes in open
+54,Village Information,355,Barriers for accessing upper primary school,739,across the Railway track
+54,Village Information,355,Barriers for accessing upper primary school,740,Near Bar and Restaurant
+54,Village Information,355,Barriers for accessing upper primary school,741,Near Religious Structure
+54,Village Information,355,Barriers for accessing upper primary school,2199,Don't Know
+54,Village Information,355,Barriers for accessing upper primary school,2200,Not applicable
+54,Village Information,355,Barriers for accessing upper primary school,742,Others
+54,Village Information,356,If other ,,
+54,Village Information,357,Secondary school available,744,"No, not in the vilaage or Hamlet"
+54,Village Information,357,Secondary school available,745,"Yes, in the village or Hamlet"
+54,Village Information,357,Secondary school available,2217,Don't Know
+54,Village Information,357,Secondary school available,2218,Not applicable
+54,Village Information,357,Secondary school available,2219,Others
+54,Village Information,358,Secondary school ID,,
+54,Village Information,359,Lowest class in secondary school,,
+54,Village Information,360,Highest class in secondary school,,
+54,Village Information,361,Category of secondary school,751,Government or Local Bodies
+54,Village Information,361,Category of secondary school,752,Private
+54,Village Information,361,Category of secondary school,1568,Private Unaided
+54,Village Information,361,Category of secondary school,2226,Don't Know
+54,Village Information,361,Category of secondary school,2227,Not applicable
+54,Village Information,361,Category of secondary school,2228,Others
+54,Village Information,362,Distance of the secondary school,,
+54,Village Information,363,Barriers for accessing secondary school,754,No barrier
+54,Village Information,363,Barriers for accessing secondary school,755,Near upper class hamlet
+54,Village Information,363,Barriers for accessing secondary school,756,Far off from the village
+54,Village Information,363,Barriers for accessing secondary school,757,On the main road
+54,Village Information,363,Barriers for accessing secondary school,758,Across the road or Traffic
+54,Village Information,363,Barriers for accessing secondary school,759,In or  near to market
+54,Village Information,363,Barriers for accessing secondary school,760,Across the forest or  hill
+54,Village Information,363,Barriers for accessing secondary school,761,Across the stream or river
+54,Village Information,363,Barriers for accessing secondary school,762,Near the graveyard
+54,Village Information,363,Barriers for accessing secondary school,763,Classes in open
+54,Village Information,363,Barriers for accessing secondary school,764,Across the Railway track
+54,Village Information,363,Barriers for accessing secondary school,765,Near Bar and Restaurant
+54,Village Information,363,Barriers for accessing secondary school,766,Near Religious Structure
+54,Village Information,363,Barriers for accessing secondary school,2229,Not applicable
+54,Village Information,363,Barriers for accessing secondary school,2230,Don't Know
+54,Village Information,363,Barriers for accessing secondary school,767,Others
+54,Village Information,364,if other,,
+54,Village Information,365,Higher Secondary school available,769,"No, not in the village or Hamlet"
+54,Village Information,365,Higher Secondary school available,770,"Yes, in the village or Hamlet"
+54,Village Information,365,Higher Secondary school available,2231,Don't Know
+54,Village Information,365,Higher Secondary school available,2233,Not applicable
+54,Village Information,365,Higher Secondary school available,2234,Others
+54,Village Information,366,Higher Secondary school ID,,
+54,Village Information,367,Lowest class in higher secondary school,,
+54,Village Information,368,Highest class in higher secondary school,,
+54,Village Information,369,Category of higher secondary school,,
+54,Village Information,370,Distance of the higher secondary school,,
+54,Village Information,371,Barriers for accessing higher secondary school,779,No barrier
+54,Village Information,371,Barriers for accessing higher secondary school,780,Near upper class hamlet
+54,Village Information,371,Barriers for accessing higher secondary school,781, Far off from the village
+54,Village Information,371,Barriers for accessing higher secondary school,782,On the main road
+54,Village Information,371,Barriers for accessing higher secondary school,783,Across the road  or Traffic
+54,Village Information,371,Barriers for accessing higher secondary school,784,In or near to market
+54,Village Information,371,Barriers for accessing higher secondary school,785,Across the forest or hill
+54,Village Information,371,Barriers for accessing higher secondary school,786,Across the stream or  river
+54,Village Information,371,Barriers for accessing higher secondary school,787,Near the graveyard
+54,Village Information,371,Barriers for accessing higher secondary school,788,Classes in open
+54,Village Information,371,Barriers for accessing higher secondary school,789, Across the Railway track
+54,Village Information,371,Barriers for accessing higher secondary school,790,Near Bar and Restaurant
+54,Village Information,371,Barriers for accessing higher secondary school,791,Near Religious Structure
+54,Village Information,371,Barriers for accessing higher secondary school,2245,Don't Know
+54,Village Information,371,Barriers for accessing higher secondary school,2246,Not applicable
+54,Village Information,371,Barriers for accessing higher secondary school,792,Others
+54,Village Information,372,If other,,
+54,Village Information,373,AWC available,794,"No, not in the village or Hamlet"
+54,Village Information,373,AWC available,795,"yes, in the village or Hamlet"
+54,Village Information,373,AWC available,2247,Don't Know
+54,Village Information,373,AWC available,2248,Not applicable
+54,Village Information,373,AWC available,2249,Others
+54,Village Information,374,Distance of the AWC from the village,,
+54,Village Information,375,Primary barriers for accessing AWC,797,for No barrier
+54,Village Information,375,Primary barriers for accessing AWC,798,Near upper class hamlet
+54,Village Information,375,Primary barriers for accessing AWC,799,Far off from some of the catchment villages
+54,Village Information,375,Primary barriers for accessing AWC,800,On the main road
+54,Village Information,375,Primary barriers for accessing AWC,801,Across the road or  traffic
+54,Village Information,375,Primary barriers for accessing AWC,802,In or near to market
+54,Village Information,375,Primary barriers for accessing AWC,803,Across the forest or  hill
+54,Village Information,375,Primary barriers for accessing AWC,804,Across the stream or river
+54,Village Information,375,Primary barriers for accessing AWC,805,Near the graveyard
+54,Village Information,375,Primary barriers for accessing AWC,806,AWC in open
+54,Village Information,375,Primary barriers for accessing AWC,807,Across the Railway track
+54,Village Information,375,Primary barriers for accessing AWC,808,Near Bar and Restaurant
+54,Village Information,375,Primary barriers for accessing AWC,809,Near Religious Structure
+54,Village Information,375,Primary barriers for accessing AWC,810,Others
+54,Village Information,375,Primary barriers for accessing AWC,2250,Don't Know
+54,Village Information,375,Primary barriers for accessing AWC,2251,Not applicable
+54,Village Information,376,Others,,
+54,Village Information,377,Need for additional AWC,812,No
+54,Village Information,377,Need for additional AWC,813,Yes
+54,Village Information,377,Need for additional AWC,2253,Don't Know
+54,Village Information,377,Need for additional AWC,2254,Not applicable
+54,Village Information,377,Need for additional AWC,2255,Others
+54,Village Information,378,SHC available,814,No
+54,Village Information,378,SHC available,815,Yes
+54,Village Information,378,SHC available,2256,Don't Know
+54,Village Information,378,SHC available,2257,Not applicable
+54,Village Information,378,SHC available,2258,Others
+54,Village Information,379,SHC ID,,
+54,Village Information,380,Distance of the SHC from the village,,
+54,Village Information,381,Primary barrier in accessing SHC,819,No barrier
+54,Village Information,381,Primary barrier in accessing SHC,820,Near upper class hamlet
+54,Village Information,381,Primary barrier in accessing SHC,821,Far off from some of the catchment villages
+54,Village Information,381,Primary barrier in accessing SHC,822,On the main road
+54,Village Information,381,Primary barrier in accessing SHC,823,Across the road or  traffic
+54,Village Information,381,Primary barrier in accessing SHC,824,In or near to market
+54,Village Information,381,Primary barrier in accessing SHC,825,Across the forest or hill
+54,Village Information,381,Primary barrier in accessing SHC,826,Across the stream or river
+54,Village Information,381,Primary barrier in accessing SHC,827,Near the graveyard
+54,Village Information,381,Primary barrier in accessing SHC,2259,Don't Know
+54,Village Information,381,Primary barrier in accessing SHC,828,Others
+54,Village Information,381,Primary barrier in accessing SHC,818,Not Applicable Write
+54,Village Information,382,If Other,,
+54,Village Information,383,PHC available,830,NO
+54,Village Information,383,PHC available,831,YES
+54,Village Information,383,PHC available,2260,Don't Know
+54,Village Information,383,PHC available,2261,Not applicable
+54,Village Information,383,PHC available,2262,Others
+54,Village Information,384,PHC ID,,
+54,Village Information,385,Distance of the PHC from the village,,
+54,Village Information,386,Primary barrier in accessing PHC,835,No barrier
+54,Village Information,386,Primary barrier in accessing PHC,836,Near upper class hamlet
+54,Village Information,386,Primary barrier in accessing PHC,837,Far off from some of the catchment villages
+54,Village Information,386,Primary barrier in accessing PHC,838,On the main road
+54,Village Information,386,Primary barrier in accessing PHC,839,Across the road or traffic
+54,Village Information,386,Primary barrier in accessing PHC,840,In or  near to market
+54,Village Information,386,Primary barrier in accessing PHC,841,Across the forest or hill
+54,Village Information,386,Primary barrier in accessing PHC,842,Across the stream or river
+54,Village Information,386,Primary barrier in accessing PHC,843,Near the graveyard
+54,Village Information,386,Primary barrier in accessing PHC,2263,Don't Know
+54,Village Information,386,Primary barrier in accessing PHC,844,Others
+54,Village Information,386,Primary barrier in accessing PHC,834,Not Applicable Write
+54,Village Information,387,If Other,,
+54,Village Information,388,CHC available,846,NO
+54,Village Information,388,CHC available,847,YES
+54,Village Information,388,CHC available,2264,Don't Know
+54,Village Information,388,CHC available,2265,Not applicable
+54,Village Information,388,CHC available,2266,Others
+54,Village Information,389,CHC ID,,
+54,Village Information,390,Distance of the CHC from the village,,
+54,Village Information,391,Primary barrier in accessing CHC,851,No barrier
+54,Village Information,391,Primary barrier in accessing CHC,852,Near upper class hamlet
+54,Village Information,391,Primary barrier in accessing CHC,853,Far off from some of the catchment villages
+54,Village Information,391,Primary barrier in accessing CHC,854,On the main road
+54,Village Information,391,Primary barrier in accessing CHC,855,Across the road or traffic
+54,Village Information,391,Primary barrier in accessing CHC,856,In or near to market
+54,Village Information,391,Primary barrier in accessing CHC,857,Across the forest or hill
+54,Village Information,391,Primary barrier in accessing CHC,858,Across the stream or river
+54,Village Information,391,Primary barrier in accessing CHC,859,Near the graveyard
+54,Village Information,391,Primary barrier in accessing CHC,2267,Don't Know
+54,Village Information,391,Primary barrier in accessing CHC,860,Others
+54,Village Information,391,Primary barrier in accessing CHC,850,Not Applicable Write
+54,Village Information,392,If other,,
+54,Village Information,393,ASHA available,862,NO
+54,Village Information,393,ASHA available,863,Yes
+54,Village Information,393,ASHA available,2268,Don't Know
+54,Village Information,393,ASHA available,2269,Not applicable
+54,Village Information,393,ASHA available,2270,Others
+54,Village Information,394,VHSNC existing,864,No
+54,Village Information,394,VHSNC existing,865,Yes
+54,Village Information,394,VHSNC existing,2271,Don't Know
+54,Village Information,394,VHSNC existing,2272,Not applicable
+54,Village Information,394,VHSNC existing,2273,Others
+54,Village Information,395,VHSNC operational,866,No
+54,Village Information,395,VHSNC operational,867,"Yes, irregular"
+54,Village Information,395,VHSNC operational,868,"Yes, regular"
+54,Village Information,396,VCPC existing,869,No
+54,Village Information,396,VCPC existing,870,Yes
+54,Village Information,396,VCPC existing,2274,Don't Know
+54,Village Information,396,VCPC existing,2275,Not applicable
+54,Village Information,396,VCPC existing,2276,Others
+54,Village Information,397,VCPC Operational,871,No
+54,Village Information,397,VCPC Operational,872,"Yes, irregular"
+54,Village Information,397,VCPC Operational,873,"Yes, regular"
+54,Village Information,397,VCPC Operational,1548,Not applicable
+54,Village Information,397,VCPC Operational,2277,Don't Know
+54,Village Information,397,VCPC Operational,2278,Others
+54,Village Information,398,Number of Self Help Groups/ CBOs,,
+54,Village Information,399,Number of Child Collective,,
+54,Village Information,400,Electricity,876,No
+54,Village Information,400,Electricity,877,Yes
+54,Village Information,400,Electricity,2279,Don't Know
+54,Village Information,400,Electricity,2280,Not applicable
+54,Village Information,400,Electricity,2281,Others
+54,Village Information,401,Road,878,No
+54,Village Information,401,Road,879,Yes
+54,Village Information,401,Road,2282,Dont Know
+54,Village Information,401,Road,2283,Not Applicable
+54,Village Information,401,Road,2287,Others
+54,Village Information,402,Public Transport,880,No
+54,Village Information,402,Public Transport,881,Yes
+54,Village Information,402,Public Transport,2284,Don't Know
+54,Village Information,402,Public Transport,2285,Not applicable
+54,Village Information,402,Public Transport,2286,Others
+54,Village Information,403,Water Supply,882,No
+54,Village Information,403,Water Supply,883,Yes
+54,Village Information,403,Water Supply,2288,Dont Know
+54,Village Information,403,Water Supply,2289,Not Applicable
+54,Village Information,403,Water Supply,2290,Others
+""
+Mortality
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+70,Mortality,608,Beneficiary Type,1660,Child
+70,Mortality,608,Beneficiary Type,1661,Mother
+70,Mortality,609,Child Id,,
+70,Mortality,610,Time of Death for Neo-Natal/Child Death,1663,0-7 days
+70,Mortality,610,Time of Death for Neo-Natal/Child Death,1664,7 days < 28 days
+70,Mortality,610,Time of Death for Neo-Natal/Child Death,1665,28 days < 1 year
+70,Mortality,610,Time of Death for Neo-Natal/Child Death,1666,1year < 5 years
+70,Mortality,610,Time of Death for Neo-Natal/Child Death,1667,Not Applicable
+70,Mortality,611,Mother Id,,
+70,Mortality,612,Time of death for maternal death,1669,During pregnancy
+70,Mortality,612,Time of death for maternal death,1670,During delivery
+70,Mortality,612,Time of death for maternal death,1671,After delivery within 42 days
+70,Mortality,612,Time of death for maternal death,1672,Not applicable
+70,Mortality,613,Place of Death,1673,At home
+70,Mortality,613,Place of Death,1674,In Hospital
+70,Mortality,613,Place of Death,1675,On the way to hospital
+70,Mortality,614,Whether death registered,1676,No
+70,Mortality,614,Whether death registered,1677,Yes
+70,Mortality,615,Date of Death,,
+70,Mortality,616,Reason for death - government record,,
+70,Mortality,617,Reason for death - household,,
+""
+Testing Form
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+69,Testing Form,604,Name,,
+69,Testing Form,619,drop down list,1691,qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxc
+69,Testing Form,620,radio,1692,qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxc
+""

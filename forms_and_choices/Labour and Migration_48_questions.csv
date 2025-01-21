@@ -1,0 +1,4 @@
+
+ , ,245,246,247,249,250,251,252,253,254,255,256,257,258,259,260
+ Partner , Beneficiary/Facilty ,Name of Father,Name of Mother,Date of birth of child,Enrollment status,HH Chores involvement,HH Chores involvement - Before going to school,HH Chores involvement - After coming from school,Economic activities involvement,Number of hours of involvement,Number of days of involvement,Sector of work,Specify the other sector of work,Bonded labour involvement,Child Migrated,Purpose of migration
+ , ,Text Input,Text Input,Date,Radio List,Select One Choice,Select One Choice,Select One Choice,Select One Choice,Select One Choice,Select One Choice,Select One Choice,Text Input,Select One Choice,Select One Choice,Select One Choice

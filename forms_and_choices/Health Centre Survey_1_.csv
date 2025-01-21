@@ -1,0 +1,70 @@
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+1,Health Centre Survey,192,Type of Health Centre - 101---(Health Centre Survey),234,Primary Health Centre
+1,Health Centre Survey,192,Type of Health Centre - 101---(Health Centre Survey),236,Urban Health Unit
+1,Health Centre Survey,192,Type of Health Centre - 101---(Health Centre Survey),236,Urban Health Unit,237,Health units in Tea Estates
+1,Health Centre Survey,192,Type of Health Centre - 101---(Health Centre Survey),236,Urban Health Unit,237,Health units in Tea Estates,235,Community Health Centre
+1,Health Centre Survey,192,Type of Health Centre - 101---(Health Centre Survey),236,Urban Health Unit,237,Health units in Tea Estates,235,Community Health Centre,233,Sub Health Centre
+1,Health Centre Survey,193,Specify the Urban Health Unit - 102---(Health Centre Survey),,
+1,Health Centre Survey,194,Incubator Available - 103---(Health Centre Survey),239,Yes
+1,Health Centre Survey,194,Incubator Available - 103---(Health Centre Survey),240,No
+1,Health Centre Survey,195,New Born Corner Centre available - 104---(Health Centre Survey),241,Yes
+1,Health Centre Survey,195,New Born Corner Centre available - 104---(Health Centre Survey),242,No
+1,Health Centre Survey,196,Sick Born Centre available - 105---(Health Centre Survey),243,Yes
+1,Health Centre Survey,196,Sick Born Centre available - 105---(Health Centre Survey),244,No
+1,Health Centre Survey,197,Functional NRC MTC available - 106---(Health Centre Survey),245,Yes
+1,Health Centre Survey,197,Functional NRC MTC available - 106---(Health Centre Survey),246,No
+1,Health Centre Survey,198,Medical Officer available - 107---(Health Centre Survey),247,Yes
+1,Health Centre Survey,198,Medical Officer available - 107---(Health Centre Survey),248,No
+1,Health Centre Survey,199,DataEntryOperator available - 108---(Health Centre Survey),307,Yes
+1,Health Centre Survey,199,DataEntryOperator available - 108---(Health Centre Survey),308,No
+1,Health Centre Survey,200,Pharmacist available - 109---(Health Centre Survey),251,Yes
+1,Health Centre Survey,200,Pharmacist available - 109---(Health Centre Survey),252,No
+1,Health Centre Survey,201,Staff Nurse available - 110---(Health Centre Survey),253,Yes
+1,Health Centre Survey,201,Staff Nurse available - 110---(Health Centre Survey),254,No
+1,Health Centre Survey,202,Ambulance Service available - 111---(Health Centre Survey),255,Yes
+1,Health Centre Survey,202,Ambulance Service available - 111---(Health Centre Survey),256,No
+1,Health Centre Survey,203,Blood Storage unit available - 112---(Health Centre Survey),257,Yes
+1,Health Centre Survey,203,Blood Storage unit available - 112---(Health Centre Survey),258,No
+1,Health Centre Survey,204,Laboratory available - 113---(Health Centre Survey),259,Yes
+1,Health Centre Survey,204,Laboratory available - 113---(Health Centre Survey),260,No
+1,Health Centre Survey,205,Gynaecologist available - 114---(Health Centre Survey),261,Yes
+1,Health Centre Survey,205,Gynaecologist available - 114---(Health Centre Survey),262,No
+1,Health Centre Survey,206,Paediatrician available - 115---(Health Centre Survey),309,Yes
+1,Health Centre Survey,206,Paediatrician available - 115---(Health Centre Survey),310,No
+1,Health Centre Survey,207,Anaesthetic available - 116---(Health Centre Survey),265,Yes
+1,Health Centre Survey,207,Anaesthetic available - 116---(Health Centre Survey),266,No
+1,Health Centre Survey,208,ANM available - 117---(Health Centre Survey),267,Yes
+1,Health Centre Survey,208,ANM available - 117---(Health Centre Survey),268,No
+1,Health Centre Survey,209,Female Health Worker available - 118---(Health Centre Survey),269,Yes
+1,Health Centre Survey,209,Female Health Worker available - 118---(Health Centre Survey),270,No
+1,Health Centre Survey,210,Building Own or Rented - 119---(Health Centre Survey),271,Own
+1,Health Centre Survey,210,Building Own or Rented - 119---(Health Centre Survey),272,Rented
+1,Health Centre Survey,211,Operating since - 120---(Health Centre Survey),,
+1,Health Centre Survey,216,Coverage Population - 124---(Health Centre Survey),,
+1,Health Centre Survey,217,Whether delivery conducted? - 125---(Health Centre Survey),280,Yes
+1,Health Centre Survey,217,Whether delivery conducted? - 125---(Health Centre Survey),281,No
+1,Health Centre Survey,218,Designated class for delivery and referal - 126---(Health Centre Survey),282,L1
+1,Health Centre Survey,218,Designated class for delivery and referal - 126---(Health Centre Survey),283,L2
+1,Health Centre Survey,218,Designated class for delivery and referal - 126---(Health Centre Survey),283,L2,284,L3
+1,Health Centre Survey,219,Whether list of medicines available at the centre is publicly displayed outside - 127---(Health Centre Survey),285,Yes
+1,Health Centre Survey,219,Whether list of medicines available at the centre is publicly displayed outside - 127---(Health Centre Survey),286,No
+1,Health Centre Survey,220,Examination table available - 128---(Health Centre Survey),287,Yes
+1,Health Centre Survey,220,Examination table available - 128---(Health Centre Survey),288,No
+1,Health Centre Survey,221,Screen/separate room/separate place for examination available - 129---(Health Centre Survey),311,Yes
+1,Health Centre Survey,221,Screen/separate room/separate place for examination available - 129---(Health Centre Survey),312,No
+1,Health Centre Survey,222,Delivery table - 130---(Health Centre Survey),291,Yes
+1,Health Centre Survey,222,Delivery table - 130---(Health Centre Survey),292,No
+1,Health Centre Survey,223,Weighing machine for children available - 131---(Health Centre Survey),293,Yes
+1,Health Centre Survey,223,Weighing machine for children available - 131---(Health Centre Survey),294,No
+1,Health Centre Survey,224,Weighing machine for adults available? - 132---(Health Centre Survey),295,Yes
+1,Health Centre Survey,224,Weighing machine for adults available? - 132---(Health Centre Survey),296,No
+1,Health Centre Survey,225,Container for waste disposal available? - 133---(Health Centre Survey),297,Yes
+1,Health Centre Survey,225,Container for waste disposal available? - 133---(Health Centre Survey),298,No
+1,Health Centre Survey,226,Sterilisation machine available for disinfecting equipments? - 134---(Health Centre Survey),299,Yes
+1,Health Centre Survey,226,Sterilisation machine available for disinfecting equipments? - 134---(Health Centre Survey),300,No
+1,Health Centre Survey,227,Urine testing facility available? - 135---(Health Centre Survey),301,Yes
+1,Health Centre Survey,227,Urine testing facility available? - 135---(Health Centre Survey),302,No
+1,Health Centre Survey,228,Functional BP testing apparatus available? - 136---(Health Centre Survey),303,Yes
+1,Health Centre Survey,228,Functional BP testing apparatus available? - 136---(Health Centre Survey),304,No
+1,Health Centre Survey,229,Vaccine storage facility available - 137---(Health Centre Survey),305,Yes
+1,Health Centre Survey,229,Vaccine storage facility available - 137---(Health Centre Survey),306,No

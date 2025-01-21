@@ -1,0 +1,358 @@
+{% extends "table-view.html" %}
+{% load temp_tags_survey %}  
+ {% block midpart %} 
+
+
+
+    
+    <!-- Main content -->
+    <section class="content">
+  
+      <div class="row">
+          <div class="col-md-10">
+          <div class="content-wrapper side-mobile-menu" style="min-height: 436px;">
+             <!--<ul class="nav nav-pills contact-tabs">
+    <li class="active"><a data-toggle="pill" href="#home">Home</a></li>
+    <li><a data-toggle="pill" href="#menu1">Menu 1</a></li>
+  </ul>-->
+  <!--<div class="tab-content">-->
+
+<h3> {{ msg }} </h3>
+
+{% get_usecase_description uid as stat_val %}
+
+{% if not stat_val == "Validated" %}
+    <div>
+   <form  action="/edit_validate_form/{{uid}}/" method="post" name="registration" class="form-horizontal form-back partner-form"> {% csrf_token %}
+
+       <h3>Partner Validation --- {{ usr_name }} 
+ <!--   <input type="submit" class="btn btn-info float-right"  value="Submit"  /></h3>  -->
+   <a href ="/edit_validate_form/{{ uid }}/" class="btn btn-info float-right"  style="border:0px;"> Edit </a></h3>
+       <div class="table-responsive ">          
+  <table class="table table-bordered ">
+    <thead>
+      <tr>
+        <th>Item</th>
+        <th>What's available Today</th>
+        <th>Possaibility for scaling up</th>
+        <th>Cost is an issue? Other Challenges?</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Training Centers</td>
+{%  get_validate_obj uid 5  as a1 %}
+        <td><input type="text" name="p1c1q1" value="{{a1}}" disabled></td>
+{%  get_validate_obj uid 6  as a2 %}
+        <td><input type="text" name="p1c2q2" value="{{a2}}" disabled></td>
+{%  get_validate_obj uid 7  as a3 %}
+        <td><input type="text" name="p1c3q3" value="{{a3}}" disabled></td>
+       </tr>
+       <tr>
+        <td>Core areas that they work on</td>
+{%  get_validate_obj uid 8  as a4 %}
+        <td><input type="text" name="p2c1q4" value="{{a4}}" disabled ></td>
+{%  get_validate_obj uid 9  as a5 %}
+        <td><input type="text" name="p2c2q5" value="{{a5}}" disabled ></td>
+{%  get_validate_obj uid 10  as a6 %}
+        <td><input type="text" name="p2c3q6" value="{{a6}}" disabled ></td>
+       </tr>
+       <tr>
+        <td>Source of funds</td>
+{%  get_validate_obj uid 11  as a7 %}
+        <td><input type="text" name="p3c1q7" value="{{a7}}" disabled ></td>
+{%  get_validate_obj uid 12  as a8 %}
+        <td><input type="text" name="p3c2q8" value="{{a8}}" disabled ></td>
+{%  get_validate_obj uid 13  as a9 %}
+        <td><input type="text" name="p3c3q9" value="{{a9}}" disabled ></td>
+       </tr>
+       <tr>
+        <td>Training halls with chairs</td>
+{%  get_validate_obj uid 14  as a10 %}
+        <td><input type="text" name="p4c1q10" value="{{a10}}" disabled ></td>
+{%  get_validate_obj uid 15  as a11 %}
+        <td><input type="text" name="p4c2q11" value="{{a11}}" disabled ></td>
+{%  get_validate_obj uid 16  as a12 %}
+        <td><input type="text" name="p4c3q12" value="{{a12}}" disabled ></td>
+       </tr>
+       
+    </tbody>
+  </table>
+  
+  <table class=" form-remove-table table_proper">
+              
+	
+      <tr>
+          <td class="col-lg-12">
+<div class="form-group">
+              <label class="col-lg-6">Fulltime Staff</label>
+          <div class="col-lg-6">
+{%  get_validate_obj uid 17  as a13 %}
+              <input type="text" name="q13" value="{{a13}}" disabled >
+              </div>
+	</div>
+          </td>
+          
+      </tr>  
+       <tr>
+          <td class="col-lg-12">
+<div class="form-group">
+              <label class="col-lg-6">PC labs with internet</label>
+          <div class="col-lg-6">
+{%  get_validate_obj uid 18  as a14 %}
+              <input type="text" name="q14" value="{{a14}}" disabled >
+              </div>
+</div>
+          </td>
+          </tr>
+<tr>
+          <td class="col-lg-12">
+<div class="form-group">
+              <label class="col-lg-6">LCD projector, boards, mirrors,sound system</label>
+          <div class="col-lg-6">
+{%  get_validate_obj uid 19  as a15 %}
+              <input type="text" name="q15" value="{{a15}}" disabled >
+              </div>
+ </div>
+          </td>
+      </tr>  
+       <tr>
+          <td class="col-lg-12">
+<div class="form-group">
+              <label class="col-lg-6">Student mobilization capabilities</label>
+          <div class="col-lg-6">
+{%  get_validate_obj uid 20  as a16 %}
+              <input type="text"  name="q16" value="{{a16}}" disabled >
+              </div>
+ </div>
+          </td>
+           </tr>
+<tr>
+          <td class="col-lg-12">
+<div class="form-group">
+              <label class="col-lg-6">What fee they want to change the trainees for such a joint program?</label>
+          <div class="col-lg-6">
+{%  get_validate_obj uid 21  as a17 %}
+              <input type="text" name="q17" value="{{a17}}"  disabled >
+              </div>
+ </div>
+          </td>
+      </tr>  
+       <tr>
+          <td class="col-lg-12">
+<div class="form-group">
+              <label class="col-lg-6">Parallel vocational courses needed</label>
+          <div class="col-lg-6">
+{%  get_validate_obj uid 22  as a18 %}
+              <input type="text" name="q18" value="{{a18}}" disabled >
+              </div>
+ </div>
+          </td>
+           </tr>
+<tr>
+          <td class="col-lg-12">
+<div class="form-group">
+              <label class="col-lg-6">Local branding/image of this institution</label>
+          <div class="col-lg-6">
+{%  get_validate_obj uid 23  as a19 %}
+              <input type="text" name="q19" value="{{a19}}" disabled >
+              </div>
+ </div>
+          </td>
+      </tr>  
+       <tr>
+          <td class="col-lg-12">
+<div class="form-group">
+              <label class="col-lg-6">Key contact person name and contacts</label>
+          <div class="col-lg-6">
+{%  get_validate_obj uid 24  as a20 %}
+              <input type="text" name="q20" value="{{a20}}" disabled >
+              </div>
+ </div>
+          </td>
+           </tr>
+<tr>
+          <td class="col-lg-12">
+<div class="form-group">
+              <label class="col-lg-6">Bussiness for them?</label>
+          <div class="col-lg-6">
+{%  get_validate_obj uid 25  as a21 %}
+              <input type="text" name="q21" value="{{a21}}" disabled >
+              </div>
+ </div>
+          </td>
+      </tr>  
+       <tr>
+          <td class="col-lg-12">
+<div class="form-group">
+              <label class="col-lg-6">Transportation</label>
+          <div class="col-lg-6">
+{%  get_validate_obj uid 26  as a22 %}
+              <input type="text" name="q22" value="{{a22}}" disabled >
+              </div>
+ </div>
+          </td>
+          
+          
+      </tr>  
+  </table>
+<input type="hidden" name="idss" value = {{uid}} disabled >
+
+  </div>
+     </form>
+    </div>
+  {% else %}  
+
+data added
+
+{% endif %}
+
+<form action="" method="post" class="form-horizontal form-back" > {% csrf_token %}
+
+<div>
+        <h3>Screening process of partner:</h3>
+        <table class="table  table-bordered">
+            <thead>
+                <tr>
+                    <th>S.No</th>
+                     <th>Criteria</th>
+                      <th>Questions</th>
+                       <th>Answers</th>
+                        <th>Score(0-10)</th>
+                </tr> 
+            </thead>
+            <tbody>
+                <tr>
+                    <td rowspan="2">1</td>
+                    <td rowspan="2">Knowledge of local community</td>
+                    <td> How well do you know the local socio -economic conditions? Can you define the social backwardness or other issues of this region?</td>
+{%  get_screening_obj uid 30  as a33 %}
+	
+                     <td><input type="text" name="q1q5a1" value="{{a33}}" disabled ></td>
+{%  get_screening_obj2 uid 30  as a332 %}
+                      <td><input type="text" name="q1q5a2" value="{{a332}}" disabled ></td>
+                    </tr>
+                    <tr>
+                    <td>Mobilizing students, drop-outs and needy persons from surrounding villages is one of the key ask in HHH program. Have you implemented or documented any such program? </td>
+{%  get_screening_obj uid 31 as a34 %}
+                     <td><input type="text" name="q1q6a1" value="{{a34}}" disabled ></td>
+                      <td></td>
+                </tr>
+                 <tr>
+                    <td rowspan="4">2</td>
+                    <td rowspan="4">Trustworthiness</td>
+                    <td>How many local employers can be tapped through your network? We desire to place more people in local jobs, self-employment, can you help in this endeavor?  How long has been your NGO/trust/institution in operation? How many branches or offices?</td>
+                     <td></td>
+{%  get_screening_obj2 uid 32  as a333 %}
+                      <td><input type="text" name="q2q7a2" value= "{{a333}}" disabled ></td>
+                    </tr>
+                    <tr>
+                    <td>What are your focus areas in the recent past? Have you captured few of the success stories?
+</td>
+	{%  get_screening_obj uid 33  as a35 %}
+                     <td><input type="text" name="q2q8a1" value="{{a35}}" disabled ></td>
+                      <td></td>
+                </tr>
+                <tr>
+                    <td>Please give some details of your core team and leaders </td>
+	{%  get_screening_obj uid 34  as a36 %}
+                     <td><input type="text" name="q2q9a1" value="{{a36}}" disabled ></td>
+                      <td></td>
+                </tr>
+                <tr>
+                    <td>If given an opportunity can you hire few of the trainees, once they finish 1000 hours of capability building? In any role, any salary of your approval</td>
+           {%  get_screening_obj uid 35  as a37 %}
+                     <td><input type="text" name="q2q10a1" value="{{a37}}" disabled ></td>
+                      <td></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>What do you want to accomplish in the next 3 years through your institution? This is with or without partnering with HHH. Who are your other potential/existing partners?</td>
+         {%  get_screening_obj uid 36  as a38 %}
+                     <td><input type="text" name="q2q11a1" value="{{a38}}" disabled ></td>
+                      <td></td>
+                </tr>
+                <tr>
+                    <td rowspan="2">3</td>
+                    <td rowspan="2">Acceptance of HHH 1000 hour program</td>
+                    <td>We believe in social transformation through appropriate education, capability building of 1000 hours, over 6-9 months. Would you want to work with us?</td>
+{%  get_screening_obj uid 37  as a39 %}
+                    <td><input type="text" name="q3q12a1" value="{{a39}}" disabled ></td>
+{%  get_screening_obj2 uid 37  as a40 %}
+                     <td rowspan="2"><input type="text" name="q3q12a2" value="{{a40}}" disabled ></td>
+                      
+                </tr>
+                <tr>
+                <td>Will it be possible to prepare your organization to roll out this HHH program independently?</td>
+{%  get_screening_obj uid 38  as a41 %}
+                    <td><input type="text" name="q3q13a1" value="{{a41}}" disabled ></td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td colspan="2">Operating on Not-for-profit model</td>
+                    <td></td>
+{%  get_screening_obj uid 39  as a42 %}
+                    <td><input type="text" name="q4a2" value="{{a42}}" disabled ></td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td colspan="2">Upload-documents</td>
+                    
+{%  get_screening_img uid 41  as a45 %}
+{% for i in a45 %}
+                    <td><input type="text" name="q4a2" value="{{ i.file_field }}" disabled ></td>
+{% endfor %}
+                </tr>
+
+            </tbody>
+
+        </table>
+<!--
+
+{%  get_screening_img uid 41  as a45 %}
+
+{% for i in a45 %}
+      
+<img>	{{ i.file_field }} </img>  
+
+
+{% endfor %}
+
+-->
+
+
+
+
+
+{%  get_screening_img uid 40  as a44 %}
+
+{% for i in a44 %}
+	{% if   i.file_field  %}     
+<img src="/{{ i.file_field }}" />
+   {% endif %}
+
+{% endfor %}
+
+
+
+  <!--      <div>
+        <img src="/static/images/student-boys.png" style="margin-bottom:10px;">
+        <br>
+        </div>
+        -->
+        <div class="clearfix">        
+      <div class="col-sm-offset-2 col-sm-10 nopadding">
+    </div>
+    </form>
+  </div>
+  </div>
+   
+        </div>
+    </section>
+    <!-- /.content -->
+      </div>
+ 
+
+
+  {% endblock %}

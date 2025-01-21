@@ -1,0 +1,99 @@
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+50,Child Education,304,Name of Father - 101---(Child Education),,
+50,Child Education,305,Name of Mother - 102---(Child Education),,
+50,Child Education,307,Date of birth - 104---(Child Education),,
+50,Child Education,308,Ever Enrolled - 105---(Child Education),586,Yes
+50,Child Education,308,Ever Enrolled - 105---(Child Education),587,No
+50,Child Education,309,"If enrolled, enrollment status - 106---(Child Education)",588,Drop out of school
+50,Child Education,309,"If enrolled, enrollment status - 106---(Child Education)",589,Enrolled going to school
+50,Child Education,311,School Id - 107---(Child Education),,
+50,Child Education,319,Type of School - 108---(Child Education),629,Government
+50,Child Education,319,Type of School - 108---(Child Education),630,Local Bodies
+50,Child Education,319,Type of School - 108---(Child Education),631,Private unaided
+50,Child Education,319,Type of School - 108---(Child Education),632,Private Aided
+50,Child Education,320,Free text books available - 109---(Child Education),633,Yes
+50,Child Education,320,Free text books available - 109---(Child Education),634,No
+50,Child Education,321,Free uniform available - 110---(Child Education),635,Yes
+50,Child Education,321,Free uniform available - 110---(Child Education),636,No
+50,Child Education,322,HH Chores involvement - 111---(Child Education),637,No Not at all
+50,Child Education,322,HH Chores involvement - 111---(Child Education),638,Yes Sometimes
+50,Child Education,322,HH Chores involvement - 111---(Child Education),639,Yes Works for the entire day
+50,Child Education,323,HH Chores involvement -Before school - 112---(Child Education),640,No Not at all
+50,Child Education,323,HH Chores involvement -Before school - 112---(Child Education),641,Yes Sometimes
+50,Child Education,323,HH Chores involvement -Before school - 112---(Child Education),642,Yes Most of the time
+50,Child Education,324,HH Chores involvement - After coming from school - 113---(Child Education),643,No Not at all
+50,Child Education,324,HH Chores involvement - After coming from school - 113---(Child Education),644,Yes Sometimes
+50,Child Education,324,HH Chores involvement - After coming from school - 113---(Child Education),645,Yes Most of the time
+50,Child Education,313,If dropout primary reason - 114---(Child Education),,
+50,Child Education,314,If dropout secondary reason - 115---(Child Education),,
+50,Child Education,315,"If dropout, tertiary reason - 116---(Child Education)",,
+50,Child Education,312,"If dropped out ,class of dropout - 117---(Child Education)",592,class 1
+50,Child Education,312,"If dropped out ,class of dropout - 117---(Child Education)",593,class 2
+50,Child Education,312,"If dropped out ,class of dropout - 117---(Child Education)",594,class 3
+50,Child Education,312,"If dropped out ,class of dropout - 117---(Child Education)",595,class 4
+50,Child Education,312,"If dropped out ,class of dropout - 117---(Child Education)",596,class 5
+50,Child Education,312,"If dropped out ,class of dropout - 117---(Child Education)",597,class 6
+50,Child Education,312,"If dropped out ,class of dropout - 117---(Child Education)",598,class 7
+50,Child Education,312,"If dropped out ,class of dropout - 117---(Child Education)",599,class 8
+50,Child Education,312,"If dropped out ,class of dropout - 117---(Child Education)",600,class 9
+50,Child Education,312,"If dropped out ,class of dropout - 117---(Child Education)",601,class 10
+50,Child Education,312,"If dropped out ,class of dropout - 117---(Child Education)",602,class 11
+50,Child Education,312,"If dropped out ,class of dropout - 117---(Child Education)",603,class 12
+50,Child Education,312,"If dropped out ,class of dropout - 117---(Child Education)",604,Graduation and above
+50,Child Education,316,"If never enrolled, primary  reason - 118---(Child Education)",608,Need to help in family
+50,Child Education,316,"If never enrolled, primary  reason - 118---(Child Education)",609,Child need to earn money
+50,Child Education,316,"If never enrolled, primary  reason - 118---(Child Education)",610,Child migrated to other place
+50,Child Education,316,"If never enrolled, primary  reason - 118---(Child Education)",611,Need to take care of siblings
+50,Child Education,316,"If never enrolled, primary  reason - 118---(Child Education)",612,Thinks Education not useful
+50,Child Education,316,"If never enrolled, primary  reason - 118---(Child Education)",613,Child not intrested
+50,Child Education,316,"If never enrolled, primary  reason - 118---(Child Education)",614,Disability
+50,Child Education,316,"If never enrolled, primary  reason - 118---(Child Education)",615,Marriage
+50,Child Education,316,"If never enrolled, primary  reason - 118---(Child Education)",616,Teaching in school not good
+50,Child Education,316,"If never enrolled, primary  reason - 118---(Child Education)",617,No facilities in school
+50,Child Education,316,"If never enrolled, primary  reason - 118---(Child Education)",618,School at a long distance
+50,Child Education,316,"If never enrolled, primary  reason - 118---(Child Education)",619,Unsafe travel to  school
+50,Child Education,316,"If never enrolled, primary  reason - 118---(Child Education)",620,No higher level schools
+50,Child Education,316,"If never enrolled, primary  reason - 118---(Child Education)",621,Mid Day Meal not available
+50,Child Education,316,"If never enrolled, primary  reason - 118---(Child Education)",622,Discrimination by teacher
+50,Child Education,316,"If never enrolled, primary  reason - 118---(Child Education)",623,Discrimination by others
+50,Child Education,316,"If never enrolled, primary  reason - 118---(Child Education)",624,Corporal punishment
+50,Child Education,316,"If never enrolled, primary  reason - 118---(Child Education)",625,Sexual harassment
+50,Child Education,317,"If never enrolled, secondary reason - 119---(Child Education)",627,Marriage
+50,Child Education,317,"If never enrolled, secondary reason - 119---(Child Education)",1576,Need to help family in work/ Household occupation
+50,Child Education,317,"If never enrolled, secondary reason - 119---(Child Education)",1577,Child need to work to earn money (labour work)
+50,Child Education,317,"If never enrolled, secondary reason - 119---(Child Education)",1578,Family/ child migrated to other place for work or any other
+50,Child Education,317,"If never enrolled, secondary reason - 119---(Child Education)",1579,Need to take care of siblings/ need to take care of domestic
+50,Child Education,317,"If never enrolled, secondary reason - 119---(Child Education)",1580,Parents perceive education as not useful
+50,Child Education,317,"If never enrolled, secondary reason - 119---(Child Education)",1581,Child not interested in education
+50,Child Education,317,"If never enrolled, secondary reason - 119---(Child Education)",1582,Disability
+50,Child Education,317,"If never enrolled, secondary reason - 119---(Child Education)",1583,Teaching in school not satisfactory
+50,Child Education,317,"If never enrolled, secondary reason - 119---(Child Education)",1584,Facilities in school are not adequate/ satisfactory
+50,Child Education,317,"If never enrolled, secondary reason - 119---(Child Education)",1585,School at a long distance/ Travel to school not convenient
+50,Child Education,317,"If never enrolled, secondary reason - 119---(Child Education)",1586,School unsafe/ travel to school unsafe
+50,Child Education,317,"If never enrolled, secondary reason - 119---(Child Education)",1587,Higher level schools are not available close to the village
+50,Child Education,317,"If never enrolled, secondary reason - 119---(Child Education)",1588,MDM not available or not available regularly/ Quality of MDM
+50,Child Education,317,"If never enrolled, secondary reason - 119---(Child Education)",1589,Discrimination by teacher/ Misbehaviour by teacher
+50,Child Education,317,"If never enrolled, secondary reason - 119---(Child Education)",1590,Discrimination by other children
+50,Child Education,317,"If never enrolled, secondary reason - 119---(Child Education)",1591,Corporal punishment
+50,Child Education,317,"If never enrolled, secondary reason - 119---(Child Education)",1592,Sexual harassment
+50,Child Education,317,"If never enrolled, secondary reason - 119---(Child Education)",1593,Not applicable
+50,Child Education,318,"If never enrolled, tertiary reason - 120---(Child Education)",628,Marriage
+50,Child Education,318,"If never enrolled, tertiary reason - 120---(Child Education)",1594,Need to help family in work/ Household occupation
+50,Child Education,318,"If never enrolled, tertiary reason - 120---(Child Education)",1595,Child need to work to earn money (labour work)
+50,Child Education,318,"If never enrolled, tertiary reason - 120---(Child Education)",1596,Family/ child migrated to other place for work or any other
+50,Child Education,318,"If never enrolled, tertiary reason - 120---(Child Education)",1597,Parents perceive education as not useful
+50,Child Education,318,"If never enrolled, tertiary reason - 120---(Child Education)",1598,Child not interested in education
+50,Child Education,318,"If never enrolled, tertiary reason - 120---(Child Education)",1599,Disability
+50,Child Education,318,"If never enrolled, tertiary reason - 120---(Child Education)",1600,Teaching in school not satisfactory
+50,Child Education,318,"If never enrolled, tertiary reason - 120---(Child Education)",1601,Facilities in school are not adequate/ satisfactory
+50,Child Education,318,"If never enrolled, tertiary reason - 120---(Child Education)",1602,School at a long distance/ Travel to school not convenient
+50,Child Education,318,"If never enrolled, tertiary reason - 120---(Child Education)",1603,School unsafe/ travel to school unsafe
+50,Child Education,318,"If never enrolled, tertiary reason - 120---(Child Education)",1604,Higher level schools are not available close to the village
+50,Child Education,318,"If never enrolled, tertiary reason - 120---(Child Education)",1605,MDM not available or not available regularly/ Quality of MDM
+50,Child Education,318,"If never enrolled, tertiary reason - 120---(Child Education)",1606,Discrimination by teacher/ Misbehaviour by teacher from high
+50,Child Education,318,"If never enrolled, tertiary reason - 120---(Child Education)",1607,Discrimination by other other children
+50,Child Education,318,"If never enrolled, tertiary reason - 120---(Child Education)",1608,Corporal punishment
+50,Child Education,318,"If never enrolled, tertiary reason - 120---(Child Education)",1609,Sexual harassment
+50,Child Education,318,"If never enrolled, tertiary reason - 120---(Child Education)",1610,Not applicable
+50,Child Education,318,"If never enrolled, tertiary reason - 120---(Child Education)",1650,Need to take care of siblings/ need to take care of domestic
+50,Child Education,334,Other information - 121---(Child Education),,

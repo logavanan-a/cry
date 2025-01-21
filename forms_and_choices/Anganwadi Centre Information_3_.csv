@@ -1,0 +1,54 @@
+Form Id,Form Name,Question Id,Question Text,Choice Id,Choice Text
+3,Anganwadi Centre Information,89,Type of Anganwadi - 101---(Anganwadi Centre Information),78,ICDS
+3,Anganwadi Centre Information,108,Year of Operation of AWC - 104---(Anganwadi Centre Information),,
+3,Anganwadi Centre Information,111,Population catered to by AWC - 105---(Anganwadi Centre Information),,
+3,Anganwadi Centre Information,113,Need for additional AWC - 106---(Anganwadi Centre Information),,
+3,Anganwadi Centre Information,114,Anganwadi worker AWW available - 107---(Anganwadi Centre Information),119,Yes
+3,Anganwadi Centre Information,114,Anganwadi worker AWW available - 107---(Anganwadi Centre Information),120,No
+3,Anganwadi Centre Information,115,Month and year of joining in the area for AWW - 108---(Anganwadi Centre Information),,
+3,Anganwadi Centre Information,116,Whether AWW is from the same Panchayat or Ward - 109---(Anganwadi Centre Information),121,Yes
+3,Anganwadi Centre Information,116,Whether AWW is from the same Panchayat or Ward - 109---(Anganwadi Centre Information),122,No
+3,Anganwadi Centre Information,117,Additional AWW cum Nutrition Counsellor available - 110---(Anganwadi Centre Information),123,Yes
+3,Anganwadi Centre Information,117,Additional AWW cum Nutrition Counsellor available - 110---(Anganwadi Centre Information),124,No
+3,Anganwadi Centre Information,118,AW Helper available - 111---(Anganwadi Centre Information),125,Yes
+3,Anganwadi Centre Information,118,AW Helper available - 111---(Anganwadi Centre Information),126,No
+3,Anganwadi Centre Information,119,Boys (0-3 Years) enrolled - 112---(Anganwadi Centre Information),,
+3,Anganwadi Centre Information,120,Girls (0-3 Years) enrolled - 113---(Anganwadi Centre Information),,
+3,Anganwadi Centre Information,121,Total Children (0-3 years) - 114---(Anganwadi Centre Information),,
+3,Anganwadi Centre Information,122,Boys (3-6 Years) enrolled - 115---(Anganwadi Centre Information),,
+3,Anganwadi Centre Information,123,Girls (3-6 Years) enrolled - 116---(Anganwadi Centre Information),,
+3,Anganwadi Centre Information,124,Total children (3-6 Years) enrolled - 117---(Anganwadi Centre Information),,
+3,Anganwadi Centre Information,125,Total adolescent girls (11-18 Years) enrolled - 118---(Anganwadi Centre Information),,
+3,Anganwadi Centre Information,126,Total number of pregnant women enrolled - 119---(Anganwadi Centre Information),,
+3,Anganwadi Centre Information,127,Total number of lactating mothers enrolled - 120---(Anganwadi Centre Information),,
+3,Anganwadi Centre Information,128,Own Building available - 121---(Anganwadi Centre Information),127,Yes
+3,Anganwadi Centre Information,128,Own Building available - 121---(Anganwadi Centre Information),128,No
+3,Anganwadi Centre Information,129,Type of building - 122---(Anganwadi Centre Information),129,Pucca
+3,Anganwadi Centre Information,129,Type of building - 122---(Anganwadi Centre Information),130,Semi Pucca
+3,Anganwadi Centre Information,129,Type of building - 122---(Anganwadi Centre Information),130,Semi Pucca,131,Kutchha
+3,Anganwadi Centre Information,130,Shade for cooking available - 123---(Anganwadi Centre Information),132,Yes
+3,Anganwadi Centre Information,130,Shade for cooking available - 123---(Anganwadi Centre Information),133,No
+3,Anganwadi Centre Information,131,Whether drinking water available - 124---(Anganwadi Centre Information),134,Yes
+3,Anganwadi Centre Information,131,Whether drinking water available - 124---(Anganwadi Centre Information),135,No
+3,Anganwadi Centre Information,132,Functional toilet available - 125---(Anganwadi Centre Information),136,Yes
+3,Anganwadi Centre Information,132,Functional toilet available - 125---(Anganwadi Centre Information),137,No
+3,Anganwadi Centre Information,133,Water available in toilets - 126---(Anganwadi Centre Information),138,Yes
+3,Anganwadi Centre Information,133,Water available in toilets - 126---(Anganwadi Centre Information),139,No
+3,Anganwadi Centre Information,134,Pre-school Education Kits/ material available - 127---(Anganwadi Centre Information),140,Yes
+3,Anganwadi Centre Information,134,Pre-school Education Kits/ material available - 127---(Anganwadi Centre Information),141,No
+3,Anganwadi Centre Information,135,Take Home Ration Available - 128---(Anganwadi Centre Information),142,Yes
+3,Anganwadi Centre Information,135,Take Home Ration Available - 128---(Anganwadi Centre Information),143,No
+3,Anganwadi Centre Information,136,Cooked Food Available - 129---(Anganwadi Centre Information),144,Yes
+3,Anganwadi Centre Information,136,Cooked Food Available - 129---(Anganwadi Centre Information),145,No
+3,Anganwadi Centre Information,137,Immunization service available - 130---(Anganwadi Centre Information),146,Yes
+3,Anganwadi Centre Information,137,Immunization service available - 130---(Anganwadi Centre Information),147,No
+3,Anganwadi Centre Information,138,Health check up service available - 131---(Anganwadi Centre Information),148,Yes
+3,Anganwadi Centre Information,138,Health check up service available - 131---(Anganwadi Centre Information),149,No
+3,Anganwadi Centre Information,139,Referral services available - 132---(Anganwadi Centre Information),150,Yes
+3,Anganwadi Centre Information,139,Referral services available - 132---(Anganwadi Centre Information),151,No
+3,Anganwadi Centre Information,140,Nutrition & Health education service available - 133---(Anganwadi Centre Information),152,Yes
+3,Anganwadi Centre Information,140,Nutrition & Health education service available - 133---(Anganwadi Centre Information),153,No
+3,Anganwadi Centre Information,141,Counselling Services - Adolescent Girls available - 134---(Anganwadi Centre Information),154,Yes
+3,Anganwadi Centre Information,141,Counselling Services - Adolescent Girls available - 134---(Anganwadi Centre Information),155,No
+3,Anganwadi Centre Information,596,Boys referred to referal - 135---(Anganwadi Centre Information),,
+3,Anganwadi Centre Information,597,Girls referred to referal - 136---(Anganwadi Centre Information),,

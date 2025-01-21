@@ -1,0 +1,38 @@
+
+Question,Question Id,Question Type,choice Id,Choice
+Current Class,327,Radio List,648,Class 1
+Current Class,327,Radio List,649,Class 2
+Current Class,327,Radio List,650,Class 3
+Current Class,327,Radio List,651,Class 4
+Current Class,327,Radio List,652,Class 5
+Current Class,327,Radio List,653,Class 6
+Current Class,327,Radio List,654,Class 7
+Current Class,327,Radio List,655,Class 8
+Current Class,327,Radio List,656,Class 9
+Current Class,327,Radio List,657,Class 10
+Current Class,327,Radio List,658,Class 11
+Current Class,327,Radio List,659,Class 12
+Current Class,327,Radio List,660,Graduation and above
+
+Regular or Irregular,328,Radio List,661,Regular
+Regular or Irregular,328,Radio List,662,Irregular
+
+Reason for not in school,329,Radio List,663,Need to help family in work
+Reason for not in school,329,Radio List,664,Child need to earn money
+Reason for not in school,329,Radio List,665,Child migrated to other place
+Reason for not in school,329,Radio List,666,Need to take care of siblings
+Reason for not in school,329,Radio List,667,Thinks Education not useful
+Reason for not in school,329,Radio List,668,Child not intrested
+Reason for not in school,329,Radio List,669,Disability
+Reason for not in school,329,Radio List,670,Marriage
+Reason for not in school,329,Radio List,671,Teaching in school not good
+Reason for not in school,329,Radio List,672,No facilities in school
+Reason for not in school,329,Radio List,673,School at a long distance
+Reason for not in school,329,Radio List,674,Unsafe travel to  school
+Reason for not in school,329,Radio List,675,No higher level schools
+Reason for not in school,329,Radio List,676,Mid Day Meal not available
+Reason for not in school,329,Radio List,677,Discrimination by teacher
+Reason for not in school,329,Radio List,678,Discrimination by others
+Reason for not in school,329,Radio List,679,Corporal punishment
+Reason for not in school,329,Radio List,680,Sexual harassment
+

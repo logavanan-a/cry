@@ -1,0 +1,50 @@
+,Unique Admin ID ,ವಿಶಿಷ್ಟ ನಿರ್ವಹಣಾ (ಆಡಳಿತ) ಗುರುತು ಐ.ಡಿ.
+,Village / Ward,ಗ್ರಾಮ/ ವಾರ್ಡ್
+,Hamlet/ Slum,ತಾಂಡಾ/ಸ್ಲಂ/ಕೆರಿ/ಥೋಟ
+,HH ID,ಹೆಚ್.ಹೆಚ್.ಐಡಿ 
+,Name of the Head of the HH,ಕುಟುಂಬದ ಮುಖ್ಯಸ್ಥರ ಹೆಸರು
+,Rural/ Urban,ಗ್ರಾಮೀಣ/ ನಗರ
+405,Type of Family,ಕುಟುಂಬದ ಮಾದರಿ
+,Age of the Head of the HH,ಕುಟುಂಬದ ಮುಖ್ಯಸ್ಥರ ವಯಸ್ಸು
+,Sex of the Head of the HH,ಕುಟುಂಬದ ಮುಖ್ಯಸ್ಥರ ಲಿಂಗ
+409,Highest class passed (Head of the HH),ಕುಟುಂಬದ ಮುಖ್ಯಸ್ಥರು - ತೇರ್ಗಡೆಯಾದ ಹೆಚ್ಚಿನ ತರಗತಿ
+410,Caste,ಜಾತಿ
+411,Do you have homestead land, ಗೃಹ ಸಂಕೀರ್ಣ ಜಮೀನು ಇದೆಯೇ 
+412,Type of house,ಮನೆಯ ಮಾದರಿ
+413,Religion,ಧರ್ಮ
+414,Type of Ration card,ಪಡಿತರ್ ಕಾರ್ಡ್ ಮಾದರಿ
+415,"If others, specify","ಇತರೆ ಇದ್ದಲ್ಲಿ, ಸ್ಪಷ್ಟಪಡಿಸಿ"
+416,Ration from PDS,ಪಿಡಿಎಸ್. ನಿಂದ ಪಡಿತರ
+417,MGNREGA JOB CARD,ಉದ್ಯೋಗ ಖಾತ್ರಿ ಜಾಬ್ ಕಾರ್ಡ್
+418,Number of working days last year,ಕಳೆದ ವರ್ಷದಲ್ಲಿ ಕೆಲಸ ಮಾಡಿದ ಒಟ್ಟು ದಿನಗಳು
+419,Amount of money received last year?,ಕಳೆದ ವರ್ಷದಲ್ಲಿ ಪಡೆದ ಒಟ್ಟು ಮೊತ್ತ
+420,Amount Received (MGNREGA),ಸ್ವೀಕರಿಸಿದ್ ಮೊತ್ತ (ಉದ್ಯೋಗ ಖಾತ್ರಿ)
+421,Total family members,ಒಟ್ಟು ಕುಟುಂಬ ಸದಸ್ಯರು
+422,Total family members 18 years or younger,18  ವರ್ಷ ಅಥವಾ ಕಡಿಮೆ  ಇರುವ ಒಟ್ಟು ಕುಟುಂಬದ ಸದಸ್ಯರು
+423,Primary occupation of the family,ಕುಟುಂಬದ ಪ್ರಾಥಿಮಿಕ ಉದ್ಯೋಗ
+424,"If others, specify","ಇತರೆ ಇದ್ದಲ್ಲಿ, ಸ್ಪಷ್ಟಪಡಿಸಿ"
+425,If landless,ಭೂರಹಿತರಾದಲ್ಲಿ
+426,Primary source of energy for cooking,ಅಡಿಗೆ ಮಾಡಲು ಬಳುಸುವ ಶಕ್ತಿಯ (ಇಂದನ) ಪ್ರಾಥಮಿಕ ಮೂಲ
+427,Is there a Casserole/ thermos/ thermoware?,ಧರ್ಮೋಸ್/ ಕಾಸೆರಾಲ್/ ಧರ್ಮೊವೇರ್ ಲಭ್ಯವಿದೆಯೇ?
+428,Is there a TV and VCR/ VCD/ DVD player?,ಟಿವಿ ಮತ್ತು ವಿಸಿಆರ್/ವಿಸಿಡಿ/ಡಿವಿಡಿ ಪ್ಯೇಯರ್ ಲಭ್ಯವಿದೆಯೇ?
+429,Is there a mobile handset and a telephone (landline)?,ಮೊಬೈಲ್ ಹಾಂಡ್ ಸೆಟ್ ಮತ್ತು ದೂರವಾಣಿ (ಸ್ಥಿರ ) ಲಭ್ಯವಿದೆಯೇ?
+430,Is there a sewing machine?,ಹೊಲಿಗೆ ಯಂತ್ರ ಲಭ್ಯವಿದೆಯೇ
+431,Is there an almeerah/ dressing table?,ಅಲಮಾರು/ಡ್ರೆಸಿಂಗ್ ಟೇಬಲ್ ಲಭ್ಯವಿದೆಯೇ?
+432,"Is there a bicycle, motorcycle/scooter, or motor car/jeep?","ಸೈಕಲ್, ಮೋಟಾರ್ ಸೈಕಲ್/ ಸ್ಕೂಟರ್,ಮೋಟಾರ್ ಕಾರ್/ ಜೀಪ್ ಲಭ್ಯ್ವವಿದೆಯೇ?"
+433,Whether the HH is headed by a single parent,ಒಬ್ಬರೇ ಪೋಷಕರ ಮುಖ್ಯಸ್ಥಿಕೆಯಲ್ಲಿ ಹೆಚ್ ಹೆಚ್ ಇದೆಯೇ
+434,Whether the HH is headed by grand parents,ಅಜ್ಜಿ ಅಜ್ಜರ ಮುಖ್ಯಸ್ಥಿಕೆಯಲ್ಲಿ ಹೆಚ್ ಹೆಚ್ ಇದೆಯೇ
+435,Whether headed by children(18 years and below),ಮಕ್ಕಳು (18 ವರ್ಷ ಮತ್ತು ಕಡಿಮೆ) ಯ ಮುಖ್ಯಸ್ಥಿಕೆಯಲ್ಲಿ ಇದೆಯೇ
+436,Whether both mother and father work to earn a livelihood,ತಾಯಿ ಮತ್ತು ತಂದೆ ಇಬ್ಬರು ಜೀವನೋಪಾಯಕ್ಕೆ ದುಡಿಯುತ್ತಿರುವರೇ
+437,Whether the primary bread-earner of the HH is terminally/seriously ill,ಹೆಚ್ ಹೆಚ್ ನ ಪ್ರಾಥಮಿಕ ಸಂಪಾದಿಸುವವರು ಮಾರಕವಾಗಿ/ಅನಾರೋಗ್ಯರೇ
+438,Residential Status,ವಸತಿ ಸ್ಥಿತಿ
+439,Month of in migration or out migration,ವಲಸೆ ಯಿಂದ ಅಥವಾ ವಲಸೆಯ ಹೊರಗಿನ ತಿಂಗಳು
+440,Whether HH migrates every year,ಹೆಚ್ ಹೆಚ್ ಪ್ರತಿ ವರ್ಷವೂ ವಲಸೆ ಹೋಗುವುದೇ
+441,Duration of migration,ವಲಸೆಯ ಅವಧಿ
+442,Whether one adult member of the HH has permanently migrated,ಹೆಚ್ ಹೆಚ್ ನ ಒಬ್ಬ ಕುಟುಂಬ ಸದಸ್ಯರು ಶಾಶ್ವತಾವಾಗಿ ವಲಸೆ ಹೋಗಿರುವರೇ
+443,Source of drinking water,ಕುಡಿಯುವ ನೀರಿನ ಮೂಲ
+444,"If others, specify","ಇತರೆ ಇದ್ದಲ್ಲಿ, ಸ್ಪಷ್ಟಪಡಿಸಿ"
+445,Access to toilet,ಶೌಚಾಲಯಕ್ಕೆ ಪ್ರವೇಶ
+446,"If others, specify","ಇತರೆ ಇದ್ದಲ್ಲಿ, ಸ್ಪಷ್ಟಪಡಿಸಿ"
+447,Is any child missing?,ಯಾವುದಾದರೂ ಮಗು ಕಾಣೆಯಾಗಿದೆಯೇ
+448,"If yes, how many boys",ಹೌದಾದಲ್ಲಿ ಎಷ್ಟು ಗಂಡು ಮಕ್ಕಳು
+449,"If yes, how many girls",ಹೌದಾದಲ್ಲಿ ಎಷ್ಟು ಹೆಣ್ಣು ಮಕ್ಕಳು

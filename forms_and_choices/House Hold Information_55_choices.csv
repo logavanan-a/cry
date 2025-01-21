@@ -1,0 +1,173 @@
+
+Question,Question Id,Question Type,choice Id,Choice
+Type of Family,405,Radio List,885,Joint family 
+Type of Family,405,Radio List,886,Nuclear  family
+
+Highest class passed (Head of the HH),409,Select One Choice,891,Illiterate
+Highest class passed (Head of the HH),409,Select One Choice,892,class1
+Highest class passed (Head of the HH),409,Select One Choice,893,class2
+Highest class passed (Head of the HH),409,Select One Choice,894,class3
+Highest class passed (Head of the HH),409,Select One Choice,895,class4
+Highest class passed (Head of the HH),409,Select One Choice,896,class5
+Highest class passed (Head of the HH),409,Select One Choice,897,class6
+Highest class passed (Head of the HH),409,Select One Choice,898,class7
+Highest class passed (Head of the HH),409,Select One Choice,899,class8
+Highest class passed (Head of the HH),409,Select One Choice,900,class9
+Highest class passed (Head of the HH),409,Select One Choice,901,class10
+Highest class passed (Head of the HH),409,Select One Choice,902,class11
+Highest class passed (Head of the HH),409,Select One Choice,903,class12
+Highest class passed (Head of the HH),409,Select One Choice,904,Graduation
+Highest class passed (Head of the HH),409,Select One Choice,905,Post Graduation
+Highest class passed (Head of the HH),409,Select One Choice,906,Technical or Professional Education
+
+Caste,410,Select One Choice,907,SC
+Caste,410,Select One Choice,908,ST
+Caste,410,Select One Choice,909,"OBC,BC"
+Caste,410,Select One Choice,910,"General,Others"
+
+Do you have homestead land,411,Select One Choice,911,"Yes, but no legal/ official/ formal document "
+Do you have homestead land,411,Select One Choice,912,"Yes, but have legal/ official/ formal document"
+
+Type of house,412,Select One Choice,913,Pucca 
+Type of house,412,Select One Choice,914,Semi Pucca
+Type of house,412,Select One Choice,915,Kutcha
+
+Religion,413,Select One Choice,916,Hindu
+Religion,413,Select One Choice,917,Muslim
+Religion,413,Select One Choice,918,Christian
+Religion,413,Select One Choice,919,Sikh
+Religion,413,Select One Choice,920,Buddhist
+Religion,413,Select One Choice,921,Jain
+Religion,413,Select One Choice,922,Others
+Religion,413,Select One Choice,923,Dont know
+
+Type of Ration card,414,Select One Choice,924,Above Poverty Line
+Type of Ration card,414,Select One Choice,925,Below Poverty Line
+Type of Ration card,414,Select One Choice,926,Others
+
+Ration from PDS,416,Select One Choice,928,Not at all in last one year
+Ration from PDS,416,Select One Choice,929,Received all the 12 months and correct amount
+Ration from PDS,416,Select One Choice,930, Received all the 12 months but amount was not correct
+Ration from PDS,416,Select One Choice,931, Received less than 12 months but amount was correct 
+Ration from PDS,416,Select One Choice,932,"Received less than 12 months, also lesser amount"
+
+MGNREGA JOB CARD,417,Select One Choice,933,"No, never issued"
+MGNREGA JOB CARD,417,Select One Choice,934,Issued and with me
+MGNREGA JOB CARD,417,Select One Choice,935,Issued not with me
+
+Primary occupation of the family,423,Select One Choice,941, Agricultural labour 
+Primary occupation of the family,423,Select One Choice,942,Casual labour and other labour work
+Primary occupation of the family,423,Select One Choice,943,"Agriculture, dairy, fishery and other allied work"
+Primary occupation of the family,423,Select One Choice,944,Self employed or business or  vending or trading
+Primary occupation of the family,423,Select One Choice,945,Salaried 
+Primary occupation of the family,423,Select One Choice,946, Artisan
+Primary occupation of the family,423,Select One Choice,947,Domestic work 
+Primary occupation of the family,423,Select One Choice,948,Salt Pan Working 
+Primary occupation of the family,423,Select One Choice,949,Non Timber Forest Produce
+Primary occupation of the family,423,Select One Choice,950,Rag Picking
+Primary occupation of the family,423,Select One Choice,951,Others
+
+If Landless,425,Radio List,953,No
+If Landless,425,Radio List,954,Yes
+
+Primary source of energy for cooking,426,Select One Choice,955,"Firewood and chips, dung cake, kerosene, charcoal, coke or c"
+Primary source of energy for cooking,426,Select One Choice,956,LPG or electricity
+Primary source of energy for cooking,426,Select One Choice,957,No cooking arrangement
+
+Is there a Casserole/ thermos/ thermoware?,427,Radio List,958,No
+Is there a Casserole/ thermos/ thermoware?,427,Radio List,959,Yes
+
+Is there a TV and VCR/ VCD/ DVD player?,428,Select One Choice,960,"No, neither"
+Is there a TV and VCR/ VCD/ DVD player?,428,Select One Choice,961,"Yes, only one"
+Is there a TV and VCR/ VCD/ DVD player?,428,Select One Choice,962,"yes , both"
+
+Is there a mobile handset and a telephone (landline)?,429,Select One Choice,963,"No, neither"
+Is there a mobile handset and a telephone (landline)?,429,Select One Choice,964,"Yes, only a mobile"
+Is there a mobile handset and a telephone (landline)?,429,Select One Choice,965,"yes, a landline regardless of moblie"
+
+Is there a sewing machine?,430,Radio List,966,No
+Is there a sewing machine?,430,Radio List,967,Yes
+
+Is there an almeerah  or dressing table?,431,Radio List,968,No
+Is there an almeerah  or dressing table?,431,Radio List,969,Yes
+
+"Is there a bicycle, motorcycle/scooter, or motor car/jeep?",432,Select One Choice,970,None
+"Is there a bicycle, motorcycle/scooter, or motor car/jeep?",432,Select One Choice,971,"Yes, bicycle only, no motorcycle or scooter, or car"
+"Is there a bicycle, motorcycle/scooter, or motor car/jeep?",432,Select One Choice,972," Motorcycle or scooter, but no car "
+"Is there a bicycle, motorcycle/scooter, or motor car/jeep?",432,Select One Choice,973,Motor car or jeep 
+
+Whether the HH is headed by a single parent,433,Select One Choice,974,No
+Whether the HH is headed by a single parent,433,Select One Choice,975,Yes
+Whether the HH is headed by a single parent,433,Select One Choice,976,Not Applicable
+
+Whether the HH is headed by grand parents,434,Select One Choice,977,No
+Whether the HH is headed by grand parents,434,Select One Choice,978,Yes
+Whether the HH is headed by grand parents,434,Select One Choice,979,Not Applicable
+
+Whether headed by children (18 years and below),435,Select One Choice,980,No
+Whether headed by children (18 years and below),435,Select One Choice,981,Yes
+Whether headed by children (18 years and below),435,Select One Choice,982,Not Applicable
+
+Whether both mother and father work to earn a livelihood,436,Select One Choice,983,No
+Whether both mother and father work to earn a livelihood,436,Select One Choice,984,Yes
+Whether both mother and father work to earn a livelihood,436,Select One Choice,985,Not Applicable
+
+Whether the primary bread-earner of the HH is terminally/ se,437,Select One Choice,986,No
+Whether the primary bread-earner of the HH is terminally/ se,437,Select One Choice,987,Yes
+Whether the primary bread-earner of the HH is terminally/ se,437,Select One Choice,988,Not Applicable
+
+Residential Status,438,Select One Choice,989,From this village only and stays in the village 
+Residential Status,438,Select One Choice,990,From other village and shifted this location
+Residential Status,438,Select One Choice,991,Migrated out of the village to another place
+Residential Status,438,Select One Choice,992,Migrated permanently out of the village to another place
+
+Month of in migration or out migration,439,Select One Choice,993,January
+Month of in migration or out migration,439,Select One Choice,994,February
+Month of in migration or out migration,439,Select One Choice,995,March
+Month of in migration or out migration,439,Select One Choice,996,April
+Month of in migration or out migration,439,Select One Choice,997,May
+Month of in migration or out migration,439,Select One Choice,998,June
+Month of in migration or out migration,439,Select One Choice,999,July
+Month of in migration or out migration,439,Select One Choice,1000,August
+Month of in migration or out migration,439,Select One Choice,1001,September
+Month of in migration or out migration,439,Select One Choice,1002,October
+Month of in migration or out migration,439,Select One Choice,1003,November
+Month of in migration or out migration,439,Select One Choice,1004,December
+Month of in migration or out migration,439,Select One Choice,1006,Dont know
+Month of in migration or out migration,439,Select One Choice,1005,Not Applicable
+
+Whether HH migrates every year,440,Radio List,1007,No
+Whether HH migrates every year,440,Radio List,1008,Yes
+
+Duration of migration,441,Select One Choice,1009,Below  3 months
+Duration of migration,441,Select One Choice,1010,3 to 6 months
+Duration of migration,441,Select One Choice,1011,Above 6 months
+
+Whether one adult member of the HH has permanently migrated,442,Select One Choice,1012,No
+Whether one adult member of the HH has permanently migrated,442,Select One Choice,1013,Yes
+Whether one adult member of the HH has permanently migrated,442,Select One Choice,1014,Not Applicable
+
+Source of drinking water,443,Select One Choice,1015,Open well 
+Source of drinking water,443,Select One Choice,1016,Tube well
+Source of drinking water,443,Select One Choice,1017,Hand pump 
+Source of drinking water,443,Select One Choice,1018,Tap Water
+Source of drinking water,443,Select One Choice,1019,River 
+Source of drinking water,443,Select One Choice,1020,Stream 
+Source of drinking water,443,Select One Choice,1021,Rainwater
+Source of drinking water,443,Select One Choice,1022,Tanker
+Source of drinking water,443,Select One Choice,1023,Bottled Water 
+Source of drinking water,443,Select One Choice,1024,Others
+
+Access to toilet,445,Select One Choice,1026,Open defecation 
+Access to toilet,445,Select One Choice,1027,Bucket
+Access to toilet,445,Select One Choice,1028,Flush or pour flush to Open Drain
+Access to toilet,445,Select One Choice,1029,Flush or pour flush to closed drain
+Access to toilet,445,Select One Choice,1030,Flush or Pour Flush to septic tank
+Access to toilet,445,Select One Choice,1031,Community toilet or Sulabah Souchalaya
+Access to toilet,445,Select One Choice,1032,Sharing toilet 
+Access to toilet,445,Select One Choice,1033,Eco toilet or Bio Toilet
+Access to toilet,445,Select One Choice,1034,Others
+
+Is any child missing?,447,Radio List,1036,No
+Is any child missing?,447,Radio List,1037,Yes
+

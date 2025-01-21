@@ -1,0 +1,64 @@
+
+Question,Question Id,Question Type,choice Id,Choice
+Ever Enrolled,308,Radio List,586,Yes
+Ever Enrolled,308,Radio List,587,No
+
+"If enrolled, enrollment status",309,Radio List,588,Drop out of school
+"If enrolled, enrollment status",309,Radio List,589,Enrolled going to school
+
+Type of School,319,Radio List,629,Government
+Type of School,319,Radio List,630,Local Bodies
+Type of School,319,Radio List,631,Private unaided
+Type of School,319,Radio List,632,Private Aided
+
+Free text books available,320,Radio List,633,Yes
+Free text books available,320,Radio List,634,No
+
+Free uniform available,321,Radio List,635,Yes
+Free uniform available,321,Radio List,636,No
+
+HH Chores involvement,322,Radio List,637,No Not at all
+HH Chores involvement,322,Radio List,638,Yes Sometimes
+HH Chores involvement,322,Radio List,639,Yes Works for the entire day
+
+HH Chores involvement -Before school,323,Radio List,640,No Not at all
+HH Chores involvement -Before school,323,Radio List,641,Yes Sometimes
+HH Chores involvement -Before school,323,Radio List,642,Yes Most of the time
+
+HH Chores involvement - After coming from school,324,Radio List,643,No Not at all
+HH Chores involvement - After coming from school,324,Radio List,644,Yes Sometimes
+HH Chores involvement - After coming from school,324,Radio List,645,Yes Most of the time
+
+"If dropped out ,class of dropout",312,Radio List,592,class 1
+"If dropped out ,class of dropout",312,Radio List,593,class 2
+"If dropped out ,class of dropout",312,Radio List,594,class 3
+"If dropped out ,class of dropout",312,Radio List,595,class 4
+"If dropped out ,class of dropout",312,Radio List,596,class 5
+"If dropped out ,class of dropout",312,Radio List,597,class 6
+"If dropped out ,class of dropout",312,Radio List,598,class 7
+"If dropped out ,class of dropout",312,Radio List,599,class 8
+"If dropped out ,class of dropout",312,Radio List,600,class 9
+"If dropped out ,class of dropout",312,Radio List,601,class 10
+"If dropped out ,class of dropout",312,Radio List,602,class 11
+"If dropped out ,class of dropout",312,Radio List,603,class 12
+"If dropped out ,class of dropout",312,Radio List,604,Graduation and above
+
+"If never enrolled, primary  reason",316,Radio List,608,Need to help in family
+"If never enrolled, primary  reason",316,Radio List,609,Child need to earn money
+"If never enrolled, primary  reason",316,Radio List,610,Child migrated to other place
+"If never enrolled, primary  reason",316,Radio List,611,Need to take care of siblings
+"If never enrolled, primary  reason",316,Radio List,612,Thinks Education not useful
+"If never enrolled, primary  reason",316,Radio List,613,Child not intrested
+"If never enrolled, primary  reason",316,Radio List,614,Disability
+"If never enrolled, primary  reason",316,Radio List,615,Marriage
+"If never enrolled, primary  reason",316,Radio List,616,Teaching in school not good
+"If never enrolled, primary  reason",316,Radio List,617,No facilities in school
+"If never enrolled, primary  reason",316,Radio List,618,School at a long distance
+"If never enrolled, primary  reason",316,Radio List,619,Unsafe travel to  school
+"If never enrolled, primary  reason",316,Radio List,620,No higher level schools
+"If never enrolled, primary  reason",316,Radio List,621,Mid Day Meal not available
+"If never enrolled, primary  reason",316,Radio List,622,Discrimination by teacher
+"If never enrolled, primary  reason",316,Radio List,623,Discrimination by others
+"If never enrolled, primary  reason",316,Radio List,624,Corporal punishment
+"If never enrolled, primary  reason",316,Radio List,625,Sexual harassment
+

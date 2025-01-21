@@ -1,0 +1,49 @@
+location_id,id,Cluster,Time,Season,Year,Farmer  Type,Project Area in Acres for Paddy,Project Area in Guntas for Paddy,Farmer identified as Applicable for Cost of Cultivation data 
+566,81857,Kothdoddi | 9 | Chandappa  | AE20AC,2017-08-11,Rabi,2016,NPM,2,0,Yes
+567,81858,Kothdoddi | 10 | Mareppa  | AE20AD,2017-08-11,Rabi,2016,NPM,2,0,No
+568,65254,Miyyapura | 27 | Sugurappa | ,2017-02-06,Kharif,2016,Influenced,1,0,No
+569,64473,Miyyapura | 30 | Paravathareddeppa | ,2017-02-06,Kharif,2016,Influenced,1,0,No
+570,61599,Halekalgudi | 38 | Indrappa | ,2017-01-20,Kharif,2016,Influenced,2,9,No
+571,61601,Arunodaya Camp - 2 | 71 | Motiram | ,2017-02-10,Kharif,2016,Tail End,4,0,No
+572,81859,Kothdoddi | 13 | Basavaraj  | AG03A,2017-08-11,Rabi,2016,NPM,2,0,Yes
+573,61603,Dundagi Camp | 14 | Hanumantha | AK06A,2016-12-31,Kharif,2016,Water Management,1,0,No
+574,61606,Ramadurg | 63 | Piranayak  | ,2017-02-06,Kharif,2016,Influenced,2,0,No
+575,61607,Halasamudra  | 94 | Pakirappa | ,2017-02-10,Kharif,2016,Tail End,2,27,No
+576,81887,Piligunda | 1 | Hanumanthraya  | AB04A,2017-08-11,Rabi,2016,NPM,1,0,No
+577,81861,Kothdoddi | 14 | Bheemanna  | AG03AA,2017-08-11,Rabi,2016,NPM,2,0,No
+578,81860,Kothdoddi | 15 | Bheemayya | AG05A,2017-08-11,Rabi,2016,NPM,2,0,No
+579,61609,Eliganooru | 89 | Gangamma | ,2017-02-11,Kharif,2016,Tail End,0,39,No
+580,61622,Achar Narasapura  | 48 | Somappa | AF11A,2017-01-03,Kharif,2016,Water Management,0,31,No
+581,61598,Achar Narasapura  | 34 | Parasappa | AU05A,2017-01-03,Kharif,2016,Water Management,1,0,No
+582,61611,Kunnatigi  | 50 | Maibusab | ,2017-01-30,Kharif,2016,Influenced,2,0,No
+583,61612,Devaragudi | 37 | Ravigouda | AD06A,2017-01-16,Kharif,2016,Conventional Farmer,2,0,Yes
+584,61613,Somalapur  | 29 | Pampapati | AA20,2017-01-24,Kharif,2016,Water Management,4,36,No
+585,61614,Gowdana bhavi | 42 | Sharanappa | ,2017-01-29,Kharif,2016,Influenced,1,7,No
+586,61615,Masarkal | 58 | Veerupanna | ,2017-02-06,Kharif,2016,Influenced,4,0,No
+587,61616,Dundagi Camp | 3 | Hanumanta | AJ01A,2016-12-31,Kharif,2016,Water Management,1,20,No
+588,61617,Jai Kisancamp  | 22 | Ravi | ,2017-01-29,Kharif,2016,Influenced,1,13,No
+589,61618,Buddinni | 45 | Ayyanna | ,2017-02-02,Kharif,2016,Conventional Farmer,2,0,Yes
+590,61619,Mavinamadu | 113 | Shamid Patil  | ,2017-02-10,Kharif,2016,Tail End,2,23,No
+591,61620,Amarapur  | 53 | Siddalingappa | ,2017-01-29,Kharif,2016,Influenced,3,25,No
+592,61621,Halasamudra  | 9 | Bheemappa  | AF13A,2016-12-31,Kharif,2016,Water Management,1,20,No
+593,61623,Bevinahal | 29 | Sharnegouda | AI06A,2017-01-03,Kharif,2016,Water Management,16,0,No
+594,61625,Hatti  | 46 | Tirumalareddy | ,2017-01-29,Kharif,2016,Influenced,7,15,No
+595,61626,Tippnatti  | 40 | Nabisab | ,2017-01-30,Kharif,2016,Influenced,2,30,No
+596,61627,Hosa Juratagi | 32 | Timmappa  | AC13A,2017-01-18,Kharif,2016,Water Management,3,34,No
+597,62626,Achar Narasapura  | 10 | Channabasavanagouda | AU07A,2017-01-03,Kharif,2016,Water Management,8,0,No
+598,61698,Jambunathanhalli | 30 | Sharanayya | AA13A,2017-01-18,Kharif,2016,Water Management,3,38,No
+599,61699,K Basapura | 33 | Sharanabasava | 0000,2017-01-03,Kharif,2016,NPM,1,0,Yes
+600,61700,Tondihal | 35 | Yankoba | ,2016-12-30,Kharif,2016,Conventional Farmer,1,0,Yes
+601,62901,Achar Narasapura  | 51 | Tippanna | AR01A,2017-01-03,Kharif,2016,Water Management,3,38,Yes
+602,61701,Hiredanakanakal | 52 | Sharanappa  | ,2017-01-20,Kharif,2016,Influenced,2,5,No
+603,61702,Hanchinal  | 27 | Yanakappa | AH05A,2017-01-16,Kharif,2016,Water Management,1,23,No
+604,62363,Achar Narasapura  | 40 | Sanna Erappa | AH12A,2017-01-03,Kharif,2016,Water Management,1,0,No
+605,62384,Achar Narasapura  | 7 | Basavaraj | AS21A,2017-01-03,Kharif,2016,Water Management,0,29,No
+606,61703,Jambunathanhalli | 2 | Amarappa | AB15A,2017-01-18,Kharif,2016,Water Management,8,37,No
+607,61704,B R Gunda | 41 | Gurappa  | ,2017-02-06,Kharif,2016,Influenced,2,0,No
+608,61705,Mavinamadu | 82 | Gangappa | ,2017-02-10,Kharif,2016,Tail End,8,26,No
+609,62587,Achar Narasapura  | 31 | Nagesh | Gundur,2017-01-03,Kharif,2016,Water Management,1,28,No
+610,62810,Achar Narasapura  | 56 | Viranagouda | AW09A,2017-01-03,Kharif,2016,Water Management,1,21,No
+611,61707,Halasamudra  | 68 | Mudukappa | ,2017-01-19,Kharif,2016,Influenced,3,16,No
+612,62505,Amarapur  | 8 | Nagappa | AY13,2017-01-12,Kharif,2016,Water Management,5,0,No
+613,62224,Amarapur  | 13 | Yamanappa  | AK09,2017-01-12,Kharif,2016,Water Management,2,6,No

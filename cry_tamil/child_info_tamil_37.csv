@@ -1,0 +1,37 @@
+,Unique Admin ID,தனித்தன்மையான அடையாள எண்
+,Village / Ward,கிராமம்/வார்டு
+,Hamlet/ Para/Mohalla,குக்கிராமம்
+,Child ID,குழந்தையின் அடையாள எண்
+,Name of child,குழந்தையின் பெயர் 
+,Name of head of household,வீட்டு தலைவர்/தலைவியின் பெயர் 
+155,Name of the father,தந்தையின் பெயர் 
+156,Age of father,தந்தையின் வயது
+157,Highest class passed - Father,தந்தை படித்த வகுப்பு
+158,Occupation of the father,தந்தையின் தொழில் 
+159,Name of mother,தாயின் பெயர்
+160,Age of Mother,தாயின் வயது
+161,Highest class passed - Mother,தாய் படித்த வகுப்பு
+162,Occupation of the mother,தாயின் தொழில் 
+163,Orphaned/ Single parent,பெற்றோரை இழந்தவர் / ஒற்றைப் பெற்றோர் 
+164,Name of guardian,பாதுகாவலரின் பெயர் 
+165,Caste of child,குழந்தையின் சாதி
+166,Religion of child,குழந்தையின் மதம்
+,Sex of the child,குழந்தையின் பாலினம்
+168,Birth registration of child done,குழந்தையின் பிறப்பு பதிவு செய்யப்பட்டுள்ளதா
+169,Date of birth of the child,குழந்தையின் பிறந்த தேதி 
+170,Place of Delivery,குழந்தை பிறந்த இடம்
+171,Weight at birth,பிறந்த போது குழந்தையின் எடை 
+172,Whether the weight of child was communicated to the mother after delivery,பிரசவத்திற்கு பிறகு குழந்தையின் எடை தாய்க்கு தெரிவிக்கப்பட்டதா
+173,Age of child  (years),குழந்தையின் வயது 
+174,Age of child as of today (months),குழந்தையின் வயது (மாதத்தில்)
+175,Residential Status,இருப்பிடம்
+176,Month of in migration or out migration,இடம்பெயர்ந்து சென்ற/வந்த மாதம் 
+177,Whether enrolled in Anganwaadi,அங்கன்வாடியில் சேர்க்கப்பட்டுள்ளாரா
+178,"If yes, Anganwaadi ID",ஆம் என்றால் அங்கன்வாடியின் அடையாள எண் 
+179,Whether child getting ECE?,குழந்தைக்கு முன்பருவ கல்வி கிடைக்கிறதா 
+180,Is the child challenged?,மாற்றுத்திறனாளி குழந்தையா
+181,Is the child Chronically ill?,குழந்தை நாள்பட்ட நோயினால் பாதிக்கப்பட்டுள்ளதா
+182,Is the child terminally ill?,குழந்தை தீராத நோயினால் பாதிக்கப்பட்டுள்ளதா 
+183,Is the child engaged/ married?,திருமணம் முடிந்த/நிச்சயிக்கப்பட்ட குழந்தையா
+184,Current location of child,குழந்தையின் தற்போதைய இருப்பிடம்
+185,Other specify,"பிற, குறிப்பிடவும்"

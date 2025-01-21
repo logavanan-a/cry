@@ -1,0 +1,37 @@
+,Unique Admin ID,ವಿಶಿಷ್ಟ ನಿರ್ವಹಣಾ (ಆಡಳಿತ) ಐ.ಡಿ.
+,Village / Ward,ಗ್ರಾಮ /ವಾರ್ಡ್
+,Hamlet/ Para/Mohalla / Keri / Thota,ತಾಂಡಾ/ಪಾರಾ/ಮೊಹಲ್ಲಾ/ಕೆರಿ/ಥೋಟ
+,Child ID,ಮಗುವಿನ ಐಡಿ
+,Name of child,ಮಗುವಿನ ಹೆಸರು
+,Name of head of household,ಕುಟುಂಬದ ಮುಖ್ಯಸ್ಥರ ಹೆಸರು
+155,Name of the father,ತಂದೆಯ ಹೆಸರು
+156,Age of father,ತಂದೆಯ ವಯಸ್ಸು
+157,Highest class passed - Father,ತಂದೆಯು ತೇರ್ಗಡೆಯಾದ ಹೆಚ್ಚಿನ ತರಗತಿ
+158,Occupation of the father,ತಂದೆಯ ಉದ್ಯೋಗ
+159,Name of mother,ತಾಯಿಯ ಹೆಸರು
+160,Age of Mother,ತಾಯಿಯ ವಯಸ್ಸು
+161,Highest class passed - Mother,ತಾಯಿಯು ತೇರ್ಗಡೆಯಾದ ಹಚ್ಚಿನ ತರಗತಿ
+162,Occupation of the mother,ತಾಯಿಯ ಉದ್ಯೋಗ
+163,Orphaned/ Single parent,ಅನಾಥವಾದ/ಒಂದೇ ಪೋಷಕರು
+164,Name of guardian,ಪಾಲಕರ ಹೆಸರು
+165,Caste of child,ಮಗುವಿನ ಜಾತಿ
+166,Religion of child,ಮಗುವಿನ ಧರ್ಮ
+,Sex of the child,ಮಗುವಿನ ಲಿಂಗ
+168,Birth registration of child done,ಮಗುವಿನ ಜನನ ನೋಂದಣೆ ಮಾಡಿಸಲಾಗಿದೆ
+169,Date of birth of the child,ಮಗುವಿನ ಹುಟ್ತಿದ ದಿನಾಂಕ
+170,Place of Delivery,ಪ್ರಸವದ ಜಾಗ
+171,Weight at birth,ಪ್ರಸವವಾದ ಸಮಯದಲ್ಲಿ ತೂಕ
+172,Whether the weight of child was communicated to the mother after delivery,ಪ್ರಸವವಾದ ತರುವಾಯ  ಮಗುವಿನತೂಕದ ಬಗ್ಗೆ  ತಾಯಿಗೆ ತಿಳಿಸಲಾಯಿತೆ
+,Age of child  (years),ಮಗುವಿನ ವಯಸ್ಸು (ವರ್ಷಗಳಲ್ಲಿ)
+174,Age of child as of today (months),ಈದಿನದಂತೆ ಮಗುವಿನ ವಯಸ್ಸು (ತಿಂಗಳುಗಳಲ್ಲಿ)
+175,Residential Status,ವಸತಿ ಸ್ಥಿತಿ
+176,Month of in migration or out migration,ವಲಸೆ ಯಿಂದ ಅಥವಾ ವಲಸೆಯ ಹೊರಗಿನ ತಿಂಗಳು
+177,Whether enrolled in Anganwaadi,ಅಂಗನವಾಡಿಯಲ್ಲಿ ದಾಖಲಾತಿ ಮಾಡಲಾಗಿದೆಯೇ?
+178,"If yes, Anganwaadi ID","ಹೌದಾದಲ್ಲಿ,ಅಂಗನವಾಡಿ ಐಡಿ"
+179,Whether child getting ECE?,ಮಗುವಿನ ಇ.ಸಿ.ಇ. ದೊರೆಯುತ್ತಿದೆಯೇ?
+180,Is the child challenged?,ಮಗುವು ವಿಕಲಚೇತನವೇ ?
+181,Is the child Chronically ill?,ಮಗುವು ತೀವ್ರವಾದ ಅನಾರೋಗ್ಯದಿಂದ ಬಳಲುತ್ತಿದೆಯೇ ?
+182,Is the child terminally ill?,ಮಗುವು ಮಾರಕವಾದ ಅನಾರೋಗ್ಯಕ್ಕೆ ತುತ್ತಾಗಿದೆಯೇ?
+183,Is the child engaged/ married?,ಮಗುವಿನ ನಿಶ್ಚಿತಾರ್ತ/ಮದುವೆಯಾಗಿದೆಯೇ?
+184,Current location of child,ಮಗುವಿರುವ ಪ್ರಸಕ್ತ ಸ್ಥಳ
+185,Other specify,"ಇತರೆ,ಸ್ಪಷ್ಟಪಡಿಸಿ"

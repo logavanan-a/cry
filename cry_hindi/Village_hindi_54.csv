@@ -1,0 +1,67 @@
+,Unique Admin ID ,विशेष एडमिन आई डी
+,Village / Ward,गांव/वार्ड
+,Hamlet/ Para/Mohalla,बसाहट/पारा/मोहल्ला
+340,Rural/ Urban,ग्रामीण/शहरी
+341,Primary school available,प्राथमिक स्कूल उपलब्ध
+342,Primacy school ID,प्राथमिक स्कूल आई डी  
+343,Lowest class in primary school,प्राथमिक स्कूल की निम्नतम कक्षा
+344,Highest class in primary school,प्राथमिक स्कूल की उच्चतम कक्षा
+345,Category of primary school,प्राथमिक स्कूल की श्रेणी
+346,Distance of the primary school,प्राथमिक स्कूल की गांव से दूरी
+347,Barriers for accessing primary school,प्राथमिक स्कूल की पहुँच में बाधायें
+348,"If other (primary school), specify","यदि अन्य (स्कूल) है, स्पष्ट करें"
+349,Upper Primary school available,उच्च प्राथमिक स्कूल उपलब्ध
+350,Upper Primary school ID,उच्च प्राथमिक स्कूल आई डी
+351,Lowest class in upper school,उच्च प्राथमिक स्कूल की न्यूनतम कक्षा
+352,Highest class in upper school,उच्च प्राथमिक स्कूल की उच्चतम कक्षा
+353,Category of upper school,उच्च प्राथमिक स्कूल की श्रेणी
+354,Distance of the upper school,उच्च प्राथमिक स्कूल की गांव से दूरी
+355,Barriers for accessing upper school,उच्च प्राथमिक स्कूल की पहुँच में बाधायें
+356,"If other, specify","यदि अन्य, स्पष्ट करें"
+357,Secondary school available,माध्यमिक स्कूल उपलब्ध
+358,Secondary school ID,माध्यमिक स्कूल आई डी
+359,Lowest class in secondary school,माध्यमिक स्कूल की न्यूनतम कक्षा
+360,Highest class in secondary school,माध्यमिक स्कूल की उच्चतम कक्षा
+361,Category of secondary school,माध्यमिक स्कूल की श्रेणी
+362,Distance of the secondary school from village,माध्यमिक स्कूल की गांव से दूरी
+363,Barriers for accessing secondary school,माध्यमिक स्कूल की पहुँच में बाधायें
+364,"If other, specify","यदि अन्य, स्पष्ट करें"
+365,Higher Secondary school available,उच्चतर माध्यमिक स्कूल उपलब्ध
+366,Higher Secondary school ID,उच्चतर माध्यमिक स्कूल आई डी
+367,Lowest class in secondary school,उच्चतर माध्यमिक स्कूल की न्यूनतम कक्षा
+368,Highest class in secondary school,उच्चतर माध्यमिक स्कूल की उच्चतम कक्षा
+369,Category of secondary school,उच्चतर माध्यमिक स्कूल की श्रेणी
+370,Distance of the secondary school,उच्चतर माध्यमिक स्कूल की गांव से दूरी
+371,Barriers for accessing secondary school,उच्चतर माध्यमिक स्कूल की पहुँच में बाधायें
+372,"If other, specify","यदि अन्य, स्पष्ट करें"
+373,AWC available,आँगनवाड़ी केन्द्र उपलब्ध
+374,Distance of the AWC from the village,गांव से आँगनवाड़ी केन्द्र की दूरी
+375,Primaary barriers for accessing AWC,आँगनवाड़ी केन्द्र की पहुंच में बाधायें
+376,"Others, specify","यदि अन्य, स्पष्ट करें"
+377,Need for additional AWC,अतिरिक्त आँगनवाड़ी केन्द्र की आवश्यकता
+378,SHC available,उप स्वास्थ्य केन्द्र उपलब्ध 
+379,SHC ID,उप स्वास्थ्य केन्द्र का आई डी 
+380,Distance of the SHC from the village,उप स्वास्थ्य केन्द्र की गांव से दूरी
+381,Primary barrier in accessing SHC,उप स्वास्थ्य केन्द्र की पहुंच में मुख्य बाधायें
+382,"If other, specify","यदि अन्य, स्पष्ट करें"
+383,PHC available,प्राथमिक स्वास्थ्य केन्द्र उपलब्ध
+384,PHC ID,प्राथमिक स्वास्थ्य केन्द्र का आई डी 
+385,Distance of the PHC from the village,प्राथमिक स्वास्थ्य केन्द्र की गांव से दूरी
+386,Primary barrier in accessing PHC,प्राथमिक स्वास्थ्य केन्द्र की पहुंच में मुख्य बाधायें
+387,"If other, specify","यदि अन्य, स्पष्ट करें"
+388,CHC available,सामुदायिक स्वास्थ्य केन्द्र उपलब्ध
+389,CHC ID,सामुदायिक स्वास्थ्य केन्द्र का आई डी
+390,Distance of the CHC from the village,सामुदायिक स्वास्थ्य केन्द्र की गांव से दूरी
+391,Primary barrier in accessing CHC,सामुदायिक स्वास्थ्य केन्द्र की पहुंच में मुख्य बाधायें
+392,"If other, specify","यदि अन्य, स्पष्ट करें"
+393,ASHA available,आशा उपलब्ध
+394,VHSNC,ग्राम स्वास्थ्य स्वच्छता पोषण समिति अस्तित्व में 
+395,VHSNC operational,ग्राम स्वास्थ्य स्वच्छता पोषण समिति क्रियाशील 
+396,VCPC existing,ग्राम बाल संरक्षण समिति अस्तित्व में 
+397,VCPC Operational,ग्राम बाल संरक्षण समिति क्रियाशील
+398,Number of Self Help Group,स्व-सहायता समूहों की संख्या
+399,Number of Child Collective,बच्चों को लाने-ले जाने वालों की संख्या
+400,Electricity,बिजली
+401,Road (Tar),सड़क (डामर)
+402,Public Transport,सार्वजनिक परिवहन
+403,Water supply,पानी की आपूर्ति

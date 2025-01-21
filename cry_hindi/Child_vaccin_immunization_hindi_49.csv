@@ -1,0 +1,47 @@
+,Unique Admin ID,विशेष एडमिन आई डी
+,Village / Ward,गांव/वार्ड
+,Hamlet/ Para/Mohalla,बसाहट/पारा/मोहल्ला
+,Child ID,बच्चे का आई डी
+,Name of child,बच्चे का नाम
+,Name of head of household,परिवार के मुखिया का नाम
+264,Name of the father,पिता का नाम
+265,Name of mother,माता का नाम
+,Sex of the child,बच्चे का लिंग
+268,Date of birth of child,बच्चे की जन्म-तिथि
+269,MCP/ MCH Card Made,मातृ बाल सुरक्षा/मातृ बाल स्वास्थ्य कार्ड बना है
+270,MCP/ MCH Card available,मातृ बाल सुरक्षा/मातृ बाल स्वास्थ्य कार्ड उपलब्ध है
+271,BCG (At birth),बी सी जी (जन्म के समय)
+272,BCG - Date,बी सी जी - तिथि
+273,Hepatitis B 0 (At Birth),हेपेटाइटिस बी 0 (जन्म के समय)
+274,Hepatitis B 0 - Date,हेपेटाइटिस बी 0 तिथि
+275,"OPV - 0 ( for polio, At Birth)","ओ पी वी - 0 (पोलियो के लिये, जन्म के समय)"
+276,OPV - 0 - Date,ओ पी वी - 0 - तिथि
+277,OPV - 1 (at 1.5 months),ओ पी वी - 1 (1.5 माह पर)
+278,OPV - 1 - Date,ओ पी वी - 1 - तिथि
+279,DPT - 1 (at 1.5 months),डी पी टी - 1 (1.5 माह पर)
+280,DPT - 1 - Date,डी पी टी - 1 - तिथि
+281,Hepatitis B 1 (at 1.5 months),हेपाटाईटिस बी 1 (1.5 माह पर)
+282,Hepatitis B 1 - Date,हेपाटाईटिस बी - 1 तिथि
+283,OPV - 2 (At 2.5 months),ओ पी वी - 2 (2.5 माह पर)
+284,OPV - 2 - Date,ओ पी वी - 2           तिथि
+285,DPT - 2 (At 2.5 months),डी पी टी - 2 (2.5 माह पर)
+286,DPT - 2 - Date,डी पी टी - 2 तिथि
+287,Hepatitis B 2 (At 2.5 months),हेपाटाईटिस बी - 2 (2.5 माह पर)
+288,Hepatitis B 2 - Date,हेपाटाईटिस बी - 2 तिथि
+289,OPV - 3 (At 3.5 months),ओ पी वी - 3 (3.5 माह पर)
+290,OPV - 3 - Date,ओ पी वी - 3 तिथि
+291,DPT - 3 (At 3.5 months),डी पी टी - 3 (3.5 माह पर)
+292,DPT - 3 - Date,DPT - 3 तिथि
+293,Hepatitis B 3 (At 3.5 months),हेपाटाईटिस बी - 3 (3.5 माह पर)
+294,Hepatitis B 3- Date,हेपाटाईटिस बी - 3 तिथि
+295,Pentavalent - 1,पेन्टावेलेन्ट - 1
+296,Pentavalent - 1- Date,पेन्टावेलेन्ट - 1 -तिथि
+,Pentavalent - 2,पेन्टावेलेन्ट - 2 
+,Pentavalent - 2- Date,पेन्टावेलेन्ट - 2 -तिथि
+297,Pentavalent - 3,पेन्टावेलेन्ट - 3 
+298,Pentavalent - 3 - Date,पेन्टावेलेन्ट - 3 -तिथि
+299,Measles (At 9 months),मीज़ल्स (9वें माह में)
+300,Measles - Date,मीज़ल्स - तिथि
+301,Vitamin A (1st dose at 9 months),विटामिन ए (पहली डोज़ 9वें माह में)
+302,Vitamin A - Date,विटामिन ए - तिथि
+303,Full immunization,पूर्ण टीकाकरण

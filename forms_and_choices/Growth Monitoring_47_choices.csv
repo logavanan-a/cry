@@ -1,0 +1,34 @@
+
+Question,Question Id,Question Type,choice Id,Choice
+Nutrition status,238,Select One Choice,345,Normal
+Nutrition status,238,Select One Choice,347,SAM
+Nutrition status,238,Select One Choice,346,MAM
+
+Growth monitoring chart updated,239,Radio List,324,No
+Growth monitoring chart updated,239,Radio List,323,Yes
+
+Referal,240,Radio List,325,Yes
+Referal,240,Radio List,326,No
+
+If Yes,241,Radio List,327,NRC
+If Yes,241,Radio List,328,MTC
+If Yes,241,Radio List,329,Hospital
+If Yes,241,Radio List,330,Not Applicable
+
+Whether referal service availed,242,Radio List,332,No
+Whether referal service availed,242,Radio List,331,Yes
+
+"If No,Reason for not availing",243,Radio List,336,Dont trust the institution
+"If No,Reason for not availing",243,Radio List,337,Economic issue
+"If No,Reason for not availing",243,Radio List,338,Not applicable
+"If No,Reason for not availing",243,Radio List,339,Others
+"If No,Reason for not availing",243,Radio List,333,Cant leave family
+"If No,Reason for not availing",243,Radio List,334,No person to accompany 
+"If No,Reason for not availing",243,Radio List,335,Longer Distance
+
+Supl Nutrition,244,Radio List,341,Irregular and incomplete
+Supl Nutrition,244,Radio List,340,No 
+Supl Nutrition,244,Radio List,342,Irregular and complete amount
+Supl Nutrition,244,Radio List,343,Regular and complete amount
+Supl Nutrition,244,Radio List,344,Not applicable
+
